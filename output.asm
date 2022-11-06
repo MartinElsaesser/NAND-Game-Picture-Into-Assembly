@@ -1,0 +1,56141 @@
+# Set 0x4000 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4000
+*A=D
+# Set 0x4001 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4001
+*A=D
+# Set 0x4002 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4002
+*A=D
+# Set 0x4003 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4003
+*A=D
+# Set 0x4004 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4004
+*A=D
+# Set 0x4005 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4005
+*A=D
+# Set 0x4006 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4006
+*A=D
+# Set 0x4007 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4007
+*A=D
+# Set 0x4008 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4008
+*A=D
+# Set 0x4009 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4009
+*A=D
+# Set 0x400a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x400a
+*A=D
+# Set 0x400b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x400b
+*A=D
+# Set 0x400c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x400c
+*A=D
+# Set 0x400d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x400d
+*A=D
+# Set 0x400e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x400e
+*A=D
+# Set 0x400f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x400f
+*A=D
+# Set 0x4010 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4010
+*A=D
+# Set 0x4011 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4011
+*A=D
+# Set 0x4012 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4012
+*A=D
+# Set 0x4013 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4013
+*A=D
+# Set 0x4014 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4014
+*A=D
+# Set 0x4015 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4015
+*A=D
+# Set 0x4016 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4016
+*A=D
+# Set 0x4017 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4017
+*A=D
+# Set 0x4018 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4018
+*A=D
+# Set 0x4019 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4019
+*A=D
+# Set 0x401a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x401a
+*A=D
+# Set 0x401b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x401b
+*A=D
+# Set 0x401c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x401c
+*A=D
+# Set 0x401d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x401d
+*A=D
+# Set 0x401e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x401e
+*A=D
+# Set 0x401f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x401f
+*A=D
+# Set 0x4020 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4020
+*A=D
+# Set 0x4021 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4021
+*A=D
+# Set 0x4022 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4022
+*A=D
+# Set 0x4023 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4023
+*A=D
+# Set 0x4024 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4024
+*A=D
+# Set 0x4025 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4025
+*A=D
+# Set 0x4026 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4026
+*A=D
+# Set 0x4027 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4027
+*A=D
+# Set 0x4028 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4028
+*A=D
+# Set 0x4029 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4029
+*A=D
+# Set 0x402a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x402a
+*A=D
+# Set 0x402b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x402b
+*A=D
+# Set 0x402c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x402c
+*A=D
+# Set 0x402d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x402d
+*A=D
+# Set 0x402e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x402e
+*A=D
+# Set 0x402f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x402f
+*A=D
+# Set 0x4030 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4030
+*A=D
+# Set 0x4031 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4031
+*A=D
+# Set 0x4032 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4032
+*A=D
+# Set 0x4033 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4033
+*A=D
+# Set 0x4034 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4034
+*A=D
+# Set 0x4035 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4035
+*A=D
+# Set 0x4036 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4036
+*A=D
+# Set 0x4037 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4037
+*A=D
+# Set 0x4038 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4038
+*A=D
+# Set 0x4039 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4039
+*A=D
+# Set 0x403a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x403a
+*A=D
+# Set 0x403b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x403b
+*A=D
+# Set 0x403c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x403c
+*A=D
+# Set 0x403d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x403d
+*A=D
+# Set 0x403e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x403e
+*A=D
+# Set 0x403f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x403f
+*A=D
+# Set 0x4040 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4040
+*A=D
+# Set 0x4041 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4041
+*A=D
+# Set 0x4042 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4042
+*A=D
+# Set 0x4043 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4043
+*A=D
+# Set 0x4044 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4044
+*A=D
+# Set 0x4045 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4045
+*A=D
+# Set 0x4046 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4046
+*A=D
+# Set 0x4047 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4047
+*A=D
+# Set 0x4048 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4048
+*A=D
+# Set 0x4049 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4049
+*A=D
+# Set 0x404a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x404a
+*A=D
+# Set 0x404b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x404b
+*A=D
+# Set 0x404c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x404c
+*A=D
+# Set 0x404d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x404d
+*A=D
+# Set 0x404e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x404e
+*A=D
+# Set 0x404f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x404f
+*A=D
+# Set 0x4050 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4050
+*A=D
+# Set 0x4051 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4051
+*A=D
+# Set 0x4052 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4052
+*A=D
+# Set 0x4053 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4053
+*A=D
+# Set 0x4054 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4054
+*A=D
+# Set 0x4055 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4055
+*A=D
+# Set 0x4056 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4056
+*A=D
+# Set 0x4057 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4057
+*A=D
+# Set 0x4058 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4058
+*A=D
+# Set 0x4059 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4059
+*A=D
+# Set 0x405a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x405a
+*A=D
+# Set 0x405b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x405b
+*A=D
+# Set 0x405c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x405c
+*A=D
+# Set 0x405d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x405d
+*A=D
+# Set 0x405e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x405e
+*A=D
+# Set 0x405f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x405f
+*A=D
+# Set 0x4060 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4060
+*A=D
+# Set 0x4061 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4061
+*A=D
+# Set 0x4062 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4062
+*A=D
+# Set 0x4063 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4063
+*A=D
+# Set 0x4064 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4064
+*A=D
+# Set 0x4065 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4065
+*A=D
+# Set 0x4066 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4066
+*A=D
+# Set 0x4067 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4067
+*A=D
+# Set 0x4068 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4068
+*A=D
+# Set 0x4069 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4069
+*A=D
+# Set 0x406a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x406a
+*A=D
+# Set 0x406b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x406b
+*A=D
+# Set 0x406c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x406c
+*A=D
+# Set 0x406d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x406d
+*A=D
+# Set 0x406e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x406e
+*A=D
+# Set 0x406f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x406f
+*A=D
+# Set 0x4070 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4070
+*A=D
+# Set 0x4071 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4071
+*A=D
+# Set 0x4072 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4072
+*A=D
+# Set 0x4073 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4073
+*A=D
+# Set 0x4074 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4074
+*A=D
+# Set 0x4075 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4075
+*A=D
+# Set 0x4076 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4076
+*A=D
+# Set 0x4077 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4077
+*A=D
+# Set 0x4078 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4078
+*A=D
+# Set 0x4079 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4079
+*A=D
+# Set 0x407a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x407a
+*A=D
+# Set 0x407b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x407b
+*A=D
+# Set 0x407c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x407c
+*A=D
+# Set 0x407d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x407d
+*A=D
+# Set 0x407e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x407e
+*A=D
+# Set 0x407f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x407f
+*A=D
+# Set 0x4080 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4080
+*A=D
+# Set 0x4081 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4081
+*A=D
+# Set 0x4082 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4082
+*A=D
+# Set 0x4083 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4083
+*A=D
+# Set 0x4084 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4084
+*A=D
+# Set 0x4085 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4085
+*A=D
+# Set 0x4086 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4086
+*A=D
+# Set 0x4087 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4087
+*A=D
+# Set 0x4088 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4088
+*A=D
+# Set 0x4089 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4089
+*A=D
+# Set 0x408a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x408a
+*A=D
+# Set 0x408b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x408b
+*A=D
+# Set 0x408c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x408c
+*A=D
+# Set 0x408d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x408d
+*A=D
+# Set 0x408e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x408e
+*A=D
+# Set 0x408f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x408f
+*A=D
+# Set 0x4090 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4090
+*A=D
+# Set 0x4091 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4091
+*A=D
+# Set 0x4092 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4092
+*A=D
+# Set 0x4093 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4093
+*A=D
+# Set 0x4094 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4094
+*A=D
+# Set 0x4095 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4095
+*A=D
+# Set 0x4096 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4096
+*A=D
+# Set 0x4097 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4097
+*A=D
+# Set 0x4098 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4098
+*A=D
+# Set 0x4099 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4099
+*A=D
+# Set 0x409a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x409a
+*A=D
+# Set 0x409b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x409b
+*A=D
+# Set 0x409c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x409c
+*A=D
+# Set 0x409d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x409d
+*A=D
+# Set 0x409e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x409e
+*A=D
+# Set 0x409f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x409f
+*A=D
+# Set 0x40a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40a0
+*A=D
+# Set 0x40a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40a1
+*A=D
+# Set 0x40a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40a2
+*A=D
+# Set 0x40a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40a3
+*A=D
+# Set 0x40a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40a4
+*A=D
+# Set 0x40a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40a5
+*A=D
+# Set 0x40a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40a6
+*A=D
+# Set 0x40a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40a7
+*A=D
+# Set 0x40a8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40a8
+*A=D
+# Set 0x40a9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40a9
+*A=D
+# Set 0x40aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40aa
+*A=D
+# Set 0x40ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40ab
+*A=D
+# Set 0x40ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40ac
+*A=D
+# Set 0x40ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40ad
+*A=D
+# Set 0x40ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40ae
+*A=D
+# Set 0x40af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40af
+*A=D
+# Set 0x40b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40b0
+*A=D
+# Set 0x40b1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40b1
+*A=D
+# Set 0x40b2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40b2
+*A=D
+# Set 0x40b3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40b3
+*A=D
+# Set 0x40b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40b4
+*A=D
+# Set 0x40b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40b5
+*A=D
+# Set 0x40b6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40b6
+*A=D
+# Set 0x40b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40b7
+*A=D
+# Set 0x40b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40b8
+*A=D
+# Set 0x40b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40b9
+*A=D
+# Set 0x40ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40ba
+*A=D
+# Set 0x40bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40bb
+*A=D
+# Set 0x40bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40bc
+*A=D
+# Set 0x40bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40bd
+*A=D
+# Set 0x40be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40be
+*A=D
+# Set 0x40bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40bf
+*A=D
+# Set 0x40c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40c0
+*A=D
+# Set 0x40c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40c1
+*A=D
+# Set 0x40c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40c2
+*A=D
+# Set 0x40c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40c3
+*A=D
+# Set 0x40c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40c4
+*A=D
+# Set 0x40c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40c5
+*A=D
+# Set 0x40c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40c6
+*A=D
+# Set 0x40c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40c7
+*A=D
+# Set 0x40c8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40c8
+*A=D
+# Set 0x40c9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40c9
+*A=D
+# Set 0x40ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40ca
+*A=D
+# Set 0x40cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40cb
+*A=D
+# Set 0x40cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40cc
+*A=D
+# Set 0x40cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40cd
+*A=D
+# Set 0x40ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40ce
+*A=D
+# Set 0x40cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40cf
+*A=D
+# Set 0x40d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40d0
+*A=D
+# Set 0x40d1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40d1
+*A=D
+# Set 0x40d2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40d2
+*A=D
+# Set 0x40d3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40d3
+*A=D
+# Set 0x40d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40d4
+*A=D
+# Set 0x40d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40d5
+*A=D
+# Set 0x40d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40d6
+*A=D
+# Set 0x40d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40d7
+*A=D
+# Set 0x40d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40d8
+*A=D
+# Set 0x40d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40d9
+*A=D
+# Set 0x40da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40da
+*A=D
+# Set 0x40db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40db
+*A=D
+# Set 0x40dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40dc
+*A=D
+# Set 0x40dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40dd
+*A=D
+# Set 0x40de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40de
+*A=D
+# Set 0x40df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40df
+*A=D
+# Set 0x40e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40e0
+*A=D
+# Set 0x40e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40e1
+*A=D
+# Set 0x40e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40e2
+*A=D
+# Set 0x40e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40e3
+*A=D
+# Set 0x40e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40e4
+*A=D
+# Set 0x40e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40e5
+*A=D
+# Set 0x40e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40e6
+*A=D
+# Set 0x40e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40e7
+*A=D
+# Set 0x40e8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40e8
+*A=D
+# Set 0x40e9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40e9
+*A=D
+# Set 0x40ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40ea
+*A=D
+# Set 0x40eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40eb
+*A=D
+# Set 0x40ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40ec
+*A=D
+# Set 0x40ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40ed
+*A=D
+# Set 0x40ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40ee
+*A=D
+# Set 0x40ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40ef
+*A=D
+# Set 0x40f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40f0
+*A=D
+# Set 0x40f1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40f1
+*A=D
+# Set 0x40f2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40f2
+*A=D
+# Set 0x40f3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40f3
+*A=D
+# Set 0x40f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40f4
+*A=D
+# Set 0x40f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40f5
+*A=D
+# Set 0x40f6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40f6
+*A=D
+# Set 0x40f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40f7
+*A=D
+# Set 0x40f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40f8
+*A=D
+# Set 0x40f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40f9
+*A=D
+# Set 0x40fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40fa
+*A=D
+# Set 0x40fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40fb
+*A=D
+# Set 0x40fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40fc
+*A=D
+# Set 0x40fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40fd
+*A=D
+# Set 0x40fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40fe
+*A=D
+# Set 0x40ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x40ff
+*A=D
+# Set 0x4100 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4100
+*A=D
+# Set 0x4101 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4101
+*A=D
+# Set 0x4102 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4102
+*A=D
+# Set 0x4103 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4103
+*A=D
+# Set 0x4104 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4104
+*A=D
+# Set 0x4105 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4105
+*A=D
+# Set 0x4106 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4106
+*A=D
+# Set 0x4107 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4107
+*A=D
+# Set 0x4108 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4108
+*A=D
+# Set 0x4109 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4109
+*A=D
+# Set 0x410a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x410a
+*A=D
+# Set 0x410b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x410b
+*A=D
+# Set 0x410c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x410c
+*A=D
+# Set 0x410d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x410d
+*A=D
+# Set 0x410e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x410e
+*A=D
+# Set 0x410f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x410f
+*A=D
+# Set 0x4110 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4110
+*A=D
+# Set 0x4111 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4111
+*A=D
+# Set 0x4112 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4112
+*A=D
+# Set 0x4113 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4113
+*A=D
+# Set 0x4114 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4114
+*A=D
+# Set 0x4115 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4115
+*A=D
+# Set 0x4116 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4116
+*A=D
+# Set 0x4117 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4117
+*A=D
+# Set 0x4118 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4118
+*A=D
+# Set 0x4119 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4119
+*A=D
+# Set 0x411a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x411a
+*A=D
+# Set 0x411b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x411b
+*A=D
+# Set 0x411c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x411c
+*A=D
+# Set 0x411d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x411d
+*A=D
+# Set 0x411e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x411e
+*A=D
+# Set 0x411f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x411f
+*A=D
+# Set 0x4120 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4120
+*A=D
+# Set 0x4121 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4121
+*A=D
+# Set 0x4122 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4122
+*A=D
+# Set 0x4123 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4123
+*A=D
+# Set 0x4124 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4124
+*A=D
+# Set 0x4125 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4125
+*A=D
+# Set 0x4126 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4126
+*A=D
+# Set 0x4127 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4127
+*A=D
+# Set 0x4128 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4128
+*A=D
+# Set 0x4129 to 61951
+A=0x7fff
+D=A
+A=0x7200
+D=D+A
+A=0x4129
+*A=D
+# Set 0x412a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x412a
+*A=D
+# Set 0x412b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x412b
+*A=D
+# Set 0x412c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x412c
+*A=D
+# Set 0x412d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x412d
+*A=D
+# Set 0x412e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x412e
+*A=D
+# Set 0x412f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x412f
+*A=D
+# Set 0x4130 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4130
+*A=D
+# Set 0x4131 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4131
+*A=D
+# Set 0x4132 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4132
+*A=D
+# Set 0x4133 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4133
+*A=D
+# Set 0x4134 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4134
+*A=D
+# Set 0x4135 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4135
+*A=D
+# Set 0x4136 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4136
+*A=D
+# Set 0x4137 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4137
+*A=D
+# Set 0x4138 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4138
+*A=D
+# Set 0x4139 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4139
+*A=D
+# Set 0x413a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x413a
+*A=D
+# Set 0x413b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x413b
+*A=D
+# Set 0x413c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x413c
+*A=D
+# Set 0x413d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x413d
+*A=D
+# Set 0x413e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x413e
+*A=D
+# Set 0x413f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x413f
+*A=D
+# Set 0x4140 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4140
+*A=D
+# Set 0x4141 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4141
+*A=D
+# Set 0x4142 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4142
+*A=D
+# Set 0x4143 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4143
+*A=D
+# Set 0x4144 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4144
+*A=D
+# Set 0x4145 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4145
+*A=D
+# Set 0x4146 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4146
+*A=D
+# Set 0x4147 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4147
+*A=D
+# Set 0x4148 to 1593
+A=0x639
+D=A
+A=0x4148
+*A=D
+# Set 0x4149 to 63999
+A=0x7fff
+D=A
+A=0x7a00
+D=D+A
+A=0x4149
+*A=D
+# Set 0x414a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x414a
+*A=D
+# Set 0x414b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x414b
+*A=D
+# Set 0x414c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x414c
+*A=D
+# Set 0x414d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x414d
+*A=D
+# Set 0x414e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x414e
+*A=D
+# Set 0x414f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x414f
+*A=D
+# Set 0x4150 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4150
+*A=D
+# Set 0x4151 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4151
+*A=D
+# Set 0x4152 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4152
+*A=D
+# Set 0x4153 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4153
+*A=D
+# Set 0x4154 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4154
+*A=D
+# Set 0x4155 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4155
+*A=D
+# Set 0x4156 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4156
+*A=D
+# Set 0x4157 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4157
+*A=D
+# Set 0x4158 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4158
+*A=D
+# Set 0x4159 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4159
+*A=D
+# Set 0x415a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x415a
+*A=D
+# Set 0x415b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x415b
+*A=D
+# Set 0x415c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x415c
+*A=D
+# Set 0x415d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x415d
+*A=D
+# Set 0x415e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x415e
+*A=D
+# Set 0x415f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x415f
+*A=D
+# Set 0x4160 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4160
+*A=D
+# Set 0x4161 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4161
+*A=D
+# Set 0x4162 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4162
+*A=D
+# Set 0x4163 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4163
+*A=D
+# Set 0x4164 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4164
+*A=D
+# Set 0x4165 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4165
+*A=D
+# Set 0x4166 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4166
+*A=D
+# Set 0x4167 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4167
+*A=D
+# Set 0x4168 to 1049
+A=0x419
+D=A
+A=0x4168
+*A=D
+# Set 0x4169 to 6655
+A=0x19ff
+D=A
+A=0x4169
+*A=D
+# Set 0x416a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x416a
+*A=D
+# Set 0x416b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x416b
+*A=D
+# Set 0x416c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x416c
+*A=D
+# Set 0x416d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x416d
+*A=D
+# Set 0x416e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x416e
+*A=D
+# Set 0x416f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x416f
+*A=D
+# Set 0x4170 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4170
+*A=D
+# Set 0x4171 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4171
+*A=D
+# Set 0x4172 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4172
+*A=D
+# Set 0x4173 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4173
+*A=D
+# Set 0x4174 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4174
+*A=D
+# Set 0x4175 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4175
+*A=D
+# Set 0x4176 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4176
+*A=D
+# Set 0x4177 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4177
+*A=D
+# Set 0x4178 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4178
+*A=D
+# Set 0x4179 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4179
+*A=D
+# Set 0x417a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x417a
+*A=D
+# Set 0x417b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x417b
+*A=D
+# Set 0x417c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x417c
+*A=D
+# Set 0x417d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x417d
+*A=D
+# Set 0x417e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x417e
+*A=D
+# Set 0x417f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x417f
+*A=D
+# Set 0x4180 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4180
+*A=D
+# Set 0x4181 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4181
+*A=D
+# Set 0x4182 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4182
+*A=D
+# Set 0x4183 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4183
+*A=D
+# Set 0x4184 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4184
+*A=D
+# Set 0x4185 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4185
+*A=D
+# Set 0x4186 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4186
+*A=D
+# Set 0x4187 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4187
+*A=D
+# Set 0x4188 to 38345
+A=0x7fff
+D=A
+A=0x15ca
+D=D+A
+A=0x4188
+*A=D
+# Set 0x4189 to 14847
+A=0x39ff
+D=A
+A=0x4189
+*A=D
+# Set 0x418a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x418a
+*A=D
+# Set 0x418b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x418b
+*A=D
+# Set 0x418c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x418c
+*A=D
+# Set 0x418d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x418d
+*A=D
+# Set 0x418e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x418e
+*A=D
+# Set 0x418f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x418f
+*A=D
+# Set 0x4190 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4190
+*A=D
+# Set 0x4191 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4191
+*A=D
+# Set 0x4192 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4192
+*A=D
+# Set 0x4193 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4193
+*A=D
+# Set 0x4194 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4194
+*A=D
+# Set 0x4195 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4195
+*A=D
+# Set 0x4196 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4196
+*A=D
+# Set 0x4197 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4197
+*A=D
+# Set 0x4198 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4198
+*A=D
+# Set 0x4199 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4199
+*A=D
+# Set 0x419a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x419a
+*A=D
+# Set 0x419b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x419b
+*A=D
+# Set 0x419c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x419c
+*A=D
+# Set 0x419d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x419d
+*A=D
+# Set 0x419e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x419e
+*A=D
+# Set 0x419f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x419f
+*A=D
+# Set 0x41a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41a0
+*A=D
+# Set 0x41a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41a1
+*A=D
+# Set 0x41a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41a2
+*A=D
+# Set 0x41a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41a3
+*A=D
+# Set 0x41a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41a4
+*A=D
+# Set 0x41a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41a5
+*A=D
+# Set 0x41a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41a6
+*A=D
+# Set 0x41a7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x41a7
+*A=D
+# Set 0x41a8 to 38093
+A=0x7fff
+D=A
+A=0x14ce
+D=D+A
+A=0x41a8
+*A=D
+# Set 0x41a9 to 31231
+A=0x79ff
+D=A
+A=0x41a9
+*A=D
+# Set 0x41aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41aa
+*A=D
+# Set 0x41ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41ab
+*A=D
+# Set 0x41ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41ac
+*A=D
+# Set 0x41ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41ad
+*A=D
+# Set 0x41ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41ae
+*A=D
+# Set 0x41af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41af
+*A=D
+# Set 0x41b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41b0
+*A=D
+# Set 0x41b1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41b1
+*A=D
+# Set 0x41b2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41b2
+*A=D
+# Set 0x41b3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41b3
+*A=D
+# Set 0x41b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41b4
+*A=D
+# Set 0x41b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41b5
+*A=D
+# Set 0x41b6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41b6
+*A=D
+# Set 0x41b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41b7
+*A=D
+# Set 0x41b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41b8
+*A=D
+# Set 0x41b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41b9
+*A=D
+# Set 0x41ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41ba
+*A=D
+# Set 0x41bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41bb
+*A=D
+# Set 0x41bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41bc
+*A=D
+# Set 0x41bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41bd
+*A=D
+# Set 0x41be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41be
+*A=D
+# Set 0x41bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41bf
+*A=D
+# Set 0x41c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41c0
+*A=D
+# Set 0x41c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41c1
+*A=D
+# Set 0x41c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41c2
+*A=D
+# Set 0x41c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41c3
+*A=D
+# Set 0x41c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41c4
+*A=D
+# Set 0x41c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41c5
+*A=D
+# Set 0x41c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41c6
+*A=D
+# Set 0x41c7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x41c7
+*A=D
+# Set 0x41c8 to 4636
+A=0x121c
+D=A
+A=0x41c8
+*A=D
+# Set 0x41c9 to 31231
+A=0x79ff
+D=A
+A=0x41c9
+*A=D
+# Set 0x41ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41ca
+*A=D
+# Set 0x41cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41cb
+*A=D
+# Set 0x41cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41cc
+*A=D
+# Set 0x41cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41cd
+*A=D
+# Set 0x41ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41ce
+*A=D
+# Set 0x41cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41cf
+*A=D
+# Set 0x41d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41d0
+*A=D
+# Set 0x41d1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41d1
+*A=D
+# Set 0x41d2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41d2
+*A=D
+# Set 0x41d3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41d3
+*A=D
+# Set 0x41d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41d4
+*A=D
+# Set 0x41d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41d5
+*A=D
+# Set 0x41d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41d6
+*A=D
+# Set 0x41d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41d7
+*A=D
+# Set 0x41d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41d8
+*A=D
+# Set 0x41d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41d9
+*A=D
+# Set 0x41da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41da
+*A=D
+# Set 0x41db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41db
+*A=D
+# Set 0x41dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41dc
+*A=D
+# Set 0x41dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41dd
+*A=D
+# Set 0x41de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41de
+*A=D
+# Set 0x41df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41df
+*A=D
+# Set 0x41e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41e0
+*A=D
+# Set 0x41e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41e1
+*A=D
+# Set 0x41e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41e2
+*A=D
+# Set 0x41e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41e3
+*A=D
+# Set 0x41e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41e4
+*A=D
+# Set 0x41e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41e5
+*A=D
+# Set 0x41e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41e6
+*A=D
+# Set 0x41e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41e7
+*A=D
+# Set 0x41e8 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x41e8
+*A=D
+# Set 0x41e9 to 61567
+A=0x7fff
+D=A
+A=0x7080
+D=D+A
+A=0x41e9
+*A=D
+# Set 0x41ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41ea
+*A=D
+# Set 0x41eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41eb
+*A=D
+# Set 0x41ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41ec
+*A=D
+# Set 0x41ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41ed
+*A=D
+# Set 0x41ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41ee
+*A=D
+# Set 0x41ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41ef
+*A=D
+# Set 0x41f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41f0
+*A=D
+# Set 0x41f1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41f1
+*A=D
+# Set 0x41f2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41f2
+*A=D
+# Set 0x41f3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41f3
+*A=D
+# Set 0x41f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41f4
+*A=D
+# Set 0x41f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41f5
+*A=D
+# Set 0x41f6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41f6
+*A=D
+# Set 0x41f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41f7
+*A=D
+# Set 0x41f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41f8
+*A=D
+# Set 0x41f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41f9
+*A=D
+# Set 0x41fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41fa
+*A=D
+# Set 0x41fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41fb
+*A=D
+# Set 0x41fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41fc
+*A=D
+# Set 0x41fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41fd
+*A=D
+# Set 0x41fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41fe
+*A=D
+# Set 0x41ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x41ff
+*A=D
+# Set 0x4200 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4200
+*A=D
+# Set 0x4201 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4201
+*A=D
+# Set 0x4202 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4202
+*A=D
+# Set 0x4203 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4203
+*A=D
+# Set 0x4204 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4204
+*A=D
+# Set 0x4205 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4205
+*A=D
+# Set 0x4206 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4206
+*A=D
+# Set 0x4207 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4207
+*A=D
+# Set 0x4208 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4208
+*A=D
+# Set 0x4209 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4209
+*A=D
+# Set 0x420a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x420a
+*A=D
+# Set 0x420b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x420b
+*A=D
+# Set 0x420c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x420c
+*A=D
+# Set 0x420d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x420d
+*A=D
+# Set 0x420e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x420e
+*A=D
+# Set 0x420f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x420f
+*A=D
+# Set 0x4210 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4210
+*A=D
+# Set 0x4211 to 61903
+A=0x7fff
+D=A
+A=0x71d0
+D=D+A
+A=0x4211
+*A=D
+# Set 0x4212 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4212
+*A=D
+# Set 0x4213 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4213
+*A=D
+# Set 0x4214 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4214
+*A=D
+# Set 0x4215 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4215
+*A=D
+# Set 0x4216 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4216
+*A=D
+# Set 0x4217 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4217
+*A=D
+# Set 0x4218 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4218
+*A=D
+# Set 0x4219 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4219
+*A=D
+# Set 0x421a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x421a
+*A=D
+# Set 0x421b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x421b
+*A=D
+# Set 0x421c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x421c
+*A=D
+# Set 0x421d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x421d
+*A=D
+# Set 0x421e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x421e
+*A=D
+# Set 0x421f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x421f
+*A=D
+# Set 0x4220 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4220
+*A=D
+# Set 0x4221 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4221
+*A=D
+# Set 0x4222 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4222
+*A=D
+# Set 0x4223 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4223
+*A=D
+# Set 0x4224 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4224
+*A=D
+# Set 0x4225 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4225
+*A=D
+# Set 0x4226 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4226
+*A=D
+# Set 0x4227 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4227
+*A=D
+# Set 0x4228 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4228
+*A=D
+# Set 0x4229 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4229
+*A=D
+# Set 0x422a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x422a
+*A=D
+# Set 0x422b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x422b
+*A=D
+# Set 0x422c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x422c
+*A=D
+# Set 0x422d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x422d
+*A=D
+# Set 0x422e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x422e
+*A=D
+# Set 0x422f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x422f
+*A=D
+# Set 0x4230 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4230
+*A=D
+# Set 0x4231 to 58807
+A=0x7fff
+D=A
+A=0x65b8
+D=D+A
+A=0x4231
+*A=D
+# Set 0x4232 to 61442
+A=0x7fff
+D=A
+A=0x7003
+D=D+A
+A=0x4232
+*A=D
+# Set 0x4233 to 32767
+A=0x7fff
+D=A
+A=0x4233
+*A=D
+# Set 0x4234 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4234
+*A=D
+# Set 0x4235 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4235
+*A=D
+# Set 0x4236 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4236
+*A=D
+# Set 0x4237 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4237
+*A=D
+# Set 0x4238 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4238
+*A=D
+# Set 0x4239 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4239
+*A=D
+# Set 0x423a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x423a
+*A=D
+# Set 0x423b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x423b
+*A=D
+# Set 0x423c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x423c
+*A=D
+# Set 0x423d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x423d
+*A=D
+# Set 0x423e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x423e
+*A=D
+# Set 0x423f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x423f
+*A=D
+# Set 0x4240 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4240
+*A=D
+# Set 0x4241 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4241
+*A=D
+# Set 0x4242 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4242
+*A=D
+# Set 0x4243 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4243
+*A=D
+# Set 0x4244 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4244
+*A=D
+# Set 0x4245 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4245
+*A=D
+# Set 0x4246 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4246
+*A=D
+# Set 0x4247 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4247
+*A=D
+# Set 0x4248 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4248
+*A=D
+# Set 0x4249 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4249
+*A=D
+# Set 0x424a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x424a
+*A=D
+# Set 0x424b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x424b
+*A=D
+# Set 0x424c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x424c
+*A=D
+# Set 0x424d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x424d
+*A=D
+# Set 0x424e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x424e
+*A=D
+# Set 0x424f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x424f
+*A=D
+# Set 0x4250 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4250
+*A=D
+# Set 0x4251 to 61876
+A=0x7fff
+D=A
+A=0x71b5
+D=D+A
+A=0x4251
+*A=D
+# Set 0x4252 to 38466
+A=0x7fff
+D=A
+A=0x1643
+D=D+A
+A=0x4252
+*A=D
+# Set 0x4253 to 4223
+A=0x107f
+D=A
+A=0x4253
+*A=D
+# Set 0x4254 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x4254
+*A=D
+# Set 0x4255 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4255
+*A=D
+# Set 0x4256 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4256
+*A=D
+# Set 0x4257 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4257
+*A=D
+# Set 0x4258 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4258
+*A=D
+# Set 0x4259 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4259
+*A=D
+# Set 0x425a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x425a
+*A=D
+# Set 0x425b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x425b
+*A=D
+# Set 0x425c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x425c
+*A=D
+# Set 0x425d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x425d
+*A=D
+# Set 0x425e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x425e
+*A=D
+# Set 0x425f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x425f
+*A=D
+# Set 0x4260 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4260
+*A=D
+# Set 0x4261 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4261
+*A=D
+# Set 0x4262 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4262
+*A=D
+# Set 0x4263 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4263
+*A=D
+# Set 0x4264 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4264
+*A=D
+# Set 0x4265 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4265
+*A=D
+# Set 0x4266 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4266
+*A=D
+# Set 0x4267 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4267
+*A=D
+# Set 0x4268 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4268
+*A=D
+# Set 0x4269 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4269
+*A=D
+# Set 0x426a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x426a
+*A=D
+# Set 0x426b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x426b
+*A=D
+# Set 0x426c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x426c
+*A=D
+# Set 0x426d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x426d
+*A=D
+# Set 0x426e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x426e
+*A=D
+# Set 0x426f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x426f
+*A=D
+# Set 0x4270 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4270
+*A=D
+# Set 0x4271 to 64950
+A=0x7fff
+D=A
+A=0x7db7
+D=D+A
+A=0x4271
+*A=D
+# Set 0x4272 to 12750
+A=0x31ce
+D=A
+A=0x4272
+*A=D
+# Set 0x4273 to 37759
+A=0x7fff
+D=A
+A=0x1380
+D=D+A
+A=0x4273
+*A=D
+# Set 0x4274 to 62975
+A=0x7fff
+D=A
+A=0x7600
+D=D+A
+A=0x4274
+*A=D
+# Set 0x4275 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x4275
+*A=D
+# Set 0x4276 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4276
+*A=D
+# Set 0x4277 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4277
+*A=D
+# Set 0x4278 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4278
+*A=D
+# Set 0x4279 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4279
+*A=D
+# Set 0x427a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x427a
+*A=D
+# Set 0x427b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x427b
+*A=D
+# Set 0x427c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x427c
+*A=D
+# Set 0x427d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x427d
+*A=D
+# Set 0x427e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x427e
+*A=D
+# Set 0x427f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x427f
+*A=D
+# Set 0x4280 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4280
+*A=D
+# Set 0x4281 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4281
+*A=D
+# Set 0x4282 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4282
+*A=D
+# Set 0x4283 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4283
+*A=D
+# Set 0x4284 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4284
+*A=D
+# Set 0x4285 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4285
+*A=D
+# Set 0x4286 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4286
+*A=D
+# Set 0x4287 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4287
+*A=D
+# Set 0x4288 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4288
+*A=D
+# Set 0x4289 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4289
+*A=D
+# Set 0x428a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x428a
+*A=D
+# Set 0x428b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x428b
+*A=D
+# Set 0x428c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x428c
+*A=D
+# Set 0x428d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x428d
+*A=D
+# Set 0x428e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x428e
+*A=D
+# Set 0x428f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x428f
+*A=D
+# Set 0x4290 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4290
+*A=D
+# Set 0x4291 to 57782
+A=0x7fff
+D=A
+A=0x61b7
+D=D+A
+A=0x4291
+*A=D
+# Set 0x4292 to 12742
+A=0x31c6
+D=A
+A=0x4292
+*A=D
+# Set 0x4293 to 12799
+A=0x31ff
+D=A
+A=0x4293
+*A=D
+# Set 0x4294 to 61838
+A=0x7fff
+D=A
+A=0x718f
+D=D+A
+A=0x4294
+*A=D
+# Set 0x4295 to 30719
+A=0x77ff
+D=A
+A=0x4295
+*A=D
+# Set 0x4296 to 65439
+A=0x7fff
+D=A
+A=0x7fa0
+D=D+A
+A=0x4296
+*A=D
+# Set 0x4297 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4297
+*A=D
+# Set 0x4298 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4298
+*A=D
+# Set 0x4299 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4299
+*A=D
+# Set 0x429a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x429a
+*A=D
+# Set 0x429b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x429b
+*A=D
+# Set 0x429c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x429c
+*A=D
+# Set 0x429d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x429d
+*A=D
+# Set 0x429e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x429e
+*A=D
+# Set 0x429f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x429f
+*A=D
+# Set 0x42a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42a0
+*A=D
+# Set 0x42a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42a1
+*A=D
+# Set 0x42a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42a2
+*A=D
+# Set 0x42a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42a3
+*A=D
+# Set 0x42a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42a4
+*A=D
+# Set 0x42a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42a5
+*A=D
+# Set 0x42a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42a6
+*A=D
+# Set 0x42a7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x42a7
+*A=D
+# Set 0x42a8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42a8
+*A=D
+# Set 0x42a9 to 61951
+A=0x7fff
+D=A
+A=0x7200
+D=D+A
+A=0x42a9
+*A=D
+# Set 0x42aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42aa
+*A=D
+# Set 0x42ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42ab
+*A=D
+# Set 0x42ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42ac
+*A=D
+# Set 0x42ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42ad
+*A=D
+# Set 0x42ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42ae
+*A=D
+# Set 0x42af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42af
+*A=D
+# Set 0x42b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42b0
+*A=D
+# Set 0x42b1 to 61828
+A=0x7fff
+D=A
+A=0x7185
+D=D+A
+A=0x42b1
+*A=D
+# Set 0x42b2 to 37854
+A=0x7fff
+D=A
+A=0x13df
+D=D+A
+A=0x42b2
+*A=D
+# Set 0x42b3 to 61951
+A=0x7fff
+D=A
+A=0x7200
+D=D+A
+A=0x42b3
+*A=D
+# Set 0x42b4 to 61828
+A=0x7fff
+D=A
+A=0x7185
+D=D+A
+A=0x42b4
+*A=D
+# Set 0x42b5 to 13311
+A=0x33ff
+D=A
+A=0x42b5
+*A=D
+# Set 0x42b6 to 65311
+A=0x7fff
+D=A
+A=0x7f20
+D=D+A
+A=0x42b6
+*A=D
+# Set 0x42b7 to 52983
+A=0x7fff
+D=A
+A=0x4ef8
+D=D+A
+A=0x42b7
+*A=D
+# Set 0x42b8 to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x42b8
+*A=D
+# Set 0x42b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42b9
+*A=D
+# Set 0x42ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42ba
+*A=D
+# Set 0x42bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42bb
+*A=D
+# Set 0x42bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42bc
+*A=D
+# Set 0x42bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42bd
+*A=D
+# Set 0x42be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42be
+*A=D
+# Set 0x42bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42bf
+*A=D
+# Set 0x42c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42c0
+*A=D
+# Set 0x42c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42c1
+*A=D
+# Set 0x42c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42c2
+*A=D
+# Set 0x42c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42c3
+*A=D
+# Set 0x42c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42c4
+*A=D
+# Set 0x42c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42c5
+*A=D
+# Set 0x42c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42c6
+*A=D
+# Set 0x42c7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x42c7
+*A=D
+# Set 0x42c8 to 1553
+A=0x611
+D=A
+A=0x42c8
+*A=D
+# Set 0x42c9 to 6655
+A=0x19ff
+D=A
+A=0x42c9
+*A=D
+# Set 0x42ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42ca
+*A=D
+# Set 0x42cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42cb
+*A=D
+# Set 0x42cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42cc
+*A=D
+# Set 0x42cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42cd
+*A=D
+# Set 0x42ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42ce
+*A=D
+# Set 0x42cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42cf
+*A=D
+# Set 0x42d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42d0
+*A=D
+# Set 0x42d1 to 64510
+A=0x7fff
+D=A
+A=0x7bff
+D=D+A
+A=0x42d1
+*A=D
+# Set 0x42d2 to 37262
+A=0x7fff
+D=A
+A=0x118f
+D=D+A
+A=0x42d2
+*A=D
+# Set 0x42d3 to 29647
+A=0x73cf
+D=A
+A=0x42d3
+*A=D
+# Set 0x42d4 to 63622
+A=0x7fff
+D=A
+A=0x7887
+D=D+A
+A=0x42d4
+*A=D
+# Set 0x42d5 to 15359
+A=0x3bff
+D=A
+A=0x42d5
+*A=D
+# Set 0x42d6 to 65311
+A=0x7fff
+D=A
+A=0x7f20
+D=D+A
+A=0x42d6
+*A=D
+# Set 0x42d7 to 61175
+A=0x7fff
+D=A
+A=0x6ef8
+D=D+A
+A=0x42d7
+*A=D
+# Set 0x42d8 to 16332
+A=0x3fcc
+D=A
+A=0x42d8
+*A=D
+# Set 0x42d9 to 59391
+A=0x7fff
+D=A
+A=0x6800
+D=D+A
+A=0x42d9
+*A=D
+# Set 0x42da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42da
+*A=D
+# Set 0x42db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42db
+*A=D
+# Set 0x42dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42dc
+*A=D
+# Set 0x42dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42dd
+*A=D
+# Set 0x42de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42de
+*A=D
+# Set 0x42df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42df
+*A=D
+# Set 0x42e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42e0
+*A=D
+# Set 0x42e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42e1
+*A=D
+# Set 0x42e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42e2
+*A=D
+# Set 0x42e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42e3
+*A=D
+# Set 0x42e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42e4
+*A=D
+# Set 0x42e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42e5
+*A=D
+# Set 0x42e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42e6
+*A=D
+# Set 0x42e7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x42e7
+*A=D
+# Set 0x42e8 to 5321
+A=0x14c9
+D=A
+A=0x42e8
+*A=D
+# Set 0x42e9 to 15871
+A=0x3dff
+D=A
+A=0x42e9
+*A=D
+# Set 0x42ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42ea
+*A=D
+# Set 0x42eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42eb
+*A=D
+# Set 0x42ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42ec
+*A=D
+# Set 0x42ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42ed
+*A=D
+# Set 0x42ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42ee
+*A=D
+# Set 0x42ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42ef
+*A=D
+# Set 0x42f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42f0
+*A=D
+# Set 0x42f1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42f1
+*A=D
+# Set 0x42f2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42f2
+*A=D
+# Set 0x42f3 to 61903
+A=0x7fff
+D=A
+A=0x71d0
+D=D+A
+A=0x42f3
+*A=D
+# Set 0x42f4 to 63620
+A=0x7fff
+D=A
+A=0x7885
+D=D+A
+A=0x42f4
+*A=D
+# Set 0x42f5 to 15359
+A=0x3bff
+D=A
+A=0x42f5
+*A=D
+# Set 0x42f6 to 65311
+A=0x7fff
+D=A
+A=0x7f20
+D=D+A
+A=0x42f6
+*A=D
+# Set 0x42f7 to 61175
+A=0x7fff
+D=A
+A=0x6ef8
+D=D+A
+A=0x42f7
+*A=D
+# Set 0x42f8 to 49102
+A=0x7fff
+D=A
+A=0x3fcf
+D=D+A
+A=0x42f8
+*A=D
+# Set 0x42f9 to 59199
+A=0x7fff
+D=A
+A=0x6740
+D=D+A
+A=0x42f9
+*A=D
+# Set 0x42fa to 40447
+A=0x7fff
+D=A
+A=0x1e00
+D=D+A
+A=0x42fa
+*A=D
+# Set 0x42fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42fb
+*A=D
+# Set 0x42fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42fc
+*A=D
+# Set 0x42fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42fd
+*A=D
+# Set 0x42fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42fe
+*A=D
+# Set 0x42ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x42ff
+*A=D
+# Set 0x4300 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4300
+*A=D
+# Set 0x4301 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4301
+*A=D
+# Set 0x4302 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4302
+*A=D
+# Set 0x4303 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4303
+*A=D
+# Set 0x4304 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4304
+*A=D
+# Set 0x4305 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4305
+*A=D
+# Set 0x4306 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4306
+*A=D
+# Set 0x4307 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4307
+*A=D
+# Set 0x4308 to 38345
+A=0x7fff
+D=A
+A=0x15ca
+D=D+A
+A=0x4308
+*A=D
+# Set 0x4309 to 14847
+A=0x39ff
+D=A
+A=0x4309
+*A=D
+# Set 0x430a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x430a
+*A=D
+# Set 0x430b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x430b
+*A=D
+# Set 0x430c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x430c
+*A=D
+# Set 0x430d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x430d
+*A=D
+# Set 0x430e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x430e
+*A=D
+# Set 0x430f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x430f
+*A=D
+# Set 0x4310 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4310
+*A=D
+# Set 0x4311 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4311
+*A=D
+# Set 0x4312 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4312
+*A=D
+# Set 0x4313 to 65503
+A=0x7fff
+D=A
+A=0x7fe0
+D=D+A
+A=0x4313
+*A=D
+# Set 0x4314 to 65486
+A=0x7fff
+D=A
+A=0x7fcf
+D=D+A
+A=0x4314
+*A=D
+# Set 0x4315 to 8703
+A=0x21ff
+D=A
+A=0x4315
+*A=D
+# Set 0x4316 to 65311
+A=0x7fff
+D=A
+A=0x7f20
+D=D+A
+A=0x4316
+*A=D
+# Set 0x4317 to 61047
+A=0x7fff
+D=A
+A=0x6e78
+D=D+A
+A=0x4317
+*A=D
+# Set 0x4318 to 49134
+A=0x7fff
+D=A
+A=0x3fef
+D=D+A
+A=0x4318
+*A=D
+# Set 0x4319 to 63295
+A=0x7fff
+D=A
+A=0x7740
+D=D+A
+A=0x4319
+*A=D
+# Set 0x431a to 56780
+A=0x7fff
+D=A
+A=0x5dcd
+D=D+A
+A=0x431a
+*A=D
+# Set 0x431b to 65151
+A=0x7fff
+D=A
+A=0x7e80
+D=D+A
+A=0x431b
+*A=D
+# Set 0x431c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x431c
+*A=D
+# Set 0x431d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x431d
+*A=D
+# Set 0x431e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x431e
+*A=D
+# Set 0x431f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x431f
+*A=D
+# Set 0x4320 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4320
+*A=D
+# Set 0x4321 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4321
+*A=D
+# Set 0x4322 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4322
+*A=D
+# Set 0x4323 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4323
+*A=D
+# Set 0x4324 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4324
+*A=D
+# Set 0x4325 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4325
+*A=D
+# Set 0x4326 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4326
+*A=D
+# Set 0x4327 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4327
+*A=D
+# Set 0x4328 to 5324
+A=0x14cc
+D=A
+A=0x4328
+*A=D
+# Set 0x4329 to 32255
+A=0x7dff
+D=A
+A=0x4329
+*A=D
+# Set 0x432a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x432a
+*A=D
+# Set 0x432b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x432b
+*A=D
+# Set 0x432c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x432c
+*A=D
+# Set 0x432d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x432d
+*A=D
+# Set 0x432e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x432e
+*A=D
+# Set 0x432f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x432f
+*A=D
+# Set 0x4330 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4330
+*A=D
+# Set 0x4331 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4331
+*A=D
+# Set 0x4332 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4332
+*A=D
+# Set 0x4333 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4333
+*A=D
+# Set 0x4334 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4334
+*A=D
+# Set 0x4335 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4335
+*A=D
+# Set 0x4336 to 65343
+A=0x7fff
+D=A
+A=0x7f40
+D=D+A
+A=0x4336
+*A=D
+# Set 0x4337 to 52855
+A=0x7fff
+D=A
+A=0x4e78
+D=D+A
+A=0x4337
+*A=D
+# Set 0x4338 to 49102
+A=0x7fff
+D=A
+A=0x3fcf
+D=D+A
+A=0x4338
+*A=D
+# Set 0x4339 to 63295
+A=0x7fff
+D=A
+A=0x7740
+D=D+A
+A=0x4339
+*A=D
+# Set 0x433a to 56814
+A=0x7fff
+D=A
+A=0x5def
+D=D+A
+A=0x433a
+*A=D
+# Set 0x433b to 65399
+A=0x7fff
+D=A
+A=0x7f78
+D=D+A
+A=0x433b
+*A=D
+# Set 0x433c to 13311
+A=0x33ff
+D=A
+A=0x433c
+*A=D
+# Set 0x433d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x433d
+*A=D
+# Set 0x433e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x433e
+*A=D
+# Set 0x433f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x433f
+*A=D
+# Set 0x4340 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4340
+*A=D
+# Set 0x4341 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4341
+*A=D
+# Set 0x4342 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4342
+*A=D
+# Set 0x4343 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4343
+*A=D
+# Set 0x4344 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4344
+*A=D
+# Set 0x4345 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4345
+*A=D
+# Set 0x4346 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4346
+*A=D
+# Set 0x4347 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4347
+*A=D
+# Set 0x4348 to 21020
+A=0x521c
+D=A
+A=0x4348
+*A=D
+# Set 0x4349 to 28927
+A=0x70ff
+D=A
+A=0x4349
+*A=D
+# Set 0x434a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x434a
+*A=D
+# Set 0x434b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x434b
+*A=D
+# Set 0x434c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x434c
+*A=D
+# Set 0x434d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x434d
+*A=D
+# Set 0x434e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x434e
+*A=D
+# Set 0x434f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x434f
+*A=D
+# Set 0x4350 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4350
+*A=D
+# Set 0x4351 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x4351
+*A=D
+# Set 0x4352 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4352
+*A=D
+# Set 0x4353 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4353
+*A=D
+# Set 0x4354 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4354
+*A=D
+# Set 0x4355 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4355
+*A=D
+# Set 0x4356 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4356
+*A=D
+# Set 0x4357 to 52771
+A=0x7fff
+D=A
+A=0x4e24
+D=D+A
+A=0x4357
+*A=D
+# Set 0x4358 to 8142
+A=0x1fce
+D=A
+A=0x4358
+*A=D
+# Set 0x4359 to 63295
+A=0x7fff
+D=A
+A=0x7740
+D=D+A
+A=0x4359
+*A=D
+# Set 0x435a to 56814
+A=0x7fff
+D=A
+A=0x5def
+D=D+A
+A=0x435a
+*A=D
+# Set 0x435b to 65399
+A=0x7fff
+D=A
+A=0x7f78
+D=D+A
+A=0x435b
+*A=D
+# Set 0x435c to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x435c
+*A=D
+# Set 0x435d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x435d
+*A=D
+# Set 0x435e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x435e
+*A=D
+# Set 0x435f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x435f
+*A=D
+# Set 0x4360 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4360
+*A=D
+# Set 0x4361 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4361
+*A=D
+# Set 0x4362 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4362
+*A=D
+# Set 0x4363 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4363
+*A=D
+# Set 0x4364 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4364
+*A=D
+# Set 0x4365 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4365
+*A=D
+# Set 0x4366 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4366
+*A=D
+# Set 0x4367 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4367
+*A=D
+# Set 0x4368 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4368
+*A=D
+# Set 0x4369 to 61695
+A=0x7fff
+D=A
+A=0x7100
+D=D+A
+A=0x4369
+*A=D
+# Set 0x436a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x436a
+*A=D
+# Set 0x436b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x436b
+*A=D
+# Set 0x436c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x436c
+*A=D
+# Set 0x436d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x436d
+*A=D
+# Set 0x436e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x436e
+*A=D
+# Set 0x436f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x436f
+*A=D
+# Set 0x4370 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4370
+*A=D
+# Set 0x4371 to 61839
+A=0x7fff
+D=A
+A=0x7190
+D=D+A
+A=0x4371
+*A=D
+# Set 0x4372 to 63951
+A=0x7fff
+D=A
+A=0x79d0
+D=D+A
+A=0x4372
+*A=D
+# Set 0x4373 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4373
+*A=D
+# Set 0x4374 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4374
+*A=D
+# Set 0x4375 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4375
+*A=D
+# Set 0x4376 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4376
+*A=D
+# Set 0x4377 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4377
+*A=D
+# Set 0x4378 to 65484
+A=0x7fff
+D=A
+A=0x7fcd
+D=D+A
+A=0x4378
+*A=D
+# Set 0x4379 to 25407
+A=0x633f
+D=A
+A=0x4379
+*A=D
+# Set 0x437a to 40430
+A=0x7fff
+D=A
+A=0x1def
+D=D+A
+A=0x437a
+*A=D
+# Set 0x437b to 65399
+A=0x7fff
+D=A
+A=0x7f78
+D=D+A
+A=0x437b
+*A=D
+# Set 0x437c to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x437c
+*A=D
+# Set 0x437d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x437d
+*A=D
+# Set 0x437e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x437e
+*A=D
+# Set 0x437f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x437f
+*A=D
+# Set 0x4380 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4380
+*A=D
+# Set 0x4381 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4381
+*A=D
+# Set 0x4382 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4382
+*A=D
+# Set 0x4383 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4383
+*A=D
+# Set 0x4384 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4384
+*A=D
+# Set 0x4385 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4385
+*A=D
+# Set 0x4386 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4386
+*A=D
+# Set 0x4387 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4387
+*A=D
+# Set 0x4388 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4388
+*A=D
+# Set 0x4389 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4389
+*A=D
+# Set 0x438a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x438a
+*A=D
+# Set 0x438b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x438b
+*A=D
+# Set 0x438c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x438c
+*A=D
+# Set 0x438d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x438d
+*A=D
+# Set 0x438e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x438e
+*A=D
+# Set 0x438f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x438f
+*A=D
+# Set 0x4390 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4390
+*A=D
+# Set 0x4391 to 63412
+A=0x7fff
+D=A
+A=0x77b5
+D=D+A
+A=0x4391
+*A=D
+# Set 0x4392 to 46278
+A=0x7fff
+D=A
+A=0x34c7
+D=D+A
+A=0x4392
+*A=D
+# Set 0x4393 to 14847
+A=0x39ff
+D=A
+A=0x4393
+*A=D
+# Set 0x4394 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4394
+*A=D
+# Set 0x4395 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4395
+*A=D
+# Set 0x4396 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4396
+*A=D
+# Set 0x4397 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4397
+*A=D
+# Set 0x4398 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4398
+*A=D
+# Set 0x4399 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4399
+*A=D
+# Set 0x439a to 35012
+A=0x7fff
+D=A
+A=0x8c5
+D=D+A
+A=0x439a
+*A=D
+# Set 0x439b to 32631
+A=0x7f77
+D=A
+A=0x439b
+*A=D
+# Set 0x439c to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x439c
+*A=D
+# Set 0x439d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x439d
+*A=D
+# Set 0x439e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x439e
+*A=D
+# Set 0x439f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x439f
+*A=D
+# Set 0x43a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43a0
+*A=D
+# Set 0x43a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43a1
+*A=D
+# Set 0x43a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43a2
+*A=D
+# Set 0x43a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43a3
+*A=D
+# Set 0x43a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43a4
+*A=D
+# Set 0x43a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43a5
+*A=D
+# Set 0x43a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43a6
+*A=D
+# Set 0x43a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43a7
+*A=D
+# Set 0x43a8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43a8
+*A=D
+# Set 0x43a9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43a9
+*A=D
+# Set 0x43aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43aa
+*A=D
+# Set 0x43ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43ab
+*A=D
+# Set 0x43ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43ac
+*A=D
+# Set 0x43ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43ad
+*A=D
+# Set 0x43ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43ae
+*A=D
+# Set 0x43af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43af
+*A=D
+# Set 0x43b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43b0
+*A=D
+# Set 0x43b1 to 61878
+A=0x7fff
+D=A
+A=0x71b7
+D=D+A
+A=0x43b1
+*A=D
+# Set 0x43b2 to 38550
+A=0x7fff
+D=A
+A=0x1697
+D=D+A
+A=0x43b2
+*A=D
+# Set 0x43b3 to 38655
+A=0x7fff
+D=A
+A=0x1700
+D=D+A
+A=0x43b3
+*A=D
+# Set 0x43b4 to 61951
+A=0x7fff
+D=A
+A=0x7200
+D=D+A
+A=0x43b4
+*A=D
+# Set 0x43b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43b5
+*A=D
+# Set 0x43b6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43b6
+*A=D
+# Set 0x43b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43b7
+*A=D
+# Set 0x43b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43b8
+*A=D
+# Set 0x43b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43b9
+*A=D
+# Set 0x43ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43ba
+*A=D
+# Set 0x43bb to 65059
+A=0x7fff
+D=A
+A=0x7e24
+D=D+A
+A=0x43bb
+*A=D
+# Set 0x43bc to 4607
+A=0x11ff
+D=A
+A=0x43bc
+*A=D
+# Set 0x43bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43bd
+*A=D
+# Set 0x43be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43be
+*A=D
+# Set 0x43bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43bf
+*A=D
+# Set 0x43c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43c0
+*A=D
+# Set 0x43c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43c1
+*A=D
+# Set 0x43c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43c2
+*A=D
+# Set 0x43c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43c3
+*A=D
+# Set 0x43c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43c4
+*A=D
+# Set 0x43c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43c5
+*A=D
+# Set 0x43c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43c6
+*A=D
+# Set 0x43c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43c7
+*A=D
+# Set 0x43c8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43c8
+*A=D
+# Set 0x43c9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43c9
+*A=D
+# Set 0x43ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43ca
+*A=D
+# Set 0x43cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43cb
+*A=D
+# Set 0x43cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43cc
+*A=D
+# Set 0x43cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43cd
+*A=D
+# Set 0x43ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43ce
+*A=D
+# Set 0x43cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43cf
+*A=D
+# Set 0x43d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43d0
+*A=D
+# Set 0x43d1 to 64694
+A=0x7fff
+D=A
+A=0x7cb7
+D=D+A
+A=0x43d1
+*A=D
+# Set 0x43d2 to 13974
+A=0x3696
+D=A
+A=0x43d2
+*A=D
+# Set 0x43d3 to 55039
+A=0x7fff
+D=A
+A=0x5700
+D=D+A
+A=0x43d3
+*A=D
+# Set 0x43d4 to 61903
+A=0x7fff
+D=A
+A=0x71d0
+D=D+A
+A=0x43d4
+*A=D
+# Set 0x43d5 to 32767
+A=0x7fff
+D=A
+A=0x43d5
+*A=D
+# Set 0x43d6 to 65439
+A=0x7fff
+D=A
+A=0x7fa0
+D=D+A
+A=0x43d6
+*A=D
+# Set 0x43d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43d7
+*A=D
+# Set 0x43d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43d8
+*A=D
+# Set 0x43d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43d9
+*A=D
+# Set 0x43da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43da
+*A=D
+# Set 0x43db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43db
+*A=D
+# Set 0x43dc to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x43dc
+*A=D
+# Set 0x43dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43dd
+*A=D
+# Set 0x43de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43de
+*A=D
+# Set 0x43df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43df
+*A=D
+# Set 0x43e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43e0
+*A=D
+# Set 0x43e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43e1
+*A=D
+# Set 0x43e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43e2
+*A=D
+# Set 0x43e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43e3
+*A=D
+# Set 0x43e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43e4
+*A=D
+# Set 0x43e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43e5
+*A=D
+# Set 0x43e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43e6
+*A=D
+# Set 0x43e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43e7
+*A=D
+# Set 0x43e8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43e8
+*A=D
+# Set 0x43e9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43e9
+*A=D
+# Set 0x43ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43ea
+*A=D
+# Set 0x43eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43eb
+*A=D
+# Set 0x43ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43ec
+*A=D
+# Set 0x43ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43ed
+*A=D
+# Set 0x43ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43ee
+*A=D
+# Set 0x43ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43ef
+*A=D
+# Set 0x43f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43f0
+*A=D
+# Set 0x43f1 to 57734
+A=0x7fff
+D=A
+A=0x6187
+D=D+A
+A=0x43f1
+*A=D
+# Set 0x43f2 to 13974
+A=0x3696
+D=A
+A=0x43f2
+*A=D
+# Set 0x43f3 to 55039
+A=0x7fff
+D=A
+A=0x5700
+D=D+A
+A=0x43f3
+*A=D
+# Set 0x43f4 to 61828
+A=0x7fff
+D=A
+A=0x7185
+D=D+A
+A=0x43f4
+*A=D
+# Set 0x43f5 to 9727
+A=0x25ff
+D=A
+A=0x43f5
+*A=D
+# Set 0x43f6 to 65311
+A=0x7fff
+D=A
+A=0x7f20
+D=D+A
+A=0x43f6
+*A=D
+# Set 0x43f7 to 50803
+A=0x7fff
+D=A
+A=0x4674
+D=D+A
+A=0x43f7
+*A=D
+# Set 0x43f8 to 40959
+A=0x7fff
+D=A
+A=0x2000
+D=D+A
+A=0x43f8
+*A=D
+# Set 0x43f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43f9
+*A=D
+# Set 0x43fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43fa
+*A=D
+# Set 0x43fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43fb
+*A=D
+# Set 0x43fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43fc
+*A=D
+# Set 0x43fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43fd
+*A=D
+# Set 0x43fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43fe
+*A=D
+# Set 0x43ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x43ff
+*A=D
+# Set 0x4400 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4400
+*A=D
+# Set 0x4401 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4401
+*A=D
+# Set 0x4402 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4402
+*A=D
+# Set 0x4403 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4403
+*A=D
+# Set 0x4404 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4404
+*A=D
+# Set 0x4405 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4405
+*A=D
+# Set 0x4406 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4406
+*A=D
+# Set 0x4407 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4407
+*A=D
+# Set 0x4408 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4408
+*A=D
+# Set 0x4409 to 12799
+A=0x31ff
+D=A
+A=0x4409
+*A=D
+# Set 0x440a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x440a
+*A=D
+# Set 0x440b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x440b
+*A=D
+# Set 0x440c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x440c
+*A=D
+# Set 0x440d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x440d
+*A=D
+# Set 0x440e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x440e
+*A=D
+# Set 0x440f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x440f
+*A=D
+# Set 0x4410 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4410
+*A=D
+# Set 0x4411 to 64460
+A=0x7fff
+D=A
+A=0x7bcd
+D=D+A
+A=0x4411
+*A=D
+# Set 0x4412 to 37062
+A=0x7fff
+D=A
+A=0x10c7
+D=D+A
+A=0x4412
+*A=D
+# Set 0x4413 to 4815
+A=0x12cf
+D=A
+A=0x4413
+*A=D
+# Set 0x4414 to 63621
+A=0x7fff
+D=A
+A=0x7886
+D=D+A
+A=0x4414
+*A=D
+# Set 0x4415 to 61951
+A=0x7fff
+D=A
+A=0x7200
+D=D+A
+A=0x4415
+*A=D
+# Set 0x4416 to 65311
+A=0x7fff
+D=A
+A=0x7f20
+D=D+A
+A=0x4416
+*A=D
+# Set 0x4417 to 46505
+A=0x7fff
+D=A
+A=0x35aa
+D=D+A
+A=0x4417
+*A=D
+# Set 0x4418 to 24524
+A=0x5fcc
+D=A
+A=0x4418
+*A=D
+# Set 0x4419 to 25407
+A=0x633f
+D=A
+A=0x4419
+*A=D
+# Set 0x441a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x441a
+*A=D
+# Set 0x441b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x441b
+*A=D
+# Set 0x441c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x441c
+*A=D
+# Set 0x441d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x441d
+*A=D
+# Set 0x441e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x441e
+*A=D
+# Set 0x441f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x441f
+*A=D
+# Set 0x4420 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4420
+*A=D
+# Set 0x4421 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4421
+*A=D
+# Set 0x4422 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4422
+*A=D
+# Set 0x4423 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4423
+*A=D
+# Set 0x4424 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4424
+*A=D
+# Set 0x4425 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4425
+*A=D
+# Set 0x4426 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4426
+*A=D
+# Set 0x4427 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4427
+*A=D
+# Set 0x4428 to 40959
+A=0x7fff
+D=A
+A=0x2000
+D=D+A
+A=0x4428
+*A=D
+# Set 0x4429 to 47615
+A=0x7fff
+D=A
+A=0x3a00
+D=D+A
+A=0x4429
+*A=D
+# Set 0x442a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x442a
+*A=D
+# Set 0x442b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x442b
+*A=D
+# Set 0x442c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x442c
+*A=D
+# Set 0x442d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x442d
+*A=D
+# Set 0x442e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x442e
+*A=D
+# Set 0x442f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x442f
+*A=D
+# Set 0x4430 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4430
+*A=D
+# Set 0x4431 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4431
+*A=D
+# Set 0x4432 to 65519
+A=0x7fff
+D=A
+A=0x7ff0
+D=D+A
+A=0x4432
+*A=D
+# Set 0x4433 to 14799
+A=0x39cf
+D=A
+A=0x4433
+*A=D
+# Set 0x4434 to 64157
+A=0x7fff
+D=A
+A=0x7a9e
+D=D+A
+A=0x4434
+*A=D
+# Set 0x4435 to 61951
+A=0x7fff
+D=A
+A=0x7200
+D=D+A
+A=0x4435
+*A=D
+# Set 0x4436 to 65311
+A=0x7fff
+D=A
+A=0x7f20
+D=D+A
+A=0x4436
+*A=D
+# Set 0x4437 to 46509
+A=0x7fff
+D=A
+A=0x35ae
+D=D+A
+A=0x4437
+*A=D
+# Set 0x4438 to 20405
+A=0x4fb5
+D=A
+A=0x4438
+*A=D
+# Set 0x4439 to 27167
+A=0x6a1f
+D=A
+A=0x4439
+*A=D
+# Set 0x443a to 35022
+A=0x7fff
+D=A
+A=0x8cf
+D=D+A
+A=0x443a
+*A=D
+# Set 0x443b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x443b
+*A=D
+# Set 0x443c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x443c
+*A=D
+# Set 0x443d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x443d
+*A=D
+# Set 0x443e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x443e
+*A=D
+# Set 0x443f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x443f
+*A=D
+# Set 0x4440 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4440
+*A=D
+# Set 0x4441 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4441
+*A=D
+# Set 0x4442 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4442
+*A=D
+# Set 0x4443 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4443
+*A=D
+# Set 0x4444 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4444
+*A=D
+# Set 0x4445 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4445
+*A=D
+# Set 0x4446 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4446
+*A=D
+# Set 0x4447 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4447
+*A=D
+# Set 0x4448 to 3096
+A=0xc18
+D=A
+A=0x4448
+*A=D
+# Set 0x4449 to 15871
+A=0x3dff
+D=A
+A=0x4449
+*A=D
+# Set 0x444a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x444a
+*A=D
+# Set 0x444b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x444b
+*A=D
+# Set 0x444c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x444c
+*A=D
+# Set 0x444d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x444d
+*A=D
+# Set 0x444e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x444e
+*A=D
+# Set 0x444f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x444f
+*A=D
+# Set 0x4450 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4450
+*A=D
+# Set 0x4451 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4451
+*A=D
+# Set 0x4452 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4452
+*A=D
+# Set 0x4453 to 65503
+A=0x7fff
+D=A
+A=0x7fe0
+D=D+A
+A=0x4453
+*A=D
+# Set 0x4454 to 64966
+A=0x7fff
+D=A
+A=0x7dc7
+D=D+A
+A=0x4454
+*A=D
+# Set 0x4455 to 9727
+A=0x25ff
+D=A
+A=0x4455
+*A=D
+# Set 0x4456 to 65311
+A=0x7fff
+D=A
+A=0x7f20
+D=D+A
+A=0x4456
+*A=D
+# Set 0x4457 to 46509
+A=0x7fff
+D=A
+A=0x35ae
+D=D+A
+A=0x4457
+*A=D
+# Set 0x4458 to 20405
+A=0x4fb5
+D=A
+A=0x4458
+*A=D
+# Set 0x4459 to 43743
+A=0x7fff
+D=A
+A=0x2ae0
+D=D+A
+A=0x4459
+*A=D
+# Set 0x445a to 10965
+A=0x2ad5
+D=A
+A=0x445a
+*A=D
+# Set 0x445b to 32307
+A=0x7e33
+D=A
+A=0x445b
+*A=D
+# Set 0x445c to 15359
+A=0x3bff
+D=A
+A=0x445c
+*A=D
+# Set 0x445d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x445d
+*A=D
+# Set 0x445e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x445e
+*A=D
+# Set 0x445f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x445f
+*A=D
+# Set 0x4460 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4460
+*A=D
+# Set 0x4461 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4461
+*A=D
+# Set 0x4462 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4462
+*A=D
+# Set 0x4463 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4463
+*A=D
+# Set 0x4464 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4464
+*A=D
+# Set 0x4465 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4465
+*A=D
+# Set 0x4466 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4466
+*A=D
+# Set 0x4467 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4467
+*A=D
+# Set 0x4468 to 3291
+A=0xcdb
+D=A
+A=0x4468
+*A=D
+# Set 0x4469 to 14847
+A=0x39ff
+D=A
+A=0x4469
+*A=D
+# Set 0x446a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x446a
+*A=D
+# Set 0x446b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x446b
+*A=D
+# Set 0x446c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x446c
+*A=D
+# Set 0x446d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x446d
+*A=D
+# Set 0x446e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x446e
+*A=D
+# Set 0x446f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x446f
+*A=D
+# Set 0x4470 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4470
+*A=D
+# Set 0x4471 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4471
+*A=D
+# Set 0x4472 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4472
+*A=D
+# Set 0x4473 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4473
+*A=D
+# Set 0x4474 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4474
+*A=D
+# Set 0x4475 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4475
+*A=D
+# Set 0x4476 to 65343
+A=0x7fff
+D=A
+A=0x7f40
+D=D+A
+A=0x4476
+*A=D
+# Set 0x4477 to 50209
+A=0x7fff
+D=A
+A=0x4422
+D=D+A
+A=0x4477
+*A=D
+# Set 0x4478 to 24501
+A=0x5fb5
+D=A
+A=0x4478
+*A=D
+# Set 0x4479 to 27359
+A=0x6adf
+D=A
+A=0x4479
+*A=D
+# Set 0x447a to 27189
+A=0x6a35
+D=A
+A=0x447a
+*A=D
+# Set 0x447b to 32425
+A=0x7ea9
+D=A
+A=0x447b
+*A=D
+# Set 0x447c to 22015
+A=0x55ff
+D=A
+A=0x447c
+*A=D
+# Set 0x447d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x447d
+*A=D
+# Set 0x447e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x447e
+*A=D
+# Set 0x447f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x447f
+*A=D
+# Set 0x4480 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4480
+*A=D
+# Set 0x4481 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4481
+*A=D
+# Set 0x4482 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4482
+*A=D
+# Set 0x4483 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4483
+*A=D
+# Set 0x4484 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4484
+*A=D
+# Set 0x4485 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4485
+*A=D
+# Set 0x4486 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4486
+*A=D
+# Set 0x4487 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4487
+*A=D
+# Set 0x4488 to 19667
+A=0x4cd3
+D=A
+A=0x4488
+*A=D
+# Set 0x4489 to 47615
+A=0x7fff
+D=A
+A=0x3a00
+D=D+A
+A=0x4489
+*A=D
+# Set 0x448a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x448a
+*A=D
+# Set 0x448b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x448b
+*A=D
+# Set 0x448c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x448c
+*A=D
+# Set 0x448d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x448d
+*A=D
+# Set 0x448e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x448e
+*A=D
+# Set 0x448f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x448f
+*A=D
+# Set 0x4490 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4490
+*A=D
+# Set 0x4491 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4491
+*A=D
+# Set 0x4492 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4492
+*A=D
+# Set 0x4493 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4493
+*A=D
+# Set 0x4494 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4494
+*A=D
+# Set 0x4495 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4495
+*A=D
+# Set 0x4496 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4496
+*A=D
+# Set 0x4497 to 65139
+A=0x7fff
+D=A
+A=0x7e74
+D=D+A
+A=0x4497
+*A=D
+# Set 0x4498 to 8132
+A=0x1fc4
+D=A
+A=0x4498
+*A=D
+# Set 0x4499 to 27231
+A=0x6a5f
+D=A
+A=0x4499
+*A=D
+# Set 0x449a to 10773
+A=0x2a15
+D=A
+A=0x449a
+*A=D
+# Set 0x449b to 32428
+A=0x7eac
+D=A
+A=0x449b
+*A=D
+# Set 0x449c to 54783
+A=0x7fff
+D=A
+A=0x5600
+D=D+A
+A=0x449c
+*A=D
+# Set 0x449d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x449d
+*A=D
+# Set 0x449e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x449e
+*A=D
+# Set 0x449f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x449f
+*A=D
+# Set 0x44a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44a0
+*A=D
+# Set 0x44a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44a1
+*A=D
+# Set 0x44a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44a2
+*A=D
+# Set 0x44a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44a3
+*A=D
+# Set 0x44a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44a4
+*A=D
+# Set 0x44a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44a5
+*A=D
+# Set 0x44a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44a6
+*A=D
+# Set 0x44a7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x44a7
+*A=D
+# Set 0x44a8 to 1241
+A=0x4d9
+D=A
+A=0x44a8
+*A=D
+# Set 0x44a9 to 14847
+A=0x39ff
+D=A
+A=0x44a9
+*A=D
+# Set 0x44aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44aa
+*A=D
+# Set 0x44ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44ab
+*A=D
+# Set 0x44ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44ac
+*A=D
+# Set 0x44ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44ad
+*A=D
+# Set 0x44ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44ae
+*A=D
+# Set 0x44af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44af
+*A=D
+# Set 0x44b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44b0
+*A=D
+# Set 0x44b1 to 62463
+A=0x7fff
+D=A
+A=0x7400
+D=D+A
+A=0x44b1
+*A=D
+# Set 0x44b2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44b2
+*A=D
+# Set 0x44b3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44b3
+*A=D
+# Set 0x44b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44b4
+*A=D
+# Set 0x44b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44b5
+*A=D
+# Set 0x44b6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44b6
+*A=D
+# Set 0x44b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44b7
+*A=D
+# Set 0x44b8 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x44b8
+*A=D
+# Set 0x44b9 to 30527
+A=0x773f
+D=A
+A=0x44b9
+*A=D
+# Set 0x44ba to 35013
+A=0x7fff
+D=A
+A=0x8c6
+D=D+A
+A=0x44ba
+*A=D
+# Set 0x44bb to 32428
+A=0x7eac
+D=A
+A=0x44bb
+*A=D
+# Set 0x44bc to 22015
+A=0x55ff
+D=A
+A=0x44bc
+*A=D
+# Set 0x44bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44bd
+*A=D
+# Set 0x44be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44be
+*A=D
+# Set 0x44bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44bf
+*A=D
+# Set 0x44c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44c0
+*A=D
+# Set 0x44c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44c1
+*A=D
+# Set 0x44c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44c2
+*A=D
+# Set 0x44c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44c3
+*A=D
+# Set 0x44c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44c4
+*A=D
+# Set 0x44c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44c5
+*A=D
+# Set 0x44c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44c6
+*A=D
+# Set 0x44c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44c7
+*A=D
+# Set 0x44c8 to 42188
+A=0x7fff
+D=A
+A=0x24cd
+D=D+A
+A=0x44c8
+*A=D
+# Set 0x44c9 to 4223
+A=0x107f
+D=A
+A=0x44c9
+*A=D
+# Set 0x44ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44ca
+*A=D
+# Set 0x44cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44cb
+*A=D
+# Set 0x44cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44cc
+*A=D
+# Set 0x44cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44cd
+*A=D
+# Set 0x44ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44ce
+*A=D
+# Set 0x44cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44cf
+*A=D
+# Set 0x44d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44d0
+*A=D
+# Set 0x44d1 to 58367
+A=0x7fff
+D=A
+A=0x6400
+D=D+A
+A=0x44d1
+*A=D
+# Set 0x44d2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44d2
+*A=D
+# Set 0x44d3 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x44d3
+*A=D
+# Set 0x44d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44d4
+*A=D
+# Set 0x44d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44d5
+*A=D
+# Set 0x44d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44d6
+*A=D
+# Set 0x44d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44d7
+*A=D
+# Set 0x44d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44d8
+*A=D
+# Set 0x44d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44d9
+*A=D
+# Set 0x44da to 64974
+A=0x7fff
+D=A
+A=0x7dcf
+D=D+A
+A=0x44da
+*A=D
+# Set 0x44db to 32307
+A=0x7e33
+D=A
+A=0x44db
+*A=D
+# Set 0x44dc to 4607
+A=0x11ff
+D=A
+A=0x44dc
+*A=D
+# Set 0x44dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44dd
+*A=D
+# Set 0x44de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44de
+*A=D
+# Set 0x44df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44df
+*A=D
+# Set 0x44e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44e0
+*A=D
+# Set 0x44e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44e1
+*A=D
+# Set 0x44e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44e2
+*A=D
+# Set 0x44e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44e3
+*A=D
+# Set 0x44e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44e4
+*A=D
+# Set 0x44e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44e5
+*A=D
+# Set 0x44e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44e6
+*A=D
+# Set 0x44e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44e7
+*A=D
+# Set 0x44e8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44e8
+*A=D
+# Set 0x44e9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44e9
+*A=D
+# Set 0x44ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44ea
+*A=D
+# Set 0x44eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44eb
+*A=D
+# Set 0x44ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44ec
+*A=D
+# Set 0x44ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44ed
+*A=D
+# Set 0x44ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44ee
+*A=D
+# Set 0x44ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44ef
+*A=D
+# Set 0x44f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44f0
+*A=D
+# Set 0x44f1 to 61830
+A=0x7fff
+D=A
+A=0x7187
+D=D+A
+A=0x44f1
+*A=D
+# Set 0x44f2 to 4351
+A=0x10ff
+D=A
+A=0x44f2
+*A=D
+# Set 0x44f3 to 62975
+A=0x7fff
+D=A
+A=0x7600
+D=D+A
+A=0x44f3
+*A=D
+# Set 0x44f4 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x44f4
+*A=D
+# Set 0x44f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44f5
+*A=D
+# Set 0x44f6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44f6
+*A=D
+# Set 0x44f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44f7
+*A=D
+# Set 0x44f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44f8
+*A=D
+# Set 0x44f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44f9
+*A=D
+# Set 0x44fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44fa
+*A=D
+# Set 0x44fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44fb
+*A=D
+# Set 0x44fc to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x44fc
+*A=D
+# Set 0x44fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44fd
+*A=D
+# Set 0x44fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44fe
+*A=D
+# Set 0x44ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x44ff
+*A=D
+# Set 0x4500 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4500
+*A=D
+# Set 0x4501 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4501
+*A=D
+# Set 0x4502 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4502
+*A=D
+# Set 0x4503 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4503
+*A=D
+# Set 0x4504 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4504
+*A=D
+# Set 0x4505 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4505
+*A=D
+# Set 0x4506 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4506
+*A=D
+# Set 0x4507 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4507
+*A=D
+# Set 0x4508 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4508
+*A=D
+# Set 0x4509 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4509
+*A=D
+# Set 0x450a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x450a
+*A=D
+# Set 0x450b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x450b
+*A=D
+# Set 0x450c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x450c
+*A=D
+# Set 0x450d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x450d
+*A=D
+# Set 0x450e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x450e
+*A=D
+# Set 0x450f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x450f
+*A=D
+# Set 0x4510 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4510
+*A=D
+# Set 0x4511 to 61700
+A=0x7fff
+D=A
+A=0x7105
+D=D+A
+A=0x4511
+*A=D
+# Set 0x4512 to 37119
+A=0x7fff
+D=A
+A=0x1100
+D=D+A
+A=0x4512
+*A=D
+# Set 0x4513 to 63686
+A=0x7fff
+D=A
+A=0x78c7
+D=D+A
+A=0x4513
+*A=D
+# Set 0x4514 to 13311
+A=0x33ff
+D=A
+A=0x4514
+*A=D
+# Set 0x4515 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4515
+*A=D
+# Set 0x4516 to 65439
+A=0x7fff
+D=A
+A=0x7fa0
+D=D+A
+A=0x4516
+*A=D
+# Set 0x4517 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4517
+*A=D
+# Set 0x4518 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4518
+*A=D
+# Set 0x4519 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4519
+*A=D
+# Set 0x451a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x451a
+*A=D
+# Set 0x451b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x451b
+*A=D
+# Set 0x451c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x451c
+*A=D
+# Set 0x451d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x451d
+*A=D
+# Set 0x451e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x451e
+*A=D
+# Set 0x451f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x451f
+*A=D
+# Set 0x4520 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4520
+*A=D
+# Set 0x4521 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4521
+*A=D
+# Set 0x4522 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4522
+*A=D
+# Set 0x4523 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4523
+*A=D
+# Set 0x4524 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4524
+*A=D
+# Set 0x4525 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4525
+*A=D
+# Set 0x4526 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4526
+*A=D
+# Set 0x4527 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4527
+*A=D
+# Set 0x4528 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4528
+*A=D
+# Set 0x4529 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4529
+*A=D
+# Set 0x452a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x452a
+*A=D
+# Set 0x452b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x452b
+*A=D
+# Set 0x452c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x452c
+*A=D
+# Set 0x452d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x452d
+*A=D
+# Set 0x452e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x452e
+*A=D
+# Set 0x452f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x452f
+*A=D
+# Set 0x4530 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4530
+*A=D
+# Set 0x4531 to 63749
+A=0x7fff
+D=A
+A=0x7906
+D=D+A
+A=0x4531
+*A=D
+# Set 0x4532 to 63999
+A=0x7fff
+D=A
+A=0x7a00
+D=D+A
+A=0x4532
+*A=D
+# Set 0x4533 to 61826
+A=0x7fff
+D=A
+A=0x7183
+D=D+A
+A=0x4533
+*A=D
+# Set 0x4534 to 15359
+A=0x3bff
+D=A
+A=0x4534
+*A=D
+# Set 0x4535 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4535
+*A=D
+# Set 0x4536 to 65305
+A=0x7fff
+D=A
+A=0x7f1a
+D=D+A
+A=0x4536
+*A=D
+# Set 0x4537 to 64585
+A=0x7fff
+D=A
+A=0x7c4a
+D=D+A
+A=0x4537
+*A=D
+# Set 0x4538 to 16367
+A=0x3fef
+D=A
+A=0x4538
+*A=D
+# Set 0x4539 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4539
+*A=D
+# Set 0x453a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x453a
+*A=D
+# Set 0x453b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x453b
+*A=D
+# Set 0x453c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x453c
+*A=D
+# Set 0x453d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x453d
+*A=D
+# Set 0x453e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x453e
+*A=D
+# Set 0x453f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x453f
+*A=D
+# Set 0x4540 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4540
+*A=D
+# Set 0x4541 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4541
+*A=D
+# Set 0x4542 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4542
+*A=D
+# Set 0x4543 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4543
+*A=D
+# Set 0x4544 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4544
+*A=D
+# Set 0x4545 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4545
+*A=D
+# Set 0x4546 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4546
+*A=D
+# Set 0x4547 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4547
+*A=D
+# Set 0x4548 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4548
+*A=D
+# Set 0x4549 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4549
+*A=D
+# Set 0x454a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x454a
+*A=D
+# Set 0x454b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x454b
+*A=D
+# Set 0x454c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x454c
+*A=D
+# Set 0x454d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x454d
+*A=D
+# Set 0x454e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x454e
+*A=D
+# Set 0x454f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x454f
+*A=D
+# Set 0x4550 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4550
+*A=D
+# Set 0x4551 to 63876
+A=0x7fff
+D=A
+A=0x7985
+D=D+A
+A=0x4551
+*A=D
+# Set 0x4552 to 4303
+A=0x10cf
+D=A
+A=0x4552
+*A=D
+# Set 0x4553 to 63622
+A=0x7fff
+D=A
+A=0x7887
+D=D+A
+A=0x4553
+*A=D
+# Set 0x4554 to 15359
+A=0x3bff
+D=A
+A=0x4554
+*A=D
+# Set 0x4555 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4555
+*A=D
+# Set 0x4556 to 65309
+A=0x7fff
+D=A
+A=0x7f1e
+D=D+A
+A=0x4556
+*A=D
+# Set 0x4557 to 65125
+A=0x7fff
+D=A
+A=0x7e66
+D=D+A
+A=0x4557
+*A=D
+# Set 0x4558 to 4039
+A=0xfc7
+D=A
+A=0x4558
+*A=D
+# Set 0x4559 to 65529
+A=0x7fff
+D=A
+A=0x7ffa
+D=D+A
+A=0x4559
+*A=D
+# Set 0x455a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x455a
+*A=D
+# Set 0x455b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x455b
+*A=D
+# Set 0x455c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x455c
+*A=D
+# Set 0x455d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x455d
+*A=D
+# Set 0x455e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x455e
+*A=D
+# Set 0x455f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x455f
+*A=D
+# Set 0x4560 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4560
+*A=D
+# Set 0x4561 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4561
+*A=D
+# Set 0x4562 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4562
+*A=D
+# Set 0x4563 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4563
+*A=D
+# Set 0x4564 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4564
+*A=D
+# Set 0x4565 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4565
+*A=D
+# Set 0x4566 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4566
+*A=D
+# Set 0x4567 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4567
+*A=D
+# Set 0x4568 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4568
+*A=D
+# Set 0x4569 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4569
+*A=D
+# Set 0x456a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x456a
+*A=D
+# Set 0x456b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x456b
+*A=D
+# Set 0x456c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x456c
+*A=D
+# Set 0x456d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x456d
+*A=D
+# Set 0x456e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x456e
+*A=D
+# Set 0x456f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x456f
+*A=D
+# Set 0x4570 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4570
+*A=D
+# Set 0x4571 to 65486
+A=0x7fff
+D=A
+A=0x7fcf
+D=D+A
+A=0x4571
+*A=D
+# Set 0x4572 to 12495
+A=0x30cf
+D=A
+A=0x4572
+*A=D
+# Set 0x4573 to 63622
+A=0x7fff
+D=A
+A=0x7887
+D=D+A
+A=0x4573
+*A=D
+# Set 0x4574 to 39935
+A=0x7fff
+D=A
+A=0x1c00
+D=D+A
+A=0x4574
+*A=D
+# Set 0x4575 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4575
+*A=D
+# Set 0x4576 to 65309
+A=0x7fff
+D=A
+A=0x7f1e
+D=D+A
+A=0x4576
+*A=D
+# Set 0x4577 to 65061
+A=0x7fff
+D=A
+A=0x7e26
+D=D+A
+A=0x4577
+*A=D
+# Set 0x4578 to 28599
+A=0x6fb7
+D=A
+A=0x4578
+*A=D
+# Set 0x4579 to 59381
+A=0x7fff
+D=A
+A=0x67f6
+D=D+A
+A=0x4579
+*A=D
+# Set 0x457a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x457a
+*A=D
+# Set 0x457b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x457b
+*A=D
+# Set 0x457c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x457c
+*A=D
+# Set 0x457d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x457d
+*A=D
+# Set 0x457e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x457e
+*A=D
+# Set 0x457f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x457f
+*A=D
+# Set 0x4580 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4580
+*A=D
+# Set 0x4581 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4581
+*A=D
+# Set 0x4582 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4582
+*A=D
+# Set 0x4583 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4583
+*A=D
+# Set 0x4584 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4584
+*A=D
+# Set 0x4585 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4585
+*A=D
+# Set 0x4586 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4586
+*A=D
+# Set 0x4587 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4587
+*A=D
+# Set 0x4588 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4588
+*A=D
+# Set 0x4589 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4589
+*A=D
+# Set 0x458a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x458a
+*A=D
+# Set 0x458b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x458b
+*A=D
+# Set 0x458c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x458c
+*A=D
+# Set 0x458d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x458d
+*A=D
+# Set 0x458e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x458e
+*A=D
+# Set 0x458f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x458f
+*A=D
+# Set 0x4590 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4590
+*A=D
+# Set 0x4591 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4591
+*A=D
+# Set 0x4592 to 65503
+A=0x7fff
+D=A
+A=0x7fe0
+D=D+A
+A=0x4592
+*A=D
+# Set 0x4593 to 65510
+A=0x7fff
+D=A
+A=0x7fe7
+D=D+A
+A=0x4593
+*A=D
+# Set 0x4594 to 12543
+A=0x30ff
+D=A
+A=0x4594
+*A=D
+# Set 0x4595 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4595
+*A=D
+# Set 0x4596 to 65309
+A=0x7fff
+D=A
+A=0x7f1e
+D=D+A
+A=0x4596
+*A=D
+# Set 0x4597 to 64553
+A=0x7fff
+D=A
+A=0x7c2a
+D=D+A
+A=0x4597
+*A=D
+# Set 0x4598 to 28599
+A=0x6fb7
+D=A
+A=0x4598
+*A=D
+# Set 0x4599 to 50165
+A=0x7fff
+D=A
+A=0x43f6
+D=D+A
+A=0x4599
+*A=D
+# Set 0x459a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x459a
+*A=D
+# Set 0x459b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x459b
+*A=D
+# Set 0x459c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x459c
+*A=D
+# Set 0x459d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x459d
+*A=D
+# Set 0x459e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x459e
+*A=D
+# Set 0x459f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x459f
+*A=D
+# Set 0x45a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45a0
+*A=D
+# Set 0x45a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45a1
+*A=D
+# Set 0x45a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45a2
+*A=D
+# Set 0x45a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45a3
+*A=D
+# Set 0x45a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45a4
+*A=D
+# Set 0x45a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45a5
+*A=D
+# Set 0x45a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45a6
+*A=D
+# Set 0x45a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45a7
+*A=D
+# Set 0x45a8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45a8
+*A=D
+# Set 0x45a9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45a9
+*A=D
+# Set 0x45aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45aa
+*A=D
+# Set 0x45ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45ab
+*A=D
+# Set 0x45ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45ac
+*A=D
+# Set 0x45ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45ad
+*A=D
+# Set 0x45ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45ae
+*A=D
+# Set 0x45af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45af
+*A=D
+# Set 0x45b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45b0
+*A=D
+# Set 0x45b1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45b1
+*A=D
+# Set 0x45b2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45b2
+*A=D
+# Set 0x45b3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45b3
+*A=D
+# Set 0x45b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45b4
+*A=D
+# Set 0x45b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45b5
+*A=D
+# Set 0x45b6 to 65336
+A=0x7fff
+D=A
+A=0x7f39
+D=D+A
+A=0x45b6
+*A=D
+# Set 0x45b7 to 64937
+A=0x7fff
+D=A
+A=0x7daa
+D=D+A
+A=0x45b7
+*A=D
+# Set 0x45b8 to 28567
+A=0x6f97
+D=A
+A=0x45b8
+*A=D
+# Set 0x45b9 to 50165
+A=0x7fff
+D=A
+A=0x43f6
+D=D+A
+A=0x45b9
+*A=D
+# Set 0x45ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45ba
+*A=D
+# Set 0x45bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45bb
+*A=D
+# Set 0x45bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45bc
+*A=D
+# Set 0x45bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45bd
+*A=D
+# Set 0x45be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45be
+*A=D
+# Set 0x45bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45bf
+*A=D
+# Set 0x45c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45c0
+*A=D
+# Set 0x45c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45c1
+*A=D
+# Set 0x45c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45c2
+*A=D
+# Set 0x45c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45c3
+*A=D
+# Set 0x45c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45c4
+*A=D
+# Set 0x45c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45c5
+*A=D
+# Set 0x45c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45c6
+*A=D
+# Set 0x45c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45c7
+*A=D
+# Set 0x45c8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45c8
+*A=D
+# Set 0x45c9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45c9
+*A=D
+# Set 0x45ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45ca
+*A=D
+# Set 0x45cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45cb
+*A=D
+# Set 0x45cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45cc
+*A=D
+# Set 0x45cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45cd
+*A=D
+# Set 0x45ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45ce
+*A=D
+# Set 0x45cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45cf
+*A=D
+# Set 0x45d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45d0
+*A=D
+# Set 0x45d1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45d1
+*A=D
+# Set 0x45d2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45d2
+*A=D
+# Set 0x45d3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45d3
+*A=D
+# Set 0x45d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45d4
+*A=D
+# Set 0x45d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45d5
+*A=D
+# Set 0x45d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45d6
+*A=D
+# Set 0x45d7 to 64901
+A=0x7fff
+D=A
+A=0x7d86
+D=D+A
+A=0x45d7
+*A=D
+# Set 0x45d8 to 8135
+A=0x1fc7
+D=A
+A=0x45d8
+*A=D
+# Set 0x45d9 to 65525
+A=0x7fff
+D=A
+A=0x7ff6
+D=D+A
+A=0x45d9
+*A=D
+# Set 0x45da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45da
+*A=D
+# Set 0x45db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45db
+*A=D
+# Set 0x45dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45dc
+*A=D
+# Set 0x45dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45dd
+*A=D
+# Set 0x45de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45de
+*A=D
+# Set 0x45df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45df
+*A=D
+# Set 0x45e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45e0
+*A=D
+# Set 0x45e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45e1
+*A=D
+# Set 0x45e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45e2
+*A=D
+# Set 0x45e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45e3
+*A=D
+# Set 0x45e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45e4
+*A=D
+# Set 0x45e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45e5
+*A=D
+# Set 0x45e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45e6
+*A=D
+# Set 0x45e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45e7
+*A=D
+# Set 0x45e8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45e8
+*A=D
+# Set 0x45e9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45e9
+*A=D
+# Set 0x45ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45ea
+*A=D
+# Set 0x45eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45eb
+*A=D
+# Set 0x45ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45ec
+*A=D
+# Set 0x45ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45ed
+*A=D
+# Set 0x45ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45ee
+*A=D
+# Set 0x45ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45ef
+*A=D
+# Set 0x45f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45f0
+*A=D
+# Set 0x45f1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45f1
+*A=D
+# Set 0x45f2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45f2
+*A=D
+# Set 0x45f3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45f3
+*A=D
+# Set 0x45f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45f4
+*A=D
+# Set 0x45f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45f5
+*A=D
+# Set 0x45f6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45f6
+*A=D
+# Set 0x45f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45f7
+*A=D
+# Set 0x45f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45f8
+*A=D
+# Set 0x45f9 to 65529
+A=0x7fff
+D=A
+A=0x7ffa
+D=D+A
+A=0x45f9
+*A=D
+# Set 0x45fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45fa
+*A=D
+# Set 0x45fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45fb
+*A=D
+# Set 0x45fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45fc
+*A=D
+# Set 0x45fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45fd
+*A=D
+# Set 0x45fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45fe
+*A=D
+# Set 0x45ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x45ff
+*A=D
+# Set 0x4600 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4600
+*A=D
+# Set 0x4601 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4601
+*A=D
+# Set 0x4602 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4602
+*A=D
+# Set 0x4603 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4603
+*A=D
+# Set 0x4604 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4604
+*A=D
+# Set 0x4605 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4605
+*A=D
+# Set 0x4606 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4606
+*A=D
+# Set 0x4607 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4607
+*A=D
+# Set 0x4608 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4608
+*A=D
+# Set 0x4609 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4609
+*A=D
+# Set 0x460a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x460a
+*A=D
+# Set 0x460b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x460b
+*A=D
+# Set 0x460c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x460c
+*A=D
+# Set 0x460d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x460d
+*A=D
+# Set 0x460e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x460e
+*A=D
+# Set 0x460f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x460f
+*A=D
+# Set 0x4610 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4610
+*A=D
+# Set 0x4611 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4611
+*A=D
+# Set 0x4612 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4612
+*A=D
+# Set 0x4613 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4613
+*A=D
+# Set 0x4614 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4614
+*A=D
+# Set 0x4615 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4615
+*A=D
+# Set 0x4616 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4616
+*A=D
+# Set 0x4617 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4617
+*A=D
+# Set 0x4618 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4618
+*A=D
+# Set 0x4619 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4619
+*A=D
+# Set 0x461a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x461a
+*A=D
+# Set 0x461b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x461b
+*A=D
+# Set 0x461c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x461c
+*A=D
+# Set 0x461d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x461d
+*A=D
+# Set 0x461e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x461e
+*A=D
+# Set 0x461f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x461f
+*A=D
+# Set 0x4620 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4620
+*A=D
+# Set 0x4621 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4621
+*A=D
+# Set 0x4622 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4622
+*A=D
+# Set 0x4623 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4623
+*A=D
+# Set 0x4624 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4624
+*A=D
+# Set 0x4625 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4625
+*A=D
+# Set 0x4626 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4626
+*A=D
+# Set 0x4627 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4627
+*A=D
+# Set 0x4628 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4628
+*A=D
+# Set 0x4629 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4629
+*A=D
+# Set 0x462a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x462a
+*A=D
+# Set 0x462b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x462b
+*A=D
+# Set 0x462c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x462c
+*A=D
+# Set 0x462d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x462d
+*A=D
+# Set 0x462e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x462e
+*A=D
+# Set 0x462f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x462f
+*A=D
+# Set 0x4630 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4630
+*A=D
+# Set 0x4631 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4631
+*A=D
+# Set 0x4632 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4632
+*A=D
+# Set 0x4633 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4633
+*A=D
+# Set 0x4634 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4634
+*A=D
+# Set 0x4635 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4635
+*A=D
+# Set 0x4636 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4636
+*A=D
+# Set 0x4637 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4637
+*A=D
+# Set 0x4638 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4638
+*A=D
+# Set 0x4639 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4639
+*A=D
+# Set 0x463a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x463a
+*A=D
+# Set 0x463b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x463b
+*A=D
+# Set 0x463c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x463c
+*A=D
+# Set 0x463d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x463d
+*A=D
+# Set 0x463e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x463e
+*A=D
+# Set 0x463f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x463f
+*A=D
+# Set 0x4640 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4640
+*A=D
+# Set 0x4641 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4641
+*A=D
+# Set 0x4642 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4642
+*A=D
+# Set 0x4643 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4643
+*A=D
+# Set 0x4644 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4644
+*A=D
+# Set 0x4645 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4645
+*A=D
+# Set 0x4646 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4646
+*A=D
+# Set 0x4647 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4647
+*A=D
+# Set 0x4648 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4648
+*A=D
+# Set 0x4649 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4649
+*A=D
+# Set 0x464a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x464a
+*A=D
+# Set 0x464b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x464b
+*A=D
+# Set 0x464c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x464c
+*A=D
+# Set 0x464d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x464d
+*A=D
+# Set 0x464e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x464e
+*A=D
+# Set 0x464f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x464f
+*A=D
+# Set 0x4650 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4650
+*A=D
+# Set 0x4651 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4651
+*A=D
+# Set 0x4652 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4652
+*A=D
+# Set 0x4653 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4653
+*A=D
+# Set 0x4654 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4654
+*A=D
+# Set 0x4655 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4655
+*A=D
+# Set 0x4656 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4656
+*A=D
+# Set 0x4657 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4657
+*A=D
+# Set 0x4658 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4658
+*A=D
+# Set 0x4659 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4659
+*A=D
+# Set 0x465a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x465a
+*A=D
+# Set 0x465b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x465b
+*A=D
+# Set 0x465c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x465c
+*A=D
+# Set 0x465d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x465d
+*A=D
+# Set 0x465e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x465e
+*A=D
+# Set 0x465f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x465f
+*A=D
+# Set 0x4660 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4660
+*A=D
+# Set 0x4661 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4661
+*A=D
+# Set 0x4662 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4662
+*A=D
+# Set 0x4663 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4663
+*A=D
+# Set 0x4664 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4664
+*A=D
+# Set 0x4665 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4665
+*A=D
+# Set 0x4666 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4666
+*A=D
+# Set 0x4667 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4667
+*A=D
+# Set 0x4668 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4668
+*A=D
+# Set 0x4669 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4669
+*A=D
+# Set 0x466a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x466a
+*A=D
+# Set 0x466b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x466b
+*A=D
+# Set 0x466c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x466c
+*A=D
+# Set 0x466d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x466d
+*A=D
+# Set 0x466e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x466e
+*A=D
+# Set 0x466f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x466f
+*A=D
+# Set 0x4670 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4670
+*A=D
+# Set 0x4671 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4671
+*A=D
+# Set 0x4672 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4672
+*A=D
+# Set 0x4673 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4673
+*A=D
+# Set 0x4674 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4674
+*A=D
+# Set 0x4675 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4675
+*A=D
+# Set 0x4676 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4676
+*A=D
+# Set 0x4677 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4677
+*A=D
+# Set 0x4678 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4678
+*A=D
+# Set 0x4679 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4679
+*A=D
+# Set 0x467a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x467a
+*A=D
+# Set 0x467b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x467b
+*A=D
+# Set 0x467c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x467c
+*A=D
+# Set 0x467d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x467d
+*A=D
+# Set 0x467e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x467e
+*A=D
+# Set 0x467f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x467f
+*A=D
+# Set 0x4680 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4680
+*A=D
+# Set 0x4681 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4681
+*A=D
+# Set 0x4682 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4682
+*A=D
+# Set 0x4683 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4683
+*A=D
+# Set 0x4684 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4684
+*A=D
+# Set 0x4685 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4685
+*A=D
+# Set 0x4686 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4686
+*A=D
+# Set 0x4687 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4687
+*A=D
+# Set 0x4688 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4688
+*A=D
+# Set 0x4689 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4689
+*A=D
+# Set 0x468a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x468a
+*A=D
+# Set 0x468b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x468b
+*A=D
+# Set 0x468c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x468c
+*A=D
+# Set 0x468d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x468d
+*A=D
+# Set 0x468e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x468e
+*A=D
+# Set 0x468f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x468f
+*A=D
+# Set 0x4690 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4690
+*A=D
+# Set 0x4691 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4691
+*A=D
+# Set 0x4692 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4692
+*A=D
+# Set 0x4693 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4693
+*A=D
+# Set 0x4694 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4694
+*A=D
+# Set 0x4695 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4695
+*A=D
+# Set 0x4696 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4696
+*A=D
+# Set 0x4697 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4697
+*A=D
+# Set 0x4698 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4698
+*A=D
+# Set 0x4699 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4699
+*A=D
+# Set 0x469a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x469a
+*A=D
+# Set 0x469b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x469b
+*A=D
+# Set 0x469c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x469c
+*A=D
+# Set 0x469d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x469d
+*A=D
+# Set 0x469e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x469e
+*A=D
+# Set 0x469f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x469f
+*A=D
+# Set 0x46a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46a0
+*A=D
+# Set 0x46a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46a1
+*A=D
+# Set 0x46a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46a2
+*A=D
+# Set 0x46a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46a3
+*A=D
+# Set 0x46a4 to 61695
+A=0x7fff
+D=A
+A=0x7100
+D=D+A
+A=0x46a4
+*A=D
+# Set 0x46a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46a5
+*A=D
+# Set 0x46a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46a6
+*A=D
+# Set 0x46a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46a7
+*A=D
+# Set 0x46a8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46a8
+*A=D
+# Set 0x46a9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46a9
+*A=D
+# Set 0x46aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46aa
+*A=D
+# Set 0x46ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46ab
+*A=D
+# Set 0x46ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46ac
+*A=D
+# Set 0x46ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46ad
+*A=D
+# Set 0x46ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46ae
+*A=D
+# Set 0x46af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46af
+*A=D
+# Set 0x46b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46b0
+*A=D
+# Set 0x46b1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46b1
+*A=D
+# Set 0x46b2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46b2
+*A=D
+# Set 0x46b3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46b3
+*A=D
+# Set 0x46b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46b4
+*A=D
+# Set 0x46b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46b5
+*A=D
+# Set 0x46b6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46b6
+*A=D
+# Set 0x46b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46b7
+*A=D
+# Set 0x46b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46b8
+*A=D
+# Set 0x46b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46b9
+*A=D
+# Set 0x46ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46ba
+*A=D
+# Set 0x46bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46bb
+*A=D
+# Set 0x46bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46bc
+*A=D
+# Set 0x46bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46bd
+*A=D
+# Set 0x46be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46be
+*A=D
+# Set 0x46bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46bf
+*A=D
+# Set 0x46c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46c0
+*A=D
+# Set 0x46c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46c1
+*A=D
+# Set 0x46c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46c2
+*A=D
+# Set 0x46c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46c3
+*A=D
+# Set 0x46c4 to 61567
+A=0x7fff
+D=A
+A=0x7080
+D=D+A
+A=0x46c4
+*A=D
+# Set 0x46c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46c5
+*A=D
+# Set 0x46c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46c6
+*A=D
+# Set 0x46c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46c7
+*A=D
+# Set 0x46c8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46c8
+*A=D
+# Set 0x46c9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46c9
+*A=D
+# Set 0x46ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46ca
+*A=D
+# Set 0x46cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46cb
+*A=D
+# Set 0x46cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46cc
+*A=D
+# Set 0x46cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46cd
+*A=D
+# Set 0x46ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46ce
+*A=D
+# Set 0x46cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46cf
+*A=D
+# Set 0x46d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46d0
+*A=D
+# Set 0x46d1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46d1
+*A=D
+# Set 0x46d2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46d2
+*A=D
+# Set 0x46d3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46d3
+*A=D
+# Set 0x46d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46d4
+*A=D
+# Set 0x46d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46d5
+*A=D
+# Set 0x46d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46d6
+*A=D
+# Set 0x46d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46d7
+*A=D
+# Set 0x46d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46d8
+*A=D
+# Set 0x46d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46d9
+*A=D
+# Set 0x46da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46da
+*A=D
+# Set 0x46db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46db
+*A=D
+# Set 0x46dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46dc
+*A=D
+# Set 0x46dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46dd
+*A=D
+# Set 0x46de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46de
+*A=D
+# Set 0x46df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46df
+*A=D
+# Set 0x46e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46e0
+*A=D
+# Set 0x46e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46e1
+*A=D
+# Set 0x46e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46e2
+*A=D
+# Set 0x46e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46e3
+*A=D
+# Set 0x46e4 to 62271
+A=0x7fff
+D=A
+A=0x7340
+D=D+A
+A=0x46e4
+*A=D
+# Set 0x46e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46e5
+*A=D
+# Set 0x46e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46e6
+*A=D
+# Set 0x46e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46e7
+*A=D
+# Set 0x46e8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46e8
+*A=D
+# Set 0x46e9 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x46e9
+*A=D
+# Set 0x46ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46ea
+*A=D
+# Set 0x46eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46eb
+*A=D
+# Set 0x46ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46ec
+*A=D
+# Set 0x46ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46ed
+*A=D
+# Set 0x46ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46ee
+*A=D
+# Set 0x46ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46ef
+*A=D
+# Set 0x46f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46f0
+*A=D
+# Set 0x46f1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46f1
+*A=D
+# Set 0x46f2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46f2
+*A=D
+# Set 0x46f3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46f3
+*A=D
+# Set 0x46f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46f4
+*A=D
+# Set 0x46f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46f5
+*A=D
+# Set 0x46f6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46f6
+*A=D
+# Set 0x46f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46f7
+*A=D
+# Set 0x46f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46f8
+*A=D
+# Set 0x46f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46f9
+*A=D
+# Set 0x46fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46fa
+*A=D
+# Set 0x46fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46fb
+*A=D
+# Set 0x46fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46fc
+*A=D
+# Set 0x46fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46fd
+*A=D
+# Set 0x46fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46fe
+*A=D
+# Set 0x46ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x46ff
+*A=D
+# Set 0x4700 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4700
+*A=D
+# Set 0x4701 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4701
+*A=D
+# Set 0x4702 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4702
+*A=D
+# Set 0x4703 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4703
+*A=D
+# Set 0x4704 to 62271
+A=0x7fff
+D=A
+A=0x7340
+D=D+A
+A=0x4704
+*A=D
+# Set 0x4705 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4705
+*A=D
+# Set 0x4706 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4706
+*A=D
+# Set 0x4707 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4707
+*A=D
+# Set 0x4708 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4708
+*A=D
+# Set 0x4709 to 61951
+A=0x7fff
+D=A
+A=0x7200
+D=D+A
+A=0x4709
+*A=D
+# Set 0x470a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x470a
+*A=D
+# Set 0x470b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x470b
+*A=D
+# Set 0x470c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x470c
+*A=D
+# Set 0x470d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x470d
+*A=D
+# Set 0x470e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x470e
+*A=D
+# Set 0x470f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x470f
+*A=D
+# Set 0x4710 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4710
+*A=D
+# Set 0x4711 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4711
+*A=D
+# Set 0x4712 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4712
+*A=D
+# Set 0x4713 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4713
+*A=D
+# Set 0x4714 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4714
+*A=D
+# Set 0x4715 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4715
+*A=D
+# Set 0x4716 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4716
+*A=D
+# Set 0x4717 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4717
+*A=D
+# Set 0x4718 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4718
+*A=D
+# Set 0x4719 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4719
+*A=D
+# Set 0x471a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x471a
+*A=D
+# Set 0x471b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x471b
+*A=D
+# Set 0x471c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x471c
+*A=D
+# Set 0x471d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x471d
+*A=D
+# Set 0x471e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x471e
+*A=D
+# Set 0x471f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x471f
+*A=D
+# Set 0x4720 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4720
+*A=D
+# Set 0x4721 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4721
+*A=D
+# Set 0x4722 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4722
+*A=D
+# Set 0x4723 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4723
+*A=D
+# Set 0x4724 to 62399
+A=0x7fff
+D=A
+A=0x73c0
+D=D+A
+A=0x4724
+*A=D
+# Set 0x4725 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4725
+*A=D
+# Set 0x4726 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4726
+*A=D
+# Set 0x4727 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4727
+*A=D
+# Set 0x4728 to 1553
+A=0x611
+D=A
+A=0x4728
+*A=D
+# Set 0x4729 to 7679
+A=0x1dff
+D=A
+A=0x4729
+*A=D
+# Set 0x472a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x472a
+*A=D
+# Set 0x472b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x472b
+*A=D
+# Set 0x472c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x472c
+*A=D
+# Set 0x472d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x472d
+*A=D
+# Set 0x472e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x472e
+*A=D
+# Set 0x472f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x472f
+*A=D
+# Set 0x4730 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4730
+*A=D
+# Set 0x4731 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4731
+*A=D
+# Set 0x4732 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4732
+*A=D
+# Set 0x4733 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4733
+*A=D
+# Set 0x4734 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4734
+*A=D
+# Set 0x4735 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4735
+*A=D
+# Set 0x4736 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4736
+*A=D
+# Set 0x4737 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4737
+*A=D
+# Set 0x4738 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4738
+*A=D
+# Set 0x4739 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4739
+*A=D
+# Set 0x473a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x473a
+*A=D
+# Set 0x473b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x473b
+*A=D
+# Set 0x473c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x473c
+*A=D
+# Set 0x473d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x473d
+*A=D
+# Set 0x473e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x473e
+*A=D
+# Set 0x473f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x473f
+*A=D
+# Set 0x4740 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4740
+*A=D
+# Set 0x4741 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4741
+*A=D
+# Set 0x4742 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4742
+*A=D
+# Set 0x4743 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4743
+*A=D
+# Set 0x4744 to 62399
+A=0x7fff
+D=A
+A=0x73c0
+D=D+A
+A=0x4744
+*A=D
+# Set 0x4745 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4745
+*A=D
+# Set 0x4746 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4746
+*A=D
+# Set 0x4747 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4747
+*A=D
+# Set 0x4748 to 5321
+A=0x14c9
+D=A
+A=0x4748
+*A=D
+# Set 0x4749 to 15871
+A=0x3dff
+D=A
+A=0x4749
+*A=D
+# Set 0x474a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x474a
+*A=D
+# Set 0x474b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x474b
+*A=D
+# Set 0x474c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x474c
+*A=D
+# Set 0x474d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x474d
+*A=D
+# Set 0x474e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x474e
+*A=D
+# Set 0x474f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x474f
+*A=D
+# Set 0x4750 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4750
+*A=D
+# Set 0x4751 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x4751
+*A=D
+# Set 0x4752 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4752
+*A=D
+# Set 0x4753 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4753
+*A=D
+# Set 0x4754 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4754
+*A=D
+# Set 0x4755 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4755
+*A=D
+# Set 0x4756 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4756
+*A=D
+# Set 0x4757 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4757
+*A=D
+# Set 0x4758 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4758
+*A=D
+# Set 0x4759 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4759
+*A=D
+# Set 0x475a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x475a
+*A=D
+# Set 0x475b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x475b
+*A=D
+# Set 0x475c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x475c
+*A=D
+# Set 0x475d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x475d
+*A=D
+# Set 0x475e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x475e
+*A=D
+# Set 0x475f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x475f
+*A=D
+# Set 0x4760 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4760
+*A=D
+# Set 0x4761 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4761
+*A=D
+# Set 0x4762 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4762
+*A=D
+# Set 0x4763 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4763
+*A=D
+# Set 0x4764 to 62399
+A=0x7fff
+D=A
+A=0x73c0
+D=D+A
+A=0x4764
+*A=D
+# Set 0x4765 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4765
+*A=D
+# Set 0x4766 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4766
+*A=D
+# Set 0x4767 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4767
+*A=D
+# Set 0x4768 to 38349
+A=0x7fff
+D=A
+A=0x15ce
+D=D+A
+A=0x4768
+*A=D
+# Set 0x4769 to 15871
+A=0x3dff
+D=A
+A=0x4769
+*A=D
+# Set 0x476a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x476a
+*A=D
+# Set 0x476b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x476b
+*A=D
+# Set 0x476c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x476c
+*A=D
+# Set 0x476d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x476d
+*A=D
+# Set 0x476e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x476e
+*A=D
+# Set 0x476f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x476f
+*A=D
+# Set 0x4770 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4770
+*A=D
+# Set 0x4771 to 61831
+A=0x7fff
+D=A
+A=0x7188
+D=D+A
+A=0x4771
+*A=D
+# Set 0x4772 to 65487
+A=0x7fff
+D=A
+A=0x7fd0
+D=D+A
+A=0x4772
+*A=D
+# Set 0x4773 to 65519
+A=0x7fff
+D=A
+A=0x7ff0
+D=D+A
+A=0x4773
+*A=D
+# Set 0x4774 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4774
+*A=D
+# Set 0x4775 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4775
+*A=D
+# Set 0x4776 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4776
+*A=D
+# Set 0x4777 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4777
+*A=D
+# Set 0x4778 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4778
+*A=D
+# Set 0x4779 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4779
+*A=D
+# Set 0x477a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x477a
+*A=D
+# Set 0x477b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x477b
+*A=D
+# Set 0x477c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x477c
+*A=D
+# Set 0x477d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x477d
+*A=D
+# Set 0x477e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x477e
+*A=D
+# Set 0x477f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x477f
+*A=D
+# Set 0x4780 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4780
+*A=D
+# Set 0x4781 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4781
+*A=D
+# Set 0x4782 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4782
+*A=D
+# Set 0x4783 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4783
+*A=D
+# Set 0x4784 to 62399
+A=0x7fff
+D=A
+A=0x73c0
+D=D+A
+A=0x4784
+*A=D
+# Set 0x4785 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4785
+*A=D
+# Set 0x4786 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4786
+*A=D
+# Set 0x4787 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4787
+*A=D
+# Set 0x4788 to 5324
+A=0x14cc
+D=A
+A=0x4788
+*A=D
+# Set 0x4789 to 32255
+A=0x7dff
+D=A
+A=0x4789
+*A=D
+# Set 0x478a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x478a
+*A=D
+# Set 0x478b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x478b
+*A=D
+# Set 0x478c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x478c
+*A=D
+# Set 0x478d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x478d
+*A=D
+# Set 0x478e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x478e
+*A=D
+# Set 0x478f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x478f
+*A=D
+# Set 0x4790 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4790
+*A=D
+# Set 0x4791 to 63479
+A=0x7fff
+D=A
+A=0x77f8
+D=D+A
+A=0x4791
+*A=D
+# Set 0x4792 to 65423
+A=0x7fff
+D=A
+A=0x7f90
+D=D+A
+A=0x4792
+*A=D
+# Set 0x4793 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4793
+*A=D
+# Set 0x4794 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4794
+*A=D
+# Set 0x4795 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4795
+*A=D
+# Set 0x4796 to 65433
+A=0x7fff
+D=A
+A=0x7f9a
+D=D+A
+A=0x4796
+*A=D
+# Set 0x4797 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4797
+*A=D
+# Set 0x4798 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4798
+*A=D
+# Set 0x4799 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4799
+*A=D
+# Set 0x479a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x479a
+*A=D
+# Set 0x479b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x479b
+*A=D
+# Set 0x479c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x479c
+*A=D
+# Set 0x479d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x479d
+*A=D
+# Set 0x479e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x479e
+*A=D
+# Set 0x479f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x479f
+*A=D
+# Set 0x47a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47a0
+*A=D
+# Set 0x47a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47a1
+*A=D
+# Set 0x47a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47a2
+*A=D
+# Set 0x47a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47a3
+*A=D
+# Set 0x47a4 to 63536
+A=0x7fff
+D=A
+A=0x7831
+D=D+A
+A=0x47a4
+*A=D
+# Set 0x47a5 to 32767
+A=0x7fff
+D=A
+A=0x47a5
+*A=D
+# Set 0x47a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47a6
+*A=D
+# Set 0x47a7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x47a7
+*A=D
+# Set 0x47a8 to 21020
+A=0x521c
+D=A
+A=0x47a8
+*A=D
+# Set 0x47a9 to 28927
+A=0x70ff
+D=A
+A=0x47a9
+*A=D
+# Set 0x47aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47aa
+*A=D
+# Set 0x47ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47ab
+*A=D
+# Set 0x47ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47ac
+*A=D
+# Set 0x47ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47ad
+*A=D
+# Set 0x47ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47ae
+*A=D
+# Set 0x47af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47af
+*A=D
+# Set 0x47b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47b0
+*A=D
+# Set 0x47b1 to 61927
+A=0x7fff
+D=A
+A=0x71e8
+D=D+A
+A=0x47b1
+*A=D
+# Set 0x47b2 to 65478
+A=0x7fff
+D=A
+A=0x7fc7
+D=D+A
+A=0x47b2
+*A=D
+# Set 0x47b3 to 4303
+A=0x10cf
+D=A
+A=0x47b3
+*A=D
+# Set 0x47b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47b4
+*A=D
+# Set 0x47b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47b5
+*A=D
+# Set 0x47b6 to 65304
+A=0x7fff
+D=A
+A=0x7f19
+D=D+A
+A=0x47b6
+*A=D
+# Set 0x47b7 to 51199
+A=0x7fff
+D=A
+A=0x4800
+D=D+A
+A=0x47b7
+*A=D
+# Set 0x47b8 to 6350
+A=0x18ce
+D=A
+A=0x47b8
+*A=D
+# Set 0x47b9 to 59391
+A=0x7fff
+D=A
+A=0x6800
+D=D+A
+A=0x47b9
+*A=D
+# Set 0x47ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47ba
+*A=D
+# Set 0x47bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47bb
+*A=D
+# Set 0x47bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47bc
+*A=D
+# Set 0x47bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47bd
+*A=D
+# Set 0x47be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47be
+*A=D
+# Set 0x47bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47bf
+*A=D
+# Set 0x47c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47c0
+*A=D
+# Set 0x47c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47c1
+*A=D
+# Set 0x47c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47c2
+*A=D
+# Set 0x47c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47c3
+*A=D
+# Set 0x47c4 to 65526
+A=0x7fff
+D=A
+A=0x7ff7
+D=D+A
+A=0x47c4
+*A=D
+# Set 0x47c5 to 32767
+A=0x7fff
+D=A
+A=0x47c5
+*A=D
+# Set 0x47c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47c6
+*A=D
+# Set 0x47c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47c7
+*A=D
+# Set 0x47c8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47c8
+*A=D
+# Set 0x47c9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47c9
+*A=D
+# Set 0x47ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47ca
+*A=D
+# Set 0x47cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47cb
+*A=D
+# Set 0x47cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47cc
+*A=D
+# Set 0x47cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47cd
+*A=D
+# Set 0x47ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47ce
+*A=D
+# Set 0x47cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47cf
+*A=D
+# Set 0x47d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47d0
+*A=D
+# Set 0x47d1 to 64719
+A=0x7fff
+D=A
+A=0x7cd0
+D=D+A
+A=0x47d1
+*A=D
+# Set 0x47d2 to 65476
+A=0x7fff
+D=A
+A=0x7fc5
+D=D+A
+A=0x47d2
+*A=D
+# Set 0x47d3 to 4335
+A=0x10ef
+D=A
+A=0x47d3
+*A=D
+# Set 0x47d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47d4
+*A=D
+# Set 0x47d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47d5
+*A=D
+# Set 0x47d6 to 65306
+A=0x7fff
+D=A
+A=0x7f1b
+D=D+A
+A=0x47d6
+*A=D
+# Set 0x47d7 to 38911
+A=0x7fff
+D=A
+A=0x1800
+D=D+A
+A=0x47d7
+*A=D
+# Set 0x47d8 to 23190
+A=0x5a96
+D=A
+A=0x47d8
+*A=D
+# Set 0x47d9 to 60415
+A=0x7fff
+D=A
+A=0x6c00
+D=D+A
+A=0x47d9
+*A=D
+# Set 0x47da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47da
+*A=D
+# Set 0x47db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47db
+*A=D
+# Set 0x47dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47dc
+*A=D
+# Set 0x47dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47dd
+*A=D
+# Set 0x47de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47de
+*A=D
+# Set 0x47df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47df
+*A=D
+# Set 0x47e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47e0
+*A=D
+# Set 0x47e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47e1
+*A=D
+# Set 0x47e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47e2
+*A=D
+# Set 0x47e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47e3
+*A=D
+# Set 0x47e4 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x47e4
+*A=D
+# Set 0x47e5 to 32767
+A=0x7fff
+D=A
+A=0x47e5
+*A=D
+# Set 0x47e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47e6
+*A=D
+# Set 0x47e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47e7
+*A=D
+# Set 0x47e8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47e8
+*A=D
+# Set 0x47e9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47e9
+*A=D
+# Set 0x47ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47ea
+*A=D
+# Set 0x47eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47eb
+*A=D
+# Set 0x47ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47ec
+*A=D
+# Set 0x47ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47ed
+*A=D
+# Set 0x47ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47ee
+*A=D
+# Set 0x47ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47ef
+*A=D
+# Set 0x47f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47f0
+*A=D
+# Set 0x47f1 to 57750
+A=0x7fff
+D=A
+A=0x6197
+D=D+A
+A=0x47f1
+*A=D
+# Set 0x47f2 to 32740
+A=0x7fe4
+D=A
+A=0x47f2
+*A=D
+# Set 0x47f3 to 64751
+A=0x7fff
+D=A
+A=0x7cf0
+D=D+A
+A=0x47f3
+*A=D
+# Set 0x47f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47f4
+*A=D
+# Set 0x47f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47f5
+*A=D
+# Set 0x47f6 to 65298
+A=0x7fff
+D=A
+A=0x7f13
+D=D+A
+A=0x47f6
+*A=D
+# Set 0x47f7 to 47103
+A=0x7fff
+D=A
+A=0x3800
+D=D+A
+A=0x47f7
+*A=D
+# Set 0x47f8 to 19126
+A=0x4ab6
+D=A
+A=0x47f8
+*A=D
+# Set 0x47f9 to 60415
+A=0x7fff
+D=A
+A=0x6c00
+D=D+A
+A=0x47f9
+*A=D
+# Set 0x47fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47fa
+*A=D
+# Set 0x47fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47fb
+*A=D
+# Set 0x47fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47fc
+*A=D
+# Set 0x47fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47fd
+*A=D
+# Set 0x47fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47fe
+*A=D
+# Set 0x47ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x47ff
+*A=D
+# Set 0x4800 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4800
+*A=D
+# Set 0x4801 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4801
+*A=D
+# Set 0x4802 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4802
+*A=D
+# Set 0x4803 to 65472
+A=0x7fff
+D=A
+A=0x7fc1
+D=D+A
+A=0x4803
+*A=D
+# Set 0x4804 to 16375
+A=0x3ff7
+D=A
+A=0x4804
+*A=D
+# Set 0x4805 to 16383
+A=0x3fff
+D=A
+A=0x4805
+*A=D
+# Set 0x4806 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4806
+*A=D
+# Set 0x4807 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4807
+*A=D
+# Set 0x4808 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4808
+*A=D
+# Set 0x4809 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4809
+*A=D
+# Set 0x480a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x480a
+*A=D
+# Set 0x480b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x480b
+*A=D
+# Set 0x480c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x480c
+*A=D
+# Set 0x480d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x480d
+*A=D
+# Set 0x480e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x480e
+*A=D
+# Set 0x480f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x480f
+*A=D
+# Set 0x4810 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4810
+*A=D
+# Set 0x4811 to 64390
+A=0x7fff
+D=A
+A=0x7b87
+D=D+A
+A=0x4811
+*A=D
+# Set 0x4812 to 32742
+A=0x7fe6
+D=A
+A=0x4812
+*A=D
+# Set 0x4813 to 4295
+A=0x10c7
+D=A
+A=0x4813
+*A=D
+# Set 0x4814 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4814
+*A=D
+# Set 0x4815 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4815
+*A=D
+# Set 0x4816 to 65306
+A=0x7fff
+D=A
+A=0x7f1b
+D=D+A
+A=0x4816
+*A=D
+# Set 0x4817 to 38911
+A=0x7fff
+D=A
+A=0x1800
+D=D+A
+A=0x4817
+*A=D
+# Set 0x4818 to 19126
+A=0x4ab6
+D=A
+A=0x4818
+*A=D
+# Set 0x4819 to 60415
+A=0x7fff
+D=A
+A=0x6c00
+D=D+A
+A=0x4819
+*A=D
+# Set 0x481a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x481a
+*A=D
+# Set 0x481b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x481b
+*A=D
+# Set 0x481c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x481c
+*A=D
+# Set 0x481d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x481d
+*A=D
+# Set 0x481e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x481e
+*A=D
+# Set 0x481f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x481f
+*A=D
+# Set 0x4820 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4820
+*A=D
+# Set 0x4821 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4821
+*A=D
+# Set 0x4822 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4822
+*A=D
+# Set 0x4823 to 65503
+A=0x7fff
+D=A
+A=0x7fe0
+D=D+A
+A=0x4823
+*A=D
+# Set 0x4824 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4824
+*A=D
+# Set 0x4825 to 16383
+A=0x3fff
+D=A
+A=0x4825
+*A=D
+# Set 0x4826 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4826
+*A=D
+# Set 0x4827 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4827
+*A=D
+# Set 0x4828 to 34815
+A=0x7fff
+D=A
+A=0x800
+D=D+A
+A=0x4828
+*A=D
+# Set 0x4829 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4829
+*A=D
+# Set 0x482a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x482a
+*A=D
+# Set 0x482b to 57599
+A=0x7fff
+D=A
+A=0x6100
+D=D+A
+A=0x482b
+*A=D
+# Set 0x482c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x482c
+*A=D
+# Set 0x482d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x482d
+*A=D
+# Set 0x482e to 65520
+A=0x7fff
+D=A
+A=0x7ff1
+D=D+A
+A=0x482e
+*A=D
+# Set 0x482f to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x482f
+*A=D
+# Set 0x4830 to 8191
+A=0x1fff
+D=A
+A=0x4830
+*A=D
+# Set 0x4831 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4831
+*A=D
+# Set 0x4832 to 49663
+A=0x7fff
+D=A
+A=0x4200
+D=D+A
+A=0x4832
+*A=D
+# Set 0x4833 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4833
+*A=D
+# Set 0x4834 to 65473
+A=0x7fff
+D=A
+A=0x7fc2
+D=D+A
+A=0x4834
+*A=D
+# Set 0x4835 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4835
+*A=D
+# Set 0x4836 to 65280
+A=0x7fff
+D=A
+A=0x7f01
+D=D+A
+A=0x4836
+*A=D
+# Set 0x4837 to 50803
+A=0x7fff
+D=A
+A=0x4674
+D=D+A
+A=0x4837
+*A=D
+# Set 0x4838 to 6342
+A=0x18c6
+D=A
+A=0x4838
+*A=D
+# Set 0x4839 to 60415
+A=0x7fff
+D=A
+A=0x6c00
+D=D+A
+A=0x4839
+*A=D
+# Set 0x483a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x483a
+*A=D
+# Set 0x483b to 63615
+A=0x7fff
+D=A
+A=0x7880
+D=D+A
+A=0x483b
+*A=D
+# Set 0x483c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x483c
+*A=D
+# Set 0x483d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x483d
+*A=D
+# Set 0x483e to 34815
+A=0x7fff
+D=A
+A=0x800
+D=D+A
+A=0x483e
+*A=D
+# Set 0x483f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x483f
+*A=D
+# Set 0x4840 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4840
+*A=D
+# Set 0x4841 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4841
+*A=D
+# Set 0x4842 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4842
+*A=D
+# Set 0x4843 to 65503
+A=0x7fff
+D=A
+A=0x7fe0
+D=D+A
+A=0x4843
+*A=D
+# Set 0x4844 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4844
+*A=D
+# Set 0x4845 to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x4845
+*A=D
+# Set 0x4846 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4846
+*A=D
+# Set 0x4847 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4847
+*A=D
+# Set 0x4848 to 13311
+A=0x33ff
+D=A
+A=0x4848
+*A=D
+# Set 0x4849 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4849
+*A=D
+# Set 0x484a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x484a
+*A=D
+# Set 0x484b to 60671
+A=0x7fff
+D=A
+A=0x6d00
+D=D+A
+A=0x484b
+*A=D
+# Set 0x484c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x484c
+*A=D
+# Set 0x484d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x484d
+*A=D
+# Set 0x484e to 65508
+A=0x7fff
+D=A
+A=0x7fe5
+D=D+A
+A=0x484e
+*A=D
+# Set 0x484f to 32764
+A=0x7ffc
+D=A
+A=0x484f
+*A=D
+# Set 0x4850 to 36863
+A=0x7fff
+D=A
+A=0x1000
+D=D+A
+A=0x4850
+*A=D
+# Set 0x4851 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4851
+*A=D
+# Set 0x4852 to 40447
+A=0x7fff
+D=A
+A=0x1e00
+D=D+A
+A=0x4852
+*A=D
+# Set 0x4853 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4853
+*A=D
+# Set 0x4854 to 65497
+A=0x7fff
+D=A
+A=0x7fda
+D=D+A
+A=0x4854
+*A=D
+# Set 0x4855 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4855
+*A=D
+# Set 0x4856 to 65425
+A=0x7fff
+D=A
+A=0x7f92
+D=D+A
+A=0x4856
+*A=D
+# Set 0x4857 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4857
+*A=D
+# Set 0x4858 to 48588
+A=0x7fff
+D=A
+A=0x3dcd
+D=D+A
+A=0x4858
+*A=D
+# Set 0x4859 to 25599
+A=0x63ff
+D=A
+A=0x4859
+*A=D
+# Set 0x485a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x485a
+*A=D
+# Set 0x485b to 64319
+A=0x7fff
+D=A
+A=0x7b40
+D=D+A
+A=0x485b
+*A=D
+# Set 0x485c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x485c
+*A=D
+# Set 0x485d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x485d
+*A=D
+# Set 0x485e to 46079
+A=0x7fff
+D=A
+A=0x3400
+D=D+A
+A=0x485e
+*A=D
+# Set 0x485f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x485f
+*A=D
+# Set 0x4860 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4860
+*A=D
+# Set 0x4861 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4861
+*A=D
+# Set 0x4862 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4862
+*A=D
+# Set 0x4863 to 65503
+A=0x7fff
+D=A
+A=0x7fe0
+D=D+A
+A=0x4863
+*A=D
+# Set 0x4864 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4864
+*A=D
+# Set 0x4865 to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x4865
+*A=D
+# Set 0x4866 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4866
+*A=D
+# Set 0x4867 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4867
+*A=D
+# Set 0x4868 to 47356
+A=0x7fff
+D=A
+A=0x38fd
+D=D+A
+A=0x4868
+*A=D
+# Set 0x4869 to 61951
+A=0x7fff
+D=A
+A=0x7200
+D=D+A
+A=0x4869
+*A=D
+# Set 0x486a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x486a
+*A=D
+# Set 0x486b to 61183
+A=0x7fff
+D=A
+A=0x6f00
+D=D+A
+A=0x486b
+*A=D
+# Set 0x486c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x486c
+*A=D
+# Set 0x486d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x486d
+*A=D
+# Set 0x486e to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x486e
+*A=D
+# Set 0x486f to 32764
+A=0x7ffc
+D=A
+A=0x486f
+*A=D
+# Set 0x4870 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4870
+*A=D
+# Set 0x4871 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4871
+*A=D
+# Set 0x4872 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4872
+*A=D
+# Set 0x4873 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4873
+*A=D
+# Set 0x4874 to 65501
+A=0x7fff
+D=A
+A=0x7fde
+D=D+A
+A=0x4874
+*A=D
+# Set 0x4875 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4875
+*A=D
+# Set 0x4876 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4876
+*A=D
+# Set 0x4877 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4877
+*A=D
+# Set 0x4878 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4878
+*A=D
+# Set 0x4879 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4879
+*A=D
+# Set 0x487a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x487a
+*A=D
+# Set 0x487b to 64415
+A=0x7fff
+D=A
+A=0x7ba0
+D=D+A
+A=0x487b
+*A=D
+# Set 0x487c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x487c
+*A=D
+# Set 0x487d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x487d
+*A=D
+# Set 0x487e to 47615
+A=0x7fff
+D=A
+A=0x3a00
+D=D+A
+A=0x487e
+*A=D
+# Set 0x487f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x487f
+*A=D
+# Set 0x4880 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4880
+*A=D
+# Set 0x4881 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4881
+*A=D
+# Set 0x4882 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4882
+*A=D
+# Set 0x4883 to 64512
+A=0x7fff
+D=A
+A=0x7c01
+D=D+A
+A=0x4883
+*A=D
+# Set 0x4884 to 16375
+A=0x3ff7
+D=A
+A=0x4884
+*A=D
+# Set 0x4885 to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x4885
+*A=D
+# Set 0x4886 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4886
+*A=D
+# Set 0x4887 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4887
+*A=D
+# Set 0x4888 to 47358
+A=0x7fff
+D=A
+A=0x38ff
+D=D+A
+A=0x4888
+*A=D
+# Set 0x4889 to 63999
+A=0x7fff
+D=A
+A=0x7a00
+D=D+A
+A=0x4889
+*A=D
+# Set 0x488a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x488a
+*A=D
+# Set 0x488b to 61183
+A=0x7fff
+D=A
+A=0x6f00
+D=D+A
+A=0x488b
+*A=D
+# Set 0x488c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x488c
+*A=D
+# Set 0x488d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x488d
+*A=D
+# Set 0x488e to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x488e
+*A=D
+# Set 0x488f to 32764
+A=0x7ffc
+D=A
+A=0x488f
+*A=D
+# Set 0x4890 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4890
+*A=D
+# Set 0x4891 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4891
+*A=D
+# Set 0x4892 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4892
+*A=D
+# Set 0x4893 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4893
+*A=D
+# Set 0x4894 to 65501
+A=0x7fff
+D=A
+A=0x7fde
+D=D+A
+A=0x4894
+*A=D
+# Set 0x4895 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4895
+*A=D
+# Set 0x4896 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4896
+*A=D
+# Set 0x4897 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4897
+*A=D
+# Set 0x4898 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4898
+*A=D
+# Set 0x4899 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4899
+*A=D
+# Set 0x489a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x489a
+*A=D
+# Set 0x489b to 64415
+A=0x7fff
+D=A
+A=0x7ba0
+D=D+A
+A=0x489b
+*A=D
+# Set 0x489c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x489c
+*A=D
+# Set 0x489d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x489d
+*A=D
+# Set 0x489e to 47615
+A=0x7fff
+D=A
+A=0x3a00
+D=D+A
+A=0x489e
+*A=D
+# Set 0x489f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x489f
+*A=D
+# Set 0x48a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48a0
+*A=D
+# Set 0x48a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48a1
+*A=D
+# Set 0x48a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48a2
+*A=D
+# Set 0x48a3 to 64415
+A=0x7fff
+D=A
+A=0x7ba0
+D=D+A
+A=0x48a3
+*A=D
+# Set 0x48a4 to 65528
+A=0x7fff
+D=A
+A=0x7ff9
+D=D+A
+A=0x48a4
+*A=D
+# Set 0x48a5 to 28799
+A=0x707f
+D=A
+A=0x48a5
+*A=D
+# Set 0x48a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48a6
+*A=D
+# Set 0x48a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48a7
+*A=D
+# Set 0x48a8 to 47134
+A=0x7fff
+D=A
+A=0x381f
+D=D+A
+A=0x48a8
+*A=D
+# Set 0x48a9 to 63999
+A=0x7fff
+D=A
+A=0x7a00
+D=D+A
+A=0x48a9
+*A=D
+# Set 0x48aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48aa
+*A=D
+# Set 0x48ab to 61311
+A=0x7fff
+D=A
+A=0x6f80
+D=D+A
+A=0x48ab
+*A=D
+# Set 0x48ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48ac
+*A=D
+# Set 0x48ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48ad
+*A=D
+# Set 0x48ae to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x48ae
+*A=D
+# Set 0x48af to 32764
+A=0x7ffc
+D=A
+A=0x48af
+*A=D
+# Set 0x48b0 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x48b0
+*A=D
+# Set 0x48b1 to 61903
+A=0x7fff
+D=A
+A=0x71d0
+D=D+A
+A=0x48b1
+*A=D
+# Set 0x48b2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x48b2
+*A=D
+# Set 0x48b3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48b3
+*A=D
+# Set 0x48b4 to 65502
+A=0x7fff
+D=A
+A=0x7fdf
+D=D+A
+A=0x48b4
+*A=D
+# Set 0x48b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48b5
+*A=D
+# Set 0x48b6 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x48b6
+*A=D
+# Set 0x48b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48b7
+*A=D
+# Set 0x48b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48b8
+*A=D
+# Set 0x48b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48b9
+*A=D
+# Set 0x48ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48ba
+*A=D
+# Set 0x48bb to 64415
+A=0x7fff
+D=A
+A=0x7ba0
+D=D+A
+A=0x48bb
+*A=D
+# Set 0x48bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48bc
+*A=D
+# Set 0x48bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48bd
+*A=D
+# Set 0x48be to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x48be
+*A=D
+# Set 0x48bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48bf
+*A=D
+# Set 0x48c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48c0
+*A=D
+# Set 0x48c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48c1
+*A=D
+# Set 0x48c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48c2
+*A=D
+# Set 0x48c3 to 64479
+A=0x7fff
+D=A
+A=0x7be0
+D=D+A
+A=0x48c3
+*A=D
+# Set 0x48c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48c4
+*A=D
+# Set 0x48c5 to 63103
+A=0x7fff
+D=A
+A=0x7680
+D=D+A
+A=0x48c5
+*A=D
+# Set 0x48c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48c6
+*A=D
+# Set 0x48c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48c7
+*A=D
+# Set 0x48c8 to 47326
+A=0x7fff
+D=A
+A=0x38df
+D=D+A
+A=0x48c8
+*A=D
+# Set 0x48c9 to 63999
+A=0x7fff
+D=A
+A=0x7a00
+D=D+A
+A=0x48c9
+*A=D
+# Set 0x48ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48ca
+*A=D
+# Set 0x48cb to 61311
+A=0x7fff
+D=A
+A=0x6f80
+D=D+A
+A=0x48cb
+*A=D
+# Set 0x48cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48cc
+*A=D
+# Set 0x48cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48cd
+*A=D
+# Set 0x48ce to 65511
+A=0x7fff
+D=A
+A=0x7fe8
+D=D+A
+A=0x48ce
+*A=D
+# Set 0x48cf to 32764
+A=0x7ffc
+D=A
+A=0x48cf
+*A=D
+# Set 0x48d0 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x48d0
+*A=D
+# Set 0x48d1 to 61863
+A=0x7fff
+D=A
+A=0x71a8
+D=D+A
+A=0x48d1
+*A=D
+# Set 0x48d2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x48d2
+*A=D
+# Set 0x48d3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48d3
+*A=D
+# Set 0x48d4 to 65502
+A=0x7fff
+D=A
+A=0x7fdf
+D=D+A
+A=0x48d4
+*A=D
+# Set 0x48d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48d5
+*A=D
+# Set 0x48d6 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x48d6
+*A=D
+# Set 0x48d7 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x48d7
+*A=D
+# Set 0x48d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48d8
+*A=D
+# Set 0x48d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48d9
+*A=D
+# Set 0x48da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48da
+*A=D
+# Set 0x48db to 64479
+A=0x7fff
+D=A
+A=0x7be0
+D=D+A
+A=0x48db
+*A=D
+# Set 0x48dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48dc
+*A=D
+# Set 0x48dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48dd
+*A=D
+# Set 0x48de to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x48de
+*A=D
+# Set 0x48df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48df
+*A=D
+# Set 0x48e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48e0
+*A=D
+# Set 0x48e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48e1
+*A=D
+# Set 0x48e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48e2
+*A=D
+# Set 0x48e3 to 58335
+A=0x7fff
+D=A
+A=0x63e0
+D=D+A
+A=0x48e3
+*A=D
+# Set 0x48e4 to 49279
+A=0x7fff
+D=A
+A=0x4080
+D=D+A
+A=0x48e4
+*A=D
+# Set 0x48e5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x48e5
+*A=D
+# Set 0x48e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48e6
+*A=D
+# Set 0x48e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48e7
+*A=D
+# Set 0x48e8 to 47134
+A=0x7fff
+D=A
+A=0x381f
+D=D+A
+A=0x48e8
+*A=D
+# Set 0x48e9 to 65023
+A=0x7fff
+D=A
+A=0x7e00
+D=D+A
+A=0x48e9
+*A=D
+# Set 0x48ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48ea
+*A=D
+# Set 0x48eb to 58959
+A=0x7fff
+D=A
+A=0x6650
+D=D+A
+A=0x48eb
+*A=D
+# Set 0x48ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48ec
+*A=D
+# Set 0x48ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48ed
+*A=D
+# Set 0x48ee to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x48ee
+*A=D
+# Set 0x48ef to 32764
+A=0x7ffc
+D=A
+A=0x48ef
+*A=D
+# Set 0x48f0 to 59647
+A=0x7fff
+D=A
+A=0x6900
+D=D+A
+A=0x48f0
+*A=D
+# Set 0x48f1 to 62439
+A=0x7fff
+D=A
+A=0x73e8
+D=D+A
+A=0x48f1
+*A=D
+# Set 0x48f2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x48f2
+*A=D
+# Set 0x48f3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48f3
+*A=D
+# Set 0x48f4 to 65484
+A=0x7fff
+D=A
+A=0x7fcd
+D=D+A
+A=0x48f4
+*A=D
+# Set 0x48f5 to 40959
+A=0x7fff
+D=A
+A=0x2000
+D=D+A
+A=0x48f5
+*A=D
+# Set 0x48f6 to 65436
+A=0x7fff
+D=A
+A=0x7f9d
+D=D+A
+A=0x48f6
+*A=D
+# Set 0x48f7 to 51199
+A=0x7fff
+D=A
+A=0x4800
+D=D+A
+A=0x48f7
+*A=D
+# Set 0x48f8 to 14542
+A=0x38ce
+D=A
+A=0x48f8
+*A=D
+# Set 0x48f9 to 26623
+A=0x67ff
+D=A
+A=0x48f9
+*A=D
+# Set 0x48fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48fa
+*A=D
+# Set 0x48fb to 64479
+A=0x7fff
+D=A
+A=0x7be0
+D=D+A
+A=0x48fb
+*A=D
+# Set 0x48fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48fc
+*A=D
+# Set 0x48fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48fd
+*A=D
+# Set 0x48fe to 39199
+A=0x7fff
+D=A
+A=0x1920
+D=D+A
+A=0x48fe
+*A=D
+# Set 0x48ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x48ff
+*A=D
+# Set 0x4900 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4900
+*A=D
+# Set 0x4901 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4901
+*A=D
+# Set 0x4902 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4902
+*A=D
+# Set 0x4903 to 50079
+A=0x7fff
+D=A
+A=0x43a0
+D=D+A
+A=0x4903
+*A=D
+# Set 0x4904 to 49215
+A=0x7fff
+D=A
+A=0x4040
+D=D+A
+A=0x4904
+*A=D
+# Set 0x4905 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4905
+*A=D
+# Set 0x4906 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4906
+*A=D
+# Set 0x4907 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4907
+*A=D
+# Set 0x4908 to 64526
+A=0x7fff
+D=A
+A=0x7c0f
+D=D+A
+A=0x4908
+*A=D
+# Set 0x4909 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4909
+*A=D
+# Set 0x490a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x490a
+*A=D
+# Set 0x490b to 65411
+A=0x7fff
+D=A
+A=0x7f84
+D=D+A
+A=0x490b
+*A=D
+# Set 0x490c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x490c
+*A=D
+# Set 0x490d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x490d
+*A=D
+# Set 0x490e to 65511
+A=0x7fff
+D=A
+A=0x7fe8
+D=D+A
+A=0x490e
+*A=D
+# Set 0x490f to 32767
+A=0x7fff
+D=A
+A=0x490f
+*A=D
+# Set 0x4910 to 61503
+A=0x7fff
+D=A
+A=0x7040
+D=D+A
+A=0x4910
+*A=D
+# Set 0x4911 to 63999
+A=0x7fff
+D=A
+A=0x7a00
+D=D+A
+A=0x4911
+*A=D
+# Set 0x4912 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4912
+*A=D
+# Set 0x4913 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4913
+*A=D
+# Set 0x4914 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4914
+*A=D
+# Set 0x4915 to 2047
+A=0x7ff
+D=A
+A=0x4915
+*A=D
+# Set 0x4916 to 65436
+A=0x7fff
+D=A
+A=0x7f9d
+D=D+A
+A=0x4916
+*A=D
+# Set 0x4917 to 38911
+A=0x7fff
+D=A
+A=0x1800
+D=D+A
+A=0x4917
+*A=D
+# Set 0x4918 to 47765
+A=0x7fff
+D=A
+A=0x3a96
+D=D+A
+A=0x4918
+*A=D
+# Set 0x4919 to 12287
+A=0x2fff
+D=A
+A=0x4919
+*A=D
+# Set 0x491a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x491a
+*A=D
+# Set 0x491b to 64473
+A=0x7fff
+D=A
+A=0x7bda
+D=D+A
+A=0x491b
+*A=D
+# Set 0x491c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x491c
+*A=D
+# Set 0x491d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x491d
+*A=D
+# Set 0x491e to 65039
+A=0x7fff
+D=A
+A=0x7e10
+D=D+A
+A=0x491e
+*A=D
+# Set 0x491f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x491f
+*A=D
+# Set 0x4920 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4920
+*A=D
+# Set 0x4921 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4921
+*A=D
+# Set 0x4922 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4922
+*A=D
+# Set 0x4923 to 57247
+A=0x7fff
+D=A
+A=0x5fa0
+D=D+A
+A=0x4923
+*A=D
+# Set 0x4924 to 57279
+A=0x7fff
+D=A
+A=0x5fc0
+D=D+A
+A=0x4924
+*A=D
+# Set 0x4925 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4925
+*A=D
+# Set 0x4926 to 65520
+A=0x7fff
+D=A
+A=0x7ff1
+D=D+A
+A=0x4926
+*A=D
+# Set 0x4928 to 65256
+A=0x7fff
+D=A
+A=0x7ee9
+D=D+A
+A=0x4928
+*A=D
+# Set 0x4929 to 16380
+A=0x3ffc
+D=A
+A=0x4929
+*A=D
+# Set 0x492b to 16313
+A=0x3fb9
+D=A
+A=0x492b
+*A=D
+# Set 0x492c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x492c
+*A=D
+# Set 0x492d to 65024
+A=0x7fff
+D=A
+A=0x7e01
+D=D+A
+A=0x492d
+*A=D
+# Set 0x492e to 7
+A=0x7
+D=A
+A=0x492e
+*A=D
+# Set 0x492f to 32767
+A=0x7fff
+D=A
+A=0x492f
+*A=D
+# Set 0x4930 to 64447
+A=0x7fff
+D=A
+A=0x7bc0
+D=D+A
+A=0x4930
+*A=D
+# Set 0x4931 to 58879
+A=0x7fff
+D=A
+A=0x6600
+D=D+A
+A=0x4931
+*A=D
+# Set 0x4932 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4932
+*A=D
+# Set 0x4933 to 64512
+A=0x7fff
+D=A
+A=0x7c01
+D=D+A
+A=0x4933
+*A=D
+# Set 0x4934 to 127
+A=0x7f
+D=A
+A=0x4934
+*A=D
+# Set 0x4935 to 29695
+A=0x73ff
+D=A
+A=0x4935
+*A=D
+# Set 0x4936 to 65436
+A=0x7fff
+D=A
+A=0x7f9d
+D=D+A
+A=0x4936
+*A=D
+# Set 0x4937 to 47103
+A=0x7fff
+D=A
+A=0x3800
+D=D+A
+A=0x4937
+*A=D
+# Set 0x4938 to 47797
+A=0x7fff
+D=A
+A=0x3ab6
+D=D+A
+A=0x4938
+*A=D
+# Set 0x4939 to 45055
+A=0x7fff
+D=A
+A=0x3000
+D=D+A
+A=0x4939
+*A=D
+# Set 0x493a to 32768
+A=0x7fff
+D=A
+D=D+1
+A=0x493a
+*A=D
+# Set 0x493b to 961
+A=0x3c1
+D=A
+A=0x493b
+*A=D
+# Set 0x493c to 32760
+A=0x7ff8
+D=A
+A=0x493c
+*A=D
+# Set 0x493e to 65127
+A=0x7fff
+D=A
+A=0x7e68
+D=D+A
+A=0x493e
+*A=D
+# Set 0x493f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x493f
+*A=D
+# Set 0x4940 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4940
+*A=D
+# Set 0x4941 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4941
+*A=D
+# Set 0x4942 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4942
+*A=D
+# Set 0x4943 to 57279
+A=0x7fff
+D=A
+A=0x5fc0
+D=D+A
+A=0x4943
+*A=D
+# Set 0x4944 to 57279
+A=0x7fff
+D=A
+A=0x5fc0
+D=D+A
+A=0x4944
+*A=D
+# Set 0x4945 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4945
+*A=D
+# Set 0x4946 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4946
+*A=D
+# Set 0x4947 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4947
+*A=D
+# Set 0x4948 to 65263
+A=0x7fff
+D=A
+A=0x7ef0
+D=D+A
+A=0x4948
+*A=D
+# Set 0x4949 to 65533
+A=0x7fff
+D=A
+A=0x7ffe
+D=D+A
+A=0x4949
+*A=D
+# Set 0x494a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x494a
+*A=D
+# Set 0x494b to 57277
+A=0x7fff
+D=A
+A=0x5fbe
+D=D+A
+A=0x494b
+*A=D
+# Set 0x494c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x494c
+*A=D
+# Set 0x494d to 65279
+A=0x7fff
+D=A
+A=0x7f00
+D=D+A
+A=0x494d
+*A=D
+# Set 0x494e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x494e
+*A=D
+# Set 0x494f to 32767
+A=0x7fff
+D=A
+A=0x494f
+*A=D
+# Set 0x4950 to 64447
+A=0x7fff
+D=A
+A=0x7bc0
+D=D+A
+A=0x4950
+*A=D
+# Set 0x4951 to 61951
+A=0x7fff
+D=A
+A=0x7200
+D=D+A
+A=0x4951
+*A=D
+# Set 0x4952 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4952
+*A=D
+# Set 0x4953 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x4953
+*A=D
+# Set 0x4954 to 65471
+A=0x7fff
+D=A
+A=0x7fc0
+D=D+A
+A=0x4954
+*A=D
+# Set 0x4955 to 31743
+A=0x7bff
+D=A
+A=0x4955
+*A=D
+# Set 0x4956 to 65436
+A=0x7fff
+D=A
+A=0x7f9d
+D=D+A
+A=0x4956
+*A=D
+# Set 0x4957 to 38911
+A=0x7fff
+D=A
+A=0x1800
+D=D+A
+A=0x4957
+*A=D
+# Set 0x4958 to 47765
+A=0x7fff
+D=A
+A=0x3a96
+D=D+A
+A=0x4958
+*A=D
+# Set 0x4959 to 45055
+A=0x7fff
+D=A
+A=0x3000
+D=D+A
+A=0x4959
+*A=D
+# Set 0x495a to 16383
+A=0x3fff
+D=A
+A=0x495a
+*A=D
+# Set 0x495b to 65417
+A=0x7fff
+D=A
+A=0x7f8a
+D=D+A
+A=0x495b
+*A=D
+# Set 0x495c to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x495c
+*A=D
+# Set 0x495d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x495d
+*A=D
+# Set 0x495e to 32375
+A=0x7e77
+D=A
+A=0x495e
+*A=D
+# Set 0x495f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x495f
+*A=D
+# Set 0x4960 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4960
+*A=D
+# Set 0x4961 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4961
+*A=D
+# Set 0x4962 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4962
+*A=D
+# Set 0x4963 to 56895
+A=0x7fff
+D=A
+A=0x5e40
+D=D+A
+A=0x4963
+*A=D
+# Set 0x4964 to 51135
+A=0x7fff
+D=A
+A=0x47c0
+D=D+A
+A=0x4964
+*A=D
+# Set 0x4965 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4965
+*A=D
+# Set 0x4966 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4966
+*A=D
+# Set 0x4967 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4967
+*A=D
+# Set 0x4968 to 65263
+A=0x7fff
+D=A
+A=0x7ef0
+D=D+A
+A=0x4968
+*A=D
+# Set 0x4969 to 65533
+A=0x7fff
+D=A
+A=0x7ffe
+D=D+A
+A=0x4969
+*A=D
+# Set 0x496a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x496a
+*A=D
+# Set 0x496b to 57277
+A=0x7fff
+D=A
+A=0x5fbe
+D=D+A
+A=0x496b
+*A=D
+# Set 0x496c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x496c
+*A=D
+# Set 0x496d to 65279
+A=0x7fff
+D=A
+A=0x7f00
+D=D+A
+A=0x496d
+*A=D
+# Set 0x496e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x496e
+*A=D
+# Set 0x496f to 32767
+A=0x7fff
+D=A
+A=0x496f
+*A=D
+# Set 0x4970 to 64447
+A=0x7fff
+D=A
+A=0x7bc0
+D=D+A
+A=0x4970
+*A=D
+# Set 0x4971 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x4971
+*A=D
+# Set 0x4972 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4972
+*A=D
+# Set 0x4973 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x4973
+*A=D
+# Set 0x4974 to 65471
+A=0x7fff
+D=A
+A=0x7fc0
+D=D+A
+A=0x4974
+*A=D
+# Set 0x4975 to 31743
+A=0x7bff
+D=A
+A=0x4975
+*A=D
+# Set 0x4976 to 65436
+A=0x7fff
+D=A
+A=0x7f9d
+D=D+A
+A=0x4976
+*A=D
+# Set 0x4977 to 50803
+A=0x7fff
+D=A
+A=0x4674
+D=D+A
+A=0x4977
+*A=D
+# Set 0x4978 to 6340
+A=0x18c4
+D=A
+A=0x4978
+*A=D
+# Set 0x4979 to 28671
+A=0x6fff
+D=A
+A=0x4979
+*A=D
+# Set 0x497a to 32767
+A=0x7fff
+D=A
+A=0x497a
+*A=D
+# Set 0x497b to 65421
+A=0x7fff
+D=A
+A=0x7f8e
+D=D+A
+A=0x497b
+*A=D
+# Set 0x497c to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x497c
+*A=D
+# Set 0x497d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x497d
+*A=D
+# Set 0x497e to 32503
+A=0x7ef7
+D=A
+A=0x497e
+*A=D
+# Set 0x497f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x497f
+*A=D
+# Set 0x4980 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4980
+*A=D
+# Set 0x4981 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4981
+*A=D
+# Set 0x4982 to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4982
+*A=D
+# Set 0x4983 to 63
+A=0x3f
+D=A
+A=0x4983
+*A=D
+# Set 0x4984 to 49215
+A=0x7fff
+D=A
+A=0x4040
+D=D+A
+A=0x4984
+*A=D
+# Set 0x4985 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4985
+*A=D
+# Set 0x4986 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4986
+*A=D
+# Set 0x4987 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4987
+*A=D
+# Set 0x4988 to 65255
+A=0x7fff
+D=A
+A=0x7ee8
+D=D+A
+A=0x4988
+*A=D
+# Set 0x4989 to 65533
+A=0x7fff
+D=A
+A=0x7ffe
+D=D+A
+A=0x4989
+*A=D
+# Set 0x498a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x498a
+*A=D
+# Set 0x498b to 57277
+A=0x7fff
+D=A
+A=0x5fbe
+D=D+A
+A=0x498b
+*A=D
+# Set 0x498c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x498c
+*A=D
+# Set 0x498d to 65279
+A=0x7fff
+D=A
+A=0x7f00
+D=D+A
+A=0x498d
+*A=D
+# Set 0x498e to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x498e
+*A=D
+# Set 0x498f to 32767
+A=0x7fff
+D=A
+A=0x498f
+*A=D
+# Set 0x4990 to 64447
+A=0x7fff
+D=A
+A=0x7bc0
+D=D+A
+A=0x4990
+*A=D
+# Set 0x4991 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4991
+*A=D
+# Set 0x4992 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4992
+*A=D
+# Set 0x4993 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x4993
+*A=D
+# Set 0x4994 to 65471
+A=0x7fff
+D=A
+A=0x7fc0
+D=D+A
+A=0x4994
+*A=D
+# Set 0x4995 to 31743
+A=0x7bff
+D=A
+A=0x4995
+*A=D
+# Set 0x4996 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4996
+*A=D
+# Set 0x4997 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4997
+*A=D
+# Set 0x4998 to 40430
+A=0x7fff
+D=A
+A=0x1def
+D=D+A
+A=0x4998
+*A=D
+# Set 0x4999 to 30719
+A=0x77ff
+D=A
+A=0x4999
+*A=D
+# Set 0x499a to 32767
+A=0x7fff
+D=A
+A=0x499a
+*A=D
+# Set 0x499b to 65441
+A=0x7fff
+D=A
+A=0x7fa2
+D=D+A
+A=0x499b
+*A=D
+# Set 0x499c to 32759
+A=0x7ff7
+D=A
+A=0x499c
+*A=D
+# Set 0x499d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x499d
+*A=D
+# Set 0x499e to 32503
+A=0x7ef7
+D=A
+A=0x499e
+*A=D
+# Set 0x499f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x499f
+*A=D
+# Set 0x49a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49a0
+*A=D
+# Set 0x49a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49a1
+*A=D
+# Set 0x49a2 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x49a2
+*A=D
+# Set 0x49a3 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x49a3
+*A=D
+# Set 0x49a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49a4
+*A=D
+# Set 0x49a5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x49a5
+*A=D
+# Set 0x49a6 to 65283
+A=0x7fff
+D=A
+A=0x7f04
+D=D+A
+A=0x49a6
+*A=D
+# Set 0x49a7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x49a7
+*A=D
+# Set 0x49a8 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x49a8
+*A=D
+# Set 0x49a9 to 65505
+A=0x7fff
+D=A
+A=0x7fe2
+D=D+A
+A=0x49a9
+*A=D
+# Set 0x49aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49aa
+*A=D
+# Set 0x49ab to 8125
+A=0x1fbd
+D=A
+A=0x49ab
+*A=D
+# Set 0x49ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49ac
+*A=D
+# Set 0x49ad to 61567
+A=0x7fff
+D=A
+A=0x7080
+D=D+A
+A=0x49ad
+*A=D
+# Set 0x49ae to 65520
+A=0x7fff
+D=A
+A=0x7ff1
+D=D+A
+A=0x49ae
+*A=D
+# Set 0x49af to 32767
+A=0x7fff
+D=A
+A=0x49af
+*A=D
+# Set 0x49b0 to 64415
+A=0x7fff
+D=A
+A=0x7ba0
+D=D+A
+A=0x49b0
+*A=D
+# Set 0x49b1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49b1
+*A=D
+# Set 0x49b2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x49b2
+*A=D
+# Set 0x49b3 to 49663
+A=0x7fff
+D=A
+A=0x4200
+D=D+A
+A=0x49b3
+*A=D
+# Set 0x49b4 to 65343
+A=0x7fff
+D=A
+A=0x7f40
+D=D+A
+A=0x49b4
+*A=D
+# Set 0x49b5 to 31743
+A=0x7bff
+D=A
+A=0x49b5
+*A=D
+# Set 0x49b6 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x49b6
+*A=D
+# Set 0x49b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49b7
+*A=D
+# Set 0x49b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49b8
+*A=D
+# Set 0x49b9 to 65528
+A=0x7fff
+D=A
+A=0x7ff9
+D=D+A
+A=0x49b9
+*A=D
+# Set 0x49ba to 16383
+A=0x3fff
+D=A
+A=0x49ba
+*A=D
+# Set 0x49bb to 63551
+A=0x7fff
+D=A
+A=0x7840
+D=D+A
+A=0x49bb
+*A=D
+# Set 0x49bc to 65411
+A=0x7fff
+D=A
+A=0x7f84
+D=D+A
+A=0x49bc
+*A=D
+# Set 0x49bd to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x49bd
+*A=D
+# Set 0x49be to 32503
+A=0x7ef7
+D=A
+A=0x49be
+*A=D
+# Set 0x49bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49bf
+*A=D
+# Set 0x49c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49c0
+*A=D
+# Set 0x49c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49c1
+*A=D
+# Set 0x49c2 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x49c2
+*A=D
+# Set 0x49c3 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x49c3
+*A=D
+# Set 0x49c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49c4
+*A=D
+# Set 0x49c5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x49c5
+*A=D
+# Set 0x49c6 to 65120
+A=0x7fff
+D=A
+A=0x7e61
+D=D+A
+A=0x49c6
+*A=D
+# Set 0x49c7 to 1
+A=0x1
+D=A
+A=0x49c7
+*A=D
+# Set 0x49c8 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x49c8
+*A=D
+# Set 0x49c9 to 65484
+A=0x7fff
+D=A
+A=0x7fcd
+D=D+A
+A=0x49c9
+*A=D
+# Set 0x49cb to 32701
+A=0x7fbd
+D=A
+A=0x49cb
+*A=D
+# Set 0x49cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49cc
+*A=D
+# Set 0x49cd to 60928
+A=0x7fff
+D=A
+A=0x6e01
+D=D+A
+A=0x49cd
+*A=D
+# Set 0x49ce to 7
+A=0x7
+D=A
+A=0x49ce
+*A=D
+# Set 0x49cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49cf
+*A=D
+# Set 0x49d0 to 64544
+A=0x7fff
+D=A
+A=0x7c21
+D=D+A
+A=0x49d0
+*A=D
+# Set 0x49d1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49d1
+*A=D
+# Set 0x49d2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x49d2
+*A=D
+# Set 0x49d3 to 47104
+A=0x7fff
+D=A
+A=0x3801
+D=D+A
+A=0x49d3
+*A=D
+# Set 0x49d4 to 127
+A=0x7f
+D=A
+A=0x49d4
+*A=D
+# Set 0x49d5 to 31743
+A=0x7bff
+D=A
+A=0x49d5
+*A=D
+# Set 0x49d6 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x49d6
+*A=D
+# Set 0x49d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49d7
+*A=D
+# Set 0x49d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49d8
+*A=D
+# Set 0x49d9 to 65523
+A=0x7fff
+D=A
+A=0x7ff4
+D=D+A
+A=0x49d9
+*A=D
+# Set 0x49db to 1535
+A=0x5ff
+D=A
+A=0x49db
+*A=D
+# Set 0x49dc to 65328
+A=0x7fff
+D=A
+A=0x7f31
+D=D+A
+A=0x49dc
+*A=D
+# Set 0x49de to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x49de
+*A=D
+# Set 0x49df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49df
+*A=D
+# Set 0x49e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49e0
+*A=D
+# Set 0x49e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49e1
+*A=D
+# Set 0x49e2 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x49e2
+*A=D
+# Set 0x49e3 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x49e3
+*A=D
+# Set 0x49e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49e4
+*A=D
+# Set 0x49e5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x49e5
+*A=D
+# Set 0x49e6 to 65143
+A=0x7fff
+D=A
+A=0x7e78
+D=D+A
+A=0x49e6
+*A=D
+# Set 0x49e7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x49e7
+*A=D
+# Set 0x49e8 to 31975
+A=0x7ce7
+D=A
+A=0x49e8
+*A=D
+# Set 0x49e9 to 65501
+A=0x7fff
+D=A
+A=0x7fde
+D=D+A
+A=0x49e9
+*A=D
+# Set 0x49ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49ea
+*A=D
+# Set 0x49eb to 57149
+A=0x7fff
+D=A
+A=0x5f3e
+D=D+A
+A=0x49eb
+*A=D
+# Set 0x49ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49ec
+*A=D
+# Set 0x49ed to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x49ed
+*A=D
+# Set 0x49ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49ee
+*A=D
+# Set 0x49ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49ef
+*A=D
+# Set 0x49f0 to 65520
+A=0x7fff
+D=A
+A=0x7ff1
+D=D+A
+A=0x49f0
+*A=D
+# Set 0x49f1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49f1
+*A=D
+# Set 0x49f2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x49f2
+*A=D
+# Set 0x49f3 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x49f3
+*A=D
+# Set 0x49f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49f4
+*A=D
+# Set 0x49f5 to 31743
+A=0x7bff
+D=A
+A=0x49f5
+*A=D
+# Set 0x49f6 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x49f6
+*A=D
+# Set 0x49f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49f7
+*A=D
+# Set 0x49f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49f8
+*A=D
+# Set 0x49f9 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x49f9
+*A=D
+# Set 0x49fa to 32767
+A=0x7fff
+D=A
+A=0x49fa
+*A=D
+# Set 0x49fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49fb
+*A=D
+# Set 0x49fc to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x49fc
+*A=D
+# Set 0x49fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49fd
+*A=D
+# Set 0x49fe to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x49fe
+*A=D
+# Set 0x49ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x49ff
+*A=D
+# Set 0x4a00 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a00
+*A=D
+# Set 0x4a01 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a01
+*A=D
+# Set 0x4a02 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4a02
+*A=D
+# Set 0x4a03 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4a03
+*A=D
+# Set 0x4a04 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a04
+*A=D
+# Set 0x4a05 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4a05
+*A=D
+# Set 0x4a06 to 65143
+A=0x7fff
+D=A
+A=0x7e78
+D=D+A
+A=0x4a06
+*A=D
+# Set 0x4a07 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4a07
+*A=D
+# Set 0x4a08 to 6629
+A=0x19e5
+D=A
+A=0x4a08
+*A=D
+# Set 0x4a09 to 32733
+A=0x7fdd
+D=A
+A=0x4a09
+*A=D
+# Set 0x4a0a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a0a
+*A=D
+# Set 0x4a0b to 50813
+A=0x7fff
+D=A
+A=0x467e
+D=D+A
+A=0x4a0b
+*A=D
+# Set 0x4a0c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a0c
+*A=D
+# Set 0x4a0d to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4a0d
+*A=D
+# Set 0x4a0e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a0e
+*A=D
+# Set 0x4a0f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a0f
+*A=D
+# Set 0x4a10 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4a10
+*A=D
+# Set 0x4a11 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a11
+*A=D
+# Set 0x4a12 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4a12
+*A=D
+# Set 0x4a13 to 49135
+A=0x7fff
+D=A
+A=0x3ff0
+D=D+A
+A=0x4a13
+*A=D
+# Set 0x4a14 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a14
+*A=D
+# Set 0x4a15 to 31743
+A=0x7bff
+D=A
+A=0x4a15
+*A=D
+# Set 0x4a16 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4a16
+*A=D
+# Set 0x4a17 to 53247
+A=0x7fff
+D=A
+A=0x5000
+D=D+A
+A=0x4a17
+*A=D
+# Set 0x4a18 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4a18
+*A=D
+# Set 0x4a19 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4a19
+*A=D
+# Set 0x4a1a to 16383
+A=0x3fff
+D=A
+A=0x4a1a
+*A=D
+# Set 0x4a1b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a1b
+*A=D
+# Set 0x4a1c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4a1c
+*A=D
+# Set 0x4a1d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a1d
+*A=D
+# Set 0x4a1e to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4a1e
+*A=D
+# Set 0x4a1f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a1f
+*A=D
+# Set 0x4a20 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a20
+*A=D
+# Set 0x4a21 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a21
+*A=D
+# Set 0x4a22 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4a22
+*A=D
+# Set 0x4a23 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4a23
+*A=D
+# Set 0x4a24 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a24
+*A=D
+# Set 0x4a25 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4a25
+*A=D
+# Set 0x4a26 to 65143
+A=0x7fff
+D=A
+A=0x7e78
+D=D+A
+A=0x4a26
+*A=D
+# Set 0x4a27 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4a27
+*A=D
+# Set 0x4a28 to 56288
+A=0x7fff
+D=A
+A=0x5be1
+D=D+A
+A=0x4a28
+*A=D
+# Set 0x4a29 to 16349
+A=0x3fdd
+D=A
+A=0x4a29
+*A=D
+# Set 0x4a2a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a2a
+*A=D
+# Set 0x4a2b to 56061
+A=0x7fff
+D=A
+A=0x5afe
+D=D+A
+A=0x4a2b
+*A=D
+# Set 0x4a2c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a2c
+*A=D
+# Set 0x4a2d to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4a2d
+*A=D
+# Set 0x4a2e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a2e
+*A=D
+# Set 0x4a2f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a2f
+*A=D
+# Set 0x4a30 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4a30
+*A=D
+# Set 0x4a31 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a31
+*A=D
+# Set 0x4a32 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4a32
+*A=D
+# Set 0x4a33 to 48591
+A=0x7fff
+D=A
+A=0x3dd0
+D=D+A
+A=0x4a33
+*A=D
+# Set 0x4a34 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a34
+*A=D
+# Set 0x4a35 to 31743
+A=0x7bff
+D=A
+A=0x4a35
+*A=D
+# Set 0x4a36 to 65436
+A=0x7fff
+D=A
+A=0x7f9d
+D=D+A
+A=0x4a36
+*A=D
+# Set 0x4a37 to 51199
+A=0x7fff
+D=A
+A=0x4800
+D=D+A
+A=0x4a37
+*A=D
+# Set 0x4a38 to 6348
+A=0x18cc
+D=A
+A=0x4a38
+*A=D
+# Set 0x4a39 to 26615
+A=0x67f7
+D=A
+A=0x4a39
+*A=D
+# Set 0x4a3a to 16383
+A=0x3fff
+D=A
+A=0x4a3a
+*A=D
+# Set 0x4a3b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a3b
+*A=D
+# Set 0x4a3c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4a3c
+*A=D
+# Set 0x4a3d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a3d
+*A=D
+# Set 0x4a3e to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4a3e
+*A=D
+# Set 0x4a3f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a3f
+*A=D
+# Set 0x4a40 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a40
+*A=D
+# Set 0x4a41 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a41
+*A=D
+# Set 0x4a42 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4a42
+*A=D
+# Set 0x4a43 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4a43
+*A=D
+# Set 0x4a44 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a44
+*A=D
+# Set 0x4a45 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4a45
+*A=D
+# Set 0x4a46 to 65143
+A=0x7fff
+D=A
+A=0x7e78
+D=D+A
+A=0x4a46
+*A=D
+# Set 0x4a47 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4a47
+*A=D
+# Set 0x4a48 to 23532
+A=0x5bec
+D=A
+A=0x4a48
+*A=D
+# Set 0x4a49 to 65501
+A=0x7fff
+D=A
+A=0x7fde
+D=D+A
+A=0x4a49
+*A=D
+# Set 0x4a4a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a4a
+*A=D
+# Set 0x4a4b to 56057
+A=0x7fff
+D=A
+A=0x5afa
+D=D+A
+A=0x4a4b
+*A=D
+# Set 0x4a4c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a4c
+*A=D
+# Set 0x4a4d to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4a4d
+*A=D
+# Set 0x4a4e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a4e
+*A=D
+# Set 0x4a4f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a4f
+*A=D
+# Set 0x4a50 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4a50
+*A=D
+# Set 0x4a51 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a51
+*A=D
+# Set 0x4a52 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4a52
+*A=D
+# Set 0x4a53 to 48335
+A=0x7fff
+D=A
+A=0x3cd0
+D=D+A
+A=0x4a53
+*A=D
+# Set 0x4a54 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a54
+*A=D
+# Set 0x4a55 to 31743
+A=0x7bff
+D=A
+A=0x4a55
+*A=D
+# Set 0x4a56 to 65436
+A=0x7fff
+D=A
+A=0x7f9d
+D=D+A
+A=0x4a56
+*A=D
+# Set 0x4a57 to 38911
+A=0x7fff
+D=A
+A=0x1800
+D=D+A
+A=0x4a57
+*A=D
+# Set 0x4a58 to 19181
+A=0x4aed
+D=A
+A=0x4a58
+*A=D
+# Set 0x4a59 to 12279
+A=0x2ff7
+D=A
+A=0x4a59
+*A=D
+# Set 0x4a5a to 16383
+A=0x3fff
+D=A
+A=0x4a5a
+*A=D
+# Set 0x4a5b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a5b
+*A=D
+# Set 0x4a5c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4a5c
+*A=D
+# Set 0x4a5d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a5d
+*A=D
+# Set 0x4a5e to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4a5e
+*A=D
+# Set 0x4a5f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a5f
+*A=D
+# Set 0x4a60 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a60
+*A=D
+# Set 0x4a61 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a61
+*A=D
+# Set 0x4a62 to 65529
+A=0x7fff
+D=A
+A=0x7ffa
+D=D+A
+A=0x4a62
+*A=D
+# Set 0x4a63 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4a63
+*A=D
+# Set 0x4a64 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a64
+*A=D
+# Set 0x4a65 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4a65
+*A=D
+# Set 0x4a66 to 65143
+A=0x7fff
+D=A
+A=0x7e78
+D=D+A
+A=0x4a66
+*A=D
+# Set 0x4a67 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4a67
+*A=D
+# Set 0x4a68 to 7117
+A=0x1bcd
+D=A
+A=0x4a68
+*A=D
+# Set 0x4a69 to 65501
+A=0x7fff
+D=A
+A=0x7fde
+D=D+A
+A=0x4a69
+*A=D
+# Set 0x4a6a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a6a
+*A=D
+# Set 0x4a6b to 49905
+A=0x7fff
+D=A
+A=0x42f2
+D=D+A
+A=0x4a6b
+*A=D
+# Set 0x4a6c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a6c
+*A=D
+# Set 0x4a6d to 61183
+A=0x7fff
+D=A
+A=0x6f00
+D=D+A
+A=0x4a6d
+*A=D
+# Set 0x4a6e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a6e
+*A=D
+# Set 0x4a6f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a6f
+*A=D
+# Set 0x4a70 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4a70
+*A=D
+# Set 0x4a71 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a71
+*A=D
+# Set 0x4a72 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4a72
+*A=D
+# Set 0x4a73 to 48367
+A=0x7fff
+D=A
+A=0x3cf0
+D=D+A
+A=0x4a73
+*A=D
+# Set 0x4a74 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a74
+*A=D
+# Set 0x4a75 to 31743
+A=0x7bff
+D=A
+A=0x4a75
+*A=D
+# Set 0x4a76 to 65436
+A=0x7fff
+D=A
+A=0x7f9d
+D=D+A
+A=0x4a76
+*A=D
+# Set 0x4a77 to 47103
+A=0x7fff
+D=A
+A=0x3800
+D=D+A
+A=0x4a77
+*A=D
+# Set 0x4a78 to 27373
+A=0x6aed
+D=A
+A=0x4a78
+*A=D
+# Set 0x4a79 to 45047
+A=0x7fff
+D=A
+A=0x2ff8
+D=D+A
+A=0x4a79
+*A=D
+# Set 0x4a7a to 32767
+A=0x7fff
+D=A
+A=0x4a7a
+*A=D
+# Set 0x4a7b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a7b
+*A=D
+# Set 0x4a7c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4a7c
+*A=D
+# Set 0x4a7d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a7d
+*A=D
+# Set 0x4a7e to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4a7e
+*A=D
+# Set 0x4a7f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a7f
+*A=D
+# Set 0x4a80 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a80
+*A=D
+# Set 0x4a81 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a81
+*A=D
+# Set 0x4a82 to 65528
+A=0x7fff
+D=A
+A=0x7ff9
+D=D+A
+A=0x4a82
+*A=D
+# Set 0x4a83 to 8191
+A=0x1fff
+D=A
+A=0x4a83
+*A=D
+# Set 0x4a84 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a84
+*A=D
+# Set 0x4a85 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4a85
+*A=D
+# Set 0x4a86 to 65287
+A=0x7fff
+D=A
+A=0x7f08
+D=D+A
+A=0x4a86
+*A=D
+# Set 0x4a87 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a87
+*A=D
+# Set 0x4a88 to 8
+A=0x8
+D=A
+A=0x4a88
+*A=D
+# Set 0x4a89 to 32705
+A=0x7fc1
+D=A
+A=0x4a89
+*A=D
+# Set 0x4a8a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a8a
+*A=D
+# Set 0x4a8b to 57351
+A=0x7fff
+D=A
+A=0x6008
+D=D+A
+A=0x4a8b
+*A=D
+# Set 0x4a8c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a8c
+*A=D
+# Set 0x4a8d to 57599
+A=0x7fff
+D=A
+A=0x6100
+D=D+A
+A=0x4a8d
+*A=D
+# Set 0x4a8e to 63551
+A=0x7fff
+D=A
+A=0x7840
+D=D+A
+A=0x4a8e
+*A=D
+# Set 0x4a8f to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4a8f
+*A=D
+# Set 0x4a90 to 4095
+A=0xfff
+D=A
+A=0x4a90
+*A=D
+# Set 0x4a91 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a91
+*A=D
+# Set 0x4a92 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4a92
+*A=D
+# Set 0x4a93 to 33519
+A=0x7fff
+D=A
+A=0x2f0
+D=D+A
+A=0x4a93
+*A=D
+# Set 0x4a94 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a94
+*A=D
+# Set 0x4a95 to 31743
+A=0x7bff
+D=A
+A=0x4a95
+*A=D
+# Set 0x4a96 to 65436
+A=0x7fff
+D=A
+A=0x7f9d
+D=D+A
+A=0x4a96
+*A=D
+# Set 0x4a97 to 38911
+A=0x7fff
+D=A
+A=0x1800
+D=D+A
+A=0x4a97
+*A=D
+# Set 0x4a98 to 19181
+A=0x4aed
+D=A
+A=0x4a98
+*A=D
+# Set 0x4a99 to 45040
+A=0x7fff
+D=A
+A=0x2ff1
+D=D+A
+A=0x4a99
+*A=D
+# Set 0x4a9a to 32766
+A=0x7ffe
+D=A
+A=0x4a9a
+*A=D
+# Set 0x4a9b to 8191
+A=0x1fff
+D=A
+A=0x4a9b
+*A=D
+# Set 0x4a9c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4a9c
+*A=D
+# Set 0x4a9d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a9d
+*A=D
+# Set 0x4a9e to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4a9e
+*A=D
+# Set 0x4a9f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4a9f
+*A=D
+# Set 0x4aa0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aa0
+*A=D
+# Set 0x4aa1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aa1
+*A=D
+# Set 0x4aa2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aa2
+*A=D
+# Set 0x4aa3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aa3
+*A=D
+# Set 0x4aa4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aa4
+*A=D
+# Set 0x4aa5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4aa5
+*A=D
+# Set 0x4aa6 to 4095
+A=0xfff
+D=A
+A=0x4aa6
+*A=D
+# Set 0x4aa7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aa7
+*A=D
+# Set 0x4aa8 to 12488
+A=0x30c8
+D=A
+A=0x4aa8
+*A=D
+# Set 0x4aa9 to 20479
+A=0x4fff
+D=A
+A=0x4aa9
+*A=D
+# Set 0x4aaa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aaa
+*A=D
+# Set 0x4aab to 60671
+A=0x7fff
+D=A
+A=0x6d00
+D=D+A
+A=0x4aab
+*A=D
+# Set 0x4aac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aac
+*A=D
+# Set 0x4aad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aad
+*A=D
+# Set 0x4aae to 64415
+A=0x7fff
+D=A
+A=0x7ba0
+D=D+A
+A=0x4aae
+*A=D
+# Set 0x4aaf to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4aaf
+*A=D
+# Set 0x4ab0 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4ab0
+*A=D
+# Set 0x4ab1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ab1
+*A=D
+# Set 0x4ab2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4ab2
+*A=D
+# Set 0x4ab3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ab3
+*A=D
+# Set 0x4ab4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ab4
+*A=D
+# Set 0x4ab5 to 31743
+A=0x7bff
+D=A
+A=0x4ab5
+*A=D
+# Set 0x4ab6 to 65436
+A=0x7fff
+D=A
+A=0x7f9d
+D=D+A
+A=0x4ab6
+*A=D
+# Set 0x4ab7 to 50803
+A=0x7fff
+D=A
+A=0x4674
+D=D+A
+A=0x4ab7
+*A=D
+# Set 0x4ab8 to 6340
+A=0x18c4
+D=A
+A=0x4ab8
+*A=D
+# Set 0x4ab9 to 26623
+A=0x67ff
+D=A
+A=0x4ab9
+*A=D
+# Set 0x4aba to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4aba
+*A=D
+# Set 0x4abb to 53247
+A=0x7fff
+D=A
+A=0x5000
+D=D+A
+A=0x4abb
+*A=D
+# Set 0x4abc to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4abc
+*A=D
+# Set 0x4abd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4abd
+*A=D
+# Set 0x4abe to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4abe
+*A=D
+# Set 0x4abf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4abf
+*A=D
+# Set 0x4ac0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ac0
+*A=D
+# Set 0x4ac1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ac1
+*A=D
+# Set 0x4ac2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ac2
+*A=D
+# Set 0x4ac3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ac3
+*A=D
+# Set 0x4ac4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ac4
+*A=D
+# Set 0x4ac5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4ac5
+*A=D
+# Set 0x4ac6 to 511
+A=0x1ff
+D=A
+A=0x4ac6
+*A=D
+# Set 0x4ac7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ac7
+*A=D
+# Set 0x4ac8 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4ac8
+*A=D
+# Set 0x4ac9 to 49279
+A=0x7fff
+D=A
+A=0x4080
+D=D+A
+A=0x4ac9
+*A=D
+# Set 0x4aca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aca
+*A=D
+# Set 0x4acb to 61183
+A=0x7fff
+D=A
+A=0x6f00
+D=D+A
+A=0x4acb
+*A=D
+# Set 0x4acc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4acc
+*A=D
+# Set 0x4acd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4acd
+*A=D
+# Set 0x4ace to 63903
+A=0x7fff
+D=A
+A=0x79a0
+D=D+A
+A=0x4ace
+*A=D
+# Set 0x4acf to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4acf
+*A=D
+# Set 0x4ad0 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4ad0
+*A=D
+# Set 0x4ad1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ad1
+*A=D
+# Set 0x4ad2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4ad2
+*A=D
+# Set 0x4ad3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ad3
+*A=D
+# Set 0x4ad4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ad4
+*A=D
+# Set 0x4ad5 to 31743
+A=0x7bff
+D=A
+A=0x4ad5
+*A=D
+# Set 0x4ad6 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4ad6
+*A=D
+# Set 0x4ad7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ad7
+*A=D
+# Set 0x4ad8 to 65487
+A=0x7fff
+D=A
+A=0x7fd0
+D=D+A
+A=0x4ad8
+*A=D
+# Set 0x4ad9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ad9
+*A=D
+# Set 0x4ada to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4ada
+*A=D
+# Set 0x4adb to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4adb
+*A=D
+# Set 0x4adc to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4adc
+*A=D
+# Set 0x4add to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4add
+*A=D
+# Set 0x4ade to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4ade
+*A=D
+# Set 0x4adf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4adf
+*A=D
+# Set 0x4ae0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ae0
+*A=D
+# Set 0x4ae1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ae1
+*A=D
+# Set 0x4ae2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ae2
+*A=D
+# Set 0x4ae3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ae3
+*A=D
+# Set 0x4ae4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ae4
+*A=D
+# Set 0x4ae5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4ae5
+*A=D
+# Set 0x4ae6 to 32255
+A=0x7dff
+D=A
+A=0x4ae6
+*A=D
+# Set 0x4ae7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ae7
+*A=D
+# Set 0x4ae8 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4ae8
+*A=D
+# Set 0x4ae9 to 57215
+A=0x7fff
+D=A
+A=0x5f80
+D=D+A
+A=0x4ae9
+*A=D
+# Set 0x4aea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aea
+*A=D
+# Set 0x4aeb to 61183
+A=0x7fff
+D=A
+A=0x6f00
+D=D+A
+A=0x4aeb
+*A=D
+# Set 0x4aec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aec
+*A=D
+# Set 0x4aed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aed
+*A=D
+# Set 0x4aee to 63967
+A=0x7fff
+D=A
+A=0x79e0
+D=D+A
+A=0x4aee
+*A=D
+# Set 0x4aef to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4aef
+*A=D
+# Set 0x4af0 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4af0
+*A=D
+# Set 0x4af1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4af1
+*A=D
+# Set 0x4af2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4af2
+*A=D
+# Set 0x4af3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4af3
+*A=D
+# Set 0x4af4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4af4
+*A=D
+# Set 0x4af5 to 31743
+A=0x7bff
+D=A
+A=0x4af5
+*A=D
+# Set 0x4af6 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4af6
+*A=D
+# Set 0x4af7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4af7
+*A=D
+# Set 0x4af8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4af8
+*A=D
+# Set 0x4af9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4af9
+*A=D
+# Set 0x4afa to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4afa
+*A=D
+# Set 0x4afb to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4afb
+*A=D
+# Set 0x4afc to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4afc
+*A=D
+# Set 0x4afd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4afd
+*A=D
+# Set 0x4afe to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4afe
+*A=D
+# Set 0x4aff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4aff
+*A=D
+# Set 0x4b00 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b00
+*A=D
+# Set 0x4b01 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b01
+*A=D
+# Set 0x4b02 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b02
+*A=D
+# Set 0x4b03 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b03
+*A=D
+# Set 0x4b04 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b04
+*A=D
+# Set 0x4b05 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4b05
+*A=D
+# Set 0x4b06 to 32255
+A=0x7dff
+D=A
+A=0x4b06
+*A=D
+# Set 0x4b07 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b07
+*A=D
+# Set 0x4b08 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4b08
+*A=D
+# Set 0x4b09 to 57215
+A=0x7fff
+D=A
+A=0x5f80
+D=D+A
+A=0x4b09
+*A=D
+# Set 0x4b0a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b0a
+*A=D
+# Set 0x4b0b to 61311
+A=0x7fff
+D=A
+A=0x6f80
+D=D+A
+A=0x4b0b
+*A=D
+# Set 0x4b0c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b0c
+*A=D
+# Set 0x4b0d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b0d
+*A=D
+# Set 0x4b0e to 63967
+A=0x7fff
+D=A
+A=0x79e0
+D=D+A
+A=0x4b0e
+*A=D
+# Set 0x4b0f to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4b0f
+*A=D
+# Set 0x4b10 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4b10
+*A=D
+# Set 0x4b11 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b11
+*A=D
+# Set 0x4b12 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4b12
+*A=D
+# Set 0x4b13 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b13
+*A=D
+# Set 0x4b14 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b14
+*A=D
+# Set 0x4b15 to 13311
+A=0x33ff
+D=A
+A=0x4b15
+*A=D
+# Set 0x4b16 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4b16
+*A=D
+# Set 0x4b17 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b17
+*A=D
+# Set 0x4b18 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b18
+*A=D
+# Set 0x4b19 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b19
+*A=D
+# Set 0x4b1a to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4b1a
+*A=D
+# Set 0x4b1b to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4b1b
+*A=D
+# Set 0x4b1c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4b1c
+*A=D
+# Set 0x4b1d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b1d
+*A=D
+# Set 0x4b1e to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4b1e
+*A=D
+# Set 0x4b1f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b1f
+*A=D
+# Set 0x4b20 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b20
+*A=D
+# Set 0x4b21 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b21
+*A=D
+# Set 0x4b22 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b22
+*A=D
+# Set 0x4b23 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b23
+*A=D
+# Set 0x4b24 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b24
+*A=D
+# Set 0x4b25 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4b25
+*A=D
+# Set 0x4b26 to 15871
+A=0x3dff
+D=A
+A=0x4b26
+*A=D
+# Set 0x4b27 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b27
+*A=D
+# Set 0x4b28 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4b28
+*A=D
+# Set 0x4b29 to 53119
+A=0x7fff
+D=A
+A=0x4f80
+D=D+A
+A=0x4b29
+*A=D
+# Set 0x4b2a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b2a
+*A=D
+# Set 0x4b2b to 61311
+A=0x7fff
+D=A
+A=0x6f80
+D=D+A
+A=0x4b2b
+*A=D
+# Set 0x4b2c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b2c
+*A=D
+# Set 0x4b2d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b2d
+*A=D
+# Set 0x4b2e to 63967
+A=0x7fff
+D=A
+A=0x79e0
+D=D+A
+A=0x4b2e
+*A=D
+# Set 0x4b2f to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4b2f
+*A=D
+# Set 0x4b30 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4b30
+*A=D
+# Set 0x4b31 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b31
+*A=D
+# Set 0x4b32 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4b32
+*A=D
+# Set 0x4b33 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b33
+*A=D
+# Set 0x4b34 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b34
+*A=D
+# Set 0x4b35 to 29695
+A=0x73ff
+D=A
+A=0x4b35
+*A=D
+# Set 0x4b36 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4b36
+*A=D
+# Set 0x4b37 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b37
+*A=D
+# Set 0x4b38 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b38
+*A=D
+# Set 0x4b39 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b39
+*A=D
+# Set 0x4b3a to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4b3a
+*A=D
+# Set 0x4b3b to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4b3b
+*A=D
+# Set 0x4b3c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4b3c
+*A=D
+# Set 0x4b3d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b3d
+*A=D
+# Set 0x4b3e to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4b3e
+*A=D
+# Set 0x4b3f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b3f
+*A=D
+# Set 0x4b40 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b40
+*A=D
+# Set 0x4b41 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b41
+*A=D
+# Set 0x4b42 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b42
+*A=D
+# Set 0x4b43 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b43
+*A=D
+# Set 0x4b44 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b44
+*A=D
+# Set 0x4b45 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4b45
+*A=D
+# Set 0x4b46 to 511
+A=0x1ff
+D=A
+A=0x4b46
+*A=D
+# Set 0x4b47 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b47
+*A=D
+# Set 0x4b48 to 33307
+A=0x7fff
+D=A
+A=0x21c
+D=D+A
+A=0x4b48
+*A=D
+# Set 0x4b49 to 57471
+A=0x7fff
+D=A
+A=0x6080
+D=D+A
+A=0x4b49
+*A=D
+# Set 0x4b4a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b4a
+*A=D
+# Set 0x4b4b to 57351
+A=0x7fff
+D=A
+A=0x6008
+D=D+A
+A=0x4b4b
+*A=D
+# Set 0x4b4c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b4c
+*A=D
+# Set 0x4b4d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b4d
+*A=D
+# Set 0x4b4e to 63967
+A=0x7fff
+D=A
+A=0x79e0
+D=D+A
+A=0x4b4e
+*A=D
+# Set 0x4b4f to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4b4f
+*A=D
+# Set 0x4b50 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4b50
+*A=D
+# Set 0x4b51 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b51
+*A=D
+# Set 0x4b52 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4b52
+*A=D
+# Set 0x4b53 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b53
+*A=D
+# Set 0x4b54 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b54
+*A=D
+# Set 0x4b55 to 1023
+A=0x3ff
+D=A
+A=0x4b55
+*A=D
+# Set 0x4b56 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4b56
+*A=D
+# Set 0x4b57 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b57
+*A=D
+# Set 0x4b58 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b58
+*A=D
+# Set 0x4b59 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b59
+*A=D
+# Set 0x4b5a to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4b5a
+*A=D
+# Set 0x4b5b to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4b5b
+*A=D
+# Set 0x4b5c to 65287
+A=0x7fff
+D=A
+A=0x7f08
+D=D+A
+A=0x4b5c
+*A=D
+# Set 0x4b5d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b5d
+*A=D
+# Set 0x4b5e to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4b5e
+*A=D
+# Set 0x4b5f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b5f
+*A=D
+# Set 0x4b60 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b60
+*A=D
+# Set 0x4b61 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b61
+*A=D
+# Set 0x4b62 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b62
+*A=D
+# Set 0x4b63 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b63
+*A=D
+# Set 0x4b64 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b64
+*A=D
+# Set 0x4b65 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4b65
+*A=D
+# Set 0x4b66 to 65023
+A=0x7fff
+D=A
+A=0x7e00
+D=D+A
+A=0x4b66
+*A=D
+# Set 0x4b67 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b67
+*A=D
+# Set 0x4b68 to 65163
+A=0x7fff
+D=A
+A=0x7e8c
+D=D+A
+A=0x4b68
+*A=D
+# Set 0x4b69 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b69
+*A=D
+# Set 0x4b6a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b6a
+*A=D
+# Set 0x4b6b to 65411
+A=0x7fff
+D=A
+A=0x7f84
+D=D+A
+A=0x4b6b
+*A=D
+# Set 0x4b6c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b6c
+*A=D
+# Set 0x4b6d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b6d
+*A=D
+# Set 0x4b6e to 63967
+A=0x7fff
+D=A
+A=0x79e0
+D=D+A
+A=0x4b6e
+*A=D
+# Set 0x4b6f to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4b6f
+*A=D
+# Set 0x4b70 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4b70
+*A=D
+# Set 0x4b71 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4b71
+*A=D
+# Set 0x4b72 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4b72
+*A=D
+# Set 0x4b73 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b73
+*A=D
+# Set 0x4b74 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b74
+*A=D
+# Set 0x4b75 to 9215
+A=0x23ff
+D=A
+A=0x4b75
+*A=D
+# Set 0x4b76 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4b76
+*A=D
+# Set 0x4b77 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b77
+*A=D
+# Set 0x4b78 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b78
+*A=D
+# Set 0x4b79 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b79
+*A=D
+# Set 0x4b7a to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4b7a
+*A=D
+# Set 0x4b7b to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4b7b
+*A=D
+# Set 0x4b7c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b7c
+*A=D
+# Set 0x4b7d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b7d
+*A=D
+# Set 0x4b7e to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4b7e
+*A=D
+# Set 0x4b7f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b7f
+*A=D
+# Set 0x4b80 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b80
+*A=D
+# Set 0x4b81 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b81
+*A=D
+# Set 0x4b82 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b82
+*A=D
+# Set 0x4b83 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b83
+*A=D
+# Set 0x4b84 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b84
+*A=D
+# Set 0x4b85 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4b85
+*A=D
+# Set 0x4b86 to 64512
+A=0x7fff
+D=A
+A=0x7c01
+D=D+A
+A=0x4b86
+*A=D
+# Set 0x4b88 to 65256
+A=0x7fff
+D=A
+A=0x7ee9
+D=D+A
+A=0x4b88
+*A=D
+# Set 0x4b89 to 32512
+A=0x7f00
+D=A
+A=0x4b89
+*A=D
+# Set 0x4b8b to 8121
+A=0x1fb9
+D=A
+A=0x4b8b
+*A=D
+# Set 0x4b8c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b8c
+*A=D
+# Set 0x4b8d to 65024
+A=0x7fff
+D=A
+A=0x7e01
+D=D+A
+A=0x4b8d
+*A=D
+# Set 0x4b8e to 991
+A=0x3df
+D=A
+A=0x4b8e
+*A=D
+# Set 0x4b8f to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4b8f
+*A=D
+# Set 0x4b90 to 57375
+A=0x7fff
+D=A
+A=0x6020
+D=D+A
+A=0x4b90
+*A=D
+# Set 0x4b91 to 64519
+A=0x7fff
+D=A
+A=0x7c08
+D=D+A
+A=0x4b91
+*A=D
+# Set 0x4b92 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4b92
+*A=D
+# Set 0x4b93 to 63488
+A=0x7fff
+D=A
+A=0x7801
+D=D+A
+A=0x4b93
+*A=D
+# Set 0x4b94 to 127
+A=0x7f
+D=A
+A=0x4b94
+*A=D
+# Set 0x4b95 to 29068
+A=0x718c
+D=A
+A=0x4b95
+*A=D
+# Set 0x4b96 to 32669
+A=0x7f9d
+D=A
+A=0x4b96
+*A=D
+# Set 0x4b97 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b97
+*A=D
+# Set 0x4b98 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b98
+*A=D
+# Set 0x4b99 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b99
+*A=D
+# Set 0x4b9a to 32768
+A=0x7fff
+D=A
+D=D+1
+A=0x4b9a
+*A=D
+# Set 0x4b9b to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4b9b
+*A=D
+# Set 0x4b9c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b9c
+*A=D
+# Set 0x4b9d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b9d
+*A=D
+# Set 0x4b9e to 64759
+A=0x7fff
+D=A
+A=0x7cf8
+D=D+A
+A=0x4b9e
+*A=D
+# Set 0x4b9f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4b9f
+*A=D
+# Set 0x4ba0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ba0
+*A=D
+# Set 0x4ba1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ba1
+*A=D
+# Set 0x4ba2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ba2
+*A=D
+# Set 0x4ba3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ba3
+*A=D
+# Set 0x4ba4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ba4
+*A=D
+# Set 0x4ba5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4ba5
+*A=D
+# Set 0x4ba6 to 65023
+A=0x7fff
+D=A
+A=0x7e00
+D=D+A
+A=0x4ba6
+*A=D
+# Set 0x4ba7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4ba7
+*A=D
+# Set 0x4ba8 to 65256
+A=0x7fff
+D=A
+A=0x7ee9
+D=D+A
+A=0x4ba8
+*A=D
+# Set 0x4ba9 to 16255
+A=0x3f7f
+D=A
+A=0x4ba9
+*A=D
+# Set 0x4baa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4baa
+*A=D
+# Set 0x4bab to 57277
+A=0x7fff
+D=A
+A=0x5fbe
+D=D+A
+A=0x4bab
+*A=D
+# Set 0x4bac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bac
+*A=D
+# Set 0x4bad to 65279
+A=0x7fff
+D=A
+A=0x7f00
+D=D+A
+A=0x4bad
+*A=D
+# Set 0x4bae to 65503
+A=0x7fff
+D=A
+A=0x7fe0
+D=D+A
+A=0x4bae
+*A=D
+# Set 0x4baf to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4baf
+*A=D
+# Set 0x4bb0 to 61407
+A=0x7fff
+D=A
+A=0x6fe0
+D=D+A
+A=0x4bb0
+*A=D
+# Set 0x4bb1 to 65015
+A=0x7fff
+D=A
+A=0x7df8
+D=D+A
+A=0x4bb1
+*A=D
+# Set 0x4bb2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4bb2
+*A=D
+# Set 0x4bb3 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x4bb3
+*A=D
+# Set 0x4bb4 to 65471
+A=0x7fff
+D=A
+A=0x7fc0
+D=D+A
+A=0x4bb4
+*A=D
+# Set 0x4bb5 to 30980
+A=0x7904
+D=A
+A=0x4bb5
+*A=D
+# Set 0x4bb6 to 32669
+A=0x7f9d
+D=A
+A=0x4bb6
+*A=D
+# Set 0x4bb7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bb7
+*A=D
+# Set 0x4bb8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bb8
+*A=D
+# Set 0x4bb9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bb9
+*A=D
+# Set 0x4bba to 32767
+A=0x7fff
+D=A
+A=0x4bba
+*A=D
+# Set 0x4bbb to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4bbb
+*A=D
+# Set 0x4bbc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bbc
+*A=D
+# Set 0x4bbd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bbd
+*A=D
+# Set 0x4bbe to 65015
+A=0x7fff
+D=A
+A=0x7df8
+D=D+A
+A=0x4bbe
+*A=D
+# Set 0x4bbf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bbf
+*A=D
+# Set 0x4bc0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bc0
+*A=D
+# Set 0x4bc1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bc1
+*A=D
+# Set 0x4bc2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bc2
+*A=D
+# Set 0x4bc3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bc3
+*A=D
+# Set 0x4bc4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bc4
+*A=D
+# Set 0x4bc5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4bc5
+*A=D
+# Set 0x4bc6 to 65023
+A=0x7fff
+D=A
+A=0x7e00
+D=D+A
+A=0x4bc6
+*A=D
+# Set 0x4bc7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4bc7
+*A=D
+# Set 0x4bc8 to 65251
+A=0x7fff
+D=A
+A=0x7ee4
+D=D+A
+A=0x4bc8
+*A=D
+# Set 0x4bc9 to 40767
+A=0x7fff
+D=A
+A=0x1f40
+D=D+A
+A=0x4bc9
+*A=D
+# Set 0x4bca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bca
+*A=D
+# Set 0x4bcb to 57277
+A=0x7fff
+D=A
+A=0x5fbe
+D=D+A
+A=0x4bcb
+*A=D
+# Set 0x4bcc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bcc
+*A=D
+# Set 0x4bcd to 65279
+A=0x7fff
+D=A
+A=0x7f00
+D=D+A
+A=0x4bcd
+*A=D
+# Set 0x4bce to 65503
+A=0x7fff
+D=A
+A=0x7fe0
+D=D+A
+A=0x4bce
+*A=D
+# Set 0x4bcf to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4bcf
+*A=D
+# Set 0x4bd0 to 59359
+A=0x7fff
+D=A
+A=0x67e0
+D=D+A
+A=0x4bd0
+*A=D
+# Set 0x4bd1 to 65015
+A=0x7fff
+D=A
+A=0x7df8
+D=D+A
+A=0x4bd1
+*A=D
+# Set 0x4bd2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4bd2
+*A=D
+# Set 0x4bd3 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x4bd3
+*A=D
+# Set 0x4bd4 to 65471
+A=0x7fff
+D=A
+A=0x7fc0
+D=D+A
+A=0x4bd4
+*A=D
+# Set 0x4bd5 to 30990
+A=0x790e
+D=A
+A=0x4bd5
+*A=D
+# Set 0x4bd6 to 32669
+A=0x7f9d
+D=A
+A=0x4bd6
+*A=D
+# Set 0x4bd7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bd7
+*A=D
+# Set 0x4bd8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bd8
+*A=D
+# Set 0x4bd9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bd9
+*A=D
+# Set 0x4bda to 32767
+A=0x7fff
+D=A
+A=0x4bda
+*A=D
+# Set 0x4bdb to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4bdb
+*A=D
+# Set 0x4bdc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bdc
+*A=D
+# Set 0x4bdd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bdd
+*A=D
+# Set 0x4bde to 65015
+A=0x7fff
+D=A
+A=0x7df8
+D=D+A
+A=0x4bde
+*A=D
+# Set 0x4bdf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bdf
+*A=D
+# Set 0x4be0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4be0
+*A=D
+# Set 0x4be1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4be1
+*A=D
+# Set 0x4be2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4be2
+*A=D
+# Set 0x4be3 to 49152
+A=0x7fff
+D=A
+A=0x4001
+D=D+A
+A=0x4be3
+*A=D
+# Set 0x4be4 to 63
+A=0x3f
+D=A
+A=0x4be4
+*A=D
+# Set 0x4be5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4be5
+*A=D
+# Set 0x4be6 to 64767
+A=0x7fff
+D=A
+A=0x7d00
+D=D+A
+A=0x4be6
+*A=D
+# Set 0x4be7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4be7
+*A=D
+# Set 0x4be8 to 65249
+A=0x7fff
+D=A
+A=0x7ee2
+D=D+A
+A=0x4be8
+*A=D
+# Set 0x4be9 to 49087
+A=0x7fff
+D=A
+A=0x3fc0
+D=D+A
+A=0x4be9
+*A=D
+# Set 0x4bea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bea
+*A=D
+# Set 0x4beb to 57277
+A=0x7fff
+D=A
+A=0x5fbe
+D=D+A
+A=0x4beb
+*A=D
+# Set 0x4bec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bec
+*A=D
+# Set 0x4bed to 65279
+A=0x7fff
+D=A
+A=0x7f00
+D=D+A
+A=0x4bed
+*A=D
+# Set 0x4bee to 65439
+A=0x7fff
+D=A
+A=0x7fa0
+D=D+A
+A=0x4bee
+*A=D
+# Set 0x4bef to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4bef
+*A=D
+# Set 0x4bf0 to 59359
+A=0x7fff
+D=A
+A=0x67e0
+D=D+A
+A=0x4bf0
+*A=D
+# Set 0x4bf1 to 64999
+A=0x7fff
+D=A
+A=0x7de8
+D=D+A
+A=0x4bf1
+*A=D
+# Set 0x4bf2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4bf2
+*A=D
+# Set 0x4bf3 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x4bf3
+*A=D
+# Set 0x4bf4 to 65471
+A=0x7fff
+D=A
+A=0x7fc0
+D=D+A
+A=0x4bf4
+*A=D
+# Set 0x4bf5 to 31108
+A=0x7984
+D=A
+A=0x4bf5
+*A=D
+# Set 0x4bf6 to 32669
+A=0x7f9d
+D=A
+A=0x4bf6
+*A=D
+# Set 0x4bf7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bf7
+*A=D
+# Set 0x4bf8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bf8
+*A=D
+# Set 0x4bf9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bf9
+*A=D
+# Set 0x4bfa to 32767
+A=0x7fff
+D=A
+A=0x4bfa
+*A=D
+# Set 0x4bfb to 53247
+A=0x7fff
+D=A
+A=0x5000
+D=D+A
+A=0x4bfb
+*A=D
+# Set 0x4bfc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bfc
+*A=D
+# Set 0x4bfd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bfd
+*A=D
+# Set 0x4bfe to 64999
+A=0x7fff
+D=A
+A=0x7de8
+D=D+A
+A=0x4bfe
+*A=D
+# Set 0x4bff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4bff
+*A=D
+# Set 0x4c00 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c00
+*A=D
+# Set 0x4c01 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c01
+*A=D
+# Set 0x4c02 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c02
+*A=D
+# Set 0x4c03 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4c03
+*A=D
+# Set 0x4c04 to 65471
+A=0x7fff
+D=A
+A=0x7fc0
+D=D+A
+A=0x4c04
+*A=D
+# Set 0x4c05 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4c05
+*A=D
+# Set 0x4c06 to 65024
+A=0x7fff
+D=A
+A=0x7e01
+D=D+A
+A=0x4c06
+*A=D
+# Set 0x4c08 to 65264
+A=0x7fff
+D=A
+A=0x7ef1
+D=D+A
+A=0x4c08
+*A=D
+# Set 0x4c09 to 16256
+A=0x3f80
+D=A
+A=0x4c09
+*A=D
+# Set 0x4c0b to 8125
+A=0x1fbd
+D=A
+A=0x4c0b
+*A=D
+# Set 0x4c0c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c0c
+*A=D
+# Set 0x4c0d to 57344
+A=0x7fff
+D=A
+A=0x6001
+D=D+A
+A=0x4c0d
+*A=D
+# Set 0x4c0e to 63
+A=0x3f
+D=A
+A=0x4c0e
+*A=D
+# Set 0x4c0f to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4c0f
+*A=D
+# Set 0x4c10 to 57375
+A=0x7fff
+D=A
+A=0x6020
+D=D+A
+A=0x4c10
+*A=D
+# Set 0x4c11 to 49159
+A=0x7fff
+D=A
+A=0x4008
+D=D+A
+A=0x4c11
+*A=D
+# Set 0x4c12 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4c12
+*A=D
+# Set 0x4c13 to 32960
+A=0x7fff
+D=A
+A=0xc1
+D=D+A
+A=0x4c13
+*A=D
+# Set 0x4c14 to 63
+A=0x3f
+D=A
+A=0x4c14
+*A=D
+# Set 0x4c15 to 31743
+A=0x7bff
+D=A
+A=0x4c15
+*A=D
+# Set 0x4c16 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4c16
+*A=D
+# Set 0x4c17 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c17
+*A=D
+# Set 0x4c18 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c18
+*A=D
+# Set 0x4c19 to 65528
+A=0x7fff
+D=A
+A=0x7ff9
+D=D+A
+A=0x4c19
+*A=D
+# Set 0x4c1b to 4095
+A=0xfff
+D=A
+A=0x4c1b
+*A=D
+# Set 0x4c1c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c1c
+*A=D
+# Set 0x4c1d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c1d
+*A=D
+# Set 0x4c1e to 49167
+A=0x7fff
+D=A
+A=0x4010
+D=D+A
+A=0x4c1e
+*A=D
+# Set 0x4c1f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c1f
+*A=D
+# Set 0x4c20 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c20
+*A=D
+# Set 0x4c21 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c21
+*A=D
+# Set 0x4c22 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c22
+*A=D
+# Set 0x4c23 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4c23
+*A=D
+# Set 0x4c24 to 65471
+A=0x7fff
+D=A
+A=0x7fc0
+D=D+A
+A=0x4c24
+*A=D
+# Set 0x4c25 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4c25
+*A=D
+# Set 0x4c26 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c26
+*A=D
+# Set 0x4c27 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c27
+*A=D
+# Set 0x4c28 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4c28
+*A=D
+# Set 0x4c29 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c29
+*A=D
+# Set 0x4c2a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c2a
+*A=D
+# Set 0x4c2b to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4c2b
+*A=D
+# Set 0x4c2c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c2c
+*A=D
+# Set 0x4c2d to 61183
+A=0x7fff
+D=A
+A=0x6f00
+D=D+A
+A=0x4c2d
+*A=D
+# Set 0x4c2e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c2e
+*A=D
+# Set 0x4c2f to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4c2f
+*A=D
+# Set 0x4c30 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4c30
+*A=D
+# Set 0x4c31 to 40447
+A=0x7fff
+D=A
+A=0x1e00
+D=D+A
+A=0x4c31
+*A=D
+# Set 0x4c32 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4c32
+*A=D
+# Set 0x4c33 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4c33
+*A=D
+# Set 0x4c34 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c34
+*A=D
+# Set 0x4c35 to 31743
+A=0x7bff
+D=A
+A=0x4c35
+*A=D
+# Set 0x4c36 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4c36
+*A=D
+# Set 0x4c37 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c37
+*A=D
+# Set 0x4c38 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c38
+*A=D
+# Set 0x4c39 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4c39
+*A=D
+# Set 0x4c3a to 32767
+A=0x7fff
+D=A
+A=0x4c3a
+*A=D
+# Set 0x4c3b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c3b
+*A=D
+# Set 0x4c3c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c3c
+*A=D
+# Set 0x4c3d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c3d
+*A=D
+# Set 0x4c3e to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4c3e
+*A=D
+# Set 0x4c3f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c3f
+*A=D
+# Set 0x4c40 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c40
+*A=D
+# Set 0x4c41 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c41
+*A=D
+# Set 0x4c42 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c42
+*A=D
+# Set 0x4c43 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4c43
+*A=D
+# Set 0x4c44 to 65471
+A=0x7fff
+D=A
+A=0x7fc0
+D=D+A
+A=0x4c44
+*A=D
+# Set 0x4c45 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4c45
+*A=D
+# Set 0x4c46 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c46
+*A=D
+# Set 0x4c47 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c47
+*A=D
+# Set 0x4c48 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4c48
+*A=D
+# Set 0x4c49 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c49
+*A=D
+# Set 0x4c4a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c4a
+*A=D
+# Set 0x4c4b to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4c4b
+*A=D
+# Set 0x4c4c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c4c
+*A=D
+# Set 0x4c4d to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4c4d
+*A=D
+# Set 0x4c4e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c4e
+*A=D
+# Set 0x4c4f to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4c4f
+*A=D
+# Set 0x4c50 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4c50
+*A=D
+# Set 0x4c51 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4c51
+*A=D
+# Set 0x4c52 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4c52
+*A=D
+# Set 0x4c53 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4c53
+*A=D
+# Set 0x4c54 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c54
+*A=D
+# Set 0x4c55 to 31743
+A=0x7bff
+D=A
+A=0x4c55
+*A=D
+# Set 0x4c56 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4c56
+*A=D
+# Set 0x4c57 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c57
+*A=D
+# Set 0x4c58 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c58
+*A=D
+# Set 0x4c59 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4c59
+*A=D
+# Set 0x4c5a to 32767
+A=0x7fff
+D=A
+A=0x4c5a
+*A=D
+# Set 0x4c5b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c5b
+*A=D
+# Set 0x4c5c to 65528
+A=0x7fff
+D=A
+A=0x7ff9
+D=D+A
+A=0x4c5c
+*A=D
+# Set 0x4c5d to 4095
+A=0xfff
+D=A
+A=0x4c5d
+*A=D
+# Set 0x4c5e to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4c5e
+*A=D
+# Set 0x4c5f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c5f
+*A=D
+# Set 0x4c60 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c60
+*A=D
+# Set 0x4c61 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c61
+*A=D
+# Set 0x4c62 to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4c62
+*A=D
+# Set 0x4c64 to 63
+A=0x3f
+D=A
+A=0x4c64
+*A=D
+# Set 0x4c65 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4c65
+*A=D
+# Set 0x4c66 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c66
+*A=D
+# Set 0x4c67 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c67
+*A=D
+# Set 0x4c68 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4c68
+*A=D
+# Set 0x4c69 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c69
+*A=D
+# Set 0x4c6a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c6a
+*A=D
+# Set 0x4c6b to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4c6b
+*A=D
+# Set 0x4c6c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c6c
+*A=D
+# Set 0x4c6d to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4c6d
+*A=D
+# Set 0x4c6e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c6e
+*A=D
+# Set 0x4c6f to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4c6f
+*A=D
+# Set 0x4c70 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4c70
+*A=D
+# Set 0x4c71 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4c71
+*A=D
+# Set 0x4c72 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4c72
+*A=D
+# Set 0x4c73 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4c73
+*A=D
+# Set 0x4c74 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c74
+*A=D
+# Set 0x4c75 to 31743
+A=0x7bff
+D=A
+A=0x4c75
+*A=D
+# Set 0x4c76 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4c76
+*A=D
+# Set 0x4c77 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c77
+*A=D
+# Set 0x4c78 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c78
+*A=D
+# Set 0x4c79 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4c79
+*A=D
+# Set 0x4c7a to 32767
+A=0x7fff
+D=A
+A=0x4c7a
+*A=D
+# Set 0x4c7b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c7b
+*A=D
+# Set 0x4c7c to 65523
+A=0x7fff
+D=A
+A=0x7ff4
+D=D+A
+A=0x4c7c
+*A=D
+# Set 0x4c7d to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4c7d
+*A=D
+# Set 0x4c7e to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4c7e
+*A=D
+# Set 0x4c7f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c7f
+*A=D
+# Set 0x4c80 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c80
+*A=D
+# Set 0x4c81 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c81
+*A=D
+# Set 0x4c82 to 65529
+A=0x7fff
+D=A
+A=0x7ffa
+D=D+A
+A=0x4c82
+*A=D
+# Set 0x4c83 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4c83
+*A=D
+# Set 0x4c84 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c84
+*A=D
+# Set 0x4c85 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4c85
+*A=D
+# Set 0x4c86 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c86
+*A=D
+# Set 0x4c87 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c87
+*A=D
+# Set 0x4c88 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4c88
+*A=D
+# Set 0x4c89 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c89
+*A=D
+# Set 0x4c8a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c8a
+*A=D
+# Set 0x4c8b to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4c8b
+*A=D
+# Set 0x4c8c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c8c
+*A=D
+# Set 0x4c8d to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4c8d
+*A=D
+# Set 0x4c8e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c8e
+*A=D
+# Set 0x4c8f to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4c8f
+*A=D
+# Set 0x4c90 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4c90
+*A=D
+# Set 0x4c91 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4c91
+*A=D
+# Set 0x4c92 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4c92
+*A=D
+# Set 0x4c93 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4c93
+*A=D
+# Set 0x4c94 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c94
+*A=D
+# Set 0x4c95 to 31743
+A=0x7bff
+D=A
+A=0x4c95
+*A=D
+# Set 0x4c96 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4c96
+*A=D
+# Set 0x4c97 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c97
+*A=D
+# Set 0x4c98 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c98
+*A=D
+# Set 0x4c99 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4c99
+*A=D
+# Set 0x4c9a to 16383
+A=0x3fff
+D=A
+A=0x4c9a
+*A=D
+# Set 0x4c9b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c9b
+*A=D
+# Set 0x4c9c to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4c9c
+*A=D
+# Set 0x4c9d to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4c9d
+*A=D
+# Set 0x4c9e to 47615
+A=0x7fff
+D=A
+A=0x3a00
+D=D+A
+A=0x4c9e
+*A=D
+# Set 0x4c9f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4c9f
+*A=D
+# Set 0x4ca0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ca0
+*A=D
+# Set 0x4ca1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ca1
+*A=D
+# Set 0x4ca2 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4ca2
+*A=D
+# Set 0x4ca3 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4ca3
+*A=D
+# Set 0x4ca4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ca4
+*A=D
+# Set 0x4ca5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4ca5
+*A=D
+# Set 0x4ca6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ca6
+*A=D
+# Set 0x4ca7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ca7
+*A=D
+# Set 0x4ca8 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4ca8
+*A=D
+# Set 0x4ca9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ca9
+*A=D
+# Set 0x4caa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4caa
+*A=D
+# Set 0x4cab to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4cab
+*A=D
+# Set 0x4cac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cac
+*A=D
+# Set 0x4cad to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4cad
+*A=D
+# Set 0x4cae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cae
+*A=D
+# Set 0x4caf to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4caf
+*A=D
+# Set 0x4cb0 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4cb0
+*A=D
+# Set 0x4cb1 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4cb1
+*A=D
+# Set 0x4cb2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4cb2
+*A=D
+# Set 0x4cb3 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4cb3
+*A=D
+# Set 0x4cb4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cb4
+*A=D
+# Set 0x4cb5 to 31743
+A=0x7bff
+D=A
+A=0x4cb5
+*A=D
+# Set 0x4cb6 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4cb6
+*A=D
+# Set 0x4cb7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cb7
+*A=D
+# Set 0x4cb8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cb8
+*A=D
+# Set 0x4cb9 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4cb9
+*A=D
+# Set 0x4cba to 16383
+A=0x3fff
+D=A
+A=0x4cba
+*A=D
+# Set 0x4cbb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cbb
+*A=D
+# Set 0x4cbc to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4cbc
+*A=D
+# Set 0x4cbd to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4cbd
+*A=D
+# Set 0x4cbe to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4cbe
+*A=D
+# Set 0x4cbf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cbf
+*A=D
+# Set 0x4cc0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cc0
+*A=D
+# Set 0x4cc1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cc1
+*A=D
+# Set 0x4cc2 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4cc2
+*A=D
+# Set 0x4cc3 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4cc3
+*A=D
+# Set 0x4cc4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cc4
+*A=D
+# Set 0x4cc5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4cc5
+*A=D
+# Set 0x4cc6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cc6
+*A=D
+# Set 0x4cc7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cc7
+*A=D
+# Set 0x4cc8 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4cc8
+*A=D
+# Set 0x4cc9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cc9
+*A=D
+# Set 0x4cca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cca
+*A=D
+# Set 0x4ccb to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4ccb
+*A=D
+# Set 0x4ccc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ccc
+*A=D
+# Set 0x4ccd to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4ccd
+*A=D
+# Set 0x4cce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cce
+*A=D
+# Set 0x4ccf to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4ccf
+*A=D
+# Set 0x4cd0 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4cd0
+*A=D
+# Set 0x4cd1 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4cd1
+*A=D
+# Set 0x4cd2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4cd2
+*A=D
+# Set 0x4cd3 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4cd3
+*A=D
+# Set 0x4cd4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cd4
+*A=D
+# Set 0x4cd5 to 31743
+A=0x7bff
+D=A
+A=0x4cd5
+*A=D
+# Set 0x4cd6 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4cd6
+*A=D
+# Set 0x4cd7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cd7
+*A=D
+# Set 0x4cd8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cd8
+*A=D
+# Set 0x4cd9 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4cd9
+*A=D
+# Set 0x4cda to 16383
+A=0x3fff
+D=A
+A=0x4cda
+*A=D
+# Set 0x4cdb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cdb
+*A=D
+# Set 0x4cdc to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4cdc
+*A=D
+# Set 0x4cdd to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4cdd
+*A=D
+# Set 0x4cde to 41983
+A=0x7fff
+D=A
+A=0x2400
+D=D+A
+A=0x4cde
+*A=D
+# Set 0x4cdf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cdf
+*A=D
+# Set 0x4ce0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ce0
+*A=D
+# Set 0x4ce1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ce1
+*A=D
+# Set 0x4ce2 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4ce2
+*A=D
+# Set 0x4ce3 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4ce3
+*A=D
+# Set 0x4ce4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ce4
+*A=D
+# Set 0x4ce5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4ce5
+*A=D
+# Set 0x4ce6 to 65039
+A=0x7fff
+D=A
+A=0x7e10
+D=D+A
+A=0x4ce6
+*A=D
+# Set 0x4ce7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ce7
+*A=D
+# Set 0x4ce8 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4ce8
+*A=D
+# Set 0x4ce9 to 65473
+A=0x7fff
+D=A
+A=0x7fc2
+D=D+A
+A=0x4ce9
+*A=D
+# Set 0x4cea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cea
+*A=D
+# Set 0x4ceb to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4ceb
+*A=D
+# Set 0x4cec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cec
+*A=D
+# Set 0x4ced to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4ced
+*A=D
+# Set 0x4cee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cee
+*A=D
+# Set 0x4cef to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4cef
+*A=D
+# Set 0x4cf0 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4cf0
+*A=D
+# Set 0x4cf1 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4cf1
+*A=D
+# Set 0x4cf2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4cf2
+*A=D
+# Set 0x4cf3 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4cf3
+*A=D
+# Set 0x4cf4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cf4
+*A=D
+# Set 0x4cf5 to 31743
+A=0x7bff
+D=A
+A=0x4cf5
+*A=D
+# Set 0x4cf6 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4cf6
+*A=D
+# Set 0x4cf7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cf7
+*A=D
+# Set 0x4cf8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cf8
+*A=D
+# Set 0x4cf9 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4cf9
+*A=D
+# Set 0x4cfa to 16383
+A=0x3fff
+D=A
+A=0x4cfa
+*A=D
+# Set 0x4cfb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cfb
+*A=D
+# Set 0x4cfc to 65280
+A=0x7fff
+D=A
+A=0x7f01
+D=D+A
+A=0x4cfc
+*A=D
+# Set 0x4cfd to 4092
+A=0xffc
+D=A
+A=0x4cfd
+*A=D
+# Set 0x4cfe to 33791
+A=0x7fff
+D=A
+A=0x400
+D=D+A
+A=0x4cfe
+*A=D
+# Set 0x4cff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4cff
+*A=D
+# Set 0x4d00 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d00
+*A=D
+# Set 0x4d01 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d01
+*A=D
+# Set 0x4d02 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4d02
+*A=D
+# Set 0x4d03 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4d03
+*A=D
+# Set 0x4d04 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d04
+*A=D
+# Set 0x4d05 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4d05
+*A=D
+# Set 0x4d06 to 65127
+A=0x7fff
+D=A
+A=0x7e68
+D=D+A
+A=0x4d06
+*A=D
+# Set 0x4d07 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d07
+*A=D
+# Set 0x4d08 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4d08
+*A=D
+# Set 0x4d09 to 65497
+A=0x7fff
+D=A
+A=0x7fda
+D=D+A
+A=0x4d09
+*A=D
+# Set 0x4d0a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d0a
+*A=D
+# Set 0x4d0b to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4d0b
+*A=D
+# Set 0x4d0c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d0c
+*A=D
+# Set 0x4d0d to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4d0d
+*A=D
+# Set 0x4d0e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d0e
+*A=D
+# Set 0x4d0f to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4d0f
+*A=D
+# Set 0x4d10 to 61376
+A=0x7fff
+D=A
+A=0x6fc1
+D=D+A
+A=0x4d10
+*A=D
+# Set 0x4d11 to 15871
+A=0x3dff
+D=A
+A=0x4d11
+*A=D
+# Set 0x4d12 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4d12
+*A=D
+# Set 0x4d13 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4d13
+*A=D
+# Set 0x4d14 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d14
+*A=D
+# Set 0x4d15 to 31743
+A=0x7bff
+D=A
+A=0x4d15
+*A=D
+# Set 0x4d16 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4d16
+*A=D
+# Set 0x4d17 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d17
+*A=D
+# Set 0x4d18 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d18
+*A=D
+# Set 0x4d19 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4d19
+*A=D
+# Set 0x4d1a to 16383
+A=0x3fff
+D=A
+A=0x4d1a
+*A=D
+# Set 0x4d1b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d1b
+*A=D
+# Set 0x4d1c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4d1c
+*A=D
+# Set 0x4d1d to 57471
+A=0x7fff
+D=A
+A=0x6080
+D=D+A
+A=0x4d1d
+*A=D
+# Set 0x4d1e to 46079
+A=0x7fff
+D=A
+A=0x3400
+D=D+A
+A=0x4d1e
+*A=D
+# Set 0x4d1f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d1f
+*A=D
+# Set 0x4d20 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d20
+*A=D
+# Set 0x4d21 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d21
+*A=D
+# Set 0x4d22 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4d22
+*A=D
+# Set 0x4d23 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4d23
+*A=D
+# Set 0x4d24 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d24
+*A=D
+# Set 0x4d25 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4d25
+*A=D
+# Set 0x4d26 to 65143
+A=0x7fff
+D=A
+A=0x7e78
+D=D+A
+A=0x4d26
+*A=D
+# Set 0x4d27 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d27
+*A=D
+# Set 0x4d28 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4d28
+*A=D
+# Set 0x4d29 to 65501
+A=0x7fff
+D=A
+A=0x7fde
+D=D+A
+A=0x4d29
+*A=D
+# Set 0x4d2a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d2a
+*A=D
+# Set 0x4d2b to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4d2b
+*A=D
+# Set 0x4d2c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d2c
+*A=D
+# Set 0x4d2d to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4d2d
+*A=D
+# Set 0x4d2e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d2e
+*A=D
+# Set 0x4d2f to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4d2f
+*A=D
+# Set 0x4d30 to 61376
+A=0x7fff
+D=A
+A=0x6fc1
+D=D+A
+A=0x4d30
+*A=D
+# Set 0x4d31 to 15871
+A=0x3dff
+D=A
+A=0x4d31
+*A=D
+# Set 0x4d32 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4d32
+*A=D
+# Set 0x4d33 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4d33
+*A=D
+# Set 0x4d34 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d34
+*A=D
+# Set 0x4d35 to 31743
+A=0x7bff
+D=A
+A=0x4d35
+*A=D
+# Set 0x4d36 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4d36
+*A=D
+# Set 0x4d37 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d37
+*A=D
+# Set 0x4d38 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d38
+*A=D
+# Set 0x4d39 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4d39
+*A=D
+# Set 0x4d3a to 16383
+A=0x3fff
+D=A
+A=0x4d3a
+*A=D
+# Set 0x4d3b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d3b
+*A=D
+# Set 0x4d3c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4d3c
+*A=D
+# Set 0x4d3d to 57407
+A=0x7fff
+D=A
+A=0x6040
+D=D+A
+A=0x4d3d
+*A=D
+# Set 0x4d3e to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4d3e
+*A=D
+# Set 0x4d3f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d3f
+*A=D
+# Set 0x4d40 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d40
+*A=D
+# Set 0x4d41 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d41
+*A=D
+# Set 0x4d42 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4d42
+*A=D
+# Set 0x4d43 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4d43
+*A=D
+# Set 0x4d44 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d44
+*A=D
+# Set 0x4d45 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4d45
+*A=D
+# Set 0x4d46 to 65143
+A=0x7fff
+D=A
+A=0x7e78
+D=D+A
+A=0x4d46
+*A=D
+# Set 0x4d47 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d47
+*A=D
+# Set 0x4d48 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4d48
+*A=D
+# Set 0x4d49 to 65501
+A=0x7fff
+D=A
+A=0x7fde
+D=D+A
+A=0x4d49
+*A=D
+# Set 0x4d4a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d4a
+*A=D
+# Set 0x4d4b to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4d4b
+*A=D
+# Set 0x4d4c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d4c
+*A=D
+# Set 0x4d4d to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4d4d
+*A=D
+# Set 0x4d4e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d4e
+*A=D
+# Set 0x4d4f to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4d4f
+*A=D
+# Set 0x4d50 to 61407
+A=0x7fff
+D=A
+A=0x6fe0
+D=D+A
+A=0x4d50
+*A=D
+# Set 0x4d51 to 65023
+A=0x7fff
+D=A
+A=0x7e00
+D=D+A
+A=0x4d51
+*A=D
+# Set 0x4d52 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4d52
+*A=D
+# Set 0x4d53 to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x4d53
+*A=D
+# Set 0x4d54 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d54
+*A=D
+# Set 0x4d55 to 31743
+A=0x7bff
+D=A
+A=0x4d55
+*A=D
+# Set 0x4d56 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4d56
+*A=D
+# Set 0x4d57 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d57
+*A=D
+# Set 0x4d58 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d58
+*A=D
+# Set 0x4d59 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4d59
+*A=D
+# Set 0x4d5a to 16383
+A=0x3fff
+D=A
+A=0x4d5a
+*A=D
+# Set 0x4d5b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d5b
+*A=D
+# Set 0x4d5c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4d5c
+*A=D
+# Set 0x4d5d to 61375
+A=0x7fff
+D=A
+A=0x6fc0
+D=D+A
+A=0x4d5d
+*A=D
+# Set 0x4d5e to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4d5e
+*A=D
+# Set 0x4d5f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d5f
+*A=D
+# Set 0x4d60 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d60
+*A=D
+# Set 0x4d61 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d61
+*A=D
+# Set 0x4d62 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4d62
+*A=D
+# Set 0x4d63 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4d63
+*A=D
+# Set 0x4d64 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d64
+*A=D
+# Set 0x4d65 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4d65
+*A=D
+# Set 0x4d66 to 65143
+A=0x7fff
+D=A
+A=0x7e78
+D=D+A
+A=0x4d66
+*A=D
+# Set 0x4d67 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d67
+*A=D
+# Set 0x4d68 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4d68
+*A=D
+# Set 0x4d69 to 65501
+A=0x7fff
+D=A
+A=0x7fde
+D=D+A
+A=0x4d69
+*A=D
+# Set 0x4d6a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d6a
+*A=D
+# Set 0x4d6b to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4d6b
+*A=D
+# Set 0x4d6c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d6c
+*A=D
+# Set 0x4d6d to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4d6d
+*A=D
+# Set 0x4d6e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d6e
+*A=D
+# Set 0x4d6f to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4d6f
+*A=D
+# Set 0x4d70 to 61407
+A=0x7fff
+D=A
+A=0x6fe0
+D=D+A
+A=0x4d70
+*A=D
+# Set 0x4d71 to 65023
+A=0x7fff
+D=A
+A=0x7e00
+D=D+A
+A=0x4d71
+*A=D
+# Set 0x4d72 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4d72
+*A=D
+# Set 0x4d73 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4d73
+*A=D
+# Set 0x4d74 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d74
+*A=D
+# Set 0x4d75 to 31743
+A=0x7bff
+D=A
+A=0x4d75
+*A=D
+# Set 0x4d76 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4d76
+*A=D
+# Set 0x4d77 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d77
+*A=D
+# Set 0x4d78 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d78
+*A=D
+# Set 0x4d79 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4d79
+*A=D
+# Set 0x4d7a to 16383
+A=0x3fff
+D=A
+A=0x4d7a
+*A=D
+# Set 0x4d7b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d7b
+*A=D
+# Set 0x4d7c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4d7c
+*A=D
+# Set 0x4d7d to 61375
+A=0x7fff
+D=A
+A=0x6fc0
+D=D+A
+A=0x4d7d
+*A=D
+# Set 0x4d7e to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4d7e
+*A=D
+# Set 0x4d7f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d7f
+*A=D
+# Set 0x4d80 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d80
+*A=D
+# Set 0x4d81 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d81
+*A=D
+# Set 0x4d82 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4d82
+*A=D
+# Set 0x4d83 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4d83
+*A=D
+# Set 0x4d84 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d84
+*A=D
+# Set 0x4d85 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4d85
+*A=D
+# Set 0x4d86 to 65143
+A=0x7fff
+D=A
+A=0x7e78
+D=D+A
+A=0x4d86
+*A=D
+# Set 0x4d87 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d87
+*A=D
+# Set 0x4d88 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4d88
+*A=D
+# Set 0x4d89 to 65501
+A=0x7fff
+D=A
+A=0x7fde
+D=D+A
+A=0x4d89
+*A=D
+# Set 0x4d8a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d8a
+*A=D
+# Set 0x4d8b to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4d8b
+*A=D
+# Set 0x4d8c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d8c
+*A=D
+# Set 0x4d8d to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4d8d
+*A=D
+# Set 0x4d8e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d8e
+*A=D
+# Set 0x4d8f to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4d8f
+*A=D
+# Set 0x4d90 to 61391
+A=0x7fff
+D=A
+A=0x6fd0
+D=D+A
+A=0x4d90
+*A=D
+# Set 0x4d91 to 61951
+A=0x7fff
+D=A
+A=0x7200
+D=D+A
+A=0x4d91
+*A=D
+# Set 0x4d92 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4d92
+*A=D
+# Set 0x4d93 to 48127
+A=0x7fff
+D=A
+A=0x3c00
+D=D+A
+A=0x4d93
+*A=D
+# Set 0x4d94 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d94
+*A=D
+# Set 0x4d95 to 31743
+A=0x7bff
+D=A
+A=0x4d95
+*A=D
+# Set 0x4d96 to 65437
+A=0x7fff
+D=A
+A=0x7f9e
+D=D+A
+A=0x4d96
+*A=D
+# Set 0x4d97 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d97
+*A=D
+# Set 0x4d98 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d98
+*A=D
+# Set 0x4d99 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4d99
+*A=D
+# Set 0x4d9a to 16383
+A=0x3fff
+D=A
+A=0x4d9a
+*A=D
+# Set 0x4d9b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d9b
+*A=D
+# Set 0x4d9c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4d9c
+*A=D
+# Set 0x4d9d to 59327
+A=0x7fff
+D=A
+A=0x67c0
+D=D+A
+A=0x4d9d
+*A=D
+# Set 0x4d9e to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4d9e
+*A=D
+# Set 0x4d9f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4d9f
+*A=D
+# Set 0x4da0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4da0
+*A=D
+# Set 0x4da1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4da1
+*A=D
+# Set 0x4da2 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4da2
+*A=D
+# Set 0x4da3 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4da3
+*A=D
+# Set 0x4da4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4da4
+*A=D
+# Set 0x4da5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4da5
+*A=D
+# Set 0x4da6 to 65287
+A=0x7fff
+D=A
+A=0x7f08
+D=D+A
+A=0x4da6
+*A=D
+# Set 0x4da7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4da7
+*A=D
+# Set 0x4da8 to 65271
+A=0x7fff
+D=A
+A=0x7ef8
+D=D+A
+A=0x4da8
+*A=D
+# Set 0x4da9 to 65473
+A=0x7fff
+D=A
+A=0x7fc2
+D=D+A
+A=0x4da9
+*A=D
+# Set 0x4daa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4daa
+*A=D
+# Set 0x4dab to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4dab
+*A=D
+# Set 0x4dac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dac
+*A=D
+# Set 0x4dad to 57599
+A=0x7fff
+D=A
+A=0x6100
+D=D+A
+A=0x4dad
+*A=D
+# Set 0x4dae to 65504
+A=0x7fff
+D=A
+A=0x7fe1
+D=D+A
+A=0x4dae
+*A=D
+# Set 0x4daf to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4daf
+*A=D
+# Set 0x4db0 to 61408
+A=0x7fff
+D=A
+A=0x6fe1
+D=D+A
+A=0x4db0
+*A=D
+# Set 0x4db1 to 1023
+A=0x3ff
+D=A
+A=0x4db1
+*A=D
+# Set 0x4db2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4db2
+*A=D
+# Set 0x4db3 to 33791
+A=0x7fff
+D=A
+A=0x400
+D=D+A
+A=0x4db3
+*A=D
+# Set 0x4db4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4db4
+*A=D
+# Set 0x4db5 to 31743
+A=0x7bff
+D=A
+A=0x4db5
+*A=D
+# Set 0x4db6 to 65473
+A=0x7fff
+D=A
+A=0x7fc2
+D=D+A
+A=0x4db6
+*A=D
+# Set 0x4db7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4db7
+*A=D
+# Set 0x4db8 to 49663
+A=0x7fff
+D=A
+A=0x4200
+D=D+A
+A=0x4db8
+*A=D
+# Set 0x4db9 to 65520
+A=0x7fff
+D=A
+A=0x7ff1
+D=D+A
+A=0x4db9
+*A=D
+# Set 0x4dba to 32767
+A=0x7fff
+D=A
+A=0x4dba
+*A=D
+# Set 0x4dbb to 63615
+A=0x7fff
+D=A
+A=0x7880
+D=D+A
+A=0x4dbb
+*A=D
+# Set 0x4dbc to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4dbc
+*A=D
+# Set 0x4dbd to 61503
+A=0x7fff
+D=A
+A=0x7040
+D=D+A
+A=0x4dbd
+*A=D
+# Set 0x4dbe to 32783
+A=0x7fff
+D=A
+A=0x10
+D=D+A
+A=0x4dbe
+*A=D
+# Set 0x4dbf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dbf
+*A=D
+# Set 0x4dc0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dc0
+*A=D
+# Set 0x4dc1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dc1
+*A=D
+# Set 0x4dc2 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4dc2
+*A=D
+# Set 0x4dc3 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4dc3
+*A=D
+# Set 0x4dc4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dc4
+*A=D
+# Set 0x4dc5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4dc5
+*A=D
+# Set 0x4dc6 to 4095
+A=0xfff
+D=A
+A=0x4dc6
+*A=D
+# Set 0x4dc7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dc7
+*A=D
+# Set 0x4dc8 to 65255
+A=0x7fff
+D=A
+A=0x7ee8
+D=D+A
+A=0x4dc8
+*A=D
+# Set 0x4dc9 to 50943
+A=0x7fff
+D=A
+A=0x4700
+D=D+A
+A=0x4dc9
+*A=D
+# Set 0x4dca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dca
+*A=D
+# Set 0x4dcb to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4dcb
+*A=D
+# Set 0x4dcc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dcc
+*A=D
+# Set 0x4dcd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dcd
+*A=D
+# Set 0x4dce to 65524
+A=0x7fff
+D=A
+A=0x7ff5
+D=D+A
+A=0x4dce
+*A=D
+# Set 0x4dcf to 32764
+A=0x7ffc
+D=A
+A=0x4dcf
+*A=D
+# Set 0x4dd0 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4dd0
+*A=D
+# Set 0x4dd1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dd1
+*A=D
+# Set 0x4dd2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4dd2
+*A=D
+# Set 0x4dd3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dd3
+*A=D
+# Set 0x4dd4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dd4
+*A=D
+# Set 0x4dd5 to 15359
+A=0x3bff
+D=A
+A=0x4dd5
+*A=D
+# Set 0x4dd6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dd6
+*A=D
+# Set 0x4dd7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dd7
+*A=D
+# Set 0x4dd8 to 52479
+A=0x7fff
+D=A
+A=0x4d00
+D=D+A
+A=0x4dd8
+*A=D
+# Set 0x4dd9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dd9
+*A=D
+# Set 0x4dda to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dda
+*A=D
+# Set 0x4ddb to 64319
+A=0x7fff
+D=A
+A=0x7b40
+D=D+A
+A=0x4ddb
+*A=D
+# Set 0x4ddc to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4ddc
+*A=D
+# Set 0x4ddd to 65469
+A=0x7fff
+D=A
+A=0x7fbe
+D=D+A
+A=0x4ddd
+*A=D
+# Set 0x4dde to 65095
+A=0x7fff
+D=A
+A=0x7e48
+D=D+A
+A=0x4dde
+*A=D
+# Set 0x4ddf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ddf
+*A=D
+# Set 0x4de0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4de0
+*A=D
+# Set 0x4de1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4de1
+*A=D
+# Set 0x4de2 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4de2
+*A=D
+# Set 0x4de3 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4de3
+*A=D
+# Set 0x4de4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4de4
+*A=D
+# Set 0x4de5 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4de5
+*A=D
+# Set 0x4de6 to 511
+A=0x1ff
+D=A
+A=0x4de6
+*A=D
+# Set 0x4de7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4de7
+*A=D
+# Set 0x4de8 to 63719
+A=0x7fff
+D=A
+A=0x78e8
+D=D+A
+A=0x4de8
+*A=D
+# Set 0x4de9 to 49279
+A=0x7fff
+D=A
+A=0x4080
+D=D+A
+A=0x4de9
+*A=D
+# Set 0x4dea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dea
+*A=D
+# Set 0x4deb to 65341
+A=0x7fff
+D=A
+A=0x7f3e
+D=D+A
+A=0x4deb
+*A=D
+# Set 0x4dec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dec
+*A=D
+# Set 0x4ded to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ded
+*A=D
+# Set 0x4dee to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4dee
+*A=D
+# Set 0x4def to 32764
+A=0x7ffc
+D=A
+A=0x4def
+*A=D
+# Set 0x4df0 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4df0
+*A=D
+# Set 0x4df1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4df1
+*A=D
+# Set 0x4df2 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4df2
+*A=D
+# Set 0x4df3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4df3
+*A=D
+# Set 0x4df4 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4df4
+*A=D
+# Set 0x4df5 to 31743
+A=0x7bff
+D=A
+A=0x4df5
+*A=D
+# Set 0x4df6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4df6
+*A=D
+# Set 0x4df7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4df7
+*A=D
+# Set 0x4df8 to 61183
+A=0x7fff
+D=A
+A=0x6f00
+D=D+A
+A=0x4df8
+*A=D
+# Set 0x4df9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4df9
+*A=D
+# Set 0x4dfa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dfa
+*A=D
+# Set 0x4dfb to 64447
+A=0x7fff
+D=A
+A=0x7bc0
+D=D+A
+A=0x4dfb
+*A=D
+# Set 0x4dfc to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4dfc
+*A=D
+# Set 0x4dfd to 65408
+A=0x7fff
+D=A
+A=0x7f81
+D=D+A
+A=0x4dfd
+*A=D
+# Set 0x4dfe to 32487
+A=0x7ee7
+D=A
+A=0x4dfe
+*A=D
+# Set 0x4dff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4dff
+*A=D
+# Set 0x4e00 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e00
+*A=D
+# Set 0x4e01 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e01
+*A=D
+# Set 0x4e02 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4e02
+*A=D
+# Set 0x4e03 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4e03
+*A=D
+# Set 0x4e04 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e04
+*A=D
+# Set 0x4e05 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4e05
+*A=D
+# Set 0x4e06 to 32255
+A=0x7dff
+D=A
+A=0x4e06
+*A=D
+# Set 0x4e07 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e07
+*A=D
+# Set 0x4e08 to 64487
+A=0x7fff
+D=A
+A=0x7be8
+D=D+A
+A=0x4e08
+*A=D
+# Set 0x4e09 to 57215
+A=0x7fff
+D=A
+A=0x5f80
+D=D+A
+A=0x4e09
+*A=D
+# Set 0x4e0a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e0a
+*A=D
+# Set 0x4e0b to 65405
+A=0x7fff
+D=A
+A=0x7f7e
+D=D+A
+A=0x4e0b
+*A=D
+# Set 0x4e0c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e0c
+*A=D
+# Set 0x4e0d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e0d
+*A=D
+# Set 0x4e0e to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4e0e
+*A=D
+# Set 0x4e0f to 32764
+A=0x7ffc
+D=A
+A=0x4e0f
+*A=D
+# Set 0x4e10 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4e10
+*A=D
+# Set 0x4e11 to 61839
+A=0x7fff
+D=A
+A=0x7190
+D=D+A
+A=0x4e11
+*A=D
+# Set 0x4e12 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4e12
+*A=D
+# Set 0x4e13 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e13
+*A=D
+# Set 0x4e14 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4e14
+*A=D
+# Set 0x4e15 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x4e15
+*A=D
+# Set 0x4e16 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e16
+*A=D
+# Set 0x4e17 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e17
+*A=D
+# Set 0x4e18 to 61183
+A=0x7fff
+D=A
+A=0x6f00
+D=D+A
+A=0x4e18
+*A=D
+# Set 0x4e19 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e19
+*A=D
+# Set 0x4e1a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e1a
+*A=D
+# Set 0x4e1b to 64415
+A=0x7fff
+D=A
+A=0x7ba0
+D=D+A
+A=0x4e1b
+*A=D
+# Set 0x4e1c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4e1c
+*A=D
+# Set 0x4e1d to 65471
+A=0x7fff
+D=A
+A=0x7fc0
+D=D+A
+A=0x4e1d
+*A=D
+# Set 0x4e1e to 32375
+A=0x7e77
+D=A
+A=0x4e1e
+*A=D
+# Set 0x4e1f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e1f
+*A=D
+# Set 0x4e20 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e20
+*A=D
+# Set 0x4e21 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e21
+*A=D
+# Set 0x4e22 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4e22
+*A=D
+# Set 0x4e23 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4e23
+*A=D
+# Set 0x4e24 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e24
+*A=D
+# Set 0x4e25 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4e25
+*A=D
+# Set 0x4e26 to 32255
+A=0x7dff
+D=A
+A=0x4e26
+*A=D
+# Set 0x4e27 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e27
+*A=D
+# Set 0x4e28 to 64495
+A=0x7fff
+D=A
+A=0x7bf0
+D=D+A
+A=0x4e28
+*A=D
+# Set 0x4e29 to 57215
+A=0x7fff
+D=A
+A=0x5f80
+D=D+A
+A=0x4e29
+*A=D
+# Set 0x4e2a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e2a
+*A=D
+# Set 0x4e2b to 65401
+A=0x7fff
+D=A
+A=0x7f7a
+D=D+A
+A=0x4e2b
+*A=D
+# Set 0x4e2c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e2c
+*A=D
+# Set 0x4e2d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e2d
+*A=D
+# Set 0x4e2e to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4e2e
+*A=D
+# Set 0x4e2f to 32764
+A=0x7ffc
+D=A
+A=0x4e2f
+*A=D
+# Set 0x4e30 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4e30
+*A=D
+# Set 0x4e31 to 62879
+A=0x7fff
+D=A
+A=0x75a0
+D=D+A
+A=0x4e31
+*A=D
+# Set 0x4e32 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4e32
+*A=D
+# Set 0x4e33 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e33
+*A=D
+# Set 0x4e34 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4e34
+*A=D
+# Set 0x4e35 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x4e35
+*A=D
+# Set 0x4e36 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e36
+*A=D
+# Set 0x4e37 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e37
+*A=D
+# Set 0x4e38 to 61183
+A=0x7fff
+D=A
+A=0x6f00
+D=D+A
+A=0x4e38
+*A=D
+# Set 0x4e39 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e39
+*A=D
+# Set 0x4e3a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e3a
+*A=D
+# Set 0x4e3b to 64479
+A=0x7fff
+D=A
+A=0x7be0
+D=D+A
+A=0x4e3b
+*A=D
+# Set 0x4e3c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4e3c
+*A=D
+# Set 0x4e3d to 65439
+A=0x7fff
+D=A
+A=0x7fa0
+D=D+A
+A=0x4e3d
+*A=D
+# Set 0x4e3e to 32503
+A=0x7ef7
+D=A
+A=0x4e3e
+*A=D
+# Set 0x4e3f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e3f
+*A=D
+# Set 0x4e40 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e40
+*A=D
+# Set 0x4e41 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e41
+*A=D
+# Set 0x4e42 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4e42
+*A=D
+# Set 0x4e43 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4e43
+*A=D
+# Set 0x4e44 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e44
+*A=D
+# Set 0x4e45 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4e45
+*A=D
+# Set 0x4e46 to 15871
+A=0x3dff
+D=A
+A=0x4e46
+*A=D
+# Set 0x4e47 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e47
+*A=D
+# Set 0x4e48 to 64463
+A=0x7fff
+D=A
+A=0x7bd0
+D=D+A
+A=0x4e48
+*A=D
+# Set 0x4e49 to 53119
+A=0x7fff
+D=A
+A=0x4f80
+D=D+A
+A=0x4e49
+*A=D
+# Set 0x4e4a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e4a
+*A=D
+# Set 0x4e4b to 65401
+A=0x7fff
+D=A
+A=0x7f7a
+D=D+A
+A=0x4e4b
+*A=D
+# Set 0x4e4c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e4c
+*A=D
+# Set 0x4e4d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e4d
+*A=D
+# Set 0x4e4e to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4e4e
+*A=D
+# Set 0x4e4f to 32764
+A=0x7ffc
+D=A
+A=0x4e4f
+*A=D
+# Set 0x4e50 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4e50
+*A=D
+# Set 0x4e51 to 61831
+A=0x7fff
+D=A
+A=0x7188
+D=D+A
+A=0x4e51
+*A=D
+# Set 0x4e52 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4e52
+*A=D
+# Set 0x4e53 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e53
+*A=D
+# Set 0x4e54 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4e54
+*A=D
+# Set 0x4e55 to 62463
+A=0x7fff
+D=A
+A=0x7400
+D=D+A
+A=0x4e55
+*A=D
+# Set 0x4e56 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e56
+*A=D
+# Set 0x4e57 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e57
+*A=D
+# Set 0x4e58 to 61183
+A=0x7fff
+D=A
+A=0x6f00
+D=D+A
+A=0x4e58
+*A=D
+# Set 0x4e59 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e59
+*A=D
+# Set 0x4e5a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e5a
+*A=D
+# Set 0x4e5b to 64479
+A=0x7fff
+D=A
+A=0x7be0
+D=D+A
+A=0x4e5b
+*A=D
+# Set 0x4e5c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4e5c
+*A=D
+# Set 0x4e5d to 65439
+A=0x7fff
+D=A
+A=0x7fa0
+D=D+A
+A=0x4e5d
+*A=D
+# Set 0x4e5e to 32503
+A=0x7ef7
+D=A
+A=0x4e5e
+*A=D
+# Set 0x4e5f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e5f
+*A=D
+# Set 0x4e60 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e60
+*A=D
+# Set 0x4e61 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e61
+*A=D
+# Set 0x4e62 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4e62
+*A=D
+# Set 0x4e63 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4e63
+*A=D
+# Set 0x4e64 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e64
+*A=D
+# Set 0x4e65 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4e65
+*A=D
+# Set 0x4e66 to 511
+A=0x1ff
+D=A
+A=0x4e66
+*A=D
+# Set 0x4e67 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e67
+*A=D
+# Set 0x4e68 to 32777
+A=0x7fff
+D=A
+A=0xa
+D=D+A
+A=0x4e68
+*A=D
+# Set 0x4e69 to 127
+A=0x7f
+D=A
+A=0x4e69
+*A=D
+# Set 0x4e6a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e6a
+*A=D
+# Set 0x4e6b to 57347
+A=0x7fff
+D=A
+A=0x6004
+D=D+A
+A=0x4e6b
+*A=D
+# Set 0x4e6c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e6c
+*A=D
+# Set 0x4e6d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e6d
+*A=D
+# Set 0x4e6e to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x4e6e
+*A=D
+# Set 0x4e6f to 32764
+A=0x7ffc
+D=A
+A=0x4e6f
+*A=D
+# Set 0x4e70 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4e70
+*A=D
+# Set 0x4e71 to 64759
+A=0x7fff
+D=A
+A=0x7cf8
+D=D+A
+A=0x4e71
+*A=D
+# Set 0x4e72 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4e72
+*A=D
+# Set 0x4e73 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e73
+*A=D
+# Set 0x4e74 to 65472
+A=0x7fff
+D=A
+A=0x7fc1
+D=D+A
+A=0x4e74
+*A=D
+# Set 0x4e75 to 2047
+A=0x7ff
+D=A
+A=0x4e75
+*A=D
+# Set 0x4e76 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e76
+*A=D
+# Set 0x4e77 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e77
+*A=D
+# Set 0x4e78 to 61183
+A=0x7fff
+D=A
+A=0x6f00
+D=D+A
+A=0x4e78
+*A=D
+# Set 0x4e79 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e79
+*A=D
+# Set 0x4e7a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e7a
+*A=D
+# Set 0x4e7b to 64479
+A=0x7fff
+D=A
+A=0x7be0
+D=D+A
+A=0x4e7b
+*A=D
+# Set 0x4e7c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4e7c
+*A=D
+# Set 0x4e7d to 65472
+A=0x7fff
+D=A
+A=0x7fc1
+D=D+A
+A=0x4e7d
+*A=D
+# Set 0x4e7e to 32375
+A=0x7e77
+D=A
+A=0x4e7e
+*A=D
+# Set 0x4e7f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e7f
+*A=D
+# Set 0x4e80 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e80
+*A=D
+# Set 0x4e81 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e81
+*A=D
+# Set 0x4e82 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4e82
+*A=D
+# Set 0x4e83 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4e83
+*A=D
+# Set 0x4e84 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e84
+*A=D
+# Set 0x4e85 to 63359
+A=0x7fff
+D=A
+A=0x7780
+D=D+A
+A=0x4e85
+*A=D
+# Set 0x4e86 to 65023
+A=0x7fff
+D=A
+A=0x7e00
+D=D+A
+A=0x4e86
+*A=D
+# Set 0x4e87 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e87
+*A=D
+# Set 0x4e88 to 47129
+A=0x7fff
+D=A
+A=0x381a
+D=D+A
+A=0x4e88
+*A=D
+# Set 0x4e89 to 15871
+A=0x3dff
+D=A
+A=0x4e89
+*A=D
+# Set 0x4e8a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e8a
+*A=D
+# Set 0x4e8b to 61311
+A=0x7fff
+D=A
+A=0x6f80
+D=D+A
+A=0x4e8b
+*A=D
+# Set 0x4e8c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e8c
+*A=D
+# Set 0x4e8d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e8d
+*A=D
+# Set 0x4e8e to 65511
+A=0x7fff
+D=A
+A=0x7fe8
+D=D+A
+A=0x4e8e
+*A=D
+# Set 0x4e8f to 32764
+A=0x7ffc
+D=A
+A=0x4e8f
+*A=D
+# Set 0x4e90 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4e90
+*A=D
+# Set 0x4e91 to 57527
+A=0x7fff
+D=A
+A=0x60b8
+D=D+A
+A=0x4e91
+*A=D
+# Set 0x4e92 to 48639
+A=0x7fff
+D=A
+A=0x3e00
+D=D+A
+A=0x4e92
+*A=D
+# Set 0x4e93 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e93
+*A=D
+# Set 0x4e94 to 65502
+A=0x7fff
+D=A
+A=0x7fdf
+D=D+A
+A=0x4e94
+*A=D
+# Set 0x4e95 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e95
+*A=D
+# Set 0x4e96 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4e96
+*A=D
+# Set 0x4e97 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e97
+*A=D
+# Set 0x4e98 to 52991
+A=0x7fff
+D=A
+A=0x4f00
+D=D+A
+A=0x4e98
+*A=D
+# Set 0x4e99 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e99
+*A=D
+# Set 0x4e9a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e9a
+*A=D
+# Set 0x4e9b to 64479
+A=0x7fff
+D=A
+A=0x7be0
+D=D+A
+A=0x4e9b
+*A=D
+# Set 0x4e9c to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4e9c
+*A=D
+# Set 0x4e9d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e9d
+*A=D
+# Set 0x4e9e to 65143
+A=0x7fff
+D=A
+A=0x7e78
+D=D+A
+A=0x4e9e
+*A=D
+# Set 0x4e9f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4e9f
+*A=D
+# Set 0x4ea0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ea0
+*A=D
+# Set 0x4ea1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ea1
+*A=D
+# Set 0x4ea2 to 61435
+A=0x7fff
+D=A
+A=0x6ffc
+D=D+A
+A=0x4ea2
+*A=D
+# Set 0x4ea3 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4ea3
+*A=D
+# Set 0x4ea4 to 65439
+A=0x7fff
+D=A
+A=0x7fa0
+D=D+A
+A=0x4ea4
+*A=D
+# Set 0x4ea5 to 59263
+A=0x7fff
+D=A
+A=0x6780
+D=D+A
+A=0x4ea5
+*A=D
+# Set 0x4ea6 to 64512
+A=0x7fff
+D=A
+A=0x7c01
+D=D+A
+A=0x4ea6
+*A=D
+# Set 0x4ea8 to 14793
+A=0x39c9
+D=A
+A=0x4ea8
+*A=D
+# Set 0x4ea9 to 15616
+A=0x3d00
+D=A
+A=0x4ea9
+*A=D
+# Set 0x4eab to 3967
+A=0xf7f
+D=A
+A=0x4eab
+*A=D
+# Set 0x4eac to 65504
+A=0x7fff
+D=A
+A=0x7fe1
+D=D+A
+A=0x4eac
+*A=D
+# Set 0x4eae to 7
+A=0x7
+D=A
+A=0x4eae
+*A=D
+# Set 0x4eaf to 32256
+A=0x7e00
+D=A
+A=0x4eaf
+*A=D
+# Set 0x4eb0 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4eb0
+*A=D
+# Set 0x4eb1 to 62400
+A=0x7fff
+D=A
+A=0x73c1
+D=D+A
+A=0x4eb1
+*A=D
+# Set 0x4eb2 to 15744
+A=0x3d80
+D=A
+A=0x4eb2
+*A=D
+# Set 0x4eb4 to 30
+A=0x1e
+D=A
+A=0x4eb4
+*A=D
+# Set 0x4eb5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4eb5
+*A=D
+# Set 0x4eb6 to 49152
+A=0x7fff
+D=A
+A=0x4001
+D=D+A
+A=0x4eb6
+*A=D
+# Set 0x4eb8 to 3839
+A=0xeff
+D=A
+A=0x4eb8
+*A=D
+# Set 0x4eb9 to 61440
+A=0x7fff
+D=A
+A=0x7001
+D=D+A
+A=0x4eb9
+*A=D
+# Set 0x4ebb to 991
+A=0x3df
+D=A
+A=0x4ebb
+*A=D
+# Set 0x4ebc to 119
+A=0x77
+D=A
+A=0x4ebc
+*A=D
+# Set 0x4ebd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ebd
+*A=D
+# Set 0x4ebe to 247
+A=0xf7
+D=A
+A=0x4ebe
+*A=D
+# Set 0x4ebf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ebf
+*A=D
+# Set 0x4ec0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ec0
+*A=D
+# Set 0x4ec1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ec1
+*A=D
+# Set 0x4ec2 to 57347
+A=0x7fff
+D=A
+A=0x6004
+D=D+A
+A=0x4ec2
+*A=D
+# Set 0x4ec3 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4ec3
+*A=D
+# Set 0x4ec4 to 65408
+A=0x7fff
+D=A
+A=0x7f81
+D=D+A
+A=0x4ec4
+*A=D
+# Set 0x4ec5 to 3967
+A=0xf7f
+D=A
+A=0x4ec5
+*A=D
+# Set 0x4ec6 to 65023
+A=0x7fff
+D=A
+A=0x7e00
+D=D+A
+A=0x4ec6
+*A=D
+# Set 0x4ec7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ec7
+*A=D
+# Set 0x4ec8 to 63948
+A=0x7fff
+D=A
+A=0x79cd
+D=D+A
+A=0x4ec8
+*A=D
+# Set 0x4ec9 to 32127
+A=0x7d7f
+D=A
+A=0x4ec9
+*A=D
+# Set 0x4eca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4eca
+*A=D
+# Set 0x4ecb to 65151
+A=0x7fff
+D=A
+A=0x7e80
+D=D+A
+A=0x4ecb
+*A=D
+# Set 0x4ecc to 65519
+A=0x7fff
+D=A
+A=0x7ff0
+D=D+A
+A=0x4ecc
+*A=D
+# Set 0x4ecd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ecd
+*A=D
+# Set 0x4ece to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ece
+*A=D
+# Set 0x4ecf to 32511
+A=0x7eff
+D=A
+A=0x4ecf
+*A=D
+# Set 0x4ed0 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4ed0
+*A=D
+# Set 0x4ed1 to 64499
+A=0x7fff
+D=A
+A=0x7bf4
+D=D+A
+A=0x4ed1
+*A=D
+# Set 0x4ed2 to 64959
+A=0x7fff
+D=A
+A=0x7dc0
+D=D+A
+A=0x4ed2
+*A=D
+# Set 0x4ed3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ed3
+*A=D
+# Set 0x4ed4 to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4ed4
+*A=D
+# Set 0x4ed5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ed5
+*A=D
+# Set 0x4ed6 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4ed6
+*A=D
+# Set 0x4ed7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ed7
+*A=D
+# Set 0x4ed8 to 65279
+A=0x7fff
+D=A
+A=0x7f00
+D=D+A
+A=0x4ed8
+*A=D
+# Set 0x4ed9 to 63487
+A=0x7fff
+D=A
+A=0x7800
+D=D+A
+A=0x4ed9
+*A=D
+# Set 0x4eda to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4eda
+*A=D
+# Set 0x4edb to 65439
+A=0x7fff
+D=A
+A=0x7fa0
+D=D+A
+A=0x4edb
+*A=D
+# Set 0x4edc to 32759
+A=0x7ff7
+D=A
+A=0x4edc
+*A=D
+# Set 0x4edd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4edd
+*A=D
+# Set 0x4ede to 32759
+A=0x7ff7
+D=A
+A=0x4ede
+*A=D
+# Set 0x4edf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4edf
+*A=D
+# Set 0x4ee0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ee0
+*A=D
+# Set 0x4ee1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ee1
+*A=D
+# Set 0x4ee2 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4ee2
+*A=D
+# Set 0x4ee3 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4ee3
+*A=D
+# Set 0x4ee4 to 65439
+A=0x7fff
+D=A
+A=0x7fa0
+D=D+A
+A=0x4ee4
+*A=D
+# Set 0x4ee5 to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4ee5
+*A=D
+# Set 0x4ee6 to 65023
+A=0x7fff
+D=A
+A=0x7e00
+D=D+A
+A=0x4ee6
+*A=D
+# Set 0x4ee7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ee7
+*A=D
+# Set 0x4ee8 to 63516
+A=0x7fff
+D=A
+A=0x781d
+D=D+A
+A=0x4ee8
+*A=D
+# Set 0x4ee9 to 28735
+A=0x703f
+D=A
+A=0x4ee9
+*A=D
+# Set 0x4eea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4eea
+*A=D
+# Set 0x4eeb to 65279
+A=0x7fff
+D=A
+A=0x7f00
+D=D+A
+A=0x4eeb
+*A=D
+# Set 0x4eec to 65519
+A=0x7fff
+D=A
+A=0x7ff0
+D=D+A
+A=0x4eec
+*A=D
+# Set 0x4eed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4eed
+*A=D
+# Set 0x4eee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4eee
+*A=D
+# Set 0x4eef to 32511
+A=0x7eff
+D=A
+A=0x4eef
+*A=D
+# Set 0x4ef0 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4ef0
+*A=D
+# Set 0x4ef1 to 65523
+A=0x7fff
+D=A
+A=0x7ff4
+D=D+A
+A=0x4ef1
+*A=D
+# Set 0x4ef2 to 64959
+A=0x7fff
+D=A
+A=0x7dc0
+D=D+A
+A=0x4ef2
+*A=D
+# Set 0x4ef3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ef3
+*A=D
+# Set 0x4ef4 to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x4ef4
+*A=D
+# Set 0x4ef5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ef5
+*A=D
+# Set 0x4ef6 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4ef6
+*A=D
+# Set 0x4ef7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ef7
+*A=D
+# Set 0x4ef8 to 65279
+A=0x7fff
+D=A
+A=0x7f00
+D=D+A
+A=0x4ef8
+*A=D
+# Set 0x4ef9 to 63487
+A=0x7fff
+D=A
+A=0x7800
+D=D+A
+A=0x4ef9
+*A=D
+# Set 0x4efa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4efa
+*A=D
+# Set 0x4efb to 65439
+A=0x7fff
+D=A
+A=0x7fa0
+D=D+A
+A=0x4efb
+*A=D
+# Set 0x4efc to 32759
+A=0x7ff7
+D=A
+A=0x4efc
+*A=D
+# Set 0x4efd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4efd
+*A=D
+# Set 0x4efe to 32759
+A=0x7ff7
+D=A
+A=0x4efe
+*A=D
+# Set 0x4eff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4eff
+*A=D
+# Set 0x4f00 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f00
+*A=D
+# Set 0x4f01 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f01
+*A=D
+# Set 0x4f02 to 61439
+A=0x7fff
+D=A
+A=0x7000
+D=D+A
+A=0x4f02
+*A=D
+# Set 0x4f03 to 40959
+A=0x7fff
+D=A
+A=0x2000
+D=D+A
+A=0x4f03
+*A=D
+# Set 0x4f04 to 65439
+A=0x7fff
+D=A
+A=0x7fa0
+D=D+A
+A=0x4f04
+*A=D
+# Set 0x4f05 to 65407
+A=0x7fff
+D=A
+A=0x7f80
+D=D+A
+A=0x4f05
+*A=D
+# Set 0x4f06 to 64767
+A=0x7fff
+D=A
+A=0x7d00
+D=D+A
+A=0x4f06
+*A=D
+# Set 0x4f07 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f07
+*A=D
+# Set 0x4f08 to 62270
+A=0x7fff
+D=A
+A=0x733f
+D=D+A
+A=0x4f08
+*A=D
+# Set 0x4f09 to 61503
+A=0x7fff
+D=A
+A=0x7040
+D=D+A
+A=0x4f09
+*A=D
+# Set 0x4f0a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f0a
+*A=D
+# Set 0x4f0b to 65279
+A=0x7fff
+D=A
+A=0x7f00
+D=D+A
+A=0x4f0b
+*A=D
+# Set 0x4f0c to 65519
+A=0x7fff
+D=A
+A=0x7ff0
+D=D+A
+A=0x4f0c
+*A=D
+# Set 0x4f0d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f0d
+*A=D
+# Set 0x4f0e to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x4f0e
+*A=D
+# Set 0x4f0f to 32383
+A=0x7e7f
+D=A
+A=0x4f0f
+*A=D
+# Set 0x4f10 to 53247
+A=0x7fff
+D=A
+A=0x5000
+D=D+A
+A=0x4f10
+*A=D
+# Set 0x4f11 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x4f11
+*A=D
+# Set 0x4f12 to 64927
+A=0x7fff
+D=A
+A=0x7da0
+D=D+A
+A=0x4f12
+*A=D
+# Set 0x4f13 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f13
+*A=D
+# Set 0x4f14 to 65533
+A=0x7fff
+D=A
+A=0x7ffe
+D=D+A
+A=0x4f14
+*A=D
+# Set 0x4f15 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f15
+*A=D
+# Set 0x4f16 to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x4f16
+*A=D
+# Set 0x4f17 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f17
+*A=D
+# Set 0x4f18 to 64767
+A=0x7fff
+D=A
+A=0x7d00
+D=D+A
+A=0x4f18
+*A=D
+# Set 0x4f19 to 62463
+A=0x7fff
+D=A
+A=0x7400
+D=D+A
+A=0x4f19
+*A=D
+# Set 0x4f1a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f1a
+*A=D
+# Set 0x4f1b to 65471
+A=0x7fff
+D=A
+A=0x7fc0
+D=D+A
+A=0x4f1b
+*A=D
+# Set 0x4f1c to 16375
+A=0x3ff7
+D=A
+A=0x4f1c
+*A=D
+# Set 0x4f1d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f1d
+*A=D
+# Set 0x4f1e to 32743
+A=0x7fe7
+D=A
+A=0x4f1e
+*A=D
+# Set 0x4f1f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f1f
+*A=D
+# Set 0x4f20 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f20
+*A=D
+# Set 0x4f21 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f21
+*A=D
+# Set 0x4f22 to 58367
+A=0x7fff
+D=A
+A=0x6400
+D=D+A
+A=0x4f22
+*A=D
+# Set 0x4f23 to 8191
+A=0x1fff
+D=A
+A=0x4f23
+*A=D
+# Set 0x4f24 to 65487
+A=0x7fff
+D=A
+A=0x7fd0
+D=D+A
+A=0x4f24
+*A=D
+# Set 0x4f25 to 65151
+A=0x7fff
+D=A
+A=0x7e80
+D=D+A
+A=0x4f25
+*A=D
+# Set 0x4f26 to 64575
+A=0x7fff
+D=A
+A=0x7c40
+D=D+A
+A=0x4f26
+*A=D
+# Set 0x4f27 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f27
+*A=D
+# Set 0x4f28 to 50175
+A=0x7fff
+D=A
+A=0x4400
+D=D+A
+A=0x4f28
+*A=D
+# Set 0x4f29 to 65415
+A=0x7fff
+D=A
+A=0x7f88
+D=D+A
+A=0x4f29
+*A=D
+# Set 0x4f2a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f2a
+*A=D
+# Set 0x4f2b to 61695
+A=0x7fff
+D=A
+A=0x7100
+D=D+A
+A=0x4f2b
+*A=D
+# Set 0x4f2c to 65505
+A=0x7fff
+D=A
+A=0x7fe2
+D=D+A
+A=0x4f2c
+*A=D
+# Set 0x4f2d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f2d
+*A=D
+# Set 0x4f2e to 65528
+A=0x7fff
+D=A
+A=0x7ff9
+D=D+A
+A=0x4f2e
+*A=D
+# Set 0x4f2f to 32287
+A=0x7e1f
+D=A
+A=0x4f2f
+*A=D
+# Set 0x4f30 to 4095
+A=0xfff
+D=A
+A=0x4f30
+*A=D
+# Set 0x4f31 to 65528
+A=0x7fff
+D=A
+A=0x7ff9
+D=D+A
+A=0x4f31
+*A=D
+# Set 0x4f32 to 14791
+A=0x39c7
+D=A
+A=0x4f32
+*A=D
+# Set 0x4f33 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f33
+*A=D
+# Set 0x4f34 to 65505
+A=0x7fff
+D=A
+A=0x7fe2
+D=D+A
+A=0x4f34
+*A=D
+# Set 0x4f35 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f35
+*A=D
+# Set 0x4f36 to 50175
+A=0x7fff
+D=A
+A=0x4400
+D=D+A
+A=0x4f36
+*A=D
+# Set 0x4f37 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f37
+*A=D
+# Set 0x4f38 to 57599
+A=0x7fff
+D=A
+A=0x6100
+D=D+A
+A=0x4f38
+*A=D
+# Set 0x4f39 to 63615
+A=0x7fff
+D=A
+A=0x7880
+D=D+A
+A=0x4f39
+*A=D
+# Set 0x4f3a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f3a
+*A=D
+# Set 0x4f3b to 64575
+A=0x7fff
+D=A
+A=0x7c40
+D=D+A
+A=0x4f3b
+*A=D
+# Set 0x4f3c to 34695
+A=0x7fff
+D=A
+A=0x788
+D=D+A
+A=0x4f3c
+*A=D
+# Set 0x4f3d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f3d
+*A=D
+# Set 0x4f3e to 3983
+A=0xf8f
+D=A
+A=0x4f3e
+*A=D
+# Set 0x4f3f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f3f
+*A=D
+# Set 0x4f40 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f40
+*A=D
+# Set 0x4f41 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f41
+*A=D
+# Set 0x4f42 to 61440
+A=0x7fff
+D=A
+A=0x7001
+D=D+A
+A=0x4f42
+*A=D
+# Set 0x4f43 to 16383
+A=0x3fff
+D=A
+A=0x4f43
+*A=D
+# Set 0x4f44 to 65472
+A=0x7fff
+D=A
+A=0x7fc1
+D=D+A
+A=0x4f44
+*A=D
+# Set 0x4f45 to 255
+A=0xff
+D=A
+A=0x4f45
+*A=D
+# Set 0x4f46 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f46
+*A=D
+# Set 0x4f47 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f47
+*A=D
+# Set 0x4f48 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f48
+*A=D
+# Set 0x4f49 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f49
+*A=D
+# Set 0x4f4a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f4a
+*A=D
+# Set 0x4f4b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f4b
+*A=D
+# Set 0x4f4c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f4c
+*A=D
+# Set 0x4f4d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f4d
+*A=D
+# Set 0x4f4e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f4e
+*A=D
+# Set 0x4f4f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f4f
+*A=D
+# Set 0x4f50 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f50
+*A=D
+# Set 0x4f51 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f51
+*A=D
+# Set 0x4f52 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f52
+*A=D
+# Set 0x4f53 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f53
+*A=D
+# Set 0x4f54 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f54
+*A=D
+# Set 0x4f55 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f55
+*A=D
+# Set 0x4f56 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f56
+*A=D
+# Set 0x4f57 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f57
+*A=D
+# Set 0x4f58 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f58
+*A=D
+# Set 0x4f59 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f59
+*A=D
+# Set 0x4f5a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f5a
+*A=D
+# Set 0x4f5b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f5b
+*A=D
+# Set 0x4f5c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f5c
+*A=D
+# Set 0x4f5d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f5d
+*A=D
+# Set 0x4f5e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f5e
+*A=D
+# Set 0x4f5f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f5f
+*A=D
+# Set 0x4f60 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f60
+*A=D
+# Set 0x4f61 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f61
+*A=D
+# Set 0x4f62 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f62
+*A=D
+# Set 0x4f63 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f63
+*A=D
+# Set 0x4f64 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f64
+*A=D
+# Set 0x4f65 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f65
+*A=D
+# Set 0x4f66 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f66
+*A=D
+# Set 0x4f67 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f67
+*A=D
+# Set 0x4f68 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f68
+*A=D
+# Set 0x4f69 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f69
+*A=D
+# Set 0x4f6a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f6a
+*A=D
+# Set 0x4f6b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f6b
+*A=D
+# Set 0x4f6c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f6c
+*A=D
+# Set 0x4f6d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f6d
+*A=D
+# Set 0x4f6e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f6e
+*A=D
+# Set 0x4f6f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f6f
+*A=D
+# Set 0x4f70 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f70
+*A=D
+# Set 0x4f71 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f71
+*A=D
+# Set 0x4f72 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f72
+*A=D
+# Set 0x4f73 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f73
+*A=D
+# Set 0x4f74 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f74
+*A=D
+# Set 0x4f75 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f75
+*A=D
+# Set 0x4f76 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f76
+*A=D
+# Set 0x4f77 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f77
+*A=D
+# Set 0x4f78 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f78
+*A=D
+# Set 0x4f79 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f79
+*A=D
+# Set 0x4f7a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f7a
+*A=D
+# Set 0x4f7b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f7b
+*A=D
+# Set 0x4f7c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f7c
+*A=D
+# Set 0x4f7d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f7d
+*A=D
+# Set 0x4f7e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f7e
+*A=D
+# Set 0x4f7f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f7f
+*A=D
+# Set 0x4f80 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f80
+*A=D
+# Set 0x4f81 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f81
+*A=D
+# Set 0x4f82 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f82
+*A=D
+# Set 0x4f83 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f83
+*A=D
+# Set 0x4f84 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f84
+*A=D
+# Set 0x4f85 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f85
+*A=D
+# Set 0x4f86 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f86
+*A=D
+# Set 0x4f87 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f87
+*A=D
+# Set 0x4f88 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f88
+*A=D
+# Set 0x4f89 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f89
+*A=D
+# Set 0x4f8a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f8a
+*A=D
+# Set 0x4f8b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f8b
+*A=D
+# Set 0x4f8c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f8c
+*A=D
+# Set 0x4f8d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f8d
+*A=D
+# Set 0x4f8e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f8e
+*A=D
+# Set 0x4f8f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f8f
+*A=D
+# Set 0x4f90 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f90
+*A=D
+# Set 0x4f91 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f91
+*A=D
+# Set 0x4f92 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f92
+*A=D
+# Set 0x4f93 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f93
+*A=D
+# Set 0x4f94 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f94
+*A=D
+# Set 0x4f95 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f95
+*A=D
+# Set 0x4f96 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f96
+*A=D
+# Set 0x4f97 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f97
+*A=D
+# Set 0x4f98 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f98
+*A=D
+# Set 0x4f99 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f99
+*A=D
+# Set 0x4f9a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f9a
+*A=D
+# Set 0x4f9b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f9b
+*A=D
+# Set 0x4f9c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f9c
+*A=D
+# Set 0x4f9d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f9d
+*A=D
+# Set 0x4f9e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f9e
+*A=D
+# Set 0x4f9f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4f9f
+*A=D
+# Set 0x4fa0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fa0
+*A=D
+# Set 0x4fa1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fa1
+*A=D
+# Set 0x4fa2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fa2
+*A=D
+# Set 0x4fa3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fa3
+*A=D
+# Set 0x4fa4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fa4
+*A=D
+# Set 0x4fa5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fa5
+*A=D
+# Set 0x4fa6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fa6
+*A=D
+# Set 0x4fa7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fa7
+*A=D
+# Set 0x4fa8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fa8
+*A=D
+# Set 0x4fa9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fa9
+*A=D
+# Set 0x4faa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4faa
+*A=D
+# Set 0x4fab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fab
+*A=D
+# Set 0x4fac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fac
+*A=D
+# Set 0x4fad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fad
+*A=D
+# Set 0x4fae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fae
+*A=D
+# Set 0x4faf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4faf
+*A=D
+# Set 0x4fb0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fb0
+*A=D
+# Set 0x4fb1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fb1
+*A=D
+# Set 0x4fb2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fb2
+*A=D
+# Set 0x4fb3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fb3
+*A=D
+# Set 0x4fb4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fb4
+*A=D
+# Set 0x4fb5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fb5
+*A=D
+# Set 0x4fb6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fb6
+*A=D
+# Set 0x4fb7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fb7
+*A=D
+# Set 0x4fb8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fb8
+*A=D
+# Set 0x4fb9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fb9
+*A=D
+# Set 0x4fba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fba
+*A=D
+# Set 0x4fbb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fbb
+*A=D
+# Set 0x4fbc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fbc
+*A=D
+# Set 0x4fbd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fbd
+*A=D
+# Set 0x4fbe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fbe
+*A=D
+# Set 0x4fbf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fbf
+*A=D
+# Set 0x4fc0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fc0
+*A=D
+# Set 0x4fc1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fc1
+*A=D
+# Set 0x4fc2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fc2
+*A=D
+# Set 0x4fc3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fc3
+*A=D
+# Set 0x4fc4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fc4
+*A=D
+# Set 0x4fc5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fc5
+*A=D
+# Set 0x4fc6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fc6
+*A=D
+# Set 0x4fc7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fc7
+*A=D
+# Set 0x4fc8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fc8
+*A=D
+# Set 0x4fc9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fc9
+*A=D
+# Set 0x4fca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fca
+*A=D
+# Set 0x4fcb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fcb
+*A=D
+# Set 0x4fcc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fcc
+*A=D
+# Set 0x4fcd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fcd
+*A=D
+# Set 0x4fce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fce
+*A=D
+# Set 0x4fcf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fcf
+*A=D
+# Set 0x4fd0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fd0
+*A=D
+# Set 0x4fd1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fd1
+*A=D
+# Set 0x4fd2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fd2
+*A=D
+# Set 0x4fd3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fd3
+*A=D
+# Set 0x4fd4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fd4
+*A=D
+# Set 0x4fd5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fd5
+*A=D
+# Set 0x4fd6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fd6
+*A=D
+# Set 0x4fd7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fd7
+*A=D
+# Set 0x4fd8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fd8
+*A=D
+# Set 0x4fd9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fd9
+*A=D
+# Set 0x4fda to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fda
+*A=D
+# Set 0x4fdb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fdb
+*A=D
+# Set 0x4fdc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fdc
+*A=D
+# Set 0x4fdd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fdd
+*A=D
+# Set 0x4fde to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fde
+*A=D
+# Set 0x4fdf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fdf
+*A=D
+# Set 0x4fe0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fe0
+*A=D
+# Set 0x4fe1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fe1
+*A=D
+# Set 0x4fe2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fe2
+*A=D
+# Set 0x4fe3 to 61411
+A=0x7fff
+D=A
+A=0x6fe4
+D=D+A
+A=0x4fe3
+*A=D
+# Set 0x4fe4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fe4
+*A=D
+# Set 0x4fe5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fe5
+*A=D
+# Set 0x4fe6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fe6
+*A=D
+# Set 0x4fe7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fe7
+*A=D
+# Set 0x4fe8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fe8
+*A=D
+# Set 0x4fe9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fe9
+*A=D
+# Set 0x4fea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fea
+*A=D
+# Set 0x4feb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4feb
+*A=D
+# Set 0x4fec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fec
+*A=D
+# Set 0x4fed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fed
+*A=D
+# Set 0x4fee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fee
+*A=D
+# Set 0x4fef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fef
+*A=D
+# Set 0x4ff0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ff0
+*A=D
+# Set 0x4ff1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ff1
+*A=D
+# Set 0x4ff2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ff2
+*A=D
+# Set 0x4ff3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ff3
+*A=D
+# Set 0x4ff4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ff4
+*A=D
+# Set 0x4ff5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ff5
+*A=D
+# Set 0x4ff6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ff6
+*A=D
+# Set 0x4ff7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ff7
+*A=D
+# Set 0x4ff8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ff8
+*A=D
+# Set 0x4ff9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ff9
+*A=D
+# Set 0x4ffa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ffa
+*A=D
+# Set 0x4ffb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ffb
+*A=D
+# Set 0x4ffc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ffc
+*A=D
+# Set 0x4ffd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ffd
+*A=D
+# Set 0x4ffe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4ffe
+*A=D
+# Set 0x4fff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x4fff
+*A=D
+# Set 0x5000 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5000
+*A=D
+# Set 0x5001 to 65487
+A=0x7fff
+D=A
+A=0x7fd0
+D=D+A
+A=0x5001
+*A=D
+# Set 0x5002 to 58367
+A=0x7fff
+D=A
+A=0x6400
+D=D+A
+A=0x5002
+*A=D
+# Set 0x5003 to 59331
+A=0x7fff
+D=A
+A=0x67c4
+D=D+A
+A=0x5003
+*A=D
+# Set 0x5004 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5004
+*A=D
+# Set 0x5005 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5005
+*A=D
+# Set 0x5006 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5006
+*A=D
+# Set 0x5007 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5007
+*A=D
+# Set 0x5008 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5008
+*A=D
+# Set 0x5009 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5009
+*A=D
+# Set 0x500a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x500a
+*A=D
+# Set 0x500b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x500b
+*A=D
+# Set 0x500c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x500c
+*A=D
+# Set 0x500d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x500d
+*A=D
+# Set 0x500e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x500e
+*A=D
+# Set 0x500f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x500f
+*A=D
+# Set 0x5010 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5010
+*A=D
+# Set 0x5011 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5011
+*A=D
+# Set 0x5012 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5012
+*A=D
+# Set 0x5013 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5013
+*A=D
+# Set 0x5014 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5014
+*A=D
+# Set 0x5015 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5015
+*A=D
+# Set 0x5016 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5016
+*A=D
+# Set 0x5017 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5017
+*A=D
+# Set 0x5018 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5018
+*A=D
+# Set 0x5019 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5019
+*A=D
+# Set 0x501a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x501a
+*A=D
+# Set 0x501b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x501b
+*A=D
+# Set 0x501c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x501c
+*A=D
+# Set 0x501d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x501d
+*A=D
+# Set 0x501e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x501e
+*A=D
+# Set 0x501f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x501f
+*A=D
+# Set 0x5020 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5020
+*A=D
+# Set 0x5021 to 65487
+A=0x7fff
+D=A
+A=0x7fd0
+D=D+A
+A=0x5021
+*A=D
+# Set 0x5022 to 62435
+A=0x7fff
+D=A
+A=0x73e4
+D=D+A
+A=0x5022
+*A=D
+# Set 0x5023 to 53123
+A=0x7fff
+D=A
+A=0x4f84
+D=D+A
+A=0x5023
+*A=D
+# Set 0x5024 to 34719
+A=0x7fff
+D=A
+A=0x7a0
+D=D+A
+A=0x5024
+*A=D
+# Set 0x5025 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5025
+*A=D
+# Set 0x5026 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5026
+*A=D
+# Set 0x5027 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5027
+*A=D
+# Set 0x5028 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5028
+*A=D
+# Set 0x5029 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5029
+*A=D
+# Set 0x502a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x502a
+*A=D
+# Set 0x502b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x502b
+*A=D
+# Set 0x502c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x502c
+*A=D
+# Set 0x502d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x502d
+*A=D
+# Set 0x502e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x502e
+*A=D
+# Set 0x502f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x502f
+*A=D
+# Set 0x5030 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5030
+*A=D
+# Set 0x5031 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5031
+*A=D
+# Set 0x5032 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5032
+*A=D
+# Set 0x5033 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5033
+*A=D
+# Set 0x5034 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5034
+*A=D
+# Set 0x5035 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5035
+*A=D
+# Set 0x5036 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5036
+*A=D
+# Set 0x5037 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5037
+*A=D
+# Set 0x5038 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5038
+*A=D
+# Set 0x5039 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5039
+*A=D
+# Set 0x503a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x503a
+*A=D
+# Set 0x503b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x503b
+*A=D
+# Set 0x503c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x503c
+*A=D
+# Set 0x503d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x503d
+*A=D
+# Set 0x503e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x503e
+*A=D
+# Set 0x503f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x503f
+*A=D
+# Set 0x5040 to 65520
+A=0x7fff
+D=A
+A=0x7ff1
+D=D+A
+A=0x5040
+*A=D
+# Set 0x5041 to 61536
+A=0x7fff
+D=A
+A=0x7061
+D=D+A
+A=0x5041
+*A=D
+# Set 0x5042 to 62401
+A=0x7fff
+D=A
+A=0x73c2
+D=D+A
+A=0x5042
+*A=D
+# Set 0x5043 to 51151
+A=0x7fff
+D=A
+A=0x47d0
+D=D+A
+A=0x5043
+*A=D
+# Set 0x5044 to 13215
+A=0x339f
+D=A
+A=0x5044
+*A=D
+# Set 0x5045 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5045
+*A=D
+# Set 0x5046 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5046
+*A=D
+# Set 0x5047 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5047
+*A=D
+# Set 0x5048 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5048
+*A=D
+# Set 0x5049 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5049
+*A=D
+# Set 0x504a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x504a
+*A=D
+# Set 0x504b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x504b
+*A=D
+# Set 0x504c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x504c
+*A=D
+# Set 0x504d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x504d
+*A=D
+# Set 0x504e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x504e
+*A=D
+# Set 0x504f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x504f
+*A=D
+# Set 0x5050 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5050
+*A=D
+# Set 0x5051 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5051
+*A=D
+# Set 0x5052 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5052
+*A=D
+# Set 0x5053 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5053
+*A=D
+# Set 0x5054 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5054
+*A=D
+# Set 0x5055 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5055
+*A=D
+# Set 0x5056 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5056
+*A=D
+# Set 0x5057 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5057
+*A=D
+# Set 0x5058 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5058
+*A=D
+# Set 0x5059 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5059
+*A=D
+# Set 0x505a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x505a
+*A=D
+# Set 0x505b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x505b
+*A=D
+# Set 0x505c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x505c
+*A=D
+# Set 0x505d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x505d
+*A=D
+# Set 0x505e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x505e
+*A=D
+# Set 0x505f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x505f
+*A=D
+# Set 0x5060 to 65504
+A=0x7fff
+D=A
+A=0x7fe1
+D=D+A
+A=0x5060
+*A=D
+# Set 0x5061 to 26212
+A=0x6664
+D=A
+A=0x5061
+*A=D
+# Set 0x5062 to 62336
+A=0x7fff
+D=A
+A=0x7381
+D=D+A
+A=0x5062
+*A=D
+# Set 0x5063 to 59342
+A=0x7fff
+D=A
+A=0x67cf
+D=D+A
+A=0x5063
+*A=D
+# Set 0x5064 to 1023
+A=0x3ff
+D=A
+A=0x5064
+*A=D
+# Set 0x5065 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5065
+*A=D
+# Set 0x5066 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5066
+*A=D
+# Set 0x5067 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5067
+*A=D
+# Set 0x5068 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5068
+*A=D
+# Set 0x5069 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5069
+*A=D
+# Set 0x506a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x506a
+*A=D
+# Set 0x506b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x506b
+*A=D
+# Set 0x506c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x506c
+*A=D
+# Set 0x506d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x506d
+*A=D
+# Set 0x506e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x506e
+*A=D
+# Set 0x506f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x506f
+*A=D
+# Set 0x5070 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5070
+*A=D
+# Set 0x5071 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5071
+*A=D
+# Set 0x5072 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5072
+*A=D
+# Set 0x5073 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5073
+*A=D
+# Set 0x5074 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5074
+*A=D
+# Set 0x5075 to 62463
+A=0x7fff
+D=A
+A=0x7400
+D=D+A
+A=0x5075
+*A=D
+# Set 0x5076 to 63487
+A=0x7fff
+D=A
+A=0x7800
+D=D+A
+A=0x5076
+*A=D
+# Set 0x5077 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5077
+*A=D
+# Set 0x5078 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5078
+*A=D
+# Set 0x5079 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5079
+*A=D
+# Set 0x507a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x507a
+*A=D
+# Set 0x507b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x507b
+*A=D
+# Set 0x507c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x507c
+*A=D
+# Set 0x507d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x507d
+*A=D
+# Set 0x507e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x507e
+*A=D
+# Set 0x507f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x507f
+*A=D
+# Set 0x5080 to 65504
+A=0x7fff
+D=A
+A=0x7fe1
+D=D+A
+A=0x5080
+*A=D
+# Set 0x5081 to 53230
+A=0x7fff
+D=A
+A=0x4fef
+D=D+A
+A=0x5081
+*A=D
+# Set 0x5082 to 62337
+A=0x7fff
+D=A
+A=0x7382
+D=D+A
+A=0x5082
+*A=D
+# Set 0x5083 to 59343
+A=0x7fff
+D=A
+A=0x67d0
+D=D+A
+A=0x5083
+*A=D
+# Set 0x5084 to 32671
+A=0x7f9f
+D=A
+A=0x5084
+*A=D
+# Set 0x5085 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5085
+*A=D
+# Set 0x5086 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5086
+*A=D
+# Set 0x5087 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5087
+*A=D
+# Set 0x5088 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5088
+*A=D
+# Set 0x5089 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5089
+*A=D
+# Set 0x508a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x508a
+*A=D
+# Set 0x508b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x508b
+*A=D
+# Set 0x508c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x508c
+*A=D
+# Set 0x508d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x508d
+*A=D
+# Set 0x508e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x508e
+*A=D
+# Set 0x508f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x508f
+*A=D
+# Set 0x5090 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5090
+*A=D
+# Set 0x5091 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5091
+*A=D
+# Set 0x5092 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5092
+*A=D
+# Set 0x5093 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5093
+*A=D
+# Set 0x5094 to 12799
+A=0x31ff
+D=A
+A=0x5094
+*A=D
+# Set 0x5095 to 62430
+A=0x7fff
+D=A
+A=0x73df
+D=D+A
+A=0x5095
+*A=D
+# Set 0x5096 to 26623
+A=0x67ff
+D=A
+A=0x5096
+*A=D
+# Set 0x5097 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5097
+*A=D
+# Set 0x5098 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5098
+*A=D
+# Set 0x5099 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5099
+*A=D
+# Set 0x509a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x509a
+*A=D
+# Set 0x509b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x509b
+*A=D
+# Set 0x509c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x509c
+*A=D
+# Set 0x509d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x509d
+*A=D
+# Set 0x509e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x509e
+*A=D
+# Set 0x509f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x509f
+*A=D
+# Set 0x50a0 to 65532
+A=0x7fff
+D=A
+A=0x7ffd
+D=D+A
+A=0x50a0
+*A=D
+# Set 0x50a1 to 20462
+A=0x4fee
+D=A
+A=0x50a1
+*A=D
+# Set 0x50a2 to 62409
+A=0x7fff
+D=A
+A=0x73ca
+D=D+A
+A=0x50a2
+*A=D
+# Set 0x50a3 to 50051
+A=0x7fff
+D=A
+A=0x4384
+D=D+A
+A=0x50a3
+*A=D
+# Set 0x50a4 to 927
+A=0x39f
+D=A
+A=0x50a4
+*A=D
+# Set 0x50a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50a5
+*A=D
+# Set 0x50a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50a6
+*A=D
+# Set 0x50a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50a7
+*A=D
+# Set 0x50a8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50a8
+*A=D
+# Set 0x50a9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50a9
+*A=D
+# Set 0x50aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50aa
+*A=D
+# Set 0x50ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50ab
+*A=D
+# Set 0x50ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50ac
+*A=D
+# Set 0x50ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50ad
+*A=D
+# Set 0x50ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50ae
+*A=D
+# Set 0x50af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50af
+*A=D
+# Set 0x50b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50b0
+*A=D
+# Set 0x50b1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50b1
+*A=D
+# Set 0x50b2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50b2
+*A=D
+# Set 0x50b3 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x50b3
+*A=D
+# Set 0x50b4 to 39423
+A=0x7fff
+D=A
+A=0x1a00
+D=D+A
+A=0x50b4
+*A=D
+# Set 0x50b5 to 61836
+A=0x7fff
+D=A
+A=0x718d
+D=D+A
+A=0x50b5
+*A=D
+# Set 0x50b6 to 30719
+A=0x77ff
+D=A
+A=0x50b6
+*A=D
+# Set 0x50b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50b7
+*A=D
+# Set 0x50b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50b8
+*A=D
+# Set 0x50b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50b9
+*A=D
+# Set 0x50ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50ba
+*A=D
+# Set 0x50bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50bb
+*A=D
+# Set 0x50bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50bc
+*A=D
+# Set 0x50bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50bd
+*A=D
+# Set 0x50be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50be
+*A=D
+# Set 0x50bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50bf
+*A=D
+# Set 0x50c0 to 65504
+A=0x7fff
+D=A
+A=0x7fe1
+D=D+A
+A=0x50c0
+*A=D
+# Set 0x50c1 to 24644
+A=0x6044
+D=A
+A=0x50c1
+*A=D
+# Set 0x50c2 to 16609
+A=0x40e1
+D=A
+A=0x50c2
+*A=D
+# Set 0x50c3 to 33743
+A=0x7fff
+D=A
+A=0x3d0
+D=D+A
+A=0x50c3
+*A=D
+# Set 0x50c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50c4
+*A=D
+# Set 0x50c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50c5
+*A=D
+# Set 0x50c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50c6
+*A=D
+# Set 0x50c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50c7
+*A=D
+# Set 0x50c8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50c8
+*A=D
+# Set 0x50c9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50c9
+*A=D
+# Set 0x50ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50ca
+*A=D
+# Set 0x50cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50cb
+*A=D
+# Set 0x50cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50cc
+*A=D
+# Set 0x50cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50cd
+*A=D
+# Set 0x50ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50ce
+*A=D
+# Set 0x50cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50cf
+*A=D
+# Set 0x50d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50d0
+*A=D
+# Set 0x50d1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50d1
+*A=D
+# Set 0x50d2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50d2
+*A=D
+# Set 0x50d3 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x50d3
+*A=D
+# Set 0x50d4 to 14847
+A=0x39ff
+D=A
+A=0x50d4
+*A=D
+# Set 0x50d5 to 61700
+A=0x7fff
+D=A
+A=0x7105
+D=D+A
+A=0x50d5
+*A=D
+# Set 0x50d6 to 30719
+A=0x77ff
+D=A
+A=0x50d6
+*A=D
+# Set 0x50d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50d7
+*A=D
+# Set 0x50d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50d8
+*A=D
+# Set 0x50d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50d9
+*A=D
+# Set 0x50da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50da
+*A=D
+# Set 0x50db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50db
+*A=D
+# Set 0x50dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50dc
+*A=D
+# Set 0x50dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50dd
+*A=D
+# Set 0x50de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50de
+*A=D
+# Set 0x50df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50df
+*A=D
+# Set 0x50e0 to 65505
+A=0x7fff
+D=A
+A=0x7fe2
+D=D+A
+A=0x50e0
+*A=D
+# Set 0x50e1 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x50e1
+*A=D
+# Set 0x50e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50e2
+*A=D
+# Set 0x50e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50e3
+*A=D
+# Set 0x50e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50e4
+*A=D
+# Set 0x50e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50e5
+*A=D
+# Set 0x50e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50e6
+*A=D
+# Set 0x50e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50e7
+*A=D
+# Set 0x50e8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50e8
+*A=D
+# Set 0x50e9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50e9
+*A=D
+# Set 0x50ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50ea
+*A=D
+# Set 0x50eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50eb
+*A=D
+# Set 0x50ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50ec
+*A=D
+# Set 0x50ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50ed
+*A=D
+# Set 0x50ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50ee
+*A=D
+# Set 0x50ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50ef
+*A=D
+# Set 0x50f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50f0
+*A=D
+# Set 0x50f1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50f1
+*A=D
+# Set 0x50f2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50f2
+*A=D
+# Set 0x50f3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50f3
+*A=D
+# Set 0x50f4 to 40447
+A=0x7fff
+D=A
+A=0x1e00
+D=D+A
+A=0x50f4
+*A=D
+# Set 0x50f5 to 63805
+A=0x7fff
+D=A
+A=0x793e
+D=D+A
+A=0x50f5
+*A=D
+# Set 0x50f6 to 13311
+A=0x33ff
+D=A
+A=0x50f6
+*A=D
+# Set 0x50f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50f7
+*A=D
+# Set 0x50f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50f8
+*A=D
+# Set 0x50f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50f9
+*A=D
+# Set 0x50fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50fa
+*A=D
+# Set 0x50fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50fb
+*A=D
+# Set 0x50fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50fc
+*A=D
+# Set 0x50fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50fd
+*A=D
+# Set 0x50fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50fe
+*A=D
+# Set 0x50ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x50ff
+*A=D
+# Set 0x5100 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5100
+*A=D
+# Set 0x5101 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5101
+*A=D
+# Set 0x5102 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5102
+*A=D
+# Set 0x5103 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5103
+*A=D
+# Set 0x5104 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5104
+*A=D
+# Set 0x5105 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5105
+*A=D
+# Set 0x5106 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5106
+*A=D
+# Set 0x5107 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5107
+*A=D
+# Set 0x5108 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5108
+*A=D
+# Set 0x5109 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5109
+*A=D
+# Set 0x510a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x510a
+*A=D
+# Set 0x510b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x510b
+*A=D
+# Set 0x510c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x510c
+*A=D
+# Set 0x510d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x510d
+*A=D
+# Set 0x510e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x510e
+*A=D
+# Set 0x510f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x510f
+*A=D
+# Set 0x5110 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5110
+*A=D
+# Set 0x5111 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5111
+*A=D
+# Set 0x5112 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5112
+*A=D
+# Set 0x5113 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5113
+*A=D
+# Set 0x5114 to 6607
+A=0x19cf
+D=A
+A=0x5114
+*A=D
+# Set 0x5115 to 63884
+A=0x7fff
+D=A
+A=0x798d
+D=D+A
+A=0x5115
+*A=D
+# Set 0x5116 to 25599
+A=0x63ff
+D=A
+A=0x5116
+*A=D
+# Set 0x5117 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5117
+*A=D
+# Set 0x5118 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5118
+*A=D
+# Set 0x5119 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5119
+*A=D
+# Set 0x511a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x511a
+*A=D
+# Set 0x511b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x511b
+*A=D
+# Set 0x511c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x511c
+*A=D
+# Set 0x511d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x511d
+*A=D
+# Set 0x511e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x511e
+*A=D
+# Set 0x511f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x511f
+*A=D
+# Set 0x5120 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5120
+*A=D
+# Set 0x5121 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5121
+*A=D
+# Set 0x5122 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5122
+*A=D
+# Set 0x5123 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5123
+*A=D
+# Set 0x5124 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5124
+*A=D
+# Set 0x5125 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5125
+*A=D
+# Set 0x5126 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5126
+*A=D
+# Set 0x5127 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5127
+*A=D
+# Set 0x5128 to 65503
+A=0x7fff
+D=A
+A=0x7fe0
+D=D+A
+A=0x5128
+*A=D
+# Set 0x5129 to 16383
+A=0x3fff
+D=A
+A=0x5129
+*A=D
+# Set 0x512a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x512a
+*A=D
+# Set 0x512b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x512b
+*A=D
+# Set 0x512c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x512c
+*A=D
+# Set 0x512d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x512d
+*A=D
+# Set 0x512e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x512e
+*A=D
+# Set 0x512f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x512f
+*A=D
+# Set 0x5130 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5130
+*A=D
+# Set 0x5131 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5131
+*A=D
+# Set 0x5132 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5132
+*A=D
+# Set 0x5133 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5133
+*A=D
+# Set 0x5134 to 12511
+A=0x30df
+D=A
+A=0x5134
+*A=D
+# Set 0x5135 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5135
+*A=D
+# Set 0x5136 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5136
+*A=D
+# Set 0x5137 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5137
+*A=D
+# Set 0x5138 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5138
+*A=D
+# Set 0x5139 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5139
+*A=D
+# Set 0x513a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x513a
+*A=D
+# Set 0x513b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x513b
+*A=D
+# Set 0x513c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x513c
+*A=D
+# Set 0x513d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x513d
+*A=D
+# Set 0x513e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x513e
+*A=D
+# Set 0x513f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x513f
+*A=D
+# Set 0x5140 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5140
+*A=D
+# Set 0x5141 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5141
+*A=D
+# Set 0x5142 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5142
+*A=D
+# Set 0x5143 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5143
+*A=D
+# Set 0x5144 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5144
+*A=D
+# Set 0x5145 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5145
+*A=D
+# Set 0x5146 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5146
+*A=D
+# Set 0x5147 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5147
+*A=D
+# Set 0x5148 to 65487
+A=0x7fff
+D=A
+A=0x7fd0
+D=D+A
+A=0x5148
+*A=D
+# Set 0x5149 to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x5149
+*A=D
+# Set 0x514a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x514a
+*A=D
+# Set 0x514b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x514b
+*A=D
+# Set 0x514c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x514c
+*A=D
+# Set 0x514d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x514d
+*A=D
+# Set 0x514e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x514e
+*A=D
+# Set 0x514f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x514f
+*A=D
+# Set 0x5150 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5150
+*A=D
+# Set 0x5151 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5151
+*A=D
+# Set 0x5152 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5152
+*A=D
+# Set 0x5153 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5153
+*A=D
+# Set 0x5154 to 65503
+A=0x7fff
+D=A
+A=0x7fe0
+D=D+A
+A=0x5154
+*A=D
+# Set 0x5155 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5155
+*A=D
+# Set 0x5156 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5156
+*A=D
+# Set 0x5157 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5157
+*A=D
+# Set 0x5158 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5158
+*A=D
+# Set 0x5159 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5159
+*A=D
+# Set 0x515a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x515a
+*A=D
+# Set 0x515b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x515b
+*A=D
+# Set 0x515c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x515c
+*A=D
+# Set 0x515d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x515d
+*A=D
+# Set 0x515e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x515e
+*A=D
+# Set 0x515f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x515f
+*A=D
+# Set 0x5160 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5160
+*A=D
+# Set 0x5161 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5161
+*A=D
+# Set 0x5162 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5162
+*A=D
+# Set 0x5163 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5163
+*A=D
+# Set 0x5164 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5164
+*A=D
+# Set 0x5165 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5165
+*A=D
+# Set 0x5166 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5166
+*A=D
+# Set 0x5167 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5167
+*A=D
+# Set 0x5168 to 3592
+A=0xe08
+D=A
+A=0x5168
+*A=D
+# Set 0x5169 to 16383
+A=0x3fff
+D=A
+A=0x5169
+*A=D
+# Set 0x516a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x516a
+*A=D
+# Set 0x516b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x516b
+*A=D
+# Set 0x516c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x516c
+*A=D
+# Set 0x516d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x516d
+*A=D
+# Set 0x516e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x516e
+*A=D
+# Set 0x516f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x516f
+*A=D
+# Set 0x5170 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5170
+*A=D
+# Set 0x5171 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5171
+*A=D
+# Set 0x5172 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5172
+*A=D
+# Set 0x5173 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5173
+*A=D
+# Set 0x5174 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5174
+*A=D
+# Set 0x5175 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5175
+*A=D
+# Set 0x5176 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5176
+*A=D
+# Set 0x5177 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5177
+*A=D
+# Set 0x5178 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5178
+*A=D
+# Set 0x5179 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5179
+*A=D
+# Set 0x517a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x517a
+*A=D
+# Set 0x517b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x517b
+*A=D
+# Set 0x517c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x517c
+*A=D
+# Set 0x517d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x517d
+*A=D
+# Set 0x517e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x517e
+*A=D
+# Set 0x517f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x517f
+*A=D
+# Set 0x5180 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5180
+*A=D
+# Set 0x5181 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5181
+*A=D
+# Set 0x5182 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5182
+*A=D
+# Set 0x5183 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5183
+*A=D
+# Set 0x5184 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5184
+*A=D
+# Set 0x5185 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5185
+*A=D
+# Set 0x5186 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5186
+*A=D
+# Set 0x5187 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5187
+*A=D
+# Set 0x5188 to 3275
+A=0xccb
+D=A
+A=0x5188
+*A=D
+# Set 0x5189 to 16383
+A=0x3fff
+D=A
+A=0x5189
+*A=D
+# Set 0x518a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x518a
+*A=D
+# Set 0x518b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x518b
+*A=D
+# Set 0x518c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x518c
+*A=D
+# Set 0x518d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x518d
+*A=D
+# Set 0x518e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x518e
+*A=D
+# Set 0x518f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x518f
+*A=D
+# Set 0x5190 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5190
+*A=D
+# Set 0x5191 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5191
+*A=D
+# Set 0x5192 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5192
+*A=D
+# Set 0x5193 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5193
+*A=D
+# Set 0x5194 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5194
+*A=D
+# Set 0x5195 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5195
+*A=D
+# Set 0x5196 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5196
+*A=D
+# Set 0x5197 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5197
+*A=D
+# Set 0x5198 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5198
+*A=D
+# Set 0x5199 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5199
+*A=D
+# Set 0x519a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x519a
+*A=D
+# Set 0x519b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x519b
+*A=D
+# Set 0x519c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x519c
+*A=D
+# Set 0x519d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x519d
+*A=D
+# Set 0x519e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x519e
+*A=D
+# Set 0x519f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x519f
+*A=D
+# Set 0x51a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51a0
+*A=D
+# Set 0x51a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51a1
+*A=D
+# Set 0x51a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51a2
+*A=D
+# Set 0x51a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51a3
+*A=D
+# Set 0x51a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51a4
+*A=D
+# Set 0x51a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51a5
+*A=D
+# Set 0x51a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51a6
+*A=D
+# Set 0x51a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51a7
+*A=D
+# Set 0x51a8 to 3531
+A=0xdcb
+D=A
+A=0x51a8
+*A=D
+# Set 0x51a9 to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x51a9
+*A=D
+# Set 0x51aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51aa
+*A=D
+# Set 0x51ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51ab
+*A=D
+# Set 0x51ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51ac
+*A=D
+# Set 0x51ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51ad
+*A=D
+# Set 0x51ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51ae
+*A=D
+# Set 0x51af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51af
+*A=D
+# Set 0x51b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51b0
+*A=D
+# Set 0x51b1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51b1
+*A=D
+# Set 0x51b2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51b2
+*A=D
+# Set 0x51b3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51b3
+*A=D
+# Set 0x51b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51b4
+*A=D
+# Set 0x51b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51b5
+*A=D
+# Set 0x51b6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51b6
+*A=D
+# Set 0x51b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51b7
+*A=D
+# Set 0x51b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51b8
+*A=D
+# Set 0x51b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51b9
+*A=D
+# Set 0x51ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51ba
+*A=D
+# Set 0x51bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51bb
+*A=D
+# Set 0x51bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51bc
+*A=D
+# Set 0x51bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51bd
+*A=D
+# Set 0x51be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51be
+*A=D
+# Set 0x51bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51bf
+*A=D
+# Set 0x51c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51c0
+*A=D
+# Set 0x51c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51c1
+*A=D
+# Set 0x51c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51c2
+*A=D
+# Set 0x51c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51c3
+*A=D
+# Set 0x51c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51c4
+*A=D
+# Set 0x51c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51c5
+*A=D
+# Set 0x51c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51c6
+*A=D
+# Set 0x51c7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x51c7
+*A=D
+# Set 0x51c8 to 25801
+A=0x64c9
+D=A
+A=0x51c8
+*A=D
+# Set 0x51c9 to 16383
+A=0x3fff
+D=A
+A=0x51c9
+*A=D
+# Set 0x51ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51ca
+*A=D
+# Set 0x51cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51cb
+*A=D
+# Set 0x51cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51cc
+*A=D
+# Set 0x51cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51cd
+*A=D
+# Set 0x51ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51ce
+*A=D
+# Set 0x51cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51cf
+*A=D
+# Set 0x51d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51d0
+*A=D
+# Set 0x51d1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51d1
+*A=D
+# Set 0x51d2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51d2
+*A=D
+# Set 0x51d3 to 65279
+A=0x7fff
+D=A
+A=0x7f00
+D=D+A
+A=0x51d3
+*A=D
+# Set 0x51d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51d4
+*A=D
+# Set 0x51d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51d5
+*A=D
+# Set 0x51d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51d6
+*A=D
+# Set 0x51d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51d7
+*A=D
+# Set 0x51d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51d8
+*A=D
+# Set 0x51d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51d9
+*A=D
+# Set 0x51da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51da
+*A=D
+# Set 0x51db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51db
+*A=D
+# Set 0x51dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51dc
+*A=D
+# Set 0x51dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51dd
+*A=D
+# Set 0x51de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51de
+*A=D
+# Set 0x51df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51df
+*A=D
+# Set 0x51e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51e0
+*A=D
+# Set 0x51e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51e1
+*A=D
+# Set 0x51e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51e2
+*A=D
+# Set 0x51e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51e3
+*A=D
+# Set 0x51e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51e4
+*A=D
+# Set 0x51e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51e5
+*A=D
+# Set 0x51e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51e6
+*A=D
+# Set 0x51e7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x51e7
+*A=D
+# Set 0x51e8 to 1548
+A=0x60c
+D=A
+A=0x51e8
+*A=D
+# Set 0x51e9 to 8191
+A=0x1fff
+D=A
+A=0x51e9
+*A=D
+# Set 0x51ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51ea
+*A=D
+# Set 0x51eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51eb
+*A=D
+# Set 0x51ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51ec
+*A=D
+# Set 0x51ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51ed
+*A=D
+# Set 0x51ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51ee
+*A=D
+# Set 0x51ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51ef
+*A=D
+# Set 0x51f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51f0
+*A=D
+# Set 0x51f1 to 65533
+A=0x7fff
+D=A
+A=0x7ffe
+D=D+A
+A=0x51f1
+*A=D
+# Set 0x51f2 to 63999
+A=0x7fff
+D=A
+A=0x7a00
+D=D+A
+A=0x51f2
+*A=D
+# Set 0x51f3 to 30975
+A=0x78ff
+D=A
+A=0x51f3
+*A=D
+# Set 0x51f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51f4
+*A=D
+# Set 0x51f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51f5
+*A=D
+# Set 0x51f6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51f6
+*A=D
+# Set 0x51f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51f7
+*A=D
+# Set 0x51f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51f8
+*A=D
+# Set 0x51f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51f9
+*A=D
+# Set 0x51fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51fa
+*A=D
+# Set 0x51fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51fb
+*A=D
+# Set 0x51fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51fc
+*A=D
+# Set 0x51fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51fd
+*A=D
+# Set 0x51fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51fe
+*A=D
+# Set 0x51ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x51ff
+*A=D
+# Set 0x5200 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5200
+*A=D
+# Set 0x5201 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5201
+*A=D
+# Set 0x5202 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5202
+*A=D
+# Set 0x5203 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5203
+*A=D
+# Set 0x5204 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5204
+*A=D
+# Set 0x5205 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5205
+*A=D
+# Set 0x5206 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5206
+*A=D
+# Set 0x5207 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5207
+*A=D
+# Set 0x5208 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5208
+*A=D
+# Set 0x5209 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5209
+*A=D
+# Set 0x520a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x520a
+*A=D
+# Set 0x520b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x520b
+*A=D
+# Set 0x520c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x520c
+*A=D
+# Set 0x520d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x520d
+*A=D
+# Set 0x520e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x520e
+*A=D
+# Set 0x520f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x520f
+*A=D
+# Set 0x5210 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5210
+*A=D
+# Set 0x5211 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5211
+*A=D
+# Set 0x5212 to 63982
+A=0x7fff
+D=A
+A=0x79ef
+D=D+A
+A=0x5212
+*A=D
+# Set 0x5213 to 30919
+A=0x78c7
+D=A
+A=0x5213
+*A=D
+# Set 0x5214 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5214
+*A=D
+# Set 0x5215 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5215
+*A=D
+# Set 0x5216 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5216
+*A=D
+# Set 0x5217 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5217
+*A=D
+# Set 0x5218 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5218
+*A=D
+# Set 0x5219 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5219
+*A=D
+# Set 0x521a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x521a
+*A=D
+# Set 0x521b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x521b
+*A=D
+# Set 0x521c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x521c
+*A=D
+# Set 0x521d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x521d
+*A=D
+# Set 0x521e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x521e
+*A=D
+# Set 0x521f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x521f
+*A=D
+# Set 0x5220 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5220
+*A=D
+# Set 0x5221 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5221
+*A=D
+# Set 0x5222 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5222
+*A=D
+# Set 0x5223 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5223
+*A=D
+# Set 0x5224 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5224
+*A=D
+# Set 0x5225 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5225
+*A=D
+# Set 0x5226 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5226
+*A=D
+# Set 0x5227 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5227
+*A=D
+# Set 0x5228 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5228
+*A=D
+# Set 0x5229 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5229
+*A=D
+# Set 0x522a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x522a
+*A=D
+# Set 0x522b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x522b
+*A=D
+# Set 0x522c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x522c
+*A=D
+# Set 0x522d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x522d
+*A=D
+# Set 0x522e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x522e
+*A=D
+# Set 0x522f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x522f
+*A=D
+# Set 0x5230 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5230
+*A=D
+# Set 0x5231 to 61894
+A=0x7fff
+D=A
+A=0x71c7
+D=D+A
+A=0x5231
+*A=D
+# Set 0x5232 to 15747
+A=0x3d83
+D=A
+A=0x5232
+*A=D
+# Set 0x5233 to 31107
+A=0x7983
+D=A
+A=0x5233
+*A=D
+# Set 0x5234 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5234
+*A=D
+# Set 0x5235 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5235
+*A=D
+# Set 0x5236 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5236
+*A=D
+# Set 0x5237 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5237
+*A=D
+# Set 0x5238 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5238
+*A=D
+# Set 0x5239 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5239
+*A=D
+# Set 0x523a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x523a
+*A=D
+# Set 0x523b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x523b
+*A=D
+# Set 0x523c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x523c
+*A=D
+# Set 0x523d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x523d
+*A=D
+# Set 0x523e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x523e
+*A=D
+# Set 0x523f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x523f
+*A=D
+# Set 0x5240 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5240
+*A=D
+# Set 0x5241 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5241
+*A=D
+# Set 0x5242 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5242
+*A=D
+# Set 0x5243 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5243
+*A=D
+# Set 0x5244 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5244
+*A=D
+# Set 0x5245 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5245
+*A=D
+# Set 0x5246 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5246
+*A=D
+# Set 0x5247 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5247
+*A=D
+# Set 0x5248 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5248
+*A=D
+# Set 0x5249 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5249
+*A=D
+# Set 0x524a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x524a
+*A=D
+# Set 0x524b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x524b
+*A=D
+# Set 0x524c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x524c
+*A=D
+# Set 0x524d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x524d
+*A=D
+# Set 0x524e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x524e
+*A=D
+# Set 0x524f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x524f
+*A=D
+# Set 0x5250 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5250
+*A=D
+# Set 0x5251 to 61846
+A=0x7fff
+D=A
+A=0x7197
+D=D+A
+A=0x5251
+*A=D
+# Set 0x5252 to 39299
+A=0x7fff
+D=A
+A=0x1984
+D=D+A
+A=0x5252
+*A=D
+# Set 0x5253 to 31623
+A=0x7b87
+D=A
+A=0x5253
+*A=D
+# Set 0x5254 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5254
+*A=D
+# Set 0x5255 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5255
+*A=D
+# Set 0x5256 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5256
+*A=D
+# Set 0x5257 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5257
+*A=D
+# Set 0x5258 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5258
+*A=D
+# Set 0x5259 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5259
+*A=D
+# Set 0x525a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x525a
+*A=D
+# Set 0x525b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x525b
+*A=D
+# Set 0x525c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x525c
+*A=D
+# Set 0x525d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x525d
+*A=D
+# Set 0x525e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x525e
+*A=D
+# Set 0x525f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x525f
+*A=D
+# Set 0x5260 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5260
+*A=D
+# Set 0x5261 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5261
+*A=D
+# Set 0x5262 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5262
+*A=D
+# Set 0x5263 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5263
+*A=D
+# Set 0x5264 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5264
+*A=D
+# Set 0x5265 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5265
+*A=D
+# Set 0x5266 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5266
+*A=D
+# Set 0x5267 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5267
+*A=D
+# Set 0x5268 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5268
+*A=D
+# Set 0x5269 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5269
+*A=D
+# Set 0x526a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x526a
+*A=D
+# Set 0x526b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x526b
+*A=D
+# Set 0x526c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x526c
+*A=D
+# Set 0x526d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x526d
+*A=D
+# Set 0x526e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x526e
+*A=D
+# Set 0x526f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x526f
+*A=D
+# Set 0x5270 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5270
+*A=D
+# Set 0x5271 to 61630
+A=0x7fff
+D=A
+A=0x70bf
+D=D+A
+A=0x5271
+*A=D
+# Set 0x5272 to 40351
+A=0x7fff
+D=A
+A=0x1da0
+D=D+A
+A=0x5272
+*A=D
+# Set 0x5273 to 14787
+A=0x39c3
+D=A
+A=0x5273
+*A=D
+# Set 0x5274 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5274
+*A=D
+# Set 0x5275 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5275
+*A=D
+# Set 0x5276 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5276
+*A=D
+# Set 0x5277 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5277
+*A=D
+# Set 0x5278 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5278
+*A=D
+# Set 0x5279 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5279
+*A=D
+# Set 0x527a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x527a
+*A=D
+# Set 0x527b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x527b
+*A=D
+# Set 0x527c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x527c
+*A=D
+# Set 0x527d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x527d
+*A=D
+# Set 0x527e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x527e
+*A=D
+# Set 0x527f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x527f
+*A=D
+# Set 0x5280 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5280
+*A=D
+# Set 0x5281 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5281
+*A=D
+# Set 0x5282 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5282
+*A=D
+# Set 0x5283 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5283
+*A=D
+# Set 0x5284 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5284
+*A=D
+# Set 0x5285 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5285
+*A=D
+# Set 0x5286 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5286
+*A=D
+# Set 0x5287 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5287
+*A=D
+# Set 0x5288 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5288
+*A=D
+# Set 0x5289 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5289
+*A=D
+# Set 0x528a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x528a
+*A=D
+# Set 0x528b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x528b
+*A=D
+# Set 0x528c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x528c
+*A=D
+# Set 0x528d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x528d
+*A=D
+# Set 0x528e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x528e
+*A=D
+# Set 0x528f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x528f
+*A=D
+# Set 0x5290 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5290
+*A=D
+# Set 0x5291 to 64658
+A=0x7fff
+D=A
+A=0x7c93
+D=D+A
+A=0x5291
+*A=D
+# Set 0x5292 to 37058
+A=0x7fff
+D=A
+A=0x10c3
+D=D+A
+A=0x5292
+*A=D
+# Set 0x5293 to 4335
+A=0x10ef
+D=A
+A=0x5293
+*A=D
+# Set 0x5294 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5294
+*A=D
+# Set 0x5295 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5295
+*A=D
+# Set 0x5296 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5296
+*A=D
+# Set 0x5297 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5297
+*A=D
+# Set 0x5298 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5298
+*A=D
+# Set 0x5299 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5299
+*A=D
+# Set 0x529a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x529a
+*A=D
+# Set 0x529b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x529b
+*A=D
+# Set 0x529c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x529c
+*A=D
+# Set 0x529d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x529d
+*A=D
+# Set 0x529e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x529e
+*A=D
+# Set 0x529f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x529f
+*A=D
+# Set 0x52a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52a0
+*A=D
+# Set 0x52a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52a1
+*A=D
+# Set 0x52a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52a2
+*A=D
+# Set 0x52a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52a3
+*A=D
+# Set 0x52a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52a4
+*A=D
+# Set 0x52a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52a5
+*A=D
+# Set 0x52a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52a6
+*A=D
+# Set 0x52a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52a7
+*A=D
+# Set 0x52a8 to 8191
+A=0x1fff
+D=A
+A=0x52a8
+*A=D
+# Set 0x52a9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52a9
+*A=D
+# Set 0x52aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52aa
+*A=D
+# Set 0x52ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52ab
+*A=D
+# Set 0x52ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52ac
+*A=D
+# Set 0x52ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52ad
+*A=D
+# Set 0x52ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52ae
+*A=D
+# Set 0x52af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52af
+*A=D
+# Set 0x52b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52b0
+*A=D
+# Set 0x52b1 to 57796
+A=0x7fff
+D=A
+A=0x61c5
+D=D+A
+A=0x52b1
+*A=D
+# Set 0x52b2 to 39935
+A=0x7fff
+D=A
+A=0x1c00
+D=D+A
+A=0x52b2
+*A=D
+# Set 0x52b3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52b3
+*A=D
+# Set 0x52b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52b4
+*A=D
+# Set 0x52b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52b5
+*A=D
+# Set 0x52b6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52b6
+*A=D
+# Set 0x52b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52b7
+*A=D
+# Set 0x52b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52b8
+*A=D
+# Set 0x52b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52b9
+*A=D
+# Set 0x52ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52ba
+*A=D
+# Set 0x52bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52bb
+*A=D
+# Set 0x52bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52bc
+*A=D
+# Set 0x52bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52bd
+*A=D
+# Set 0x52be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52be
+*A=D
+# Set 0x52bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52bf
+*A=D
+# Set 0x52c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52c0
+*A=D
+# Set 0x52c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52c1
+*A=D
+# Set 0x52c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52c2
+*A=D
+# Set 0x52c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52c3
+*A=D
+# Set 0x52c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52c4
+*A=D
+# Set 0x52c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52c5
+*A=D
+# Set 0x52c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52c6
+*A=D
+# Set 0x52c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52c7
+*A=D
+# Set 0x52c8 to 40958
+A=0x7fff
+D=A
+A=0x1fff
+D=D+A
+A=0x52c8
+*A=D
+# Set 0x52c9 to 57599
+A=0x7fff
+D=A
+A=0x6100
+D=D+A
+A=0x52c9
+*A=D
+# Set 0x52ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52ca
+*A=D
+# Set 0x52cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52cb
+*A=D
+# Set 0x52cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52cc
+*A=D
+# Set 0x52cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52cd
+*A=D
+# Set 0x52ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52ce
+*A=D
+# Set 0x52cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52cf
+*A=D
+# Set 0x52d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52d0
+*A=D
+# Set 0x52d1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52d1
+*A=D
+# Set 0x52d2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52d2
+*A=D
+# Set 0x52d3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52d3
+*A=D
+# Set 0x52d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52d4
+*A=D
+# Set 0x52d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52d5
+*A=D
+# Set 0x52d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52d6
+*A=D
+# Set 0x52d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52d7
+*A=D
+# Set 0x52d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52d8
+*A=D
+# Set 0x52d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52d9
+*A=D
+# Set 0x52da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52da
+*A=D
+# Set 0x52db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52db
+*A=D
+# Set 0x52dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52dc
+*A=D
+# Set 0x52dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52dd
+*A=D
+# Set 0x52de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52de
+*A=D
+# Set 0x52df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52df
+*A=D
+# Set 0x52e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52e0
+*A=D
+# Set 0x52e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52e1
+*A=D
+# Set 0x52e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52e2
+*A=D
+# Set 0x52e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52e3
+*A=D
+# Set 0x52e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52e4
+*A=D
+# Set 0x52e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52e5
+*A=D
+# Set 0x52e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52e6
+*A=D
+# Set 0x52e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52e7
+*A=D
+# Set 0x52e8 to 40472
+A=0x7fff
+D=A
+A=0x1e19
+D=D+A
+A=0x52e8
+*A=D
+# Set 0x52e9 to 8831
+A=0x227f
+D=A
+A=0x52e9
+*A=D
+# Set 0x52ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52ea
+*A=D
+# Set 0x52eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52eb
+*A=D
+# Set 0x52ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52ec
+*A=D
+# Set 0x52ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52ed
+*A=D
+# Set 0x52ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52ee
+*A=D
+# Set 0x52ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52ef
+*A=D
+# Set 0x52f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52f0
+*A=D
+# Set 0x52f1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52f1
+*A=D
+# Set 0x52f2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52f2
+*A=D
+# Set 0x52f3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52f3
+*A=D
+# Set 0x52f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52f4
+*A=D
+# Set 0x52f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52f5
+*A=D
+# Set 0x52f6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52f6
+*A=D
+# Set 0x52f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52f7
+*A=D
+# Set 0x52f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52f8
+*A=D
+# Set 0x52f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52f9
+*A=D
+# Set 0x52fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52fa
+*A=D
+# Set 0x52fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52fb
+*A=D
+# Set 0x52fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52fc
+*A=D
+# Set 0x52fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52fd
+*A=D
+# Set 0x52fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52fe
+*A=D
+# Set 0x52ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x52ff
+*A=D
+# Set 0x5300 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5300
+*A=D
+# Set 0x5301 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5301
+*A=D
+# Set 0x5302 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5302
+*A=D
+# Set 0x5303 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5303
+*A=D
+# Set 0x5304 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5304
+*A=D
+# Set 0x5305 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5305
+*A=D
+# Set 0x5306 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5306
+*A=D
+# Set 0x5307 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5307
+*A=D
+# Set 0x5308 to 56523
+A=0x7fff
+D=A
+A=0x5ccc
+D=D+A
+A=0x5308
+*A=D
+# Set 0x5309 to 46975
+A=0x7fff
+D=A
+A=0x3780
+D=D+A
+A=0x5309
+*A=D
+# Set 0x530a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x530a
+*A=D
+# Set 0x530b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x530b
+*A=D
+# Set 0x530c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x530c
+*A=D
+# Set 0x530d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x530d
+*A=D
+# Set 0x530e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x530e
+*A=D
+# Set 0x530f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x530f
+*A=D
+# Set 0x5310 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5310
+*A=D
+# Set 0x5311 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5311
+*A=D
+# Set 0x5312 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5312
+*A=D
+# Set 0x5313 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5313
+*A=D
+# Set 0x5314 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5314
+*A=D
+# Set 0x5315 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5315
+*A=D
+# Set 0x5316 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5316
+*A=D
+# Set 0x5317 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5317
+*A=D
+# Set 0x5318 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5318
+*A=D
+# Set 0x5319 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5319
+*A=D
+# Set 0x531a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x531a
+*A=D
+# Set 0x531b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x531b
+*A=D
+# Set 0x531c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x531c
+*A=D
+# Set 0x531d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x531d
+*A=D
+# Set 0x531e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x531e
+*A=D
+# Set 0x531f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x531f
+*A=D
+# Set 0x5320 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5320
+*A=D
+# Set 0x5321 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5321
+*A=D
+# Set 0x5322 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5322
+*A=D
+# Set 0x5323 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5323
+*A=D
+# Set 0x5324 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5324
+*A=D
+# Set 0x5325 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5325
+*A=D
+# Set 0x5326 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5326
+*A=D
+# Set 0x5327 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5327
+*A=D
+# Set 0x5328 to 40395
+A=0x7fff
+D=A
+A=0x1dcc
+D=D+A
+A=0x5328
+*A=D
+# Set 0x5329 to 46975
+A=0x7fff
+D=A
+A=0x3780
+D=D+A
+A=0x5329
+*A=D
+# Set 0x532a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x532a
+*A=D
+# Set 0x532b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x532b
+*A=D
+# Set 0x532c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x532c
+*A=D
+# Set 0x532d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x532d
+*A=D
+# Set 0x532e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x532e
+*A=D
+# Set 0x532f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x532f
+*A=D
+# Set 0x5330 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5330
+*A=D
+# Set 0x5331 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5331
+*A=D
+# Set 0x5332 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5332
+*A=D
+# Set 0x5333 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5333
+*A=D
+# Set 0x5334 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5334
+*A=D
+# Set 0x5335 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5335
+*A=D
+# Set 0x5336 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5336
+*A=D
+# Set 0x5337 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5337
+*A=D
+# Set 0x5338 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5338
+*A=D
+# Set 0x5339 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5339
+*A=D
+# Set 0x533a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x533a
+*A=D
+# Set 0x533b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x533b
+*A=D
+# Set 0x533c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x533c
+*A=D
+# Set 0x533d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x533d
+*A=D
+# Set 0x533e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x533e
+*A=D
+# Set 0x533f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x533f
+*A=D
+# Set 0x5340 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5340
+*A=D
+# Set 0x5341 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5341
+*A=D
+# Set 0x5342 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5342
+*A=D
+# Set 0x5343 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5343
+*A=D
+# Set 0x5344 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5344
+*A=D
+# Set 0x5345 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5345
+*A=D
+# Set 0x5346 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5346
+*A=D
+# Set 0x5347 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5347
+*A=D
+# Set 0x5348 to 40088
+A=0x7fff
+D=A
+A=0x1c99
+D=D+A
+A=0x5348
+*A=D
+# Set 0x5349 to 12543
+A=0x30ff
+D=A
+A=0x5349
+*A=D
+# Set 0x534a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x534a
+*A=D
+# Set 0x534b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x534b
+*A=D
+# Set 0x534c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x534c
+*A=D
+# Set 0x534d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x534d
+*A=D
+# Set 0x534e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x534e
+*A=D
+# Set 0x534f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x534f
+*A=D
+# Set 0x5350 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5350
+*A=D
+# Set 0x5351 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5351
+*A=D
+# Set 0x5352 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5352
+*A=D
+# Set 0x5353 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5353
+*A=D
+# Set 0x5354 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5354
+*A=D
+# Set 0x5355 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5355
+*A=D
+# Set 0x5356 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5356
+*A=D
+# Set 0x5357 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5357
+*A=D
+# Set 0x5358 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5358
+*A=D
+# Set 0x5359 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5359
+*A=D
+# Set 0x535a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x535a
+*A=D
+# Set 0x535b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x535b
+*A=D
+# Set 0x535c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x535c
+*A=D
+# Set 0x535d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x535d
+*A=D
+# Set 0x535e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x535e
+*A=D
+# Set 0x535f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x535f
+*A=D
+# Set 0x5360 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5360
+*A=D
+# Set 0x5361 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5361
+*A=D
+# Set 0x5362 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5362
+*A=D
+# Set 0x5363 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5363
+*A=D
+# Set 0x5364 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5364
+*A=D
+# Set 0x5365 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5365
+*A=D
+# Set 0x5366 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5366
+*A=D
+# Set 0x5367 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5367
+*A=D
+# Set 0x5368 to 1598
+A=0x63e
+D=A
+A=0x5368
+*A=D
+# Set 0x5369 to 63487
+A=0x7fff
+D=A
+A=0x7800
+D=D+A
+A=0x5369
+*A=D
+# Set 0x536a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x536a
+*A=D
+# Set 0x536b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x536b
+*A=D
+# Set 0x536c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x536c
+*A=D
+# Set 0x536d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x536d
+*A=D
+# Set 0x536e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x536e
+*A=D
+# Set 0x536f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x536f
+*A=D
+# Set 0x5370 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5370
+*A=D
+# Set 0x5371 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5371
+*A=D
+# Set 0x5372 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5372
+*A=D
+# Set 0x5373 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5373
+*A=D
+# Set 0x5374 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5374
+*A=D
+# Set 0x5375 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5375
+*A=D
+# Set 0x5376 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5376
+*A=D
+# Set 0x5377 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5377
+*A=D
+# Set 0x5378 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5378
+*A=D
+# Set 0x5379 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5379
+*A=D
+# Set 0x537a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x537a
+*A=D
+# Set 0x537b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x537b
+*A=D
+# Set 0x537c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x537c
+*A=D
+# Set 0x537d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x537d
+*A=D
+# Set 0x537e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x537e
+*A=D
+# Set 0x537f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x537f
+*A=D
+# Set 0x5380 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5380
+*A=D
+# Set 0x5381 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5381
+*A=D
+# Set 0x5382 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5382
+*A=D
+# Set 0x5383 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5383
+*A=D
+# Set 0x5384 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5384
+*A=D
+# Set 0x5385 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5385
+*A=D
+# Set 0x5386 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5386
+*A=D
+# Set 0x5387 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5387
+*A=D
+# Set 0x5388 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5388
+*A=D
+# Set 0x5389 to 58367
+A=0x7fff
+D=A
+A=0x6400
+D=D+A
+A=0x5389
+*A=D
+# Set 0x538a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x538a
+*A=D
+# Set 0x538b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x538b
+*A=D
+# Set 0x538c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x538c
+*A=D
+# Set 0x538d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x538d
+*A=D
+# Set 0x538e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x538e
+*A=D
+# Set 0x538f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x538f
+*A=D
+# Set 0x5390 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5390
+*A=D
+# Set 0x5391 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5391
+*A=D
+# Set 0x5392 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5392
+*A=D
+# Set 0x5393 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5393
+*A=D
+# Set 0x5394 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5394
+*A=D
+# Set 0x5395 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5395
+*A=D
+# Set 0x5396 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5396
+*A=D
+# Set 0x5397 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5397
+*A=D
+# Set 0x5398 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5398
+*A=D
+# Set 0x5399 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5399
+*A=D
+# Set 0x539a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x539a
+*A=D
+# Set 0x539b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x539b
+*A=D
+# Set 0x539c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x539c
+*A=D
+# Set 0x539d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x539d
+*A=D
+# Set 0x539e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x539e
+*A=D
+# Set 0x539f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x539f
+*A=D
+# Set 0x53a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53a0
+*A=D
+# Set 0x53a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53a1
+*A=D
+# Set 0x53a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53a2
+*A=D
+# Set 0x53a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53a3
+*A=D
+# Set 0x53a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53a4
+*A=D
+# Set 0x53a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53a5
+*A=D
+# Set 0x53a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53a6
+*A=D
+# Set 0x53a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53a7
+*A=D
+# Set 0x53a8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53a8
+*A=D
+# Set 0x53a9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53a9
+*A=D
+# Set 0x53aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53aa
+*A=D
+# Set 0x53ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53ab
+*A=D
+# Set 0x53ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53ac
+*A=D
+# Set 0x53ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53ad
+*A=D
+# Set 0x53ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53ae
+*A=D
+# Set 0x53af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53af
+*A=D
+# Set 0x53b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53b0
+*A=D
+# Set 0x53b1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53b1
+*A=D
+# Set 0x53b2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53b2
+*A=D
+# Set 0x53b3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53b3
+*A=D
+# Set 0x53b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53b4
+*A=D
+# Set 0x53b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53b5
+*A=D
+# Set 0x53b6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53b6
+*A=D
+# Set 0x53b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53b7
+*A=D
+# Set 0x53b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53b8
+*A=D
+# Set 0x53b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53b9
+*A=D
+# Set 0x53ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53ba
+*A=D
+# Set 0x53bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53bb
+*A=D
+# Set 0x53bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53bc
+*A=D
+# Set 0x53bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53bd
+*A=D
+# Set 0x53be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53be
+*A=D
+# Set 0x53bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53bf
+*A=D
+# Set 0x53c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53c0
+*A=D
+# Set 0x53c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53c1
+*A=D
+# Set 0x53c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53c2
+*A=D
+# Set 0x53c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53c3
+*A=D
+# Set 0x53c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53c4
+*A=D
+# Set 0x53c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53c5
+*A=D
+# Set 0x53c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53c6
+*A=D
+# Set 0x53c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53c7
+*A=D
+# Set 0x53c8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53c8
+*A=D
+# Set 0x53c9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53c9
+*A=D
+# Set 0x53ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53ca
+*A=D
+# Set 0x53cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53cb
+*A=D
+# Set 0x53cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53cc
+*A=D
+# Set 0x53cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53cd
+*A=D
+# Set 0x53ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53ce
+*A=D
+# Set 0x53cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53cf
+*A=D
+# Set 0x53d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53d0
+*A=D
+# Set 0x53d1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53d1
+*A=D
+# Set 0x53d2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53d2
+*A=D
+# Set 0x53d3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53d3
+*A=D
+# Set 0x53d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53d4
+*A=D
+# Set 0x53d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53d5
+*A=D
+# Set 0x53d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53d6
+*A=D
+# Set 0x53d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53d7
+*A=D
+# Set 0x53d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53d8
+*A=D
+# Set 0x53d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53d9
+*A=D
+# Set 0x53da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53da
+*A=D
+# Set 0x53db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53db
+*A=D
+# Set 0x53dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53dc
+*A=D
+# Set 0x53dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53dd
+*A=D
+# Set 0x53de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53de
+*A=D
+# Set 0x53df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53df
+*A=D
+# Set 0x53e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53e0
+*A=D
+# Set 0x53e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53e1
+*A=D
+# Set 0x53e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53e2
+*A=D
+# Set 0x53e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53e3
+*A=D
+# Set 0x53e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53e4
+*A=D
+# Set 0x53e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53e5
+*A=D
+# Set 0x53e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53e6
+*A=D
+# Set 0x53e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53e7
+*A=D
+# Set 0x53e8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53e8
+*A=D
+# Set 0x53e9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53e9
+*A=D
+# Set 0x53ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53ea
+*A=D
+# Set 0x53eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53eb
+*A=D
+# Set 0x53ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53ec
+*A=D
+# Set 0x53ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53ed
+*A=D
+# Set 0x53ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53ee
+*A=D
+# Set 0x53ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53ef
+*A=D
+# Set 0x53f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53f0
+*A=D
+# Set 0x53f1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53f1
+*A=D
+# Set 0x53f2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53f2
+*A=D
+# Set 0x53f3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53f3
+*A=D
+# Set 0x53f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53f4
+*A=D
+# Set 0x53f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53f5
+*A=D
+# Set 0x53f6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53f6
+*A=D
+# Set 0x53f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53f7
+*A=D
+# Set 0x53f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53f8
+*A=D
+# Set 0x53f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53f9
+*A=D
+# Set 0x53fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53fa
+*A=D
+# Set 0x53fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53fb
+*A=D
+# Set 0x53fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53fc
+*A=D
+# Set 0x53fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53fd
+*A=D
+# Set 0x53fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53fe
+*A=D
+# Set 0x53ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x53ff
+*A=D
+# Set 0x5400 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5400
+*A=D
+# Set 0x5401 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5401
+*A=D
+# Set 0x5402 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5402
+*A=D
+# Set 0x5403 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5403
+*A=D
+# Set 0x5404 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5404
+*A=D
+# Set 0x5405 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5405
+*A=D
+# Set 0x5406 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5406
+*A=D
+# Set 0x5407 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5407
+*A=D
+# Set 0x5408 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5408
+*A=D
+# Set 0x5409 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5409
+*A=D
+# Set 0x540a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x540a
+*A=D
+# Set 0x540b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x540b
+*A=D
+# Set 0x540c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x540c
+*A=D
+# Set 0x540d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x540d
+*A=D
+# Set 0x540e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x540e
+*A=D
+# Set 0x540f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x540f
+*A=D
+# Set 0x5410 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5410
+*A=D
+# Set 0x5411 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5411
+*A=D
+# Set 0x5412 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5412
+*A=D
+# Set 0x5413 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5413
+*A=D
+# Set 0x5414 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5414
+*A=D
+# Set 0x5415 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5415
+*A=D
+# Set 0x5416 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5416
+*A=D
+# Set 0x5417 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5417
+*A=D
+# Set 0x5418 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5418
+*A=D
+# Set 0x5419 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5419
+*A=D
+# Set 0x541a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x541a
+*A=D
+# Set 0x541b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x541b
+*A=D
+# Set 0x541c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x541c
+*A=D
+# Set 0x541d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x541d
+*A=D
+# Set 0x541e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x541e
+*A=D
+# Set 0x541f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x541f
+*A=D
+# Set 0x5420 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5420
+*A=D
+# Set 0x5421 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5421
+*A=D
+# Set 0x5422 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5422
+*A=D
+# Set 0x5423 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5423
+*A=D
+# Set 0x5424 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5424
+*A=D
+# Set 0x5425 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5425
+*A=D
+# Set 0x5426 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5426
+*A=D
+# Set 0x5427 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5427
+*A=D
+# Set 0x5428 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5428
+*A=D
+# Set 0x5429 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5429
+*A=D
+# Set 0x542a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x542a
+*A=D
+# Set 0x542b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x542b
+*A=D
+# Set 0x542c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x542c
+*A=D
+# Set 0x542d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x542d
+*A=D
+# Set 0x542e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x542e
+*A=D
+# Set 0x542f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x542f
+*A=D
+# Set 0x5430 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5430
+*A=D
+# Set 0x5431 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5431
+*A=D
+# Set 0x5432 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5432
+*A=D
+# Set 0x5433 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5433
+*A=D
+# Set 0x5434 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5434
+*A=D
+# Set 0x5435 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5435
+*A=D
+# Set 0x5436 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5436
+*A=D
+# Set 0x5437 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5437
+*A=D
+# Set 0x5438 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5438
+*A=D
+# Set 0x5439 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5439
+*A=D
+# Set 0x543a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x543a
+*A=D
+# Set 0x543b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x543b
+*A=D
+# Set 0x543c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x543c
+*A=D
+# Set 0x543d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x543d
+*A=D
+# Set 0x543e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x543e
+*A=D
+# Set 0x543f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x543f
+*A=D
+# Set 0x5440 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5440
+*A=D
+# Set 0x5441 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5441
+*A=D
+# Set 0x5442 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5442
+*A=D
+# Set 0x5443 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5443
+*A=D
+# Set 0x5444 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5444
+*A=D
+# Set 0x5445 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5445
+*A=D
+# Set 0x5446 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5446
+*A=D
+# Set 0x5447 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5447
+*A=D
+# Set 0x5448 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5448
+*A=D
+# Set 0x5449 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5449
+*A=D
+# Set 0x544a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x544a
+*A=D
+# Set 0x544b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x544b
+*A=D
+# Set 0x544c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x544c
+*A=D
+# Set 0x544d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x544d
+*A=D
+# Set 0x544e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x544e
+*A=D
+# Set 0x544f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x544f
+*A=D
+# Set 0x5450 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5450
+*A=D
+# Set 0x5451 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5451
+*A=D
+# Set 0x5452 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5452
+*A=D
+# Set 0x5453 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5453
+*A=D
+# Set 0x5454 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5454
+*A=D
+# Set 0x5455 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5455
+*A=D
+# Set 0x5456 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5456
+*A=D
+# Set 0x5457 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5457
+*A=D
+# Set 0x5458 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5458
+*A=D
+# Set 0x5459 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5459
+*A=D
+# Set 0x545a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x545a
+*A=D
+# Set 0x545b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x545b
+*A=D
+# Set 0x545c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x545c
+*A=D
+# Set 0x545d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x545d
+*A=D
+# Set 0x545e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x545e
+*A=D
+# Set 0x545f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x545f
+*A=D
+# Set 0x5460 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5460
+*A=D
+# Set 0x5461 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5461
+*A=D
+# Set 0x5462 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5462
+*A=D
+# Set 0x5463 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5463
+*A=D
+# Set 0x5464 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5464
+*A=D
+# Set 0x5465 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5465
+*A=D
+# Set 0x5466 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5466
+*A=D
+# Set 0x5467 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5467
+*A=D
+# Set 0x5468 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5468
+*A=D
+# Set 0x5469 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5469
+*A=D
+# Set 0x546a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x546a
+*A=D
+# Set 0x546b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x546b
+*A=D
+# Set 0x546c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x546c
+*A=D
+# Set 0x546d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x546d
+*A=D
+# Set 0x546e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x546e
+*A=D
+# Set 0x546f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x546f
+*A=D
+# Set 0x5470 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5470
+*A=D
+# Set 0x5471 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5471
+*A=D
+# Set 0x5472 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5472
+*A=D
+# Set 0x5473 to 65519
+A=0x7fff
+D=A
+A=0x7ff0
+D=D+A
+A=0x5473
+*A=D
+# Set 0x5474 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5474
+*A=D
+# Set 0x5475 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5475
+*A=D
+# Set 0x5476 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5476
+*A=D
+# Set 0x5477 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5477
+*A=D
+# Set 0x5478 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5478
+*A=D
+# Set 0x5479 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5479
+*A=D
+# Set 0x547a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x547a
+*A=D
+# Set 0x547b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x547b
+*A=D
+# Set 0x547c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x547c
+*A=D
+# Set 0x547d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x547d
+*A=D
+# Set 0x547e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x547e
+*A=D
+# Set 0x547f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x547f
+*A=D
+# Set 0x5480 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5480
+*A=D
+# Set 0x5481 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5481
+*A=D
+# Set 0x5482 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5482
+*A=D
+# Set 0x5483 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5483
+*A=D
+# Set 0x5484 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5484
+*A=D
+# Set 0x5485 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5485
+*A=D
+# Set 0x5486 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5486
+*A=D
+# Set 0x5487 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5487
+*A=D
+# Set 0x5488 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5488
+*A=D
+# Set 0x5489 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5489
+*A=D
+# Set 0x548a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x548a
+*A=D
+# Set 0x548b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x548b
+*A=D
+# Set 0x548c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x548c
+*A=D
+# Set 0x548d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x548d
+*A=D
+# Set 0x548e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x548e
+*A=D
+# Set 0x548f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x548f
+*A=D
+# Set 0x5490 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5490
+*A=D
+# Set 0x5491 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5491
+*A=D
+# Set 0x5492 to 65487
+A=0x7fff
+D=A
+A=0x7fd0
+D=D+A
+A=0x5492
+*A=D
+# Set 0x5493 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5493
+*A=D
+# Set 0x5494 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5494
+*A=D
+# Set 0x5495 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5495
+*A=D
+# Set 0x5496 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5496
+*A=D
+# Set 0x5497 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5497
+*A=D
+# Set 0x5498 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5498
+*A=D
+# Set 0x5499 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5499
+*A=D
+# Set 0x549a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x549a
+*A=D
+# Set 0x549b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x549b
+*A=D
+# Set 0x549c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x549c
+*A=D
+# Set 0x549d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x549d
+*A=D
+# Set 0x549e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x549e
+*A=D
+# Set 0x549f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x549f
+*A=D
+# Set 0x54a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54a0
+*A=D
+# Set 0x54a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54a1
+*A=D
+# Set 0x54a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54a2
+*A=D
+# Set 0x54a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54a3
+*A=D
+# Set 0x54a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54a4
+*A=D
+# Set 0x54a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54a5
+*A=D
+# Set 0x54a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54a6
+*A=D
+# Set 0x54a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54a7
+*A=D
+# Set 0x54a8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54a8
+*A=D
+# Set 0x54a9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54a9
+*A=D
+# Set 0x54aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54aa
+*A=D
+# Set 0x54ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54ab
+*A=D
+# Set 0x54ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54ac
+*A=D
+# Set 0x54ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54ad
+*A=D
+# Set 0x54ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54ae
+*A=D
+# Set 0x54af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54af
+*A=D
+# Set 0x54b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54b0
+*A=D
+# Set 0x54b1 to 63879
+A=0x7fff
+D=A
+A=0x7988
+D=D+A
+A=0x54b1
+*A=D
+# Set 0x54b2 to 65487
+A=0x7fff
+D=A
+A=0x7fd0
+D=D+A
+A=0x54b2
+*A=D
+# Set 0x54b3 to 14543
+A=0x38cf
+D=A
+A=0x54b3
+*A=D
+# Set 0x54b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54b4
+*A=D
+# Set 0x54b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54b5
+*A=D
+# Set 0x54b6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54b6
+*A=D
+# Set 0x54b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54b7
+*A=D
+# Set 0x54b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54b8
+*A=D
+# Set 0x54b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54b9
+*A=D
+# Set 0x54ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54ba
+*A=D
+# Set 0x54bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54bb
+*A=D
+# Set 0x54bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54bc
+*A=D
+# Set 0x54bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54bd
+*A=D
+# Set 0x54be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54be
+*A=D
+# Set 0x54bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54bf
+*A=D
+# Set 0x54c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54c0
+*A=D
+# Set 0x54c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54c1
+*A=D
+# Set 0x54c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54c2
+*A=D
+# Set 0x54c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54c3
+*A=D
+# Set 0x54c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54c4
+*A=D
+# Set 0x54c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54c5
+*A=D
+# Set 0x54c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54c6
+*A=D
+# Set 0x54c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54c7
+*A=D
+# Set 0x54c8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54c8
+*A=D
+# Set 0x54c9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54c9
+*A=D
+# Set 0x54ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54ca
+*A=D
+# Set 0x54cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54cb
+*A=D
+# Set 0x54cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54cc
+*A=D
+# Set 0x54cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54cd
+*A=D
+# Set 0x54ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54ce
+*A=D
+# Set 0x54cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54cf
+*A=D
+# Set 0x54d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54d0
+*A=D
+# Set 0x54d1 to 61599
+A=0x7fff
+D=A
+A=0x70a0
+D=D+A
+A=0x54d1
+*A=D
+# Set 0x54d2 to 65478
+A=0x7fff
+D=A
+A=0x7fc7
+D=D+A
+A=0x54d2
+*A=D
+# Set 0x54d3 to 4335
+A=0x10ef
+D=A
+A=0x54d3
+*A=D
+# Set 0x54d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54d4
+*A=D
+# Set 0x54d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54d5
+*A=D
+# Set 0x54d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54d6
+*A=D
+# Set 0x54d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54d7
+*A=D
+# Set 0x54d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54d8
+*A=D
+# Set 0x54d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54d9
+*A=D
+# Set 0x54da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54da
+*A=D
+# Set 0x54db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54db
+*A=D
+# Set 0x54dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54dc
+*A=D
+# Set 0x54dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54dd
+*A=D
+# Set 0x54de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54de
+*A=D
+# Set 0x54df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54df
+*A=D
+# Set 0x54e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54e0
+*A=D
+# Set 0x54e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54e1
+*A=D
+# Set 0x54e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54e2
+*A=D
+# Set 0x54e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54e3
+*A=D
+# Set 0x54e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54e4
+*A=D
+# Set 0x54e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54e5
+*A=D
+# Set 0x54e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54e6
+*A=D
+# Set 0x54e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54e7
+*A=D
+# Set 0x54e8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54e8
+*A=D
+# Set 0x54e9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54e9
+*A=D
+# Set 0x54ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54ea
+*A=D
+# Set 0x54eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54eb
+*A=D
+# Set 0x54ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54ec
+*A=D
+# Set 0x54ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54ed
+*A=D
+# Set 0x54ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54ee
+*A=D
+# Set 0x54ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54ef
+*A=D
+# Set 0x54f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54f0
+*A=D
+# Set 0x54f1 to 62343
+A=0x7fff
+D=A
+A=0x7388
+D=D+A
+A=0x54f1
+*A=D
+# Set 0x54f2 to 65476
+A=0x7fff
+D=A
+A=0x7fc5
+D=D+A
+A=0x54f2
+*A=D
+# Set 0x54f3 to 6383
+A=0x18ef
+D=A
+A=0x54f3
+*A=D
+# Set 0x54f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54f4
+*A=D
+# Set 0x54f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54f5
+*A=D
+# Set 0x54f6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54f6
+*A=D
+# Set 0x54f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54f7
+*A=D
+# Set 0x54f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54f8
+*A=D
+# Set 0x54f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54f9
+*A=D
+# Set 0x54fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54fa
+*A=D
+# Set 0x54fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54fb
+*A=D
+# Set 0x54fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54fc
+*A=D
+# Set 0x54fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54fd
+*A=D
+# Set 0x54fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54fe
+*A=D
+# Set 0x54ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x54ff
+*A=D
+# Set 0x5500 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5500
+*A=D
+# Set 0x5501 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5501
+*A=D
+# Set 0x5502 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5502
+*A=D
+# Set 0x5503 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5503
+*A=D
+# Set 0x5504 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5504
+*A=D
+# Set 0x5505 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5505
+*A=D
+# Set 0x5506 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5506
+*A=D
+# Set 0x5507 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5507
+*A=D
+# Set 0x5508 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5508
+*A=D
+# Set 0x5509 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5509
+*A=D
+# Set 0x550a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x550a
+*A=D
+# Set 0x550b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x550b
+*A=D
+# Set 0x550c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x550c
+*A=D
+# Set 0x550d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x550d
+*A=D
+# Set 0x550e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x550e
+*A=D
+# Set 0x550f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x550f
+*A=D
+# Set 0x5510 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5510
+*A=D
+# Set 0x5511 to 63735
+A=0x7fff
+D=A
+A=0x78f8
+D=D+A
+A=0x5511
+*A=D
+# Set 0x5512 to 65514
+A=0x7fff
+D=A
+A=0x7feb
+D=D+A
+A=0x5512
+*A=D
+# Set 0x5513 to 53443
+A=0x7fff
+D=A
+A=0x50c4
+D=D+A
+A=0x5513
+*A=D
+# Set 0x5514 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5514
+*A=D
+# Set 0x5515 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5515
+*A=D
+# Set 0x5516 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5516
+*A=D
+# Set 0x5517 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5517
+*A=D
+# Set 0x5518 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5518
+*A=D
+# Set 0x5519 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5519
+*A=D
+# Set 0x551a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x551a
+*A=D
+# Set 0x551b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x551b
+*A=D
+# Set 0x551c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x551c
+*A=D
+# Set 0x551d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x551d
+*A=D
+# Set 0x551e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x551e
+*A=D
+# Set 0x551f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x551f
+*A=D
+# Set 0x5520 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5520
+*A=D
+# Set 0x5521 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5521
+*A=D
+# Set 0x5522 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5522
+*A=D
+# Set 0x5523 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5523
+*A=D
+# Set 0x5524 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5524
+*A=D
+# Set 0x5525 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5525
+*A=D
+# Set 0x5526 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5526
+*A=D
+# Set 0x5527 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5527
+*A=D
+# Set 0x5528 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5528
+*A=D
+# Set 0x5529 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5529
+*A=D
+# Set 0x552a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x552a
+*A=D
+# Set 0x552b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x552b
+*A=D
+# Set 0x552c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x552c
+*A=D
+# Set 0x552d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x552d
+*A=D
+# Set 0x552e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x552e
+*A=D
+# Set 0x552f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x552f
+*A=D
+# Set 0x5530 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5530
+*A=D
+# Set 0x5531 to 62710
+A=0x7fff
+D=A
+A=0x74f7
+D=D+A
+A=0x5531
+*A=D
+# Set 0x5532 to 32742
+A=0x7fe6
+D=A
+A=0x5532
+*A=D
+# Set 0x5533 to 6655
+A=0x19ff
+D=A
+A=0x5533
+*A=D
+# Set 0x5534 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5534
+*A=D
+# Set 0x5535 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5535
+*A=D
+# Set 0x5536 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5536
+*A=D
+# Set 0x5537 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5537
+*A=D
+# Set 0x5538 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5538
+*A=D
+# Set 0x5539 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5539
+*A=D
+# Set 0x553a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x553a
+*A=D
+# Set 0x553b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x553b
+*A=D
+# Set 0x553c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x553c
+*A=D
+# Set 0x553d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x553d
+*A=D
+# Set 0x553e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x553e
+*A=D
+# Set 0x553f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x553f
+*A=D
+# Set 0x5540 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5540
+*A=D
+# Set 0x5541 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5541
+*A=D
+# Set 0x5542 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5542
+*A=D
+# Set 0x5543 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5543
+*A=D
+# Set 0x5544 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5544
+*A=D
+# Set 0x5545 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5545
+*A=D
+# Set 0x5546 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5546
+*A=D
+# Set 0x5547 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5547
+*A=D
+# Set 0x5548 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5548
+*A=D
+# Set 0x5549 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5549
+*A=D
+# Set 0x554a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x554a
+*A=D
+# Set 0x554b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x554b
+*A=D
+# Set 0x554c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x554c
+*A=D
+# Set 0x554d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x554d
+*A=D
+# Set 0x554e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x554e
+*A=D
+# Set 0x554f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x554f
+*A=D
+# Set 0x5550 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5550
+*A=D
+# Set 0x5551 to 61830
+A=0x7fff
+D=A
+A=0x7187
+D=D+A
+A=0x5551
+*A=D
+# Set 0x5552 to 32767
+A=0x7fff
+D=A
+A=0x5552
+*A=D
+# Set 0x5553 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5553
+*A=D
+# Set 0x5554 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5554
+*A=D
+# Set 0x5555 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5555
+*A=D
+# Set 0x5556 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5556
+*A=D
+# Set 0x5557 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5557
+*A=D
+# Set 0x5558 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5558
+*A=D
+# Set 0x5559 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5559
+*A=D
+# Set 0x555a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x555a
+*A=D
+# Set 0x555b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x555b
+*A=D
+# Set 0x555c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x555c
+*A=D
+# Set 0x555d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x555d
+*A=D
+# Set 0x555e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x555e
+*A=D
+# Set 0x555f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x555f
+*A=D
+# Set 0x5560 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5560
+*A=D
+# Set 0x5561 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5561
+*A=D
+# Set 0x5562 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5562
+*A=D
+# Set 0x5563 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5563
+*A=D
+# Set 0x5564 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5564
+*A=D
+# Set 0x5565 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5565
+*A=D
+# Set 0x5566 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5566
+*A=D
+# Set 0x5567 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5567
+*A=D
+# Set 0x5568 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5568
+*A=D
+# Set 0x5569 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5569
+*A=D
+# Set 0x556a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x556a
+*A=D
+# Set 0x556b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x556b
+*A=D
+# Set 0x556c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x556c
+*A=D
+# Set 0x556d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x556d
+*A=D
+# Set 0x556e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x556e
+*A=D
+# Set 0x556f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x556f
+*A=D
+# Set 0x5570 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5570
+*A=D
+# Set 0x5571 to 64510
+A=0x7fff
+D=A
+A=0x7bff
+D=D+A
+A=0x5571
+*A=D
+# Set 0x5572 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5572
+*A=D
+# Set 0x5573 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5573
+*A=D
+# Set 0x5574 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5574
+*A=D
+# Set 0x5575 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5575
+*A=D
+# Set 0x5576 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5576
+*A=D
+# Set 0x5577 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5577
+*A=D
+# Set 0x5578 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5578
+*A=D
+# Set 0x5579 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5579
+*A=D
+# Set 0x557a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x557a
+*A=D
+# Set 0x557b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x557b
+*A=D
+# Set 0x557c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x557c
+*A=D
+# Set 0x557d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x557d
+*A=D
+# Set 0x557e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x557e
+*A=D
+# Set 0x557f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x557f
+*A=D
+# Set 0x5580 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5580
+*A=D
+# Set 0x5581 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5581
+*A=D
+# Set 0x5582 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5582
+*A=D
+# Set 0x5583 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5583
+*A=D
+# Set 0x5584 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5584
+*A=D
+# Set 0x5585 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5585
+*A=D
+# Set 0x5586 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5586
+*A=D
+# Set 0x5587 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5587
+*A=D
+# Set 0x5588 to 65523
+A=0x7fff
+D=A
+A=0x7ff4
+D=D+A
+A=0x5588
+*A=D
+# Set 0x5589 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5589
+*A=D
+# Set 0x558a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x558a
+*A=D
+# Set 0x558b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x558b
+*A=D
+# Set 0x558c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x558c
+*A=D
+# Set 0x558d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x558d
+*A=D
+# Set 0x558e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x558e
+*A=D
+# Set 0x558f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x558f
+*A=D
+# Set 0x5590 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5590
+*A=D
+# Set 0x5591 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5591
+*A=D
+# Set 0x5592 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5592
+*A=D
+# Set 0x5593 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5593
+*A=D
+# Set 0x5594 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5594
+*A=D
+# Set 0x5595 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5595
+*A=D
+# Set 0x5596 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5596
+*A=D
+# Set 0x5597 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5597
+*A=D
+# Set 0x5598 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5598
+*A=D
+# Set 0x5599 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5599
+*A=D
+# Set 0x559a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x559a
+*A=D
+# Set 0x559b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x559b
+*A=D
+# Set 0x559c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x559c
+*A=D
+# Set 0x559d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x559d
+*A=D
+# Set 0x559e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x559e
+*A=D
+# Set 0x559f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x559f
+*A=D
+# Set 0x55a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55a0
+*A=D
+# Set 0x55a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55a1
+*A=D
+# Set 0x55a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55a2
+*A=D
+# Set 0x55a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55a3
+*A=D
+# Set 0x55a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55a4
+*A=D
+# Set 0x55a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55a5
+*A=D
+# Set 0x55a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55a6
+*A=D
+# Set 0x55a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55a7
+*A=D
+# Set 0x55a8 to 65531
+A=0x7fff
+D=A
+A=0x7ffc
+D=D+A
+A=0x55a8
+*A=D
+# Set 0x55a9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55a9
+*A=D
+# Set 0x55aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55aa
+*A=D
+# Set 0x55ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55ab
+*A=D
+# Set 0x55ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55ac
+*A=D
+# Set 0x55ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55ad
+*A=D
+# Set 0x55ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55ae
+*A=D
+# Set 0x55af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55af
+*A=D
+# Set 0x55b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55b0
+*A=D
+# Set 0x55b1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55b1
+*A=D
+# Set 0x55b2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55b2
+*A=D
+# Set 0x55b3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55b3
+*A=D
+# Set 0x55b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55b4
+*A=D
+# Set 0x55b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55b5
+*A=D
+# Set 0x55b6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55b6
+*A=D
+# Set 0x55b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55b7
+*A=D
+# Set 0x55b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55b8
+*A=D
+# Set 0x55b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55b9
+*A=D
+# Set 0x55ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55ba
+*A=D
+# Set 0x55bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55bb
+*A=D
+# Set 0x55bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55bc
+*A=D
+# Set 0x55bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55bd
+*A=D
+# Set 0x55be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55be
+*A=D
+# Set 0x55bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55bf
+*A=D
+# Set 0x55c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55c0
+*A=D
+# Set 0x55c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55c1
+*A=D
+# Set 0x55c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55c2
+*A=D
+# Set 0x55c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55c3
+*A=D
+# Set 0x55c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55c4
+*A=D
+# Set 0x55c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55c5
+*A=D
+# Set 0x55c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55c6
+*A=D
+# Set 0x55c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55c7
+*A=D
+# Set 0x55c8 to 52376
+A=0x7fff
+D=A
+A=0x4c99
+D=D+A
+A=0x55c8
+*A=D
+# Set 0x55c9 to 16383
+A=0x3fff
+D=A
+A=0x55c9
+*A=D
+# Set 0x55ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55ca
+*A=D
+# Set 0x55cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55cb
+*A=D
+# Set 0x55cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55cc
+*A=D
+# Set 0x55cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55cd
+*A=D
+# Set 0x55ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55ce
+*A=D
+# Set 0x55cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55cf
+*A=D
+# Set 0x55d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55d0
+*A=D
+# Set 0x55d1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55d1
+*A=D
+# Set 0x55d2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55d2
+*A=D
+# Set 0x55d3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55d3
+*A=D
+# Set 0x55d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55d4
+*A=D
+# Set 0x55d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55d5
+*A=D
+# Set 0x55d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55d6
+*A=D
+# Set 0x55d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55d7
+*A=D
+# Set 0x55d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55d8
+*A=D
+# Set 0x55d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55d9
+*A=D
+# Set 0x55da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55da
+*A=D
+# Set 0x55db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55db
+*A=D
+# Set 0x55dc to 65533
+A=0x7fff
+D=A
+A=0x7ffe
+D=D+A
+A=0x55dc
+*A=D
+# Set 0x55dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55dd
+*A=D
+# Set 0x55de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55de
+*A=D
+# Set 0x55df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55df
+*A=D
+# Set 0x55e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55e0
+*A=D
+# Set 0x55e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55e1
+*A=D
+# Set 0x55e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55e2
+*A=D
+# Set 0x55e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55e3
+*A=D
+# Set 0x55e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55e4
+*A=D
+# Set 0x55e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55e5
+*A=D
+# Set 0x55e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55e6
+*A=D
+# Set 0x55e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55e7
+*A=D
+# Set 0x55e8 to 1241
+A=0x4d9
+D=A
+A=0x55e8
+*A=D
+# Set 0x55e9 to 40959
+A=0x7fff
+D=A
+A=0x2000
+D=D+A
+A=0x55e9
+*A=D
+# Set 0x55ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55ea
+*A=D
+# Set 0x55eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55eb
+*A=D
+# Set 0x55ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55ec
+*A=D
+# Set 0x55ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55ed
+*A=D
+# Set 0x55ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55ee
+*A=D
+# Set 0x55ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55ef
+*A=D
+# Set 0x55f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55f0
+*A=D
+# Set 0x55f1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55f1
+*A=D
+# Set 0x55f2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55f2
+*A=D
+# Set 0x55f3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55f3
+*A=D
+# Set 0x55f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55f4
+*A=D
+# Set 0x55f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55f5
+*A=D
+# Set 0x55f6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55f6
+*A=D
+# Set 0x55f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55f7
+*A=D
+# Set 0x55f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55f8
+*A=D
+# Set 0x55f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55f9
+*A=D
+# Set 0x55fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55fa
+*A=D
+# Set 0x55fb to 65533
+A=0x7fff
+D=A
+A=0x7ffe
+D=D+A
+A=0x55fb
+*A=D
+# Set 0x55fc to 56253
+A=0x7fff
+D=A
+A=0x5bbe
+D=D+A
+A=0x55fc
+*A=D
+# Set 0x55fd to 51455
+A=0x7fff
+D=A
+A=0x4900
+D=D+A
+A=0x55fd
+*A=D
+# Set 0x55fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55fe
+*A=D
+# Set 0x55ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x55ff
+*A=D
+# Set 0x5600 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5600
+*A=D
+# Set 0x5601 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5601
+*A=D
+# Set 0x5602 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5602
+*A=D
+# Set 0x5603 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5603
+*A=D
+# Set 0x5604 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5604
+*A=D
+# Set 0x5605 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5605
+*A=D
+# Set 0x5606 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5606
+*A=D
+# Set 0x5607 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5607
+*A=D
+# Set 0x5608 to 3291
+A=0xcdb
+D=A
+A=0x5608
+*A=D
+# Set 0x5609 to 40959
+A=0x7fff
+D=A
+A=0x2000
+D=D+A
+A=0x5609
+*A=D
+# Set 0x560a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x560a
+*A=D
+# Set 0x560b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x560b
+*A=D
+# Set 0x560c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x560c
+*A=D
+# Set 0x560d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x560d
+*A=D
+# Set 0x560e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x560e
+*A=D
+# Set 0x560f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x560f
+*A=D
+# Set 0x5610 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5610
+*A=D
+# Set 0x5611 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5611
+*A=D
+# Set 0x5612 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5612
+*A=D
+# Set 0x5613 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5613
+*A=D
+# Set 0x5614 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5614
+*A=D
+# Set 0x5615 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5615
+*A=D
+# Set 0x5616 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5616
+*A=D
+# Set 0x5617 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5617
+*A=D
+# Set 0x5618 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5618
+*A=D
+# Set 0x5619 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5619
+*A=D
+# Set 0x561a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x561a
+*A=D
+# Set 0x561b to 63037
+A=0x7fff
+D=A
+A=0x763e
+D=D+A
+A=0x561b
+*A=D
+# Set 0x561c to 39705
+A=0x7fff
+D=A
+A=0x1b1a
+D=D+A
+A=0x561c
+*A=D
+# Set 0x561d to 43775
+A=0x7fff
+D=A
+A=0x2b00
+D=D+A
+A=0x561d
+*A=D
+# Set 0x561e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x561e
+*A=D
+# Set 0x561f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x561f
+*A=D
+# Set 0x5620 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5620
+*A=D
+# Set 0x5621 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5621
+*A=D
+# Set 0x5622 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5622
+*A=D
+# Set 0x5623 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5623
+*A=D
+# Set 0x5624 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5624
+*A=D
+# Set 0x5625 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5625
+*A=D
+# Set 0x5626 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5626
+*A=D
+# Set 0x5627 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5627
+*A=D
+# Set 0x5628 to 34521
+A=0x7fff
+D=A
+A=0x6da
+D=D+A
+A=0x5628
+*A=D
+# Set 0x5629 to 16383
+A=0x3fff
+D=A
+A=0x5629
+*A=D
+# Set 0x562a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x562a
+*A=D
+# Set 0x562b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x562b
+*A=D
+# Set 0x562c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x562c
+*A=D
+# Set 0x562d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x562d
+*A=D
+# Set 0x562e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x562e
+*A=D
+# Set 0x562f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x562f
+*A=D
+# Set 0x5630 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5630
+*A=D
+# Set 0x5631 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5631
+*A=D
+# Set 0x5632 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5632
+*A=D
+# Set 0x5633 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5633
+*A=D
+# Set 0x5634 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5634
+*A=D
+# Set 0x5635 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5635
+*A=D
+# Set 0x5636 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5636
+*A=D
+# Set 0x5637 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5637
+*A=D
+# Set 0x5638 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5638
+*A=D
+# Set 0x5639 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5639
+*A=D
+# Set 0x563a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x563a
+*A=D
+# Set 0x563b to 58161
+A=0x7fff
+D=A
+A=0x6332
+D=D+A
+A=0x563b
+*A=D
+# Set 0x563c to 7101
+A=0x1bbd
+D=A
+A=0x563c
+*A=D
+# Set 0x563d to 41727
+A=0x7fff
+D=A
+A=0x2300
+D=D+A
+A=0x563d
+*A=D
+# Set 0x563e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x563e
+*A=D
+# Set 0x563f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x563f
+*A=D
+# Set 0x5640 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5640
+*A=D
+# Set 0x5641 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5641
+*A=D
+# Set 0x5642 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5642
+*A=D
+# Set 0x5643 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5643
+*A=D
+# Set 0x5644 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5644
+*A=D
+# Set 0x5645 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5645
+*A=D
+# Set 0x5646 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5646
+*A=D
+# Set 0x5647 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5647
+*A=D
+# Set 0x5648 to 1536
+A=0x600
+D=A
+A=0x5648
+*A=D
+# Set 0x5649 to 32767
+A=0x7fff
+D=A
+A=0x5649
+*A=D
+# Set 0x564a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x564a
+*A=D
+# Set 0x564b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x564b
+*A=D
+# Set 0x564c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x564c
+*A=D
+# Set 0x564d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x564d
+*A=D
+# Set 0x564e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x564e
+*A=D
+# Set 0x564f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x564f
+*A=D
+# Set 0x5650 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5650
+*A=D
+# Set 0x5651 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5651
+*A=D
+# Set 0x5652 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5652
+*A=D
+# Set 0x5653 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5653
+*A=D
+# Set 0x5654 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5654
+*A=D
+# Set 0x5655 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5655
+*A=D
+# Set 0x5656 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5656
+*A=D
+# Set 0x5657 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5657
+*A=D
+# Set 0x5658 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5658
+*A=D
+# Set 0x5659 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5659
+*A=D
+# Set 0x565a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x565a
+*A=D
+# Set 0x565b to 57900
+A=0x7fff
+D=A
+A=0x622d
+D=D+A
+A=0x565b
+*A=D
+# Set 0x565c to 23485
+A=0x5bbd
+D=A
+A=0x565c
+*A=D
+# Set 0x565d to 35455
+A=0x7fff
+D=A
+A=0xa80
+D=D+A
+A=0x565d
+*A=D
+# Set 0x565e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x565e
+*A=D
+# Set 0x565f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x565f
+*A=D
+# Set 0x5660 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5660
+*A=D
+# Set 0x5661 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5661
+*A=D
+# Set 0x5662 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5662
+*A=D
+# Set 0x5663 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5663
+*A=D
+# Set 0x5664 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5664
+*A=D
+# Set 0x5665 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5665
+*A=D
+# Set 0x5666 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5666
+*A=D
+# Set 0x5667 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5667
+*A=D
+# Set 0x5668 to 4095
+A=0xfff
+D=A
+A=0x5668
+*A=D
+# Set 0x5669 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5669
+*A=D
+# Set 0x566a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x566a
+*A=D
+# Set 0x566b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x566b
+*A=D
+# Set 0x566c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x566c
+*A=D
+# Set 0x566d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x566d
+*A=D
+# Set 0x566e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x566e
+*A=D
+# Set 0x566f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x566f
+*A=D
+# Set 0x5670 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5670
+*A=D
+# Set 0x5671 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5671
+*A=D
+# Set 0x5672 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5672
+*A=D
+# Set 0x5673 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5673
+*A=D
+# Set 0x5674 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5674
+*A=D
+# Set 0x5675 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5675
+*A=D
+# Set 0x5676 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5676
+*A=D
+# Set 0x5677 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5677
+*A=D
+# Set 0x5678 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5678
+*A=D
+# Set 0x5679 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5679
+*A=D
+# Set 0x567a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x567a
+*A=D
+# Set 0x567b to 57869
+A=0x7fff
+D=A
+A=0x620e
+D=D+A
+A=0x567b
+*A=D
+# Set 0x567c to 392
+A=0x188
+D=A
+A=0x567c
+*A=D
+# Set 0x567d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x567d
+*A=D
+# Set 0x567e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x567e
+*A=D
+# Set 0x567f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x567f
+*A=D
+# Set 0x5680 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5680
+*A=D
+# Set 0x5681 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5681
+*A=D
+# Set 0x5682 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5682
+*A=D
+# Set 0x5683 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5683
+*A=D
+# Set 0x5684 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5684
+*A=D
+# Set 0x5685 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5685
+*A=D
+# Set 0x5686 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5686
+*A=D
+# Set 0x5687 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5687
+*A=D
+# Set 0x5688 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5688
+*A=D
+# Set 0x5689 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5689
+*A=D
+# Set 0x568a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x568a
+*A=D
+# Set 0x568b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x568b
+*A=D
+# Set 0x568c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x568c
+*A=D
+# Set 0x568d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x568d
+*A=D
+# Set 0x568e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x568e
+*A=D
+# Set 0x568f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x568f
+*A=D
+# Set 0x5690 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5690
+*A=D
+# Set 0x5691 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5691
+*A=D
+# Set 0x5692 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5692
+*A=D
+# Set 0x5693 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5693
+*A=D
+# Set 0x5694 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5694
+*A=D
+# Set 0x5695 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5695
+*A=D
+# Set 0x5696 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5696
+*A=D
+# Set 0x5697 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5697
+*A=D
+# Set 0x5698 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5698
+*A=D
+# Set 0x5699 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5699
+*A=D
+# Set 0x569a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x569a
+*A=D
+# Set 0x569b to 59025
+A=0x7fff
+D=A
+A=0x6692
+D=D+A
+A=0x569b
+*A=D
+# Set 0x569c to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x569c
+*A=D
+# Set 0x569d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x569d
+*A=D
+# Set 0x569e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x569e
+*A=D
+# Set 0x569f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x569f
+*A=D
+# Set 0x56a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56a0
+*A=D
+# Set 0x56a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56a1
+*A=D
+# Set 0x56a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56a2
+*A=D
+# Set 0x56a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56a3
+*A=D
+# Set 0x56a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56a4
+*A=D
+# Set 0x56a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56a5
+*A=D
+# Set 0x56a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56a6
+*A=D
+# Set 0x56a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56a7
+*A=D
+# Set 0x56a8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56a8
+*A=D
+# Set 0x56a9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56a9
+*A=D
+# Set 0x56aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56aa
+*A=D
+# Set 0x56ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56ab
+*A=D
+# Set 0x56ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56ac
+*A=D
+# Set 0x56ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56ad
+*A=D
+# Set 0x56ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56ae
+*A=D
+# Set 0x56af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56af
+*A=D
+# Set 0x56b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56b0
+*A=D
+# Set 0x56b1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56b1
+*A=D
+# Set 0x56b2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56b2
+*A=D
+# Set 0x56b3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56b3
+*A=D
+# Set 0x56b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56b4
+*A=D
+# Set 0x56b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56b5
+*A=D
+# Set 0x56b6 to 63487
+A=0x7fff
+D=A
+A=0x7800
+D=D+A
+A=0x56b6
+*A=D
+# Set 0x56b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56b7
+*A=D
+# Set 0x56b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56b8
+*A=D
+# Set 0x56b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56b9
+*A=D
+# Set 0x56ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56ba
+*A=D
+# Set 0x56bb to 59391
+A=0x7fff
+D=A
+A=0x6800
+D=D+A
+A=0x56bb
+*A=D
+# Set 0x56bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56bc
+*A=D
+# Set 0x56bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56bd
+*A=D
+# Set 0x56be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56be
+*A=D
+# Set 0x56bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56bf
+*A=D
+# Set 0x56c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56c0
+*A=D
+# Set 0x56c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56c1
+*A=D
+# Set 0x56c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56c2
+*A=D
+# Set 0x56c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56c3
+*A=D
+# Set 0x56c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56c4
+*A=D
+# Set 0x56c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56c5
+*A=D
+# Set 0x56c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56c6
+*A=D
+# Set 0x56c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56c7
+*A=D
+# Set 0x56c8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56c8
+*A=D
+# Set 0x56c9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56c9
+*A=D
+# Set 0x56ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56ca
+*A=D
+# Set 0x56cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56cb
+*A=D
+# Set 0x56cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56cc
+*A=D
+# Set 0x56cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56cd
+*A=D
+# Set 0x56ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56ce
+*A=D
+# Set 0x56cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56cf
+*A=D
+# Set 0x56d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56d0
+*A=D
+# Set 0x56d1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56d1
+*A=D
+# Set 0x56d2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56d2
+*A=D
+# Set 0x56d3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56d3
+*A=D
+# Set 0x56d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56d4
+*A=D
+# Set 0x56d5 to 62463
+A=0x7fff
+D=A
+A=0x7400
+D=D+A
+A=0x56d5
+*A=D
+# Set 0x56d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56d6
+*A=D
+# Set 0x56d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56d7
+*A=D
+# Set 0x56d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56d8
+*A=D
+# Set 0x56d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56d9
+*A=D
+# Set 0x56da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56da
+*A=D
+# Set 0x56db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56db
+*A=D
+# Set 0x56dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56dc
+*A=D
+# Set 0x56dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56dd
+*A=D
+# Set 0x56de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56de
+*A=D
+# Set 0x56df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56df
+*A=D
+# Set 0x56e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56e0
+*A=D
+# Set 0x56e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56e1
+*A=D
+# Set 0x56e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56e2
+*A=D
+# Set 0x56e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56e3
+*A=D
+# Set 0x56e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56e4
+*A=D
+# Set 0x56e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56e5
+*A=D
+# Set 0x56e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56e6
+*A=D
+# Set 0x56e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56e7
+*A=D
+# Set 0x56e8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56e8
+*A=D
+# Set 0x56e9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56e9
+*A=D
+# Set 0x56ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56ea
+*A=D
+# Set 0x56eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56eb
+*A=D
+# Set 0x56ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56ec
+*A=D
+# Set 0x56ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56ed
+*A=D
+# Set 0x56ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56ee
+*A=D
+# Set 0x56ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56ef
+*A=D
+# Set 0x56f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56f0
+*A=D
+# Set 0x56f1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56f1
+*A=D
+# Set 0x56f2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56f2
+*A=D
+# Set 0x56f3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56f3
+*A=D
+# Set 0x56f4 to 31231
+A=0x79ff
+D=A
+A=0x56f4
+*A=D
+# Set 0x56f5 to 62412
+A=0x7fff
+D=A
+A=0x73cd
+D=D+A
+A=0x56f5
+*A=D
+# Set 0x56f6 to 26623
+A=0x67ff
+D=A
+A=0x56f6
+*A=D
+# Set 0x56f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56f7
+*A=D
+# Set 0x56f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56f8
+*A=D
+# Set 0x56f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56f9
+*A=D
+# Set 0x56fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56fa
+*A=D
+# Set 0x56fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56fb
+*A=D
+# Set 0x56fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56fc
+*A=D
+# Set 0x56fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56fd
+*A=D
+# Set 0x56fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56fe
+*A=D
+# Set 0x56ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x56ff
+*A=D
+# Set 0x5700 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5700
+*A=D
+# Set 0x5701 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5701
+*A=D
+# Set 0x5702 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5702
+*A=D
+# Set 0x5703 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5703
+*A=D
+# Set 0x5704 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5704
+*A=D
+# Set 0x5705 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5705
+*A=D
+# Set 0x5706 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5706
+*A=D
+# Set 0x5707 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5707
+*A=D
+# Set 0x5708 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5708
+*A=D
+# Set 0x5709 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5709
+*A=D
+# Set 0x570a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x570a
+*A=D
+# Set 0x570b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x570b
+*A=D
+# Set 0x570c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x570c
+*A=D
+# Set 0x570d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x570d
+*A=D
+# Set 0x570e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x570e
+*A=D
+# Set 0x570f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x570f
+*A=D
+# Set 0x5710 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5710
+*A=D
+# Set 0x5711 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5711
+*A=D
+# Set 0x5712 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5712
+*A=D
+# Set 0x5713 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5713
+*A=D
+# Set 0x5714 to 6911
+A=0x1aff
+D=A
+A=0x5714
+*A=D
+# Set 0x5715 to 61828
+A=0x7fff
+D=A
+A=0x7185
+D=D+A
+A=0x5715
+*A=D
+# Set 0x5716 to 30719
+A=0x77ff
+D=A
+A=0x5716
+*A=D
+# Set 0x5717 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5717
+*A=D
+# Set 0x5718 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5718
+*A=D
+# Set 0x5719 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5719
+*A=D
+# Set 0x571a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x571a
+*A=D
+# Set 0x571b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x571b
+*A=D
+# Set 0x571c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x571c
+*A=D
+# Set 0x571d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x571d
+*A=D
+# Set 0x571e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x571e
+*A=D
+# Set 0x571f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x571f
+*A=D
+# Set 0x5720 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5720
+*A=D
+# Set 0x5721 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5721
+*A=D
+# Set 0x5722 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5722
+*A=D
+# Set 0x5723 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5723
+*A=D
+# Set 0x5724 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5724
+*A=D
+# Set 0x5725 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5725
+*A=D
+# Set 0x5726 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5726
+*A=D
+# Set 0x5727 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5727
+*A=D
+# Set 0x5728 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5728
+*A=D
+# Set 0x5729 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5729
+*A=D
+# Set 0x572a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x572a
+*A=D
+# Set 0x572b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x572b
+*A=D
+# Set 0x572c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x572c
+*A=D
+# Set 0x572d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x572d
+*A=D
+# Set 0x572e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x572e
+*A=D
+# Set 0x572f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x572f
+*A=D
+# Set 0x5730 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5730
+*A=D
+# Set 0x5731 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5731
+*A=D
+# Set 0x5732 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5732
+*A=D
+# Set 0x5733 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5733
+*A=D
+# Set 0x5734 to 64767
+A=0x7fff
+D=A
+A=0x7d00
+D=D+A
+A=0x5734
+*A=D
+# Set 0x5735 to 61700
+A=0x7fff
+D=A
+A=0x7105
+D=D+A
+A=0x5735
+*A=D
+# Set 0x5736 to 14335
+A=0x37ff
+D=A
+A=0x5736
+*A=D
+# Set 0x5737 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5737
+*A=D
+# Set 0x5738 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5738
+*A=D
+# Set 0x5739 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5739
+*A=D
+# Set 0x573a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x573a
+*A=D
+# Set 0x573b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x573b
+*A=D
+# Set 0x573c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x573c
+*A=D
+# Set 0x573d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x573d
+*A=D
+# Set 0x573e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x573e
+*A=D
+# Set 0x573f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x573f
+*A=D
+# Set 0x5740 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5740
+*A=D
+# Set 0x5741 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5741
+*A=D
+# Set 0x5742 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5742
+*A=D
+# Set 0x5743 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5743
+*A=D
+# Set 0x5744 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5744
+*A=D
+# Set 0x5745 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5745
+*A=D
+# Set 0x5746 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5746
+*A=D
+# Set 0x5747 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5747
+*A=D
+# Set 0x5748 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5748
+*A=D
+# Set 0x5749 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5749
+*A=D
+# Set 0x574a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x574a
+*A=D
+# Set 0x574b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x574b
+*A=D
+# Set 0x574c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x574c
+*A=D
+# Set 0x574d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x574d
+*A=D
+# Set 0x574e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x574e
+*A=D
+# Set 0x574f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x574f
+*A=D
+# Set 0x5750 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5750
+*A=D
+# Set 0x5751 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5751
+*A=D
+# Set 0x5752 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5752
+*A=D
+# Set 0x5753 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5753
+*A=D
+# Set 0x5754 to 7423
+A=0x1cff
+D=A
+A=0x5754
+*A=D
+# Set 0x5755 to 63796
+A=0x7fff
+D=A
+A=0x7935
+D=D+A
+A=0x5755
+*A=D
+# Set 0x5756 to 8703
+A=0x21ff
+D=A
+A=0x5756
+*A=D
+# Set 0x5757 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5757
+*A=D
+# Set 0x5758 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5758
+*A=D
+# Set 0x5759 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5759
+*A=D
+# Set 0x575a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x575a
+*A=D
+# Set 0x575b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x575b
+*A=D
+# Set 0x575c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x575c
+*A=D
+# Set 0x575d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x575d
+*A=D
+# Set 0x575e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x575e
+*A=D
+# Set 0x575f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x575f
+*A=D
+# Set 0x5760 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5760
+*A=D
+# Set 0x5761 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5761
+*A=D
+# Set 0x5762 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5762
+*A=D
+# Set 0x5763 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5763
+*A=D
+# Set 0x5764 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5764
+*A=D
+# Set 0x5765 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5765
+*A=D
+# Set 0x5766 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5766
+*A=D
+# Set 0x5767 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5767
+*A=D
+# Set 0x5768 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5768
+*A=D
+# Set 0x5769 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5769
+*A=D
+# Set 0x576a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x576a
+*A=D
+# Set 0x576b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x576b
+*A=D
+# Set 0x576c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x576c
+*A=D
+# Set 0x576d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x576d
+*A=D
+# Set 0x576e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x576e
+*A=D
+# Set 0x576f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x576f
+*A=D
+# Set 0x5770 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5770
+*A=D
+# Set 0x5771 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5771
+*A=D
+# Set 0x5772 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5772
+*A=D
+# Set 0x5773 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5773
+*A=D
+# Set 0x5774 to 57039
+A=0x7fff
+D=A
+A=0x5ed0
+D=D+A
+A=0x5774
+*A=D
+# Set 0x5775 to 63886
+A=0x7fff
+D=A
+A=0x798f
+D=D+A
+A=0x5775
+*A=D
+# Set 0x5776 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5776
+*A=D
+# Set 0x5777 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5777
+*A=D
+# Set 0x5778 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5778
+*A=D
+# Set 0x5779 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5779
+*A=D
+# Set 0x577a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x577a
+*A=D
+# Set 0x577b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x577b
+*A=D
+# Set 0x577c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x577c
+*A=D
+# Set 0x577d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x577d
+*A=D
+# Set 0x577e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x577e
+*A=D
+# Set 0x577f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x577f
+*A=D
+# Set 0x5780 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5780
+*A=D
+# Set 0x5781 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5781
+*A=D
+# Set 0x5782 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5782
+*A=D
+# Set 0x5783 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5783
+*A=D
+# Set 0x5784 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5784
+*A=D
+# Set 0x5785 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5785
+*A=D
+# Set 0x5786 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5786
+*A=D
+# Set 0x5787 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5787
+*A=D
+# Set 0x5788 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5788
+*A=D
+# Set 0x5789 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5789
+*A=D
+# Set 0x578a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x578a
+*A=D
+# Set 0x578b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x578b
+*A=D
+# Set 0x578c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x578c
+*A=D
+# Set 0x578d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x578d
+*A=D
+# Set 0x578e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x578e
+*A=D
+# Set 0x578f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x578f
+*A=D
+# Set 0x5790 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5790
+*A=D
+# Set 0x5791 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5791
+*A=D
+# Set 0x5792 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5792
+*A=D
+# Set 0x5793 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5793
+*A=D
+# Set 0x5794 to 4303
+A=0x10cf
+D=A
+A=0x5794
+*A=D
+# Set 0x5795 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5795
+*A=D
+# Set 0x5796 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5796
+*A=D
+# Set 0x5797 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5797
+*A=D
+# Set 0x5798 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5798
+*A=D
+# Set 0x5799 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5799
+*A=D
+# Set 0x579a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x579a
+*A=D
+# Set 0x579b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x579b
+*A=D
+# Set 0x579c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x579c
+*A=D
+# Set 0x579d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x579d
+*A=D
+# Set 0x579e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x579e
+*A=D
+# Set 0x579f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x579f
+*A=D
+# Set 0x57a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57a0
+*A=D
+# Set 0x57a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57a1
+*A=D
+# Set 0x57a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57a2
+*A=D
+# Set 0x57a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57a3
+*A=D
+# Set 0x57a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57a4
+*A=D
+# Set 0x57a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57a5
+*A=D
+# Set 0x57a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57a6
+*A=D
+# Set 0x57a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57a7
+*A=D
+# Set 0x57a8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57a8
+*A=D
+# Set 0x57a9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57a9
+*A=D
+# Set 0x57aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57aa
+*A=D
+# Set 0x57ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57ab
+*A=D
+# Set 0x57ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57ac
+*A=D
+# Set 0x57ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57ad
+*A=D
+# Set 0x57ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57ae
+*A=D
+# Set 0x57af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57af
+*A=D
+# Set 0x57b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57b0
+*A=D
+# Set 0x57b1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57b1
+*A=D
+# Set 0x57b2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57b2
+*A=D
+# Set 0x57b3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57b3
+*A=D
+# Set 0x57b4 to 16351
+A=0x3fdf
+D=A
+A=0x57b4
+*A=D
+# Set 0x57b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57b5
+*A=D
+# Set 0x57b6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57b6
+*A=D
+# Set 0x57b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57b7
+*A=D
+# Set 0x57b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57b8
+*A=D
+# Set 0x57b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57b9
+*A=D
+# Set 0x57ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57ba
+*A=D
+# Set 0x57bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57bb
+*A=D
+# Set 0x57bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57bc
+*A=D
+# Set 0x57bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57bd
+*A=D
+# Set 0x57be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57be
+*A=D
+# Set 0x57bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57bf
+*A=D
+# Set 0x57c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57c0
+*A=D
+# Set 0x57c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57c1
+*A=D
+# Set 0x57c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57c2
+*A=D
+# Set 0x57c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57c3
+*A=D
+# Set 0x57c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57c4
+*A=D
+# Set 0x57c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57c5
+*A=D
+# Set 0x57c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57c6
+*A=D
+# Set 0x57c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57c7
+*A=D
+# Set 0x57c8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57c8
+*A=D
+# Set 0x57c9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57c9
+*A=D
+# Set 0x57ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57ca
+*A=D
+# Set 0x57cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57cb
+*A=D
+# Set 0x57cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57cc
+*A=D
+# Set 0x57cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57cd
+*A=D
+# Set 0x57ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57ce
+*A=D
+# Set 0x57cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57cf
+*A=D
+# Set 0x57d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57d0
+*A=D
+# Set 0x57d1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57d1
+*A=D
+# Set 0x57d2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57d2
+*A=D
+# Set 0x57d3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57d3
+*A=D
+# Set 0x57d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57d4
+*A=D
+# Set 0x57d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57d5
+*A=D
+# Set 0x57d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57d6
+*A=D
+# Set 0x57d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57d7
+*A=D
+# Set 0x57d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57d8
+*A=D
+# Set 0x57d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57d9
+*A=D
+# Set 0x57da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57da
+*A=D
+# Set 0x57db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57db
+*A=D
+# Set 0x57dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57dc
+*A=D
+# Set 0x57dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57dd
+*A=D
+# Set 0x57de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57de
+*A=D
+# Set 0x57df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57df
+*A=D
+# Set 0x57e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57e0
+*A=D
+# Set 0x57e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57e1
+*A=D
+# Set 0x57e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57e2
+*A=D
+# Set 0x57e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57e3
+*A=D
+# Set 0x57e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57e4
+*A=D
+# Set 0x57e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57e5
+*A=D
+# Set 0x57e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57e6
+*A=D
+# Set 0x57e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57e7
+*A=D
+# Set 0x57e8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57e8
+*A=D
+# Set 0x57e9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57e9
+*A=D
+# Set 0x57ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57ea
+*A=D
+# Set 0x57eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57eb
+*A=D
+# Set 0x57ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57ec
+*A=D
+# Set 0x57ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57ed
+*A=D
+# Set 0x57ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57ee
+*A=D
+# Set 0x57ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57ef
+*A=D
+# Set 0x57f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57f0
+*A=D
+# Set 0x57f1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57f1
+*A=D
+# Set 0x57f2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57f2
+*A=D
+# Set 0x57f3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57f3
+*A=D
+# Set 0x57f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57f4
+*A=D
+# Set 0x57f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57f5
+*A=D
+# Set 0x57f6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57f6
+*A=D
+# Set 0x57f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57f7
+*A=D
+# Set 0x57f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57f8
+*A=D
+# Set 0x57f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57f9
+*A=D
+# Set 0x57fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57fa
+*A=D
+# Set 0x57fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57fb
+*A=D
+# Set 0x57fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57fc
+*A=D
+# Set 0x57fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57fd
+*A=D
+# Set 0x57fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57fe
+*A=D
+# Set 0x57ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x57ff
+*A=D
+# Set 0x5800 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5800
+*A=D
+# Set 0x5801 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5801
+*A=D
+# Set 0x5802 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5802
+*A=D
+# Set 0x5803 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5803
+*A=D
+# Set 0x5804 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5804
+*A=D
+# Set 0x5805 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5805
+*A=D
+# Set 0x5806 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5806
+*A=D
+# Set 0x5807 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5807
+*A=D
+# Set 0x5808 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5808
+*A=D
+# Set 0x5809 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5809
+*A=D
+# Set 0x580a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x580a
+*A=D
+# Set 0x580b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x580b
+*A=D
+# Set 0x580c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x580c
+*A=D
+# Set 0x580d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x580d
+*A=D
+# Set 0x580e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x580e
+*A=D
+# Set 0x580f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x580f
+*A=D
+# Set 0x5810 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5810
+*A=D
+# Set 0x5811 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5811
+*A=D
+# Set 0x5812 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5812
+*A=D
+# Set 0x5813 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5813
+*A=D
+# Set 0x5814 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5814
+*A=D
+# Set 0x5815 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5815
+*A=D
+# Set 0x5816 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5816
+*A=D
+# Set 0x5817 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5817
+*A=D
+# Set 0x5818 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5818
+*A=D
+# Set 0x5819 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5819
+*A=D
+# Set 0x581a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x581a
+*A=D
+# Set 0x581b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x581b
+*A=D
+# Set 0x581c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x581c
+*A=D
+# Set 0x581d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x581d
+*A=D
+# Set 0x581e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x581e
+*A=D
+# Set 0x581f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x581f
+*A=D
+# Set 0x5820 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5820
+*A=D
+# Set 0x5821 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5821
+*A=D
+# Set 0x5822 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5822
+*A=D
+# Set 0x5823 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5823
+*A=D
+# Set 0x5824 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5824
+*A=D
+# Set 0x5825 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5825
+*A=D
+# Set 0x5826 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5826
+*A=D
+# Set 0x5827 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5827
+*A=D
+# Set 0x5828 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5828
+*A=D
+# Set 0x5829 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5829
+*A=D
+# Set 0x582a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x582a
+*A=D
+# Set 0x582b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x582b
+*A=D
+# Set 0x582c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x582c
+*A=D
+# Set 0x582d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x582d
+*A=D
+# Set 0x582e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x582e
+*A=D
+# Set 0x582f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x582f
+*A=D
+# Set 0x5830 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5830
+*A=D
+# Set 0x5831 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5831
+*A=D
+# Set 0x5832 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5832
+*A=D
+# Set 0x5833 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5833
+*A=D
+# Set 0x5834 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5834
+*A=D
+# Set 0x5835 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5835
+*A=D
+# Set 0x5836 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5836
+*A=D
+# Set 0x5837 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5837
+*A=D
+# Set 0x5838 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5838
+*A=D
+# Set 0x5839 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5839
+*A=D
+# Set 0x583a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x583a
+*A=D
+# Set 0x583b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x583b
+*A=D
+# Set 0x583c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x583c
+*A=D
+# Set 0x583d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x583d
+*A=D
+# Set 0x583e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x583e
+*A=D
+# Set 0x583f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x583f
+*A=D
+# Set 0x5840 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5840
+*A=D
+# Set 0x5841 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5841
+*A=D
+# Set 0x5842 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5842
+*A=D
+# Set 0x5843 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5843
+*A=D
+# Set 0x5844 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5844
+*A=D
+# Set 0x5845 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5845
+*A=D
+# Set 0x5846 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5846
+*A=D
+# Set 0x5847 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5847
+*A=D
+# Set 0x5848 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5848
+*A=D
+# Set 0x5849 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5849
+*A=D
+# Set 0x584a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x584a
+*A=D
+# Set 0x584b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x584b
+*A=D
+# Set 0x584c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x584c
+*A=D
+# Set 0x584d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x584d
+*A=D
+# Set 0x584e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x584e
+*A=D
+# Set 0x584f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x584f
+*A=D
+# Set 0x5850 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5850
+*A=D
+# Set 0x5851 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5851
+*A=D
+# Set 0x5852 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5852
+*A=D
+# Set 0x5853 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5853
+*A=D
+# Set 0x5854 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5854
+*A=D
+# Set 0x5855 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5855
+*A=D
+# Set 0x5856 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5856
+*A=D
+# Set 0x5857 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5857
+*A=D
+# Set 0x5858 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5858
+*A=D
+# Set 0x5859 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5859
+*A=D
+# Set 0x585a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x585a
+*A=D
+# Set 0x585b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x585b
+*A=D
+# Set 0x585c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x585c
+*A=D
+# Set 0x585d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x585d
+*A=D
+# Set 0x585e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x585e
+*A=D
+# Set 0x585f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x585f
+*A=D
+# Set 0x5860 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5860
+*A=D
+# Set 0x5861 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5861
+*A=D
+# Set 0x5862 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5862
+*A=D
+# Set 0x5863 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5863
+*A=D
+# Set 0x5864 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5864
+*A=D
+# Set 0x5865 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5865
+*A=D
+# Set 0x5866 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5866
+*A=D
+# Set 0x5867 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5867
+*A=D
+# Set 0x5868 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5868
+*A=D
+# Set 0x5869 to 16383
+A=0x3fff
+D=A
+A=0x5869
+*A=D
+# Set 0x586a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x586a
+*A=D
+# Set 0x586b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x586b
+*A=D
+# Set 0x586c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x586c
+*A=D
+# Set 0x586d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x586d
+*A=D
+# Set 0x586e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x586e
+*A=D
+# Set 0x586f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x586f
+*A=D
+# Set 0x5870 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5870
+*A=D
+# Set 0x5871 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5871
+*A=D
+# Set 0x5872 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5872
+*A=D
+# Set 0x5873 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5873
+*A=D
+# Set 0x5874 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5874
+*A=D
+# Set 0x5875 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5875
+*A=D
+# Set 0x5876 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5876
+*A=D
+# Set 0x5877 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5877
+*A=D
+# Set 0x5878 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5878
+*A=D
+# Set 0x5879 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5879
+*A=D
+# Set 0x587a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x587a
+*A=D
+# Set 0x587b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x587b
+*A=D
+# Set 0x587c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x587c
+*A=D
+# Set 0x587d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x587d
+*A=D
+# Set 0x587e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x587e
+*A=D
+# Set 0x587f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x587f
+*A=D
+# Set 0x5880 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5880
+*A=D
+# Set 0x5881 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5881
+*A=D
+# Set 0x5882 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5882
+*A=D
+# Set 0x5883 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5883
+*A=D
+# Set 0x5884 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5884
+*A=D
+# Set 0x5885 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5885
+*A=D
+# Set 0x5886 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5886
+*A=D
+# Set 0x5887 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5887
+*A=D
+# Set 0x5888 to 65487
+A=0x7fff
+D=A
+A=0x7fd0
+D=D+A
+A=0x5888
+*A=D
+# Set 0x5889 to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x5889
+*A=D
+# Set 0x588a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x588a
+*A=D
+# Set 0x588b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x588b
+*A=D
+# Set 0x588c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x588c
+*A=D
+# Set 0x588d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x588d
+*A=D
+# Set 0x588e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x588e
+*A=D
+# Set 0x588f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x588f
+*A=D
+# Set 0x5890 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5890
+*A=D
+# Set 0x5891 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5891
+*A=D
+# Set 0x5892 to 65487
+A=0x7fff
+D=A
+A=0x7fd0
+D=D+A
+A=0x5892
+*A=D
+# Set 0x5893 to 63699
+A=0x7fff
+D=A
+A=0x78d4
+D=D+A
+A=0x5893
+*A=D
+# Set 0x5894 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5894
+*A=D
+# Set 0x5895 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5895
+*A=D
+# Set 0x5896 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5896
+*A=D
+# Set 0x5897 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5897
+*A=D
+# Set 0x5898 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5898
+*A=D
+# Set 0x5899 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5899
+*A=D
+# Set 0x589a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x589a
+*A=D
+# Set 0x589b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x589b
+*A=D
+# Set 0x589c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x589c
+*A=D
+# Set 0x589d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x589d
+*A=D
+# Set 0x589e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x589e
+*A=D
+# Set 0x589f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x589f
+*A=D
+# Set 0x58a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58a0
+*A=D
+# Set 0x58a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58a1
+*A=D
+# Set 0x58a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58a2
+*A=D
+# Set 0x58a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58a3
+*A=D
+# Set 0x58a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58a4
+*A=D
+# Set 0x58a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58a5
+*A=D
+# Set 0x58a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58a6
+*A=D
+# Set 0x58a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58a7
+*A=D
+# Set 0x58a8 to 65484
+A=0x7fff
+D=A
+A=0x7fcd
+D=D+A
+A=0x58a8
+*A=D
+# Set 0x58a9 to 16383
+A=0x3fff
+D=A
+A=0x58a9
+*A=D
+# Set 0x58aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58aa
+*A=D
+# Set 0x58ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58ab
+*A=D
+# Set 0x58ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58ac
+*A=D
+# Set 0x58ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58ad
+*A=D
+# Set 0x58ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58ae
+*A=D
+# Set 0x58af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58af
+*A=D
+# Set 0x58b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58b0
+*A=D
+# Set 0x58b1 to 63943
+A=0x7fff
+D=A
+A=0x79c8
+D=D+A
+A=0x58b1
+*A=D
+# Set 0x58b2 to 65478
+A=0x7fff
+D=A
+A=0x7fc7
+D=D+A
+A=0x58b2
+*A=D
+# Set 0x58b3 to 6343
+A=0x18c7
+D=A
+A=0x58b3
+*A=D
+# Set 0x58b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58b4
+*A=D
+# Set 0x58b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58b5
+*A=D
+# Set 0x58b6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58b6
+*A=D
+# Set 0x58b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58b7
+*A=D
+# Set 0x58b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58b8
+*A=D
+# Set 0x58b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58b9
+*A=D
+# Set 0x58ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58ba
+*A=D
+# Set 0x58bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58bb
+*A=D
+# Set 0x58bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58bc
+*A=D
+# Set 0x58bd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58bd
+*A=D
+# Set 0x58be to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58be
+*A=D
+# Set 0x58bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58bf
+*A=D
+# Set 0x58c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58c0
+*A=D
+# Set 0x58c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58c1
+*A=D
+# Set 0x58c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58c2
+*A=D
+# Set 0x58c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58c3
+*A=D
+# Set 0x58c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58c4
+*A=D
+# Set 0x58c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58c5
+*A=D
+# Set 0x58c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58c6
+*A=D
+# Set 0x58c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58c7
+*A=D
+# Set 0x58c8 to 3593
+A=0xe09
+D=A
+A=0x58c8
+*A=D
+# Set 0x58c9 to 16383
+A=0x3fff
+D=A
+A=0x58c9
+*A=D
+# Set 0x58ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58ca
+*A=D
+# Set 0x58cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58cb
+*A=D
+# Set 0x58cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58cc
+*A=D
+# Set 0x58cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58cd
+*A=D
+# Set 0x58ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58ce
+*A=D
+# Set 0x58cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58cf
+*A=D
+# Set 0x58d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58d0
+*A=D
+# Set 0x58d1 to 61943
+A=0x7fff
+D=A
+A=0x71f8
+D=D+A
+A=0x58d1
+*A=D
+# Set 0x58d2 to 65478
+A=0x7fff
+D=A
+A=0x7fc7
+D=D+A
+A=0x58d2
+*A=D
+# Set 0x58d3 to 4295
+A=0x10c7
+D=A
+A=0x58d3
+*A=D
+# Set 0x58d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58d4
+*A=D
+# Set 0x58d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58d5
+*A=D
+# Set 0x58d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58d6
+*A=D
+# Set 0x58d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58d7
+*A=D
+# Set 0x58d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58d8
+*A=D
+# Set 0x58d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58d9
+*A=D
+# Set 0x58da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58da
+*A=D
+# Set 0x58db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58db
+*A=D
+# Set 0x58dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58dc
+*A=D
+# Set 0x58dd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58dd
+*A=D
+# Set 0x58de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58de
+*A=D
+# Set 0x58df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58df
+*A=D
+# Set 0x58e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58e0
+*A=D
+# Set 0x58e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58e1
+*A=D
+# Set 0x58e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58e2
+*A=D
+# Set 0x58e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58e3
+*A=D
+# Set 0x58e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58e4
+*A=D
+# Set 0x58e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58e5
+*A=D
+# Set 0x58e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58e6
+*A=D
+# Set 0x58e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58e7
+*A=D
+# Set 0x58e8 to 11467
+A=0x2ccb
+D=A
+A=0x58e8
+*A=D
+# Set 0x58e9 to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x58e9
+*A=D
+# Set 0x58ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58ea
+*A=D
+# Set 0x58eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58eb
+*A=D
+# Set 0x58ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58ec
+*A=D
+# Set 0x58ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58ed
+*A=D
+# Set 0x58ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58ee
+*A=D
+# Set 0x58ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58ef
+*A=D
+# Set 0x58f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58f0
+*A=D
+# Set 0x58f1 to 62439
+A=0x7fff
+D=A
+A=0x73e8
+D=D+A
+A=0x58f1
+*A=D
+# Set 0x58f2 to 65510
+A=0x7fff
+D=A
+A=0x7fe7
+D=D+A
+A=0x58f2
+*A=D
+# Set 0x58f3 to 62675
+A=0x7fff
+D=A
+A=0x74d4
+D=D+A
+A=0x58f3
+*A=D
+# Set 0x58f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58f4
+*A=D
+# Set 0x58f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58f5
+*A=D
+# Set 0x58f6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58f6
+*A=D
+# Set 0x58f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58f7
+*A=D
+# Set 0x58f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58f8
+*A=D
+# Set 0x58f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58f9
+*A=D
+# Set 0x58fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58fa
+*A=D
+# Set 0x58fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58fb
+*A=D
+# Set 0x58fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58fc
+*A=D
+# Set 0x58fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58fd
+*A=D
+# Set 0x58fe to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x58fe
+*A=D
+# Set 0x58ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x58ff
+*A=D
+# Set 0x5900 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5900
+*A=D
+# Set 0x5901 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5901
+*A=D
+# Set 0x5902 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5902
+*A=D
+# Set 0x5903 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5903
+*A=D
+# Set 0x5904 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5904
+*A=D
+# Set 0x5905 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5905
+*A=D
+# Set 0x5906 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5906
+*A=D
+# Set 0x5907 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5907
+*A=D
+# Set 0x5908 to 3531
+A=0xdcb
+D=A
+A=0x5908
+*A=D
+# Set 0x5909 to 16383
+A=0x3fff
+D=A
+A=0x5909
+*A=D
+# Set 0x590a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x590a
+*A=D
+# Set 0x590b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x590b
+*A=D
+# Set 0x590c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x590c
+*A=D
+# Set 0x590d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x590d
+*A=D
+# Set 0x590e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x590e
+*A=D
+# Set 0x590f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x590f
+*A=D
+# Set 0x5910 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5910
+*A=D
+# Set 0x5911 to 63735
+A=0x7fff
+D=A
+A=0x78f8
+D=D+A
+A=0x5911
+*A=D
+# Set 0x5912 to 65506
+A=0x7fff
+D=A
+A=0x7fe3
+D=D+A
+A=0x5912
+*A=D
+# Set 0x5913 to 4127
+A=0x101f
+D=A
+A=0x5913
+*A=D
+# Set 0x5914 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5914
+*A=D
+# Set 0x5915 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5915
+*A=D
+# Set 0x5916 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5916
+*A=D
+# Set 0x5917 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5917
+*A=D
+# Set 0x5918 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5918
+*A=D
+# Set 0x5919 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5919
+*A=D
+# Set 0x591a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x591a
+*A=D
+# Set 0x591b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x591b
+*A=D
+# Set 0x591c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x591c
+*A=D
+# Set 0x591d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x591d
+*A=D
+# Set 0x591e to 65278
+A=0x7fff
+D=A
+A=0x7eff
+D=D+A
+A=0x591e
+*A=D
+# Set 0x591f to 50303
+A=0x7fff
+D=A
+A=0x4480
+D=D+A
+A=0x591f
+*A=D
+# Set 0x5920 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5920
+*A=D
+# Set 0x5921 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5921
+*A=D
+# Set 0x5922 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5922
+*A=D
+# Set 0x5923 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5923
+*A=D
+# Set 0x5924 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5924
+*A=D
+# Set 0x5925 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5925
+*A=D
+# Set 0x5926 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5926
+*A=D
+# Set 0x5927 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5927
+*A=D
+# Set 0x5928 to 25608
+A=0x6408
+D=A
+A=0x5928
+*A=D
+# Set 0x5929 to 8191
+A=0x1fff
+D=A
+A=0x5929
+*A=D
+# Set 0x592a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x592a
+*A=D
+# Set 0x592b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x592b
+*A=D
+# Set 0x592c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x592c
+*A=D
+# Set 0x592d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x592d
+*A=D
+# Set 0x592e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x592e
+*A=D
+# Set 0x592f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x592f
+*A=D
+# Set 0x5930 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5930
+*A=D
+# Set 0x5931 to 62710
+A=0x7fff
+D=A
+A=0x74f7
+D=D+A
+A=0x5931
+*A=D
+# Set 0x5932 to 32759
+A=0x7ff7
+D=A
+A=0x5932
+*A=D
+# Set 0x5933 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5933
+*A=D
+# Set 0x5934 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5934
+*A=D
+# Set 0x5935 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5935
+*A=D
+# Set 0x5936 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5936
+*A=D
+# Set 0x5937 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5937
+*A=D
+# Set 0x5938 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5938
+*A=D
+# Set 0x5939 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5939
+*A=D
+# Set 0x593a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x593a
+*A=D
+# Set 0x593b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x593b
+*A=D
+# Set 0x593c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x593c
+*A=D
+# Set 0x593d to 65231
+A=0x7fff
+D=A
+A=0x7ed0
+D=D+A
+A=0x593d
+*A=D
+# Set 0x593e to 62662
+A=0x7fff
+D=A
+A=0x74c7
+D=D+A
+A=0x593e
+*A=D
+# Set 0x593f to 54655
+A=0x7fff
+D=A
+A=0x5580
+D=D+A
+A=0x593f
+*A=D
+# Set 0x5940 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5940
+*A=D
+# Set 0x5941 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5941
+*A=D
+# Set 0x5942 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5942
+*A=D
+# Set 0x5943 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5943
+*A=D
+# Set 0x5944 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5944
+*A=D
+# Set 0x5945 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5945
+*A=D
+# Set 0x5946 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5946
+*A=D
+# Set 0x5947 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5947
+*A=D
+# Set 0x5948 to 1583
+A=0x62f
+D=A
+A=0x5948
+*A=D
+# Set 0x5949 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5949
+*A=D
+# Set 0x594a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x594a
+*A=D
+# Set 0x594b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x594b
+*A=D
+# Set 0x594c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x594c
+*A=D
+# Set 0x594d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x594d
+*A=D
+# Set 0x594e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x594e
+*A=D
+# Set 0x594f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x594f
+*A=D
+# Set 0x5950 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5950
+*A=D
+# Set 0x5951 to 61830
+A=0x7fff
+D=A
+A=0x7187
+D=D+A
+A=0x5951
+*A=D
+# Set 0x5952 to 32767
+A=0x7fff
+D=A
+A=0x5952
+*A=D
+# Set 0x5953 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5953
+*A=D
+# Set 0x5954 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5954
+*A=D
+# Set 0x5955 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5955
+*A=D
+# Set 0x5956 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5956
+*A=D
+# Set 0x5957 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5957
+*A=D
+# Set 0x5958 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5958
+*A=D
+# Set 0x5959 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5959
+*A=D
+# Set 0x595a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x595a
+*A=D
+# Set 0x595b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x595b
+*A=D
+# Set 0x595c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x595c
+*A=D
+# Set 0x595d to 64708
+A=0x7fff
+D=A
+A=0x7cc5
+D=D+A
+A=0x595d
+*A=D
+# Set 0x595e to 38598
+A=0x7fff
+D=A
+A=0x16c7
+D=D+A
+A=0x595e
+*A=D
+# Set 0x595f to 54655
+A=0x7fff
+D=A
+A=0x5580
+D=D+A
+A=0x595f
+*A=D
+# Set 0x5960 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5960
+*A=D
+# Set 0x5961 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5961
+*A=D
+# Set 0x5962 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5962
+*A=D
+# Set 0x5963 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5963
+*A=D
+# Set 0x5964 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5964
+*A=D
+# Set 0x5965 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5965
+*A=D
+# Set 0x5966 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5966
+*A=D
+# Set 0x5967 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5967
+*A=D
+# Set 0x5968 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5968
+*A=D
+# Set 0x5969 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5969
+*A=D
+# Set 0x596a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x596a
+*A=D
+# Set 0x596b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x596b
+*A=D
+# Set 0x596c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x596c
+*A=D
+# Set 0x596d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x596d
+*A=D
+# Set 0x596e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x596e
+*A=D
+# Set 0x596f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x596f
+*A=D
+# Set 0x5970 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5970
+*A=D
+# Set 0x5971 to 64510
+A=0x7fff
+D=A
+A=0x7bff
+D=D+A
+A=0x5971
+*A=D
+# Set 0x5972 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5972
+*A=D
+# Set 0x5973 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5973
+*A=D
+# Set 0x5974 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5974
+*A=D
+# Set 0x5975 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5975
+*A=D
+# Set 0x5976 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5976
+*A=D
+# Set 0x5977 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5977
+*A=D
+# Set 0x5978 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5978
+*A=D
+# Set 0x5979 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5979
+*A=D
+# Set 0x597a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x597a
+*A=D
+# Set 0x597b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x597b
+*A=D
+# Set 0x597c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x597c
+*A=D
+# Set 0x597d to 63702
+A=0x7fff
+D=A
+A=0x78d7
+D=D+A
+A=0x597d
+*A=D
+# Set 0x597e to 50934
+A=0x7fff
+D=A
+A=0x46f7
+D=D+A
+A=0x597e
+*A=D
+# Set 0x597f to 17791
+A=0x457f
+D=A
+A=0x597f
+*A=D
+# Set 0x5980 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5980
+*A=D
+# Set 0x5981 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5981
+*A=D
+# Set 0x5982 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5982
+*A=D
+# Set 0x5983 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5983
+*A=D
+# Set 0x5984 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5984
+*A=D
+# Set 0x5985 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5985
+*A=D
+# Set 0x5986 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5986
+*A=D
+# Set 0x5987 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5987
+*A=D
+# Set 0x5988 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5988
+*A=D
+# Set 0x5989 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5989
+*A=D
+# Set 0x598a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x598a
+*A=D
+# Set 0x598b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x598b
+*A=D
+# Set 0x598c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x598c
+*A=D
+# Set 0x598d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x598d
+*A=D
+# Set 0x598e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x598e
+*A=D
+# Set 0x598f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x598f
+*A=D
+# Set 0x5990 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5990
+*A=D
+# Set 0x5991 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5991
+*A=D
+# Set 0x5992 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5992
+*A=D
+# Set 0x5993 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5993
+*A=D
+# Set 0x5994 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5994
+*A=D
+# Set 0x5995 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5995
+*A=D
+# Set 0x5996 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5996
+*A=D
+# Set 0x5997 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5997
+*A=D
+# Set 0x5998 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5998
+*A=D
+# Set 0x5999 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5999
+*A=D
+# Set 0x599a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x599a
+*A=D
+# Set 0x599b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x599b
+*A=D
+# Set 0x599c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x599c
+*A=D
+# Set 0x599d to 63702
+A=0x7fff
+D=A
+A=0x78d7
+D=D+A
+A=0x599d
+*A=D
+# Set 0x599e to 52300
+A=0x7fff
+D=A
+A=0x4c4d
+D=D+A
+A=0x599e
+*A=D
+# Set 0x599f to 32767
+A=0x7fff
+D=A
+A=0x599f
+*A=D
+# Set 0x59a0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59a0
+*A=D
+# Set 0x59a1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59a1
+*A=D
+# Set 0x59a2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59a2
+*A=D
+# Set 0x59a3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59a3
+*A=D
+# Set 0x59a4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59a4
+*A=D
+# Set 0x59a5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59a5
+*A=D
+# Set 0x59a6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59a6
+*A=D
+# Set 0x59a7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59a7
+*A=D
+# Set 0x59a8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59a8
+*A=D
+# Set 0x59a9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59a9
+*A=D
+# Set 0x59aa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59aa
+*A=D
+# Set 0x59ab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59ab
+*A=D
+# Set 0x59ac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59ac
+*A=D
+# Set 0x59ad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59ad
+*A=D
+# Set 0x59ae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59ae
+*A=D
+# Set 0x59af to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59af
+*A=D
+# Set 0x59b0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59b0
+*A=D
+# Set 0x59b1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59b1
+*A=D
+# Set 0x59b2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59b2
+*A=D
+# Set 0x59b3 to 65151
+A=0x7fff
+D=A
+A=0x7e80
+D=D+A
+A=0x59b3
+*A=D
+# Set 0x59b4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59b4
+*A=D
+# Set 0x59b5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59b5
+*A=D
+# Set 0x59b6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59b6
+*A=D
+# Set 0x59b7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59b7
+*A=D
+# Set 0x59b8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59b8
+*A=D
+# Set 0x59b9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59b9
+*A=D
+# Set 0x59ba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59ba
+*A=D
+# Set 0x59bb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59bb
+*A=D
+# Set 0x59bc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59bc
+*A=D
+# Set 0x59bd to 63684
+A=0x7fff
+D=A
+A=0x78c5
+D=D+A
+A=0x59bd
+*A=D
+# Set 0x59be to 28671
+A=0x6fff
+D=A
+A=0x59be
+*A=D
+# Set 0x59bf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59bf
+*A=D
+# Set 0x59c0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59c0
+*A=D
+# Set 0x59c1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59c1
+*A=D
+# Set 0x59c2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59c2
+*A=D
+# Set 0x59c3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59c3
+*A=D
+# Set 0x59c4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59c4
+*A=D
+# Set 0x59c5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59c5
+*A=D
+# Set 0x59c6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59c6
+*A=D
+# Set 0x59c7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59c7
+*A=D
+# Set 0x59c8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59c8
+*A=D
+# Set 0x59c9 to 64511
+A=0x7fff
+D=A
+A=0x7c00
+D=D+A
+A=0x59c9
+*A=D
+# Set 0x59ca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59ca
+*A=D
+# Set 0x59cb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59cb
+*A=D
+# Set 0x59cc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59cc
+*A=D
+# Set 0x59cd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59cd
+*A=D
+# Set 0x59ce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59ce
+*A=D
+# Set 0x59cf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59cf
+*A=D
+# Set 0x59d0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59d0
+*A=D
+# Set 0x59d1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59d1
+*A=D
+# Set 0x59d2 to 65487
+A=0x7fff
+D=A
+A=0x7fd0
+D=D+A
+A=0x59d2
+*A=D
+# Set 0x59d3 to 65107
+A=0x7fff
+D=A
+A=0x7e54
+D=D+A
+A=0x59d3
+*A=D
+# Set 0x59d4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59d4
+*A=D
+# Set 0x59d5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59d5
+*A=D
+# Set 0x59d6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59d6
+*A=D
+# Set 0x59d7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59d7
+*A=D
+# Set 0x59d8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59d8
+*A=D
+# Set 0x59d9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59d9
+*A=D
+# Set 0x59da to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59da
+*A=D
+# Set 0x59db to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59db
+*A=D
+# Set 0x59dc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59dc
+*A=D
+# Set 0x59dd to 64735
+A=0x7fff
+D=A
+A=0x7ce0
+D=D+A
+A=0x59dd
+*A=D
+# Set 0x59de to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59de
+*A=D
+# Set 0x59df to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59df
+*A=D
+# Set 0x59e0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59e0
+*A=D
+# Set 0x59e1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59e1
+*A=D
+# Set 0x59e2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59e2
+*A=D
+# Set 0x59e3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59e3
+*A=D
+# Set 0x59e4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59e4
+*A=D
+# Set 0x59e5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59e5
+*A=D
+# Set 0x59e6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59e6
+*A=D
+# Set 0x59e7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59e7
+*A=D
+# Set 0x59e8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59e8
+*A=D
+# Set 0x59e9 to 61951
+A=0x7fff
+D=A
+A=0x7200
+D=D+A
+A=0x59e9
+*A=D
+# Set 0x59ea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59ea
+*A=D
+# Set 0x59eb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59eb
+*A=D
+# Set 0x59ec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59ec
+*A=D
+# Set 0x59ed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59ed
+*A=D
+# Set 0x59ee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59ee
+*A=D
+# Set 0x59ef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59ef
+*A=D
+# Set 0x59f0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59f0
+*A=D
+# Set 0x59f1 to 65519
+A=0x7fff
+D=A
+A=0x7ff0
+D=D+A
+A=0x59f1
+*A=D
+# Set 0x59f2 to 65479
+A=0x7fff
+D=A
+A=0x7fc8
+D=D+A
+A=0x59f2
+*A=D
+# Set 0x59f3 to 4167
+A=0x1047
+D=A
+A=0x59f3
+*A=D
+# Set 0x59f4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59f4
+*A=D
+# Set 0x59f5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59f5
+*A=D
+# Set 0x59f6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59f6
+*A=D
+# Set 0x59f7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59f7
+*A=D
+# Set 0x59f8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59f8
+*A=D
+# Set 0x59f9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59f9
+*A=D
+# Set 0x59fa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59fa
+*A=D
+# Set 0x59fb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59fb
+*A=D
+# Set 0x59fc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59fc
+*A=D
+# Set 0x59fd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59fd
+*A=D
+# Set 0x59fe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59fe
+*A=D
+# Set 0x59ff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x59ff
+*A=D
+# Set 0x5a00 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a00
+*A=D
+# Set 0x5a01 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a01
+*A=D
+# Set 0x5a02 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a02
+*A=D
+# Set 0x5a03 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a03
+*A=D
+# Set 0x5a04 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a04
+*A=D
+# Set 0x5a05 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a05
+*A=D
+# Set 0x5a06 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a06
+*A=D
+# Set 0x5a07 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a07
+*A=D
+# Set 0x5a08 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a08
+*A=D
+# Set 0x5a09 to 65023
+A=0x7fff
+D=A
+A=0x7e00
+D=D+A
+A=0x5a09
+*A=D
+# Set 0x5a0a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a0a
+*A=D
+# Set 0x5a0b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a0b
+*A=D
+# Set 0x5a0c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a0c
+*A=D
+# Set 0x5a0d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a0d
+*A=D
+# Set 0x5a0e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a0e
+*A=D
+# Set 0x5a0f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a0f
+*A=D
+# Set 0x5a10 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a10
+*A=D
+# Set 0x5a11 to 61831
+A=0x7fff
+D=A
+A=0x7188
+D=D+A
+A=0x5a11
+*A=D
+# Set 0x5a12 to 65478
+A=0x7fff
+D=A
+A=0x7fc7
+D=D+A
+A=0x5a12
+*A=D
+# Set 0x5a13 to 5735
+A=0x1667
+D=A
+A=0x5a13
+*A=D
+# Set 0x5a14 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a14
+*A=D
+# Set 0x5a15 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a15
+*A=D
+# Set 0x5a16 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a16
+*A=D
+# Set 0x5a17 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a17
+*A=D
+# Set 0x5a18 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a18
+*A=D
+# Set 0x5a19 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a19
+*A=D
+# Set 0x5a1a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a1a
+*A=D
+# Set 0x5a1b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a1b
+*A=D
+# Set 0x5a1c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a1c
+*A=D
+# Set 0x5a1d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a1d
+*A=D
+# Set 0x5a1e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a1e
+*A=D
+# Set 0x5a1f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a1f
+*A=D
+# Set 0x5a20 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a20
+*A=D
+# Set 0x5a21 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a21
+*A=D
+# Set 0x5a22 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a22
+*A=D
+# Set 0x5a23 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a23
+*A=D
+# Set 0x5a24 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a24
+*A=D
+# Set 0x5a25 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a25
+*A=D
+# Set 0x5a26 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a26
+*A=D
+# Set 0x5a27 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a27
+*A=D
+# Set 0x5a28 to 65329
+A=0x7fff
+D=A
+A=0x7f32
+D=D+A
+A=0x5a28
+*A=D
+# Set 0x5a29 to 7679
+A=0x1dff
+D=A
+A=0x5a29
+*A=D
+# Set 0x5a2a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a2a
+*A=D
+# Set 0x5a2b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a2b
+*A=D
+# Set 0x5a2c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a2c
+*A=D
+# Set 0x5a2d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a2d
+*A=D
+# Set 0x5a2e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a2e
+*A=D
+# Set 0x5a2f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a2f
+*A=D
+# Set 0x5a30 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a30
+*A=D
+# Set 0x5a31 to 62903
+A=0x7fff
+D=A
+A=0x75b8
+D=D+A
+A=0x5a31
+*A=D
+# Set 0x5a32 to 65478
+A=0x7fff
+D=A
+A=0x7fc7
+D=D+A
+A=0x5a32
+*A=D
+# Set 0x5a33 to 5699
+A=0x1643
+D=A
+A=0x5a33
+*A=D
+# Set 0x5a34 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a34
+*A=D
+# Set 0x5a35 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a35
+*A=D
+# Set 0x5a36 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a36
+*A=D
+# Set 0x5a37 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a37
+*A=D
+# Set 0x5a38 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a38
+*A=D
+# Set 0x5a39 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a39
+*A=D
+# Set 0x5a3a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a3a
+*A=D
+# Set 0x5a3b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a3b
+*A=D
+# Set 0x5a3c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a3c
+*A=D
+# Set 0x5a3d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a3d
+*A=D
+# Set 0x5a3e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a3e
+*A=D
+# Set 0x5a3f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a3f
+*A=D
+# Set 0x5a40 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a40
+*A=D
+# Set 0x5a41 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a41
+*A=D
+# Set 0x5a42 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a42
+*A=D
+# Set 0x5a43 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a43
+*A=D
+# Set 0x5a44 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a44
+*A=D
+# Set 0x5a45 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a45
+*A=D
+# Set 0x5a46 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a46
+*A=D
+# Set 0x5a47 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5a47
+*A=D
+# Set 0x5a48 to 1545
+A=0x609
+D=A
+A=0x5a48
+*A=D
+# Set 0x5a49 to 15871
+A=0x3dff
+D=A
+A=0x5a49
+*A=D
+# Set 0x5a4a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a4a
+*A=D
+# Set 0x5a4b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a4b
+*A=D
+# Set 0x5a4c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a4c
+*A=D
+# Set 0x5a4d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a4d
+*A=D
+# Set 0x5a4e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a4e
+*A=D
+# Set 0x5a4f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a4f
+*A=D
+# Set 0x5a50 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a50
+*A=D
+# Set 0x5a51 to 61879
+A=0x7fff
+D=A
+A=0x71b8
+D=D+A
+A=0x5a51
+*A=D
+# Set 0x5a52 to 65514
+A=0x7fff
+D=A
+A=0x7feb
+D=D+A
+A=0x5a52
+*A=D
+# Set 0x5a53 to 4115
+A=0x1013
+D=A
+A=0x5a53
+*A=D
+# Set 0x5a54 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a54
+*A=D
+# Set 0x5a55 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a55
+*A=D
+# Set 0x5a56 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a56
+*A=D
+# Set 0x5a57 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a57
+*A=D
+# Set 0x5a58 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a58
+*A=D
+# Set 0x5a59 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a59
+*A=D
+# Set 0x5a5a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a5a
+*A=D
+# Set 0x5a5b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a5b
+*A=D
+# Set 0x5a5c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a5c
+*A=D
+# Set 0x5a5d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a5d
+*A=D
+# Set 0x5a5e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a5e
+*A=D
+# Set 0x5a5f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a5f
+*A=D
+# Set 0x5a60 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a60
+*A=D
+# Set 0x5a61 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a61
+*A=D
+# Set 0x5a62 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a62
+*A=D
+# Set 0x5a63 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a63
+*A=D
+# Set 0x5a64 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a64
+*A=D
+# Set 0x5a65 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a65
+*A=D
+# Set 0x5a66 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a66
+*A=D
+# Set 0x5a67 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5a67
+*A=D
+# Set 0x5a68 to 5581
+A=0x15cd
+D=A
+A=0x5a68
+*A=D
+# Set 0x5a69 to 32255
+A=0x7dff
+D=A
+A=0x5a69
+*A=D
+# Set 0x5a6a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a6a
+*A=D
+# Set 0x5a6b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a6b
+*A=D
+# Set 0x5a6c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a6c
+*A=D
+# Set 0x5a6d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a6d
+*A=D
+# Set 0x5a6e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a6e
+*A=D
+# Set 0x5a6f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a6f
+*A=D
+# Set 0x5a70 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a70
+*A=D
+# Set 0x5a71 to 64695
+A=0x7fff
+D=A
+A=0x7cb8
+D=D+A
+A=0x5a71
+*A=D
+# Set 0x5a72 to 32743
+A=0x7fe7
+D=A
+A=0x5a72
+*A=D
+# Set 0x5a73 to 16383
+A=0x3fff
+D=A
+A=0x5a73
+*A=D
+# Set 0x5a74 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a74
+*A=D
+# Set 0x5a75 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a75
+*A=D
+# Set 0x5a76 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a76
+*A=D
+# Set 0x5a77 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a77
+*A=D
+# Set 0x5a78 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a78
+*A=D
+# Set 0x5a79 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a79
+*A=D
+# Set 0x5a7a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a7a
+*A=D
+# Set 0x5a7b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a7b
+*A=D
+# Set 0x5a7c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a7c
+*A=D
+# Set 0x5a7d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a7d
+*A=D
+# Set 0x5a7e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a7e
+*A=D
+# Set 0x5a7f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a7f
+*A=D
+# Set 0x5a80 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a80
+*A=D
+# Set 0x5a81 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a81
+*A=D
+# Set 0x5a82 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a82
+*A=D
+# Set 0x5a83 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a83
+*A=D
+# Set 0x5a84 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a84
+*A=D
+# Set 0x5a85 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a85
+*A=D
+# Set 0x5a86 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a86
+*A=D
+# Set 0x5a87 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5a87
+*A=D
+# Set 0x5a88 to 21964
+A=0x55cc
+D=A
+A=0x5a88
+*A=D
+# Set 0x5a89 to 28799
+A=0x707f
+D=A
+A=0x5a89
+*A=D
+# Set 0x5a8a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a8a
+*A=D
+# Set 0x5a8b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a8b
+*A=D
+# Set 0x5a8c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a8c
+*A=D
+# Set 0x5a8d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a8d
+*A=D
+# Set 0x5a8e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a8e
+*A=D
+# Set 0x5a8f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a8f
+*A=D
+# Set 0x5a90 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a90
+*A=D
+# Set 0x5a91 to 61574
+A=0x7fff
+D=A
+A=0x7087
+D=D+A
+A=0x5a91
+*A=D
+# Set 0x5a92 to 32767
+A=0x7fff
+D=A
+A=0x5a92
+*A=D
+# Set 0x5a93 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a93
+*A=D
+# Set 0x5a94 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a94
+*A=D
+# Set 0x5a95 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a95
+*A=D
+# Set 0x5a96 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a96
+*A=D
+# Set 0x5a97 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a97
+*A=D
+# Set 0x5a98 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a98
+*A=D
+# Set 0x5a99 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a99
+*A=D
+# Set 0x5a9a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a9a
+*A=D
+# Set 0x5a9b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a9b
+*A=D
+# Set 0x5a9c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a9c
+*A=D
+# Set 0x5a9d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a9d
+*A=D
+# Set 0x5a9e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a9e
+*A=D
+# Set 0x5a9f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5a9f
+*A=D
+# Set 0x5aa0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aa0
+*A=D
+# Set 0x5aa1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aa1
+*A=D
+# Set 0x5aa2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aa2
+*A=D
+# Set 0x5aa3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aa3
+*A=D
+# Set 0x5aa4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aa4
+*A=D
+# Set 0x5aa5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aa5
+*A=D
+# Set 0x5aa6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aa6
+*A=D
+# Set 0x5aa7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5aa7
+*A=D
+# Set 0x5aa8 to 21534
+A=0x541e
+D=A
+A=0x5aa8
+*A=D
+# Set 0x5aa9 to 61951
+A=0x7fff
+D=A
+A=0x7200
+D=D+A
+A=0x5aa9
+*A=D
+# Set 0x5aaa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aaa
+*A=D
+# Set 0x5aab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aab
+*A=D
+# Set 0x5aac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aac
+*A=D
+# Set 0x5aad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aad
+*A=D
+# Set 0x5aae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aae
+*A=D
+# Set 0x5aaf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aaf
+*A=D
+# Set 0x5ab0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ab0
+*A=D
+# Set 0x5ab1 to 61902
+A=0x7fff
+D=A
+A=0x71cf
+D=D+A
+A=0x5ab1
+*A=D
+# Set 0x5ab2 to 32767
+A=0x7fff
+D=A
+A=0x5ab2
+*A=D
+# Set 0x5ab3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ab3
+*A=D
+# Set 0x5ab4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ab4
+*A=D
+# Set 0x5ab5 to 32767
+A=0x7fff
+D=A
+A=0x5ab5
+*A=D
+# Set 0x5ab6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ab6
+*A=D
+# Set 0x5ab7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ab7
+*A=D
+# Set 0x5ab8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ab8
+*A=D
+# Set 0x5ab9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ab9
+*A=D
+# Set 0x5aba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aba
+*A=D
+# Set 0x5abb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5abb
+*A=D
+# Set 0x5abc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5abc
+*A=D
+# Set 0x5abd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5abd
+*A=D
+# Set 0x5abe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5abe
+*A=D
+# Set 0x5abf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5abf
+*A=D
+# Set 0x5ac0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ac0
+*A=D
+# Set 0x5ac1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ac1
+*A=D
+# Set 0x5ac2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ac2
+*A=D
+# Set 0x5ac3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ac3
+*A=D
+# Set 0x5ac4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ac4
+*A=D
+# Set 0x5ac5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ac5
+*A=D
+# Set 0x5ac6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ac6
+*A=D
+# Set 0x5ac7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5ac7
+*A=D
+# Set 0x5ac8 to 21503
+A=0x53ff
+D=A
+A=0x5ac8
+*A=D
+# Set 0x5ac9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ac9
+*A=D
+# Set 0x5aca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aca
+*A=D
+# Set 0x5acb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5acb
+*A=D
+# Set 0x5acc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5acc
+*A=D
+# Set 0x5acd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5acd
+*A=D
+# Set 0x5ace to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ace
+*A=D
+# Set 0x5acf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5acf
+*A=D
+# Set 0x5ad0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ad0
+*A=D
+# Set 0x5ad1 to 64510
+A=0x7fff
+D=A
+A=0x7bff
+D=D+A
+A=0x5ad1
+*A=D
+# Set 0x5ad2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ad2
+*A=D
+# Set 0x5ad3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ad3
+*A=D
+# Set 0x5ad4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ad4
+*A=D
+# Set 0x5ad5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ad5
+*A=D
+# Set 0x5ad6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ad6
+*A=D
+# Set 0x5ad7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ad7
+*A=D
+# Set 0x5ad8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ad8
+*A=D
+# Set 0x5ad9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ad9
+*A=D
+# Set 0x5ada to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ada
+*A=D
+# Set 0x5adb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5adb
+*A=D
+# Set 0x5adc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5adc
+*A=D
+# Set 0x5add to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5add
+*A=D
+# Set 0x5ade to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ade
+*A=D
+# Set 0x5adf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5adf
+*A=D
+# Set 0x5ae0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ae0
+*A=D
+# Set 0x5ae1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ae1
+*A=D
+# Set 0x5ae2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ae2
+*A=D
+# Set 0x5ae3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ae3
+*A=D
+# Set 0x5ae4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ae4
+*A=D
+# Set 0x5ae5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ae5
+*A=D
+# Set 0x5ae6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ae6
+*A=D
+# Set 0x5ae7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ae7
+*A=D
+# Set 0x5ae8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ae8
+*A=D
+# Set 0x5ae9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ae9
+*A=D
+# Set 0x5aea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aea
+*A=D
+# Set 0x5aeb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aeb
+*A=D
+# Set 0x5aec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aec
+*A=D
+# Set 0x5aed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aed
+*A=D
+# Set 0x5aee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aee
+*A=D
+# Set 0x5aef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aef
+*A=D
+# Set 0x5af0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5af0
+*A=D
+# Set 0x5af1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5af1
+*A=D
+# Set 0x5af2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5af2
+*A=D
+# Set 0x5af3 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5af3
+*A=D
+# Set 0x5af4 to 16326
+A=0x3fc6
+D=A
+A=0x5af4
+*A=D
+# Set 0x5af5 to 32767
+A=0x7fff
+D=A
+A=0x5af5
+*A=D
+# Set 0x5af6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5af6
+*A=D
+# Set 0x5af7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5af7
+*A=D
+# Set 0x5af8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5af8
+*A=D
+# Set 0x5af9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5af9
+*A=D
+# Set 0x5afa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5afa
+*A=D
+# Set 0x5afb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5afb
+*A=D
+# Set 0x5afc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5afc
+*A=D
+# Set 0x5afd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5afd
+*A=D
+# Set 0x5afe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5afe
+*A=D
+# Set 0x5aff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5aff
+*A=D
+# Set 0x5b00 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b00
+*A=D
+# Set 0x5b01 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b01
+*A=D
+# Set 0x5b02 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b02
+*A=D
+# Set 0x5b03 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b03
+*A=D
+# Set 0x5b04 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b04
+*A=D
+# Set 0x5b05 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b05
+*A=D
+# Set 0x5b06 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b06
+*A=D
+# Set 0x5b07 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b07
+*A=D
+# Set 0x5b08 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b08
+*A=D
+# Set 0x5b09 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b09
+*A=D
+# Set 0x5b0a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b0a
+*A=D
+# Set 0x5b0b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b0b
+*A=D
+# Set 0x5b0c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b0c
+*A=D
+# Set 0x5b0d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b0d
+*A=D
+# Set 0x5b0e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b0e
+*A=D
+# Set 0x5b0f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b0f
+*A=D
+# Set 0x5b10 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b10
+*A=D
+# Set 0x5b11 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b11
+*A=D
+# Set 0x5b12 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b12
+*A=D
+# Set 0x5b13 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5b13
+*A=D
+# Set 0x5b14 to 12487
+A=0x30c7
+D=A
+A=0x5b14
+*A=D
+# Set 0x5b15 to 32767
+A=0x7fff
+D=A
+A=0x5b15
+*A=D
+# Set 0x5b16 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b16
+*A=D
+# Set 0x5b17 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b17
+*A=D
+# Set 0x5b18 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b18
+*A=D
+# Set 0x5b19 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b19
+*A=D
+# Set 0x5b1a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b1a
+*A=D
+# Set 0x5b1b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b1b
+*A=D
+# Set 0x5b1c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b1c
+*A=D
+# Set 0x5b1d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b1d
+*A=D
+# Set 0x5b1e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b1e
+*A=D
+# Set 0x5b1f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b1f
+*A=D
+# Set 0x5b20 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b20
+*A=D
+# Set 0x5b21 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b21
+*A=D
+# Set 0x5b22 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b22
+*A=D
+# Set 0x5b23 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b23
+*A=D
+# Set 0x5b24 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b24
+*A=D
+# Set 0x5b25 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b25
+*A=D
+# Set 0x5b26 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b26
+*A=D
+# Set 0x5b27 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b27
+*A=D
+# Set 0x5b28 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b28
+*A=D
+# Set 0x5b29 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b29
+*A=D
+# Set 0x5b2a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b2a
+*A=D
+# Set 0x5b2b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b2b
+*A=D
+# Set 0x5b2c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b2c
+*A=D
+# Set 0x5b2d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b2d
+*A=D
+# Set 0x5b2e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b2e
+*A=D
+# Set 0x5b2f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b2f
+*A=D
+# Set 0x5b30 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b30
+*A=D
+# Set 0x5b31 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b31
+*A=D
+# Set 0x5b32 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b32
+*A=D
+# Set 0x5b33 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b33
+*A=D
+# Set 0x5b34 to 12487
+A=0x30c7
+D=A
+A=0x5b34
+*A=D
+# Set 0x5b35 to 32767
+A=0x7fff
+D=A
+A=0x5b35
+*A=D
+# Set 0x5b36 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b36
+*A=D
+# Set 0x5b37 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b37
+*A=D
+# Set 0x5b38 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b38
+*A=D
+# Set 0x5b39 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b39
+*A=D
+# Set 0x5b3a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b3a
+*A=D
+# Set 0x5b3b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b3b
+*A=D
+# Set 0x5b3c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b3c
+*A=D
+# Set 0x5b3d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b3d
+*A=D
+# Set 0x5b3e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b3e
+*A=D
+# Set 0x5b3f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b3f
+*A=D
+# Set 0x5b40 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b40
+*A=D
+# Set 0x5b41 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b41
+*A=D
+# Set 0x5b42 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b42
+*A=D
+# Set 0x5b43 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b43
+*A=D
+# Set 0x5b44 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b44
+*A=D
+# Set 0x5b45 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b45
+*A=D
+# Set 0x5b46 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b46
+*A=D
+# Set 0x5b47 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b47
+*A=D
+# Set 0x5b48 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b48
+*A=D
+# Set 0x5b49 to 63999
+A=0x7fff
+D=A
+A=0x7a00
+D=D+A
+A=0x5b49
+*A=D
+# Set 0x5b4a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b4a
+*A=D
+# Set 0x5b4b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b4b
+*A=D
+# Set 0x5b4c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b4c
+*A=D
+# Set 0x5b4d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b4d
+*A=D
+# Set 0x5b4e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b4e
+*A=D
+# Set 0x5b4f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b4f
+*A=D
+# Set 0x5b50 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b50
+*A=D
+# Set 0x5b51 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b51
+*A=D
+# Set 0x5b52 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b52
+*A=D
+# Set 0x5b53 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5b53
+*A=D
+# Set 0x5b54 to 5110
+A=0x13f6
+D=A
+A=0x5b54
+*A=D
+# Set 0x5b55 to 16383
+A=0x3fff
+D=A
+A=0x5b55
+*A=D
+# Set 0x5b56 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b56
+*A=D
+# Set 0x5b57 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b57
+*A=D
+# Set 0x5b58 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b58
+*A=D
+# Set 0x5b59 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b59
+*A=D
+# Set 0x5b5a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b5a
+*A=D
+# Set 0x5b5b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b5b
+*A=D
+# Set 0x5b5c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b5c
+*A=D
+# Set 0x5b5d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b5d
+*A=D
+# Set 0x5b5e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b5e
+*A=D
+# Set 0x5b5f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b5f
+*A=D
+# Set 0x5b60 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b60
+*A=D
+# Set 0x5b61 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b61
+*A=D
+# Set 0x5b62 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b62
+*A=D
+# Set 0x5b63 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b63
+*A=D
+# Set 0x5b64 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b64
+*A=D
+# Set 0x5b65 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b65
+*A=D
+# Set 0x5b66 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b66
+*A=D
+# Set 0x5b67 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b67
+*A=D
+# Set 0x5b68 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b68
+*A=D
+# Set 0x5b69 to 63999
+A=0x7fff
+D=A
+A=0x7a00
+D=D+A
+A=0x5b69
+*A=D
+# Set 0x5b6a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b6a
+*A=D
+# Set 0x5b6b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b6b
+*A=D
+# Set 0x5b6c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b6c
+*A=D
+# Set 0x5b6d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b6d
+*A=D
+# Set 0x5b6e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b6e
+*A=D
+# Set 0x5b6f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b6f
+*A=D
+# Set 0x5b70 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b70
+*A=D
+# Set 0x5b71 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b71
+*A=D
+# Set 0x5b72 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b72
+*A=D
+# Set 0x5b73 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b73
+*A=D
+# Set 0x5b74 to 20614
+A=0x5086
+D=A
+A=0x5b74
+*A=D
+# Set 0x5b75 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b75
+*A=D
+# Set 0x5b76 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b76
+*A=D
+# Set 0x5b77 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b77
+*A=D
+# Set 0x5b78 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b78
+*A=D
+# Set 0x5b79 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b79
+*A=D
+# Set 0x5b7a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b7a
+*A=D
+# Set 0x5b7b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b7b
+*A=D
+# Set 0x5b7c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b7c
+*A=D
+# Set 0x5b7d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b7d
+*A=D
+# Set 0x5b7e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b7e
+*A=D
+# Set 0x5b7f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b7f
+*A=D
+# Set 0x5b80 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b80
+*A=D
+# Set 0x5b81 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b81
+*A=D
+# Set 0x5b82 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b82
+*A=D
+# Set 0x5b83 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b83
+*A=D
+# Set 0x5b84 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b84
+*A=D
+# Set 0x5b85 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b85
+*A=D
+# Set 0x5b86 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b86
+*A=D
+# Set 0x5b87 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b87
+*A=D
+# Set 0x5b88 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b88
+*A=D
+# Set 0x5b89 to 7679
+A=0x1dff
+D=A
+A=0x5b89
+*A=D
+# Set 0x5b8a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b8a
+*A=D
+# Set 0x5b8b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b8b
+*A=D
+# Set 0x5b8c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b8c
+*A=D
+# Set 0x5b8d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b8d
+*A=D
+# Set 0x5b8e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b8e
+*A=D
+# Set 0x5b8f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b8f
+*A=D
+# Set 0x5b90 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b90
+*A=D
+# Set 0x5b91 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b91
+*A=D
+# Set 0x5b92 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b92
+*A=D
+# Set 0x5b93 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b93
+*A=D
+# Set 0x5b94 to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x5b94
+*A=D
+# Set 0x5b95 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b95
+*A=D
+# Set 0x5b96 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b96
+*A=D
+# Set 0x5b97 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b97
+*A=D
+# Set 0x5b98 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b98
+*A=D
+# Set 0x5b99 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b99
+*A=D
+# Set 0x5b9a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b9a
+*A=D
+# Set 0x5b9b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b9b
+*A=D
+# Set 0x5b9c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b9c
+*A=D
+# Set 0x5b9d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b9d
+*A=D
+# Set 0x5b9e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b9e
+*A=D
+# Set 0x5b9f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5b9f
+*A=D
+# Set 0x5ba0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ba0
+*A=D
+# Set 0x5ba1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ba1
+*A=D
+# Set 0x5ba2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ba2
+*A=D
+# Set 0x5ba3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ba3
+*A=D
+# Set 0x5ba4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ba4
+*A=D
+# Set 0x5ba5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ba5
+*A=D
+# Set 0x5ba6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ba6
+*A=D
+# Set 0x5ba7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ba7
+*A=D
+# Set 0x5ba8 to 60953
+A=0x7fff
+D=A
+A=0x6e1a
+D=D+A
+A=0x5ba8
+*A=D
+# Set 0x5ba9 to 15871
+A=0x3dff
+D=A
+A=0x5ba9
+*A=D
+# Set 0x5baa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5baa
+*A=D
+# Set 0x5bab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bab
+*A=D
+# Set 0x5bac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bac
+*A=D
+# Set 0x5bad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bad
+*A=D
+# Set 0x5bae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bae
+*A=D
+# Set 0x5baf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5baf
+*A=D
+# Set 0x5bb0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bb0
+*A=D
+# Set 0x5bb1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bb1
+*A=D
+# Set 0x5bb2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bb2
+*A=D
+# Set 0x5bb3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bb3
+*A=D
+# Set 0x5bb4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bb4
+*A=D
+# Set 0x5bb5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bb5
+*A=D
+# Set 0x5bb6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bb6
+*A=D
+# Set 0x5bb7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bb7
+*A=D
+# Set 0x5bb8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bb8
+*A=D
+# Set 0x5bb9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bb9
+*A=D
+# Set 0x5bba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bba
+*A=D
+# Set 0x5bbb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bbb
+*A=D
+# Set 0x5bbc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bbc
+*A=D
+# Set 0x5bbd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bbd
+*A=D
+# Set 0x5bbe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bbe
+*A=D
+# Set 0x5bbf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bbf
+*A=D
+# Set 0x5bc0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bc0
+*A=D
+# Set 0x5bc1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bc1
+*A=D
+# Set 0x5bc2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bc2
+*A=D
+# Set 0x5bc3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bc3
+*A=D
+# Set 0x5bc4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bc4
+*A=D
+# Set 0x5bc5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bc5
+*A=D
+# Set 0x5bc6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bc6
+*A=D
+# Set 0x5bc7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5bc7
+*A=D
+# Set 0x5bc8 to 1225
+A=0x4c9
+D=A
+A=0x5bc8
+*A=D
+# Set 0x5bc9 to 15871
+A=0x3dff
+D=A
+A=0x5bc9
+*A=D
+# Set 0x5bca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bca
+*A=D
+# Set 0x5bcb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bcb
+*A=D
+# Set 0x5bcc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bcc
+*A=D
+# Set 0x5bcd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bcd
+*A=D
+# Set 0x5bce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bce
+*A=D
+# Set 0x5bcf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bcf
+*A=D
+# Set 0x5bd0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bd0
+*A=D
+# Set 0x5bd1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bd1
+*A=D
+# Set 0x5bd2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bd2
+*A=D
+# Set 0x5bd3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bd3
+*A=D
+# Set 0x5bd4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bd4
+*A=D
+# Set 0x5bd5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bd5
+*A=D
+# Set 0x5bd6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bd6
+*A=D
+# Set 0x5bd7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bd7
+*A=D
+# Set 0x5bd8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bd8
+*A=D
+# Set 0x5bd9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bd9
+*A=D
+# Set 0x5bda to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bda
+*A=D
+# Set 0x5bdb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bdb
+*A=D
+# Set 0x5bdc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bdc
+*A=D
+# Set 0x5bdd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bdd
+*A=D
+# Set 0x5bde to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bde
+*A=D
+# Set 0x5bdf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bdf
+*A=D
+# Set 0x5be0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5be0
+*A=D
+# Set 0x5be1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5be1
+*A=D
+# Set 0x5be2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5be2
+*A=D
+# Set 0x5be3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5be3
+*A=D
+# Set 0x5be4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5be4
+*A=D
+# Set 0x5be5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5be5
+*A=D
+# Set 0x5be6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5be6
+*A=D
+# Set 0x5be7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5be7
+*A=D
+# Set 0x5be8 to 21964
+A=0x55cc
+D=A
+A=0x5be8
+*A=D
+# Set 0x5be9 to 32255
+A=0x7dff
+D=A
+A=0x5be9
+*A=D
+# Set 0x5bea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bea
+*A=D
+# Set 0x5beb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5beb
+*A=D
+# Set 0x5bec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bec
+*A=D
+# Set 0x5bed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bed
+*A=D
+# Set 0x5bee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bee
+*A=D
+# Set 0x5bef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bef
+*A=D
+# Set 0x5bf0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bf0
+*A=D
+# Set 0x5bf1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bf1
+*A=D
+# Set 0x5bf2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bf2
+*A=D
+# Set 0x5bf3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bf3
+*A=D
+# Set 0x5bf4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bf4
+*A=D
+# Set 0x5bf5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bf5
+*A=D
+# Set 0x5bf6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bf6
+*A=D
+# Set 0x5bf7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bf7
+*A=D
+# Set 0x5bf8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bf8
+*A=D
+# Set 0x5bf9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bf9
+*A=D
+# Set 0x5bfa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bfa
+*A=D
+# Set 0x5bfb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bfb
+*A=D
+# Set 0x5bfc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bfc
+*A=D
+# Set 0x5bfd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bfd
+*A=D
+# Set 0x5bfe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bfe
+*A=D
+# Set 0x5bff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5bff
+*A=D
+# Set 0x5c00 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c00
+*A=D
+# Set 0x5c01 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c01
+*A=D
+# Set 0x5c02 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c02
+*A=D
+# Set 0x5c03 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c03
+*A=D
+# Set 0x5c04 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c04
+*A=D
+# Set 0x5c05 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c05
+*A=D
+# Set 0x5c06 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c06
+*A=D
+# Set 0x5c07 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5c07
+*A=D
+# Set 0x5c08 to 21708
+A=0x54cc
+D=A
+A=0x5c08
+*A=D
+# Set 0x5c09 to 28799
+A=0x707f
+D=A
+A=0x5c09
+*A=D
+# Set 0x5c0a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c0a
+*A=D
+# Set 0x5c0b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c0b
+*A=D
+# Set 0x5c0c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c0c
+*A=D
+# Set 0x5c0d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c0d
+*A=D
+# Set 0x5c0e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c0e
+*A=D
+# Set 0x5c0f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c0f
+*A=D
+# Set 0x5c10 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c10
+*A=D
+# Set 0x5c11 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c11
+*A=D
+# Set 0x5c12 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c12
+*A=D
+# Set 0x5c13 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c13
+*A=D
+# Set 0x5c14 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c14
+*A=D
+# Set 0x5c15 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c15
+*A=D
+# Set 0x5c16 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c16
+*A=D
+# Set 0x5c17 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c17
+*A=D
+# Set 0x5c18 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c18
+*A=D
+# Set 0x5c19 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c19
+*A=D
+# Set 0x5c1a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c1a
+*A=D
+# Set 0x5c1b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c1b
+*A=D
+# Set 0x5c1c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c1c
+*A=D
+# Set 0x5c1d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c1d
+*A=D
+# Set 0x5c1e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c1e
+*A=D
+# Set 0x5c1f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c1f
+*A=D
+# Set 0x5c20 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c20
+*A=D
+# Set 0x5c21 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c21
+*A=D
+# Set 0x5c22 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c22
+*A=D
+# Set 0x5c23 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c23
+*A=D
+# Set 0x5c24 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c24
+*A=D
+# Set 0x5c25 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c25
+*A=D
+# Set 0x5c26 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c26
+*A=D
+# Set 0x5c27 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5c27
+*A=D
+# Set 0x5c28 to 4638
+A=0x121e
+D=A
+A=0x5c28
+*A=D
+# Set 0x5c29 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c29
+*A=D
+# Set 0x5c2a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c2a
+*A=D
+# Set 0x5c2b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c2b
+*A=D
+# Set 0x5c2c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c2c
+*A=D
+# Set 0x5c2d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c2d
+*A=D
+# Set 0x5c2e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c2e
+*A=D
+# Set 0x5c2f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c2f
+*A=D
+# Set 0x5c30 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c30
+*A=D
+# Set 0x5c31 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c31
+*A=D
+# Set 0x5c32 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c32
+*A=D
+# Set 0x5c33 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c33
+*A=D
+# Set 0x5c34 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c34
+*A=D
+# Set 0x5c35 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c35
+*A=D
+# Set 0x5c36 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c36
+*A=D
+# Set 0x5c37 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c37
+*A=D
+# Set 0x5c38 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c38
+*A=D
+# Set 0x5c39 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c39
+*A=D
+# Set 0x5c3a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c3a
+*A=D
+# Set 0x5c3b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c3b
+*A=D
+# Set 0x5c3c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c3c
+*A=D
+# Set 0x5c3d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c3d
+*A=D
+# Set 0x5c3e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c3e
+*A=D
+# Set 0x5c3f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c3f
+*A=D
+# Set 0x5c40 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c40
+*A=D
+# Set 0x5c41 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c41
+*A=D
+# Set 0x5c42 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c42
+*A=D
+# Set 0x5c43 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c43
+*A=D
+# Set 0x5c44 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c44
+*A=D
+# Set 0x5c45 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c45
+*A=D
+# Set 0x5c46 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c46
+*A=D
+# Set 0x5c47 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5c47
+*A=D
+# Set 0x5c48 to 24575
+A=0x5fff
+D=A
+A=0x5c48
+*A=D
+# Set 0x5c49 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c49
+*A=D
+# Set 0x5c4a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c4a
+*A=D
+# Set 0x5c4b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c4b
+*A=D
+# Set 0x5c4c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c4c
+*A=D
+# Set 0x5c4d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c4d
+*A=D
+# Set 0x5c4e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c4e
+*A=D
+# Set 0x5c4f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c4f
+*A=D
+# Set 0x5c50 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c50
+*A=D
+# Set 0x5c51 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c51
+*A=D
+# Set 0x5c52 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c52
+*A=D
+# Set 0x5c53 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c53
+*A=D
+# Set 0x5c54 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c54
+*A=D
+# Set 0x5c55 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c55
+*A=D
+# Set 0x5c56 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c56
+*A=D
+# Set 0x5c57 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c57
+*A=D
+# Set 0x5c58 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c58
+*A=D
+# Set 0x5c59 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c59
+*A=D
+# Set 0x5c5a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c5a
+*A=D
+# Set 0x5c5b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c5b
+*A=D
+# Set 0x5c5c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c5c
+*A=D
+# Set 0x5c5d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c5d
+*A=D
+# Set 0x5c5e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c5e
+*A=D
+# Set 0x5c5f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c5f
+*A=D
+# Set 0x5c60 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c60
+*A=D
+# Set 0x5c61 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c61
+*A=D
+# Set 0x5c62 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c62
+*A=D
+# Set 0x5c63 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c63
+*A=D
+# Set 0x5c64 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c64
+*A=D
+# Set 0x5c65 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c65
+*A=D
+# Set 0x5c66 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c66
+*A=D
+# Set 0x5c67 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c67
+*A=D
+# Set 0x5c68 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c68
+*A=D
+# Set 0x5c69 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c69
+*A=D
+# Set 0x5c6a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c6a
+*A=D
+# Set 0x5c6b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c6b
+*A=D
+# Set 0x5c6c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c6c
+*A=D
+# Set 0x5c6d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c6d
+*A=D
+# Set 0x5c6e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c6e
+*A=D
+# Set 0x5c6f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c6f
+*A=D
+# Set 0x5c70 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c70
+*A=D
+# Set 0x5c71 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c71
+*A=D
+# Set 0x5c72 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c72
+*A=D
+# Set 0x5c73 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c73
+*A=D
+# Set 0x5c74 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c74
+*A=D
+# Set 0x5c75 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c75
+*A=D
+# Set 0x5c76 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c76
+*A=D
+# Set 0x5c77 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c77
+*A=D
+# Set 0x5c78 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c78
+*A=D
+# Set 0x5c79 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c79
+*A=D
+# Set 0x5c7a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c7a
+*A=D
+# Set 0x5c7b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c7b
+*A=D
+# Set 0x5c7c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c7c
+*A=D
+# Set 0x5c7d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c7d
+*A=D
+# Set 0x5c7e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c7e
+*A=D
+# Set 0x5c7f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c7f
+*A=D
+# Set 0x5c80 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c80
+*A=D
+# Set 0x5c81 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c81
+*A=D
+# Set 0x5c82 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c82
+*A=D
+# Set 0x5c83 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c83
+*A=D
+# Set 0x5c84 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c84
+*A=D
+# Set 0x5c85 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c85
+*A=D
+# Set 0x5c86 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c86
+*A=D
+# Set 0x5c87 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c87
+*A=D
+# Set 0x5c88 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c88
+*A=D
+# Set 0x5c89 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c89
+*A=D
+# Set 0x5c8a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c8a
+*A=D
+# Set 0x5c8b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c8b
+*A=D
+# Set 0x5c8c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c8c
+*A=D
+# Set 0x5c8d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c8d
+*A=D
+# Set 0x5c8e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c8e
+*A=D
+# Set 0x5c8f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c8f
+*A=D
+# Set 0x5c90 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c90
+*A=D
+# Set 0x5c91 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c91
+*A=D
+# Set 0x5c92 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c92
+*A=D
+# Set 0x5c93 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c93
+*A=D
+# Set 0x5c94 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c94
+*A=D
+# Set 0x5c95 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c95
+*A=D
+# Set 0x5c96 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c96
+*A=D
+# Set 0x5c97 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c97
+*A=D
+# Set 0x5c98 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c98
+*A=D
+# Set 0x5c99 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c99
+*A=D
+# Set 0x5c9a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c9a
+*A=D
+# Set 0x5c9b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c9b
+*A=D
+# Set 0x5c9c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c9c
+*A=D
+# Set 0x5c9d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c9d
+*A=D
+# Set 0x5c9e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c9e
+*A=D
+# Set 0x5c9f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5c9f
+*A=D
+# Set 0x5ca0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ca0
+*A=D
+# Set 0x5ca1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ca1
+*A=D
+# Set 0x5ca2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ca2
+*A=D
+# Set 0x5ca3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ca3
+*A=D
+# Set 0x5ca4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ca4
+*A=D
+# Set 0x5ca5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ca5
+*A=D
+# Set 0x5ca6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ca6
+*A=D
+# Set 0x5ca7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ca7
+*A=D
+# Set 0x5ca8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ca8
+*A=D
+# Set 0x5ca9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ca9
+*A=D
+# Set 0x5caa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5caa
+*A=D
+# Set 0x5cab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cab
+*A=D
+# Set 0x5cac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cac
+*A=D
+# Set 0x5cad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cad
+*A=D
+# Set 0x5cae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cae
+*A=D
+# Set 0x5caf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5caf
+*A=D
+# Set 0x5cb0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cb0
+*A=D
+# Set 0x5cb1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cb1
+*A=D
+# Set 0x5cb2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cb2
+*A=D
+# Set 0x5cb3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cb3
+*A=D
+# Set 0x5cb4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cb4
+*A=D
+# Set 0x5cb5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cb5
+*A=D
+# Set 0x5cb6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cb6
+*A=D
+# Set 0x5cb7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cb7
+*A=D
+# Set 0x5cb8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cb8
+*A=D
+# Set 0x5cb9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cb9
+*A=D
+# Set 0x5cba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cba
+*A=D
+# Set 0x5cbb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cbb
+*A=D
+# Set 0x5cbc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cbc
+*A=D
+# Set 0x5cbd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cbd
+*A=D
+# Set 0x5cbe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cbe
+*A=D
+# Set 0x5cbf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cbf
+*A=D
+# Set 0x5cc0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cc0
+*A=D
+# Set 0x5cc1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cc1
+*A=D
+# Set 0x5cc2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cc2
+*A=D
+# Set 0x5cc3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cc3
+*A=D
+# Set 0x5cc4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cc4
+*A=D
+# Set 0x5cc5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cc5
+*A=D
+# Set 0x5cc6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cc6
+*A=D
+# Set 0x5cc7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cc7
+*A=D
+# Set 0x5cc8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cc8
+*A=D
+# Set 0x5cc9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cc9
+*A=D
+# Set 0x5cca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cca
+*A=D
+# Set 0x5ccb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ccb
+*A=D
+# Set 0x5ccc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ccc
+*A=D
+# Set 0x5ccd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ccd
+*A=D
+# Set 0x5cce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cce
+*A=D
+# Set 0x5ccf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ccf
+*A=D
+# Set 0x5cd0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cd0
+*A=D
+# Set 0x5cd1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cd1
+*A=D
+# Set 0x5cd2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cd2
+*A=D
+# Set 0x5cd3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cd3
+*A=D
+# Set 0x5cd4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cd4
+*A=D
+# Set 0x5cd5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cd5
+*A=D
+# Set 0x5cd6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cd6
+*A=D
+# Set 0x5cd7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cd7
+*A=D
+# Set 0x5cd8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cd8
+*A=D
+# Set 0x5cd9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cd9
+*A=D
+# Set 0x5cda to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cda
+*A=D
+# Set 0x5cdb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cdb
+*A=D
+# Set 0x5cdc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cdc
+*A=D
+# Set 0x5cdd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cdd
+*A=D
+# Set 0x5cde to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cde
+*A=D
+# Set 0x5cdf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cdf
+*A=D
+# Set 0x5ce0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ce0
+*A=D
+# Set 0x5ce1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ce1
+*A=D
+# Set 0x5ce2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ce2
+*A=D
+# Set 0x5ce3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ce3
+*A=D
+# Set 0x5ce4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ce4
+*A=D
+# Set 0x5ce5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ce5
+*A=D
+# Set 0x5ce6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ce6
+*A=D
+# Set 0x5ce7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ce7
+*A=D
+# Set 0x5ce8 to 61247
+A=0x7fff
+D=A
+A=0x6f40
+D=D+A
+A=0x5ce8
+*A=D
+# Set 0x5ce9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ce9
+*A=D
+# Set 0x5cea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cea
+*A=D
+# Set 0x5ceb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ceb
+*A=D
+# Set 0x5cec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cec
+*A=D
+# Set 0x5ced to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ced
+*A=D
+# Set 0x5cee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cee
+*A=D
+# Set 0x5cef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cef
+*A=D
+# Set 0x5cf0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cf0
+*A=D
+# Set 0x5cf1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cf1
+*A=D
+# Set 0x5cf2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cf2
+*A=D
+# Set 0x5cf3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cf3
+*A=D
+# Set 0x5cf4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cf4
+*A=D
+# Set 0x5cf5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cf5
+*A=D
+# Set 0x5cf6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cf6
+*A=D
+# Set 0x5cf7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cf7
+*A=D
+# Set 0x5cf8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cf8
+*A=D
+# Set 0x5cf9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cf9
+*A=D
+# Set 0x5cfa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cfa
+*A=D
+# Set 0x5cfb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cfb
+*A=D
+# Set 0x5cfc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cfc
+*A=D
+# Set 0x5cfd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cfd
+*A=D
+# Set 0x5cfe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cfe
+*A=D
+# Set 0x5cff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5cff
+*A=D
+# Set 0x5d00 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d00
+*A=D
+# Set 0x5d01 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d01
+*A=D
+# Set 0x5d02 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d02
+*A=D
+# Set 0x5d03 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d03
+*A=D
+# Set 0x5d04 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d04
+*A=D
+# Set 0x5d05 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d05
+*A=D
+# Set 0x5d06 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d06
+*A=D
+# Set 0x5d07 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d07
+*A=D
+# Set 0x5d08 to 59385
+A=0x7fff
+D=A
+A=0x67fa
+D=D+A
+A=0x5d08
+*A=D
+# Set 0x5d09 to 8191
+A=0x1fff
+D=A
+A=0x5d09
+*A=D
+# Set 0x5d0a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d0a
+*A=D
+# Set 0x5d0b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d0b
+*A=D
+# Set 0x5d0c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d0c
+*A=D
+# Set 0x5d0d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d0d
+*A=D
+# Set 0x5d0e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d0e
+*A=D
+# Set 0x5d0f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d0f
+*A=D
+# Set 0x5d10 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d10
+*A=D
+# Set 0x5d11 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d11
+*A=D
+# Set 0x5d12 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d12
+*A=D
+# Set 0x5d13 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d13
+*A=D
+# Set 0x5d14 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d14
+*A=D
+# Set 0x5d15 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d15
+*A=D
+# Set 0x5d16 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d16
+*A=D
+# Set 0x5d17 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d17
+*A=D
+# Set 0x5d18 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d18
+*A=D
+# Set 0x5d19 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d19
+*A=D
+# Set 0x5d1a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d1a
+*A=D
+# Set 0x5d1b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d1b
+*A=D
+# Set 0x5d1c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d1c
+*A=D
+# Set 0x5d1d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d1d
+*A=D
+# Set 0x5d1e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d1e
+*A=D
+# Set 0x5d1f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d1f
+*A=D
+# Set 0x5d20 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d20
+*A=D
+# Set 0x5d21 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d21
+*A=D
+# Set 0x5d22 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d22
+*A=D
+# Set 0x5d23 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d23
+*A=D
+# Set 0x5d24 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d24
+*A=D
+# Set 0x5d25 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d25
+*A=D
+# Set 0x5d26 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d26
+*A=D
+# Set 0x5d27 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d27
+*A=D
+# Set 0x5d28 to 34361
+A=0x7fff
+D=A
+A=0x63a
+D=D+A
+A=0x5d28
+*A=D
+# Set 0x5d29 to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x5d29
+*A=D
+# Set 0x5d2a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d2a
+*A=D
+# Set 0x5d2b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d2b
+*A=D
+# Set 0x5d2c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d2c
+*A=D
+# Set 0x5d2d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d2d
+*A=D
+# Set 0x5d2e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d2e
+*A=D
+# Set 0x5d2f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d2f
+*A=D
+# Set 0x5d30 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d30
+*A=D
+# Set 0x5d31 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d31
+*A=D
+# Set 0x5d32 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d32
+*A=D
+# Set 0x5d33 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d33
+*A=D
+# Set 0x5d34 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d34
+*A=D
+# Set 0x5d35 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d35
+*A=D
+# Set 0x5d36 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d36
+*A=D
+# Set 0x5d37 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d37
+*A=D
+# Set 0x5d38 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d38
+*A=D
+# Set 0x5d39 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d39
+*A=D
+# Set 0x5d3a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d3a
+*A=D
+# Set 0x5d3b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d3b
+*A=D
+# Set 0x5d3c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d3c
+*A=D
+# Set 0x5d3d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d3d
+*A=D
+# Set 0x5d3e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d3e
+*A=D
+# Set 0x5d3f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d3f
+*A=D
+# Set 0x5d40 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d40
+*A=D
+# Set 0x5d41 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d41
+*A=D
+# Set 0x5d42 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d42
+*A=D
+# Set 0x5d43 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d43
+*A=D
+# Set 0x5d44 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d44
+*A=D
+# Set 0x5d45 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d45
+*A=D
+# Set 0x5d46 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d46
+*A=D
+# Set 0x5d47 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d47
+*A=D
+# Set 0x5d48 to 1853
+A=0x73d
+D=A
+A=0x5d48
+*A=D
+# Set 0x5d49 to 16383
+A=0x3fff
+D=A
+A=0x5d49
+*A=D
+# Set 0x5d4a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d4a
+*A=D
+# Set 0x5d4b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d4b
+*A=D
+# Set 0x5d4c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d4c
+*A=D
+# Set 0x5d4d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d4d
+*A=D
+# Set 0x5d4e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d4e
+*A=D
+# Set 0x5d4f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d4f
+*A=D
+# Set 0x5d50 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d50
+*A=D
+# Set 0x5d51 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d51
+*A=D
+# Set 0x5d52 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d52
+*A=D
+# Set 0x5d53 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d53
+*A=D
+# Set 0x5d54 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d54
+*A=D
+# Set 0x5d55 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d55
+*A=D
+# Set 0x5d56 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d56
+*A=D
+# Set 0x5d57 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d57
+*A=D
+# Set 0x5d58 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d58
+*A=D
+# Set 0x5d59 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d59
+*A=D
+# Set 0x5d5a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d5a
+*A=D
+# Set 0x5d5b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d5b
+*A=D
+# Set 0x5d5c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d5c
+*A=D
+# Set 0x5d5d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d5d
+*A=D
+# Set 0x5d5e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d5e
+*A=D
+# Set 0x5d5f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d5f
+*A=D
+# Set 0x5d60 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d60
+*A=D
+# Set 0x5d61 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d61
+*A=D
+# Set 0x5d62 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d62
+*A=D
+# Set 0x5d63 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d63
+*A=D
+# Set 0x5d64 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d64
+*A=D
+# Set 0x5d65 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d65
+*A=D
+# Set 0x5d66 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d66
+*A=D
+# Set 0x5d67 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5d67
+*A=D
+# Set 0x5d68 to 26428
+A=0x673c
+D=A
+A=0x5d68
+*A=D
+# Set 0x5d69 to 32767
+A=0x7fff
+D=A
+A=0x5d69
+*A=D
+# Set 0x5d6a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d6a
+*A=D
+# Set 0x5d6b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d6b
+*A=D
+# Set 0x5d6c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d6c
+*A=D
+# Set 0x5d6d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d6d
+*A=D
+# Set 0x5d6e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d6e
+*A=D
+# Set 0x5d6f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d6f
+*A=D
+# Set 0x5d70 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d70
+*A=D
+# Set 0x5d71 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d71
+*A=D
+# Set 0x5d72 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d72
+*A=D
+# Set 0x5d73 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d73
+*A=D
+# Set 0x5d74 to 65023
+A=0x7fff
+D=A
+A=0x7e00
+D=D+A
+A=0x5d74
+*A=D
+# Set 0x5d75 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d75
+*A=D
+# Set 0x5d76 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d76
+*A=D
+# Set 0x5d77 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d77
+*A=D
+# Set 0x5d78 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d78
+*A=D
+# Set 0x5d79 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d79
+*A=D
+# Set 0x5d7a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d7a
+*A=D
+# Set 0x5d7b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d7b
+*A=D
+# Set 0x5d7c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d7c
+*A=D
+# Set 0x5d7d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d7d
+*A=D
+# Set 0x5d7e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d7e
+*A=D
+# Set 0x5d7f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d7f
+*A=D
+# Set 0x5d80 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d80
+*A=D
+# Set 0x5d81 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d81
+*A=D
+# Set 0x5d82 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d82
+*A=D
+# Set 0x5d83 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d83
+*A=D
+# Set 0x5d84 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d84
+*A=D
+# Set 0x5d85 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d85
+*A=D
+# Set 0x5d86 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d86
+*A=D
+# Set 0x5d87 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5d87
+*A=D
+# Set 0x5d88 to 26398
+A=0x671e
+D=A
+A=0x5d88
+*A=D
+# Set 0x5d89 to 32767
+A=0x7fff
+D=A
+A=0x5d89
+*A=D
+# Set 0x5d8a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d8a
+*A=D
+# Set 0x5d8b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d8b
+*A=D
+# Set 0x5d8c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d8c
+*A=D
+# Set 0x5d8d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d8d
+*A=D
+# Set 0x5d8e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d8e
+*A=D
+# Set 0x5d8f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d8f
+*A=D
+# Set 0x5d90 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d90
+*A=D
+# Set 0x5d91 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d91
+*A=D
+# Set 0x5d92 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d92
+*A=D
+# Set 0x5d93 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d93
+*A=D
+# Set 0x5d94 to 63999
+A=0x7fff
+D=A
+A=0x7a00
+D=D+A
+A=0x5d94
+*A=D
+# Set 0x5d95 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d95
+*A=D
+# Set 0x5d96 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d96
+*A=D
+# Set 0x5d97 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d97
+*A=D
+# Set 0x5d98 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d98
+*A=D
+# Set 0x5d99 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d99
+*A=D
+# Set 0x5d9a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d9a
+*A=D
+# Set 0x5d9b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d9b
+*A=D
+# Set 0x5d9c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d9c
+*A=D
+# Set 0x5d9d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d9d
+*A=D
+# Set 0x5d9e to 65279
+A=0x7fff
+D=A
+A=0x7f00
+D=D+A
+A=0x5d9e
+*A=D
+# Set 0x5d9f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5d9f
+*A=D
+# Set 0x5da0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5da0
+*A=D
+# Set 0x5da1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5da1
+*A=D
+# Set 0x5da2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5da2
+*A=D
+# Set 0x5da3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5da3
+*A=D
+# Set 0x5da4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5da4
+*A=D
+# Set 0x5da5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5da5
+*A=D
+# Set 0x5da6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5da6
+*A=D
+# Set 0x5da7 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5da7
+*A=D
+# Set 0x5da8 to 543
+A=0x21f
+D=A
+A=0x5da8
+*A=D
+# Set 0x5da9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5da9
+*A=D
+# Set 0x5daa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5daa
+*A=D
+# Set 0x5dab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dab
+*A=D
+# Set 0x5dac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dac
+*A=D
+# Set 0x5dad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dad
+*A=D
+# Set 0x5dae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dae
+*A=D
+# Set 0x5daf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5daf
+*A=D
+# Set 0x5db0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5db0
+*A=D
+# Set 0x5db1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5db1
+*A=D
+# Set 0x5db2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5db2
+*A=D
+# Set 0x5db3 to 63975
+A=0x7fff
+D=A
+A=0x79e8
+D=D+A
+A=0x5db3
+*A=D
+# Set 0x5db4 to 6655
+A=0x19ff
+D=A
+A=0x5db4
+*A=D
+# Set 0x5db5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5db5
+*A=D
+# Set 0x5db6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5db6
+*A=D
+# Set 0x5db7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5db7
+*A=D
+# Set 0x5db8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5db8
+*A=D
+# Set 0x5db9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5db9
+*A=D
+# Set 0x5dba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dba
+*A=D
+# Set 0x5dbb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dbb
+*A=D
+# Set 0x5dbc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dbc
+*A=D
+# Set 0x5dbd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dbd
+*A=D
+# Set 0x5dbe to 65508
+A=0x7fff
+D=A
+A=0x7fe5
+D=D+A
+A=0x5dbe
+*A=D
+# Set 0x5dbf to 32767
+A=0x7fff
+D=A
+A=0x5dbf
+*A=D
+# Set 0x5dc0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dc0
+*A=D
+# Set 0x5dc1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dc1
+*A=D
+# Set 0x5dc2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dc2
+*A=D
+# Set 0x5dc3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dc3
+*A=D
+# Set 0x5dc4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dc4
+*A=D
+# Set 0x5dc5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dc5
+*A=D
+# Set 0x5dc6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dc6
+*A=D
+# Set 0x5dc7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dc7
+*A=D
+# Set 0x5dc8 to 40959
+A=0x7fff
+D=A
+A=0x2000
+D=D+A
+A=0x5dc8
+*A=D
+# Set 0x5dc9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dc9
+*A=D
+# Set 0x5dca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dca
+*A=D
+# Set 0x5dcb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dcb
+*A=D
+# Set 0x5dcc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dcc
+*A=D
+# Set 0x5dcd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dcd
+*A=D
+# Set 0x5dce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dce
+*A=D
+# Set 0x5dcf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dcf
+*A=D
+# Set 0x5dd0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dd0
+*A=D
+# Set 0x5dd1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dd1
+*A=D
+# Set 0x5dd2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dd2
+*A=D
+# Set 0x5dd3 to 63682
+A=0x7fff
+D=A
+A=0x78c3
+D=D+A
+A=0x5dd3
+*A=D
+# Set 0x5dd4 to 7679
+A=0x1dff
+D=A
+A=0x5dd4
+*A=D
+# Set 0x5dd5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dd5
+*A=D
+# Set 0x5dd6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dd6
+*A=D
+# Set 0x5dd7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dd7
+*A=D
+# Set 0x5dd8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dd8
+*A=D
+# Set 0x5dd9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dd9
+*A=D
+# Set 0x5dda to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dda
+*A=D
+# Set 0x5ddb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ddb
+*A=D
+# Set 0x5ddc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ddc
+*A=D
+# Set 0x5ddd to 64991
+A=0x7fff
+D=A
+A=0x7de0
+D=D+A
+A=0x5ddd
+*A=D
+# Set 0x5dde to 50389
+A=0x7fff
+D=A
+A=0x44d6
+D=D+A
+A=0x5dde
+*A=D
+# Set 0x5ddf to 32767
+A=0x7fff
+D=A
+A=0x5ddf
+*A=D
+# Set 0x5de0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5de0
+*A=D
+# Set 0x5de1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5de1
+*A=D
+# Set 0x5de2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5de2
+*A=D
+# Set 0x5de3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5de3
+*A=D
+# Set 0x5de4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5de4
+*A=D
+# Set 0x5de5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5de5
+*A=D
+# Set 0x5de6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5de6
+*A=D
+# Set 0x5de7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5de7
+*A=D
+# Set 0x5de8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5de8
+*A=D
+# Set 0x5de9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5de9
+*A=D
+# Set 0x5dea to 65519
+A=0x7fff
+D=A
+A=0x7ff0
+D=D+A
+A=0x5dea
+*A=D
+# Set 0x5deb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5deb
+*A=D
+# Set 0x5dec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dec
+*A=D
+# Set 0x5ded to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ded
+*A=D
+# Set 0x5dee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dee
+*A=D
+# Set 0x5def to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5def
+*A=D
+# Set 0x5df0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5df0
+*A=D
+# Set 0x5df1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5df1
+*A=D
+# Set 0x5df2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5df2
+*A=D
+# Set 0x5df3 to 63619
+A=0x7fff
+D=A
+A=0x7884
+D=D+A
+A=0x5df3
+*A=D
+# Set 0x5df4 to 7679
+A=0x1dff
+D=A
+A=0x5df4
+*A=D
+# Set 0x5df5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5df5
+*A=D
+# Set 0x5df6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5df6
+*A=D
+# Set 0x5df7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5df7
+*A=D
+# Set 0x5df8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5df8
+*A=D
+# Set 0x5df9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5df9
+*A=D
+# Set 0x5dfa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dfa
+*A=D
+# Set 0x5dfb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dfb
+*A=D
+# Set 0x5dfc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5dfc
+*A=D
+# Set 0x5dfd to 56772
+A=0x7fff
+D=A
+A=0x5dc5
+D=D+A
+A=0x5dfd
+*A=D
+# Set 0x5dfe to 24277
+A=0x5ed5
+D=A
+A=0x5dfe
+*A=D
+# Set 0x5dff to 32767
+A=0x7fff
+D=A
+A=0x5dff
+*A=D
+# Set 0x5e00 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e00
+*A=D
+# Set 0x5e01 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e01
+*A=D
+# Set 0x5e02 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e02
+*A=D
+# Set 0x5e03 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e03
+*A=D
+# Set 0x5e04 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e04
+*A=D
+# Set 0x5e05 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e05
+*A=D
+# Set 0x5e06 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e06
+*A=D
+# Set 0x5e07 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e07
+*A=D
+# Set 0x5e08 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e08
+*A=D
+# Set 0x5e09 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e09
+*A=D
+# Set 0x5e0a to 65519
+A=0x7fff
+D=A
+A=0x7ff0
+D=D+A
+A=0x5e0a
+*A=D
+# Set 0x5e0b to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x5e0b
+*A=D
+# Set 0x5e0c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e0c
+*A=D
+# Set 0x5e0d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e0d
+*A=D
+# Set 0x5e0e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e0e
+*A=D
+# Set 0x5e0f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e0f
+*A=D
+# Set 0x5e10 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e10
+*A=D
+# Set 0x5e11 to 62463
+A=0x7fff
+D=A
+A=0x7400
+D=D+A
+A=0x5e11
+*A=D
+# Set 0x5e12 to 13055
+A=0x32ff
+D=A
+A=0x5e12
+*A=D
+# Set 0x5e13 to 64666
+A=0x7fff
+D=A
+A=0x7c9b
+D=D+A
+A=0x5e13
+*A=D
+# Set 0x5e14 to 4351
+A=0x10ff
+D=A
+A=0x5e14
+*A=D
+# Set 0x5e15 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e15
+*A=D
+# Set 0x5e16 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e16
+*A=D
+# Set 0x5e17 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e17
+*A=D
+# Set 0x5e18 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e18
+*A=D
+# Set 0x5e19 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e19
+*A=D
+# Set 0x5e1a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e1a
+*A=D
+# Set 0x5e1b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e1b
+*A=D
+# Set 0x5e1c to 65503
+A=0x7fff
+D=A
+A=0x7fe0
+D=D+A
+A=0x5e1c
+*A=D
+# Set 0x5e1d to 56780
+A=0x7fff
+D=A
+A=0x5dcd
+D=D+A
+A=0x5e1d
+*A=D
+# Set 0x5e1e to 24261
+A=0x5ec5
+D=A
+A=0x5e1e
+*A=D
+# Set 0x5e1f to 32767
+A=0x7fff
+D=A
+A=0x5e1f
+*A=D
+# Set 0x5e20 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e20
+*A=D
+# Set 0x5e21 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e21
+*A=D
+# Set 0x5e22 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e22
+*A=D
+# Set 0x5e23 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e23
+*A=D
+# Set 0x5e24 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e24
+*A=D
+# Set 0x5e25 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e25
+*A=D
+# Set 0x5e26 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e26
+*A=D
+# Set 0x5e27 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e27
+*A=D
+# Set 0x5e28 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e28
+*A=D
+# Set 0x5e29 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e29
+*A=D
+# Set 0x5e2a to 65412
+A=0x7fff
+D=A
+A=0x7f85
+D=D+A
+A=0x5e2a
+*A=D
+# Set 0x5e2b to 40959
+A=0x7fff
+D=A
+A=0x2000
+D=D+A
+A=0x5e2b
+*A=D
+# Set 0x5e2c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e2c
+*A=D
+# Set 0x5e2d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e2d
+*A=D
+# Set 0x5e2e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e2e
+*A=D
+# Set 0x5e2f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e2f
+*A=D
+# Set 0x5e30 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e30
+*A=D
+# Set 0x5e31 to 61894
+A=0x7fff
+D=A
+A=0x71c7
+D=D+A
+A=0x5e31
+*A=D
+# Set 0x5e32 to 6399
+A=0x18ff
+D=A
+A=0x5e32
+*A=D
+# Set 0x5e33 to 64707
+A=0x7fff
+D=A
+A=0x7cc4
+D=D+A
+A=0x5e33
+*A=D
+# Set 0x5e34 to 32767
+A=0x7fff
+D=A
+A=0x5e34
+*A=D
+# Set 0x5e35 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e35
+*A=D
+# Set 0x5e36 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e36
+*A=D
+# Set 0x5e37 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e37
+*A=D
+# Set 0x5e38 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e38
+*A=D
+# Set 0x5e39 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e39
+*A=D
+# Set 0x5e3a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e3a
+*A=D
+# Set 0x5e3b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e3b
+*A=D
+# Set 0x5e3c to 15248
+A=0x3b90
+D=A
+A=0x5e3c
+*A=D
+# Set 0x5e3d to 56776
+A=0x7fff
+D=A
+A=0x5dc9
+D=D+A
+A=0x5e3d
+*A=D
+# Set 0x5e3e to 17535
+A=0x447f
+D=A
+A=0x5e3e
+*A=D
+# Set 0x5e3f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e3f
+*A=D
+# Set 0x5e40 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e40
+*A=D
+# Set 0x5e41 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e41
+*A=D
+# Set 0x5e42 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e42
+*A=D
+# Set 0x5e43 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e43
+*A=D
+# Set 0x5e44 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e44
+*A=D
+# Set 0x5e45 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e45
+*A=D
+# Set 0x5e46 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e46
+*A=D
+# Set 0x5e47 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e47
+*A=D
+# Set 0x5e48 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e48
+*A=D
+# Set 0x5e49 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e49
+*A=D
+# Set 0x5e4a to 49678
+A=0x7fff
+D=A
+A=0x420f
+D=D+A
+A=0x5e4a
+*A=D
+# Set 0x5e4b to 16383
+A=0x3fff
+D=A
+A=0x5e4b
+*A=D
+# Set 0x5e4c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e4c
+*A=D
+# Set 0x5e4d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e4d
+*A=D
+# Set 0x5e4e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e4e
+*A=D
+# Set 0x5e4f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e4f
+*A=D
+# Set 0x5e50 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e50
+*A=D
+# Set 0x5e51 to 61826
+A=0x7fff
+D=A
+A=0x7183
+D=D+A
+A=0x5e51
+*A=D
+# Set 0x5e52 to 6351
+A=0x18cf
+D=A
+A=0x5e52
+*A=D
+# Set 0x5e53 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e53
+*A=D
+# Set 0x5e54 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e54
+*A=D
+# Set 0x5e55 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e55
+*A=D
+# Set 0x5e56 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e56
+*A=D
+# Set 0x5e57 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e57
+*A=D
+# Set 0x5e58 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e58
+*A=D
+# Set 0x5e59 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e59
+*A=D
+# Set 0x5e5a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e5a
+*A=D
+# Set 0x5e5b to 65247
+A=0x7fff
+D=A
+A=0x7ee0
+D=D+A
+A=0x5e5b
+*A=D
+# Set 0x5e5c to 45530
+A=0x7fff
+D=A
+A=0x31db
+D=D+A
+A=0x5e5c
+*A=D
+# Set 0x5e5d to 24004
+A=0x5dc4
+D=A
+A=0x5e5d
+*A=D
+# Set 0x5e5e to 32767
+A=0x7fff
+D=A
+A=0x5e5e
+*A=D
+# Set 0x5e5f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e5f
+*A=D
+# Set 0x5e60 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e60
+*A=D
+# Set 0x5e61 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e61
+*A=D
+# Set 0x5e62 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e62
+*A=D
+# Set 0x5e63 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e63
+*A=D
+# Set 0x5e64 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e64
+*A=D
+# Set 0x5e65 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e65
+*A=D
+# Set 0x5e66 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e66
+*A=D
+# Set 0x5e67 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e67
+*A=D
+# Set 0x5e68 to 65533
+A=0x7fff
+D=A
+A=0x7ffe
+D=D+A
+A=0x5e68
+*A=D
+# Set 0x5e69 to 63999
+A=0x7fff
+D=A
+A=0x7a00
+D=D+A
+A=0x5e69
+*A=D
+# Set 0x5e6a to 33518
+A=0x7fff
+D=A
+A=0x2ef
+D=D+A
+A=0x5e6a
+*A=D
+# Set 0x5e6b to 16383
+A=0x3fff
+D=A
+A=0x5e6b
+*A=D
+# Set 0x5e6c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e6c
+*A=D
+# Set 0x5e6d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e6d
+*A=D
+# Set 0x5e6e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e6e
+*A=D
+# Set 0x5e6f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e6f
+*A=D
+# Set 0x5e70 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e70
+*A=D
+# Set 0x5e71 to 61836
+A=0x7fff
+D=A
+A=0x718d
+D=D+A
+A=0x5e71
+*A=D
+# Set 0x5e72 to 37455
+A=0x7fff
+D=A
+A=0x1250
+D=D+A
+A=0x5e72
+*A=D
+# Set 0x5e73 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e73
+*A=D
+# Set 0x5e74 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e74
+*A=D
+# Set 0x5e75 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e75
+*A=D
+# Set 0x5e76 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e76
+*A=D
+# Set 0x5e77 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e77
+*A=D
+# Set 0x5e78 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e78
+*A=D
+# Set 0x5e79 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e79
+*A=D
+# Set 0x5e7a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e7a
+*A=D
+# Set 0x5e7b to 65029
+A=0x7fff
+D=A
+A=0x7e06
+D=D+A
+A=0x5e7b
+*A=D
+# Set 0x5e7c to 48090
+A=0x7fff
+D=A
+A=0x3bdb
+D=D+A
+A=0x5e7c
+*A=D
+# Set 0x5e7d to 51327
+A=0x7fff
+D=A
+A=0x4880
+D=D+A
+A=0x5e7d
+*A=D
+# Set 0x5e7e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e7e
+*A=D
+# Set 0x5e7f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e7f
+*A=D
+# Set 0x5e80 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e80
+*A=D
+# Set 0x5e81 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e81
+*A=D
+# Set 0x5e82 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e82
+*A=D
+# Set 0x5e83 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e83
+*A=D
+# Set 0x5e84 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e84
+*A=D
+# Set 0x5e85 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e85
+*A=D
+# Set 0x5e86 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e86
+*A=D
+# Set 0x5e87 to 65479
+A=0x7fff
+D=A
+A=0x7fc8
+D=D+A
+A=0x5e87
+*A=D
+# Set 0x5e88 to 65304
+A=0x7fff
+D=A
+A=0x7f19
+D=D+A
+A=0x5e88
+*A=D
+# Set 0x5e89 to 14847
+A=0x39ff
+D=A
+A=0x5e89
+*A=D
+# Set 0x5e8a to 740
+A=0x2e4
+D=A
+A=0x5e8a
+*A=D
+# Set 0x5e8b to 40959
+A=0x7fff
+D=A
+A=0x2000
+D=D+A
+A=0x5e8b
+*A=D
+# Set 0x5e8c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e8c
+*A=D
+# Set 0x5e8d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e8d
+*A=D
+# Set 0x5e8e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e8e
+*A=D
+# Set 0x5e8f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e8f
+*A=D
+# Set 0x5e90 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e90
+*A=D
+# Set 0x5e91 to 64134
+A=0x7fff
+D=A
+A=0x7a87
+D=D+A
+A=0x5e91
+*A=D
+# Set 0x5e92 to 6111
+A=0x17df
+D=A
+A=0x5e92
+*A=D
+# Set 0x5e93 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e93
+*A=D
+# Set 0x5e94 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e94
+*A=D
+# Set 0x5e95 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e95
+*A=D
+# Set 0x5e96 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e96
+*A=D
+# Set 0x5e97 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e97
+*A=D
+# Set 0x5e98 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e98
+*A=D
+# Set 0x5e99 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e99
+*A=D
+# Set 0x5e9a to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5e9a
+*A=D
+# Set 0x5e9b to 15893
+A=0x3e15
+D=A
+A=0x5e9b
+*A=D
+# Set 0x5e9c to 47752
+A=0x7fff
+D=A
+A=0x3a89
+D=D+A
+A=0x5e9c
+*A=D
+# Set 0x5e9d to 57343
+A=0x7fff
+D=A
+A=0x6000
+D=D+A
+A=0x5e9d
+*A=D
+# Set 0x5e9e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e9e
+*A=D
+# Set 0x5e9f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5e9f
+*A=D
+# Set 0x5ea0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ea0
+*A=D
+# Set 0x5ea1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ea1
+*A=D
+# Set 0x5ea2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ea2
+*A=D
+# Set 0x5ea3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ea3
+*A=D
+# Set 0x5ea4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ea4
+*A=D
+# Set 0x5ea5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ea5
+*A=D
+# Set 0x5ea6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ea6
+*A=D
+# Set 0x5ea7 to 65283
+A=0x7fff
+D=A
+A=0x7f04
+D=D+A
+A=0x5ea7
+*A=D
+# Set 0x5ea8 to 36381
+A=0x7fff
+D=A
+A=0xe1e
+D=D+A
+A=0x5ea8
+*A=D
+# Set 0x5ea9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ea9
+*A=D
+# Set 0x5eaa to 37376
+A=0x7fff
+D=A
+A=0x1201
+D=D+A
+A=0x5eaa
+*A=D
+# Set 0x5eab to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x5eab
+*A=D
+# Set 0x5eac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eac
+*A=D
+# Set 0x5ead to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ead
+*A=D
+# Set 0x5eae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eae
+*A=D
+# Set 0x5eaf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eaf
+*A=D
+# Set 0x5eb0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eb0
+*A=D
+# Set 0x5eb1 to 63951
+A=0x7fff
+D=A
+A=0x79d0
+D=D+A
+A=0x5eb1
+*A=D
+# Set 0x5eb2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eb2
+*A=D
+# Set 0x5eb3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eb3
+*A=D
+# Set 0x5eb4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eb4
+*A=D
+# Set 0x5eb5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eb5
+*A=D
+# Set 0x5eb6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eb6
+*A=D
+# Set 0x5eb7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eb7
+*A=D
+# Set 0x5eb8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eb8
+*A=D
+# Set 0x5eb9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eb9
+*A=D
+# Set 0x5eba to 64582
+A=0x7fff
+D=A
+A=0x7c47
+D=D+A
+A=0x5eba
+*A=D
+# Set 0x5ebb to 32277
+A=0x7e15
+D=A
+A=0x5ebb
+*A=D
+# Set 0x5ebc to 39355
+A=0x7fff
+D=A
+A=0x19bc
+D=D+A
+A=0x5ebc
+*A=D
+# Set 0x5ebd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ebd
+*A=D
+# Set 0x5ebe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ebe
+*A=D
+# Set 0x5ebf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ebf
+*A=D
+# Set 0x5ec0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ec0
+*A=D
+# Set 0x5ec1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ec1
+*A=D
+# Set 0x5ec2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ec2
+*A=D
+# Set 0x5ec3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ec3
+*A=D
+# Set 0x5ec4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ec4
+*A=D
+# Set 0x5ec5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ec5
+*A=D
+# Set 0x5ec6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ec6
+*A=D
+# Set 0x5ec7 to 65467
+A=0x7fff
+D=A
+A=0x7fbc
+D=D+A
+A=0x5ec7
+*A=D
+# Set 0x5ec8 to 1565
+A=0x61d
+D=A
+A=0x5ec8
+*A=D
+# Set 0x5ec9 to 65023
+A=0x7fff
+D=A
+A=0x7e00
+D=D+A
+A=0x5ec9
+*A=D
+# Set 0x5eca to 34815
+A=0x7fff
+D=A
+A=0x800
+D=D+A
+A=0x5eca
+*A=D
+# Set 0x5ecb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ecb
+*A=D
+# Set 0x5ecc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ecc
+*A=D
+# Set 0x5ecd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ecd
+*A=D
+# Set 0x5ece to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ece
+*A=D
+# Set 0x5ecf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ecf
+*A=D
+# Set 0x5ed0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ed0
+*A=D
+# Set 0x5ed1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ed1
+*A=D
+# Set 0x5ed2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ed2
+*A=D
+# Set 0x5ed3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ed3
+*A=D
+# Set 0x5ed4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ed4
+*A=D
+# Set 0x5ed5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ed5
+*A=D
+# Set 0x5ed6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ed6
+*A=D
+# Set 0x5ed7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ed7
+*A=D
+# Set 0x5ed8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ed8
+*A=D
+# Set 0x5ed9 to 62457
+A=0x7fff
+D=A
+A=0x73fa
+D=D+A
+A=0x5ed9
+*A=D
+# Set 0x5eda to 34882
+A=0x7fff
+D=A
+A=0x843
+D=D+A
+A=0x5eda
+*A=D
+# Set 0x5edb to 65233
+A=0x7fff
+D=A
+A=0x7ed2
+D=D+A
+A=0x5edb
+*A=D
+# Set 0x5edc to 16379
+A=0x3ffb
+D=A
+A=0x5edc
+*A=D
+# Set 0x5edd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5edd
+*A=D
+# Set 0x5ede to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ede
+*A=D
+# Set 0x5edf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5edf
+*A=D
+# Set 0x5ee0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ee0
+*A=D
+# Set 0x5ee1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ee1
+*A=D
+# Set 0x5ee2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ee2
+*A=D
+# Set 0x5ee3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ee3
+*A=D
+# Set 0x5ee4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ee4
+*A=D
+# Set 0x5ee5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ee5
+*A=D
+# Set 0x5ee6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ee6
+*A=D
+# Set 0x5ee7 to 65410
+A=0x7fff
+D=A
+A=0x7f83
+D=D+A
+A=0x5ee7
+*A=D
+# Set 0x5ee8 to 1805
+A=0x70d
+D=A
+A=0x5ee8
+*A=D
+# Set 0x5ee9 to 47615
+A=0x7fff
+D=A
+A=0x3a00
+D=D+A
+A=0x5ee9
+*A=D
+# Set 0x5eea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eea
+*A=D
+# Set 0x5eeb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eeb
+*A=D
+# Set 0x5eec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eec
+*A=D
+# Set 0x5eed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eed
+*A=D
+# Set 0x5eee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eee
+*A=D
+# Set 0x5eef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eef
+*A=D
+# Set 0x5ef0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ef0
+*A=D
+# Set 0x5ef1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ef1
+*A=D
+# Set 0x5ef2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ef2
+*A=D
+# Set 0x5ef3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ef3
+*A=D
+# Set 0x5ef4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ef4
+*A=D
+# Set 0x5ef5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ef5
+*A=D
+# Set 0x5ef6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ef6
+*A=D
+# Set 0x5ef7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ef7
+*A=D
+# Set 0x5ef8 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5ef8
+*A=D
+# Set 0x5ef9 to 25361
+A=0x6311
+D=A
+A=0x5ef9
+*A=D
+# Set 0x5efa to 33630
+A=0x7fff
+D=A
+A=0x35f
+D=D+A
+A=0x5efa
+*A=D
+# Set 0x5efb to 65279
+A=0x7fff
+D=A
+A=0x7f00
+D=D+A
+A=0x5efb
+*A=D
+# Set 0x5efc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5efc
+*A=D
+# Set 0x5efd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5efd
+*A=D
+# Set 0x5efe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5efe
+*A=D
+# Set 0x5eff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5eff
+*A=D
+# Set 0x5f00 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f00
+*A=D
+# Set 0x5f01 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f01
+*A=D
+# Set 0x5f02 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f02
+*A=D
+# Set 0x5f03 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f03
+*A=D
+# Set 0x5f04 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f04
+*A=D
+# Set 0x5f05 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5f05
+*A=D
+# Set 0x5f06 to 29311
+A=0x727f
+D=A
+A=0x5f06
+*A=D
+# Set 0x5f07 to 65410
+A=0x7fff
+D=A
+A=0x7f83
+D=D+A
+A=0x5f07
+*A=D
+# Set 0x5f08 to 31772
+A=0x7c1c
+D=A
+A=0x5f08
+*A=D
+# Set 0x5f09 to 16383
+A=0x3fff
+D=A
+A=0x5f09
+*A=D
+# Set 0x5f0a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f0a
+*A=D
+# Set 0x5f0b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f0b
+*A=D
+# Set 0x5f0c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f0c
+*A=D
+# Set 0x5f0d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f0d
+*A=D
+# Set 0x5f0e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f0e
+*A=D
+# Set 0x5f0f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f0f
+*A=D
+# Set 0x5f10 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f10
+*A=D
+# Set 0x5f11 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f11
+*A=D
+# Set 0x5f12 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f12
+*A=D
+# Set 0x5f13 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f13
+*A=D
+# Set 0x5f14 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f14
+*A=D
+# Set 0x5f15 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f15
+*A=D
+# Set 0x5f16 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f16
+*A=D
+# Set 0x5f17 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f17
+*A=D
+# Set 0x5f18 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5f18
+*A=D
+# Set 0x5f19 to 14171
+A=0x375b
+D=A
+A=0x5f19
+*A=D
+# Set 0x5f1a to 6212
+A=0x1844
+D=A
+A=0x5f1a
+*A=D
+# Set 0x5f1b to 32767
+A=0x7fff
+D=A
+A=0x5f1b
+*A=D
+# Set 0x5f1c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f1c
+*A=D
+# Set 0x5f1d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f1d
+*A=D
+# Set 0x5f1e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f1e
+*A=D
+# Set 0x5f1f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f1f
+*A=D
+# Set 0x5f20 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f20
+*A=D
+# Set 0x5f21 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f21
+*A=D
+# Set 0x5f22 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f22
+*A=D
+# Set 0x5f23 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f23
+*A=D
+# Set 0x5f24 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f24
+*A=D
+# Set 0x5f25 to 65080
+A=0x7fff
+D=A
+A=0x7e39
+D=D+A
+A=0x5f25
+*A=D
+# Set 0x5f26 to 12543
+A=0x30ff
+D=A
+A=0x5f26
+*A=D
+# Set 0x5f27 to 65465
+A=0x7fff
+D=A
+A=0x7fba
+D=D+A
+A=0x5f27
+*A=D
+# Set 0x5f28 to 1599
+A=0x63f
+D=A
+A=0x5f28
+*A=D
+# Set 0x5f29 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f29
+*A=D
+# Set 0x5f2a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f2a
+*A=D
+# Set 0x5f2b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f2b
+*A=D
+# Set 0x5f2c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f2c
+*A=D
+# Set 0x5f2d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f2d
+*A=D
+# Set 0x5f2e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f2e
+*A=D
+# Set 0x5f2f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f2f
+*A=D
+# Set 0x5f30 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f30
+*A=D
+# Set 0x5f31 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f31
+*A=D
+# Set 0x5f32 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f32
+*A=D
+# Set 0x5f33 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f33
+*A=D
+# Set 0x5f34 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f34
+*A=D
+# Set 0x5f35 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f35
+*A=D
+# Set 0x5f36 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f36
+*A=D
+# Set 0x5f37 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f37
+*A=D
+# Set 0x5f38 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5f38
+*A=D
+# Set 0x5f39 to 14170
+A=0x375a
+D=A
+A=0x5f39
+*A=D
+# Set 0x5f3a to 35967
+A=0x7fff
+D=A
+A=0xc80
+D=D+A
+A=0x5f3a
+*A=D
+# Set 0x5f3b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f3b
+*A=D
+# Set 0x5f3c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f3c
+*A=D
+# Set 0x5f3d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f3d
+*A=D
+# Set 0x5f3e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f3e
+*A=D
+# Set 0x5f3f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f3f
+*A=D
+# Set 0x5f40 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f40
+*A=D
+# Set 0x5f41 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f41
+*A=D
+# Set 0x5f42 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f42
+*A=D
+# Set 0x5f43 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f43
+*A=D
+# Set 0x5f44 to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x5f44
+*A=D
+# Set 0x5f45 to 64540
+A=0x7fff
+D=A
+A=0x7c1d
+D=D+A
+A=0x5f45
+*A=D
+# Set 0x5f46 to 14579
+A=0x38f3
+D=A
+A=0x5f46
+*A=D
+# Set 0x5f47 to 65305
+A=0x7fff
+D=A
+A=0x7f1a
+D=D+A
+A=0x5f47
+*A=D
+# Set 0x5f48 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f48
+*A=D
+# Set 0x5f49 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f49
+*A=D
+# Set 0x5f4a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f4a
+*A=D
+# Set 0x5f4b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f4b
+*A=D
+# Set 0x5f4c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f4c
+*A=D
+# Set 0x5f4d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f4d
+*A=D
+# Set 0x5f4e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f4e
+*A=D
+# Set 0x5f4f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f4f
+*A=D
+# Set 0x5f50 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f50
+*A=D
+# Set 0x5f51 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f51
+*A=D
+# Set 0x5f52 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f52
+*A=D
+# Set 0x5f53 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f53
+*A=D
+# Set 0x5f54 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f54
+*A=D
+# Set 0x5f55 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f55
+*A=D
+# Set 0x5f56 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f56
+*A=D
+# Set 0x5f57 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f57
+*A=D
+# Set 0x5f58 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5f58
+*A=D
+# Set 0x5f59 to 13129
+A=0x3349
+D=A
+A=0x5f59
+*A=D
+# Set 0x5f5a to 64639
+A=0x7fff
+D=A
+A=0x7c80
+D=D+A
+A=0x5f5a
+*A=D
+# Set 0x5f5b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f5b
+*A=D
+# Set 0x5f5c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f5c
+*A=D
+# Set 0x5f5d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f5d
+*A=D
+# Set 0x5f5e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f5e
+*A=D
+# Set 0x5f5f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f5f
+*A=D
+# Set 0x5f60 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f60
+*A=D
+# Set 0x5f61 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f61
+*A=D
+# Set 0x5f62 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x5f62
+*A=D
+# Set 0x5f63 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f63
+*A=D
+# Set 0x5f64 to 1951
+A=0x79f
+D=A
+A=0x5f64
+*A=D
+# Set 0x5f65 to 63512
+A=0x7fff
+D=A
+A=0x7819
+D=D+A
+A=0x5f65
+*A=D
+# Set 0x5f66 to 12915
+A=0x3273
+D=A
+A=0x5f66
+*A=D
+# Set 0x5f67 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f67
+*A=D
+# Set 0x5f68 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f68
+*A=D
+# Set 0x5f69 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f69
+*A=D
+# Set 0x5f6a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f6a
+*A=D
+# Set 0x5f6b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f6b
+*A=D
+# Set 0x5f6c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f6c
+*A=D
+# Set 0x5f6d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f6d
+*A=D
+# Set 0x5f6e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f6e
+*A=D
+# Set 0x5f6f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f6f
+*A=D
+# Set 0x5f70 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f70
+*A=D
+# Set 0x5f71 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f71
+*A=D
+# Set 0x5f72 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f72
+*A=D
+# Set 0x5f73 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f73
+*A=D
+# Set 0x5f74 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f74
+*A=D
+# Set 0x5f75 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f75
+*A=D
+# Set 0x5f76 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f76
+*A=D
+# Set 0x5f77 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f77
+*A=D
+# Set 0x5f78 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5f78
+*A=D
+# Set 0x5f79 to 25471
+A=0x637f
+D=A
+A=0x5f79
+*A=D
+# Set 0x5f7a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f7a
+*A=D
+# Set 0x5f7b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f7b
+*A=D
+# Set 0x5f7c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f7c
+*A=D
+# Set 0x5f7d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f7d
+*A=D
+# Set 0x5f7e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f7e
+*A=D
+# Set 0x5f7f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f7f
+*A=D
+# Set 0x5f80 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f80
+*A=D
+# Set 0x5f81 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f81
+*A=D
+# Set 0x5f82 to 65527
+A=0x7fff
+D=A
+A=0x7ff8
+D=D+A
+A=0x5f82
+*A=D
+# Set 0x5f83 to 65283
+A=0x7fff
+D=A
+A=0x7f04
+D=D+A
+A=0x5f83
+*A=D
+# Set 0x5f84 to 4063
+A=0xfdf
+D=A
+A=0x5f84
+*A=D
+# Set 0x5f85 to 63986
+A=0x7fff
+D=A
+A=0x79f3
+D=D+A
+A=0x5f85
+*A=D
+# Set 0x5f86 to 12851
+A=0x3233
+D=A
+A=0x5f86
+*A=D
+# Set 0x5f87 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f87
+*A=D
+# Set 0x5f88 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f88
+*A=D
+# Set 0x5f89 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f89
+*A=D
+# Set 0x5f8a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f8a
+*A=D
+# Set 0x5f8b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f8b
+*A=D
+# Set 0x5f8c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f8c
+*A=D
+# Set 0x5f8d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f8d
+*A=D
+# Set 0x5f8e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f8e
+*A=D
+# Set 0x5f8f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f8f
+*A=D
+# Set 0x5f90 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f90
+*A=D
+# Set 0x5f91 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f91
+*A=D
+# Set 0x5f92 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f92
+*A=D
+# Set 0x5f93 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f93
+*A=D
+# Set 0x5f94 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f94
+*A=D
+# Set 0x5f95 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f95
+*A=D
+# Set 0x5f96 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f96
+*A=D
+# Set 0x5f97 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f97
+*A=D
+# Set 0x5f98 to 65534
+A=0x7fff
+D=A
+D=D+A
+A=0x5f98
+*A=D
+# Set 0x5f99 to 32767
+A=0x7fff
+D=A
+A=0x5f99
+*A=D
+# Set 0x5f9a to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f9a
+*A=D
+# Set 0x5f9b to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f9b
+*A=D
+# Set 0x5f9c to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f9c
+*A=D
+# Set 0x5f9d to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f9d
+*A=D
+# Set 0x5f9e to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f9e
+*A=D
+# Set 0x5f9f to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5f9f
+*A=D
+# Set 0x5fa0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fa0
+*A=D
+# Set 0x5fa1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fa1
+*A=D
+# Set 0x5fa2 to 61415
+A=0x7fff
+D=A
+A=0x6fe8
+D=D+A
+A=0x5fa2
+*A=D
+# Set 0x5fa3 to 49555
+A=0x7fff
+D=A
+A=0x4194
+D=D+A
+A=0x5fa3
+*A=D
+# Set 0x5fa4 to 49151
+A=0x7fff
+D=A
+A=0x4000
+D=D+A
+A=0x5fa4
+*A=D
+# Set 0x5fa5 to 64536
+A=0x7fff
+D=A
+A=0x7c19
+D=D+A
+A=0x5fa5
+*A=D
+# Set 0x5fa6 to 16375
+A=0x3ff7
+D=A
+A=0x5fa6
+*A=D
+# Set 0x5fa7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fa7
+*A=D
+# Set 0x5fa8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fa8
+*A=D
+# Set 0x5fa9 to 61951
+A=0x7fff
+D=A
+A=0x7200
+D=D+A
+A=0x5fa9
+*A=D
+# Set 0x5faa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5faa
+*A=D
+# Set 0x5fab to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fab
+*A=D
+# Set 0x5fac to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fac
+*A=D
+# Set 0x5fad to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fad
+*A=D
+# Set 0x5fae to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fae
+*A=D
+# Set 0x5faf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5faf
+*A=D
+# Set 0x5fb0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fb0
+*A=D
+# Set 0x5fb1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fb1
+*A=D
+# Set 0x5fb2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fb2
+*A=D
+# Set 0x5fb3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fb3
+*A=D
+# Set 0x5fb4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fb4
+*A=D
+# Set 0x5fb5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fb5
+*A=D
+# Set 0x5fb6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fb6
+*A=D
+# Set 0x5fb7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fb7
+*A=D
+# Set 0x5fb8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fb8
+*A=D
+# Set 0x5fb9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fb9
+*A=D
+# Set 0x5fba to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fba
+*A=D
+# Set 0x5fbb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fbb
+*A=D
+# Set 0x5fbc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fbc
+*A=D
+# Set 0x5fbd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fbd
+*A=D
+# Set 0x5fbe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fbe
+*A=D
+# Set 0x5fbf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fbf
+*A=D
+# Set 0x5fc0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fc0
+*A=D
+# Set 0x5fc1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fc1
+*A=D
+# Set 0x5fc2 to 49607
+A=0x7fff
+D=A
+A=0x41c8
+D=D+A
+A=0x5fc2
+*A=D
+# Set 0x5fc3 to 33211
+A=0x7fff
+D=A
+A=0x1bc
+D=D+A
+A=0x5fc3
+*A=D
+# Set 0x5fc4 to 49055
+A=0x7fff
+D=A
+A=0x3fa0
+D=D+A
+A=0x5fc4
+*A=D
+# Set 0x5fc5 to 65151
+A=0x7fff
+D=A
+A=0x7e80
+D=D+A
+A=0x5fc5
+*A=D
+# Set 0x5fc6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fc6
+*A=D
+# Set 0x5fc7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fc7
+*A=D
+# Set 0x5fc8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fc8
+*A=D
+# Set 0x5fc9 to 63999
+A=0x7fff
+D=A
+A=0x7a00
+D=D+A
+A=0x5fc9
+*A=D
+# Set 0x5fca to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fca
+*A=D
+# Set 0x5fcb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fcb
+*A=D
+# Set 0x5fcc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fcc
+*A=D
+# Set 0x5fcd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fcd
+*A=D
+# Set 0x5fce to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fce
+*A=D
+# Set 0x5fcf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fcf
+*A=D
+# Set 0x5fd0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fd0
+*A=D
+# Set 0x5fd1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fd1
+*A=D
+# Set 0x5fd2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fd2
+*A=D
+# Set 0x5fd3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fd3
+*A=D
+# Set 0x5fd4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fd4
+*A=D
+# Set 0x5fd5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fd5
+*A=D
+# Set 0x5fd6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fd6
+*A=D
+# Set 0x5fd7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fd7
+*A=D
+# Set 0x5fd8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fd8
+*A=D
+# Set 0x5fd9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fd9
+*A=D
+# Set 0x5fda to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fda
+*A=D
+# Set 0x5fdb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fdb
+*A=D
+# Set 0x5fdc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fdc
+*A=D
+# Set 0x5fdd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fdd
+*A=D
+# Set 0x5fde to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fde
+*A=D
+# Set 0x5fdf to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fdf
+*A=D
+# Set 0x5fe0 to 65520
+A=0x7fff
+D=A
+A=0x7ff1
+D=D+A
+A=0x5fe0
+*A=D
+# Set 0x5fe1 to 65264
+A=0x7fff
+D=A
+A=0x7ef1
+D=D+A
+A=0x5fe1
+*A=D
+# Set 0x5fe2 to 51191
+A=0x7fff
+D=A
+A=0x47f8
+D=D+A
+A=0x5fe2
+*A=D
+# Set 0x5fe3 to 33211
+A=0x7fff
+D=A
+A=0x1bc
+D=D+A
+A=0x5fe3
+*A=D
+# Set 0x5fe4 to 33695
+A=0x7fff
+D=A
+A=0x3a0
+D=D+A
+A=0x5fe4
+*A=D
+# Set 0x5fe5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fe5
+*A=D
+# Set 0x5fe6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fe6
+*A=D
+# Set 0x5fe7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fe7
+*A=D
+# Set 0x5fe8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fe8
+*A=D
+# Set 0x5fe9 to 7679
+A=0x1dff
+D=A
+A=0x5fe9
+*A=D
+# Set 0x5fea to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fea
+*A=D
+# Set 0x5feb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5feb
+*A=D
+# Set 0x5fec to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fec
+*A=D
+# Set 0x5fed to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fed
+*A=D
+# Set 0x5fee to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fee
+*A=D
+# Set 0x5fef to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fef
+*A=D
+# Set 0x5ff0 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ff0
+*A=D
+# Set 0x5ff1 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ff1
+*A=D
+# Set 0x5ff2 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ff2
+*A=D
+# Set 0x5ff3 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ff3
+*A=D
+# Set 0x5ff4 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ff4
+*A=D
+# Set 0x5ff5 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ff5
+*A=D
+# Set 0x5ff6 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ff6
+*A=D
+# Set 0x5ff7 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ff7
+*A=D
+# Set 0x5ff8 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ff8
+*A=D
+# Set 0x5ff9 to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ff9
+*A=D
+# Set 0x5ffa to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ffa
+*A=D
+# Set 0x5ffb to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ffb
+*A=D
+# Set 0x5ffc to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ffc
+*A=D
+# Set 0x5ffd to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ffd
+*A=D
+# Set 0x5ffe to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5ffe
+*A=D
+# Set 0x5fff to 65535
+A=0x7fff
+D=A
+D=D+A
+D=D+1
+A=0x5fff
+*A=D
