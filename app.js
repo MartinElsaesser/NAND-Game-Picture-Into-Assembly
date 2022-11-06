@@ -6,12 +6,12 @@ const path = require("path");
 const asyncPixels = util.promisify(getPixels);
 
 !async function main() {
-	let pixels = await asyncPixels(path.join(__dirname, "./docker.png"));
+	let pixels = await asyncPixels(path.join(__dirname, "./shylily.png"));
 	let pixelsInWhiteAndBlack = [];
 
 	for (let i = 0; i < pixels.data.length; i += 4) {
-		let blackWhiteVal = pixels.data[i] === 255 ? 0 : 1;
-		// let blackWhiteVal = pixels.data[i] === 255 ? 1 : 0;
+		// let blackWhiteVal = pixels.data[i] === 255 ? 0 : 1;
+		let blackWhiteVal = pixels.data[i] === 255 ? 1 : 0;
 		pixelsInWhiteAndBlack.push(blackWhiteVal);
 	}
 	let pixelRegisterValues = get16bitPixelValues(pixelsInWhiteAndBlack);
@@ -69,8 +69,6 @@ function getCode(registerPixelMap) {
 	}
 	return code;
 }
-
-
 
 function splitNumberIntoSmallerOnes(number) {
 	// break Numbers bigger than 0x7fff/32767
