@@ -53,8 +53,8 @@ function getPixelValues(pixelData) {
 
 		let lightness = rgbaLigthness(red, green, blue, alpha);
 		// TODO: maybe find average lightness and use this as means to set boundaries
-		// let pixelValue = lightness > 60 ? 1 : 0;
-		let pixelValue = lightness > 10 && lightness < 60 ? 1 : 0;
+		let pixelValue = lightness > 60 ? 0 : 1;
+		// let pixelValue = lightness > 10 && lightness < 60 ? 1 : 0;
 		pixelsInWhiteAndBlack.push(pixelValue);
 	}
 	return pixelsInWhiteAndBlack;

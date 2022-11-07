@@ -1,8 +1,26 @@
-function file_description(name) {
-	return `# Output ${name} to the screen\n`;
+class Machine_Code_Builder {
+	code = "";
+	comment(string) {
+		this.code += `# ${string}\n`;
+	}
+	D$D_plus_A() {
+		this.code += "D=D+A\n";
+	}
+	D$D_plus_1() {
+		this.code += "D=D+1\n";
+	}
+	D$A() {
+		this.code += "D=A\n";
+	}
+	M$D() {
+		this.code += "*A=D\n";
+	}
+	A$(hex_num) {
+		this.code += `A=${hex_num}\n`;
+	}
 }
 
-function SPLIT_NUMBER(number) {
+function spiltNumber(number) {
 	// break Numbers bigger than 0x7fff/32767
 	// into smaller numbers, which can be loaded
 	// into the A register (number range is decreased because of op-code-bit)
@@ -17,63 +35,50 @@ function SPLIT_NUMBER(number) {
 	return addUpToValue;
 }
 
-function load_d_description(pixelValue) {
-	return `# Load ${pixelValue} into D Register\n`;
-}
-
-function LOAD_D_REGISTER(numbers) {
-	let loadDRegister = "";
-	for (let i = 0; i < numbers.length; i++) {
-		let num = numbers[i];
-		let lastNum = numbers[i - 1] || null;
-
-		if (i >= 1 && num === lastNum) {
-			loadDRegister += "D=D+A\n";
-			continue;
-		}
-		if (i >= 1 && num === 1) {
-			loadDRegister += "D=D+1\n";
-			continue;
-		}
-
-		loadDRegister += `A=${HEX_ADDRESS(num)}\n`;
-		// initially load number into D register than add
-		// the following numbers to the D register to make
-		// up the wanted number
-		// this must be done because of op-code limitation
-		loadDRegister += i === 0 ? "D=A\n" : "D=D+A\n";
-	}
-	return loadDRegister;
-}
-
-function HEX_ADDRESS(num) {
+function toHex(num) {
 	return `0x${num.toString(16)}`;
 }
 
-function load_address_description(hexAddress, register) {
-	return `# Set ${hexAddress} to ${register}\n`;
-}
-
-function LOAD_D_INTO_ADDRESS(hexAddress) {
-	return `A=${hexAddress}\n*A=D\n`;
-}
-
-// regPixMap of type PixelMap
 module.exports = function compile(regPixMap, imageName) {
-	let code = file_description(imageName);
+	let builder = new Machine_Code_Builder();
+	builder.comment(`Output ${imageName} to the screen`);
+
 
 	for (const pixels of regPixMap.pixels) {
+		builder.comment(`Load ${pixels} into D Register`);
+		let numbersArr = spiltNumber(pixels);
+
+
 		// load pixel Value into D register
-		code += load_d_description(pixels);
-		let numbersArr = SPLIT_NUMBER(pixels);
-		code += LOAD_D_REGISTER(numbersArr);
+		for (let i = 0; i < numbersArr.length; i++) {
+			let num = numbersArr[i], lastNum = numbersArr[i - 1] || null;
+			// optimization
+			if (i >= 1 && num === lastNum) {
+				builder.D$D_plus_A();
+				continue;
+			}
+			if (i >= 1 && num === 1) {
+				builder.D$D_plus_1();
+				continue;
+			}
+			// load first num into D, then keep adding following numbers to D
+			builder.A$(toHex(num));
+			if (i === 0) builder.D$A();
+			else builder.D$D_plus_A();
+		}
+
 
 		// save value of D register into ram registers
 		for (const register of regPixMap.getRegisters(pixels)) {
-			let hex_addr = HEX_ADDRESS(register);
-			code += load_address_description(hex_addr, pixels);
-			code += LOAD_D_INTO_ADDRESS(hex_addr);
+			let hex_addr = toHex(register);
+			builder.comment(`Set ${hex_addr} to ${register}`);
+			builder.A$(hex_addr);
+			builder.M$D();
 		}
+
+
 	}
-	return code;
+
+
+	return builder.code;
 }
