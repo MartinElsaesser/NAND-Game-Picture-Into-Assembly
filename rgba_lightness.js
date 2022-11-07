@@ -19,7 +19,12 @@ function YtoLstar(Y) {
 		return Math.pow(Y, (1 / 3)) * 116 - 16;
 	}
 }
-module.exports = function (red, green, blue) {
+module.exports = function (red, green, blue, alpha) {
+	alpha = alpha / 255;
+	red = red / 255 * alpha;
+	green = green / 255 * alpha;
+	blue = blue / 255 * alpha;
+
 	let luminance = (
 		0.2126 * sRGBtoLin(red)
 		+ 0.7152 * sRGBtoLin(green)

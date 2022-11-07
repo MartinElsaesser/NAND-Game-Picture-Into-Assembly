@@ -58,22 +58,22 @@ function LOAD_D_INTO_ADDRESS(hexAddress) {
 	return `A=${hexAddress}\n*A=D\n`;
 }
 
-module.exports = function compile(registerPixelMap, imageName) {
+// regPixMap of type PixelMap
+module.exports = function compile(regPixMap, imageName) {
 	let code = file_description(imageName);
-	for (let pixelValue in registerPixelMap) { // pixelValue is of type STRING
+
+	for (const pixels of regPixMap.pixels) {
 		// load pixel Value into D register
-		let pixels = parseInt(pixelValue);
 		code += load_d_description(pixels);
 		let numbersArr = SPLIT_NUMBER(pixels);
 		code += LOAD_D_REGISTER(numbersArr);
 
 		// save value of D register into ram registers
-		registerPixelMap[pixelValue].forEach(register => {
+		for (const register of regPixMap.getRegisters(pixels)) {
 			let hex_addr = HEX_ADDRESS(register);
-			code += load_address_description(hex_addr, pixelValue);
+			code += load_address_description(hex_addr, pixels);
 			code += LOAD_D_INTO_ADDRESS(hex_addr);
-		})
+		}
 	}
 	return code;
-
 }

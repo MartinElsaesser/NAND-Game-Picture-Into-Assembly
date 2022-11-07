@@ -2,8 +2,10 @@ const getPixels = require("get-pixels");
 const fs = require("fs");
 const util = require("util");
 const path = require("path");
-const rgbLigthness = require("./rgb_lightness");
-const { wrapper } = require("./utils");
+
+const PixelMap = require("./PixelMap");
+const rgbaLigthness = require("./rgba_lightness");
+const { wrapper, getImageTypeAndName } = require("./utils");
 const compile = require("./code");
 const asyncPixels = util.promisify(getPixels);
 
@@ -27,7 +29,7 @@ async function main() {
 	// Process Image Data
 	let pixelsInWhiteAndBlack = getPixelValues(pixels.data);
 	let pixelRegisterValues = get16bitPixelValues(pixelsInWhiteAndBlack);
-	let addressPixelValueMap = createPixelValueMap(pixelRegisterValues);
+	let addressPixelValueMap = new PixelMap(pixelRegisterValues);
 
 	// Output pixels
 	let code = compile(addressPixelValueMap, filename);
@@ -37,22 +39,6 @@ async function main() {
 let safeMain = wrapper(main, (e) => { console.log(e); });
 safeMain();
 
-function getImageTypeAndName(filepath) {
-	if (!fs.existsSync(filepath)) throw "File does not exist!";
-
-	let regex = /([^\\\/.]*)\.(\w*)$/;
-	let matches = filepath.match(regex);
-	if (!matches) throw "Not a valid file!";
-
-	let [_, filename, extension] = matches;
-	extension = extension.toLowerCase();
-
-	// TODO: implement jpegs
-	if (!["png", "jpeg", "jpg"].includes(extension)) throw "Neither a png nor a jpeg file!"
-
-	return { filename, extension };
-}
-
 function getPixelValues(pixelData) {
 	// returns Array of integers
 	// with each entry representing one pixel on a screen
@@ -60,15 +46,15 @@ function getPixelValues(pixelData) {
 	let pixelsInWhiteAndBlack = [];
 
 	for (let i = 0; i < pixelData.length; i += 4) {
-		let alpha = pixelData[i + 3] / 255;
-		let red = pixelData[i] / 255 * alpha;
-		let green = pixelData[i + 1] / 255 * alpha;
-		let blue = pixelData[i + 2] / 255 * alpha;
+		let red = pixelData[i];
+		let green = pixelData[i + 1];
+		let blue = pixelData[i + 2];
+		let alpha = pixelData[i + 3];
 
-		let lightness = rgbLigthness(red, green, blue);
+		let lightness = rgbaLigthness(red, green, blue, alpha);
 		// TODO: maybe find average lightness and use this as means to set boundaries
 		// let pixelValue = lightness > 60 ? 1 : 0;
-		let pixelValue = lightness > 45 ? 0 : 1;
+		let pixelValue = lightness > 10 && lightness < 60 ? 1 : 0;
 		pixelsInWhiteAndBlack.push(pixelValue);
 	}
 	return pixelsInWhiteAndBlack;
@@ -81,12 +67,11 @@ function createPixelValueMap(pixelRegisterValues) {
 	// {
 	// 	"1203": [16386,30531],
 	// }
-	let map = {};
+	let map = new PixelMap();
 	let startingAddress = 16384;
-	pixelRegisterValues.forEach((registerVal, i) => {
-		if (registerVal === 0) return;
-		if (!map[registerVal]) map[registerVal] = [];
-		map[registerVal].push(startingAddress + i);
+	pixelRegisterValues.forEach((pixels, i) => {
+		if (pixels === 0) return;
+		map.add(startingAddress + i, pixels);
 	});
 	return map;
 }
