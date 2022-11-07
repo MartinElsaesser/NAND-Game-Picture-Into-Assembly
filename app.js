@@ -6,8 +6,20 @@ const path = require("path");
 const PixelMap = require("./PixelMap");
 const rgbaLigthness = require("./rgba_lightness");
 const { wrapper, getImageTypeAndName } = require("./utils");
-const compile = require("./code");
+const { compile, Nand_2_Tetris_Builder, Nand_Game_Builder } = require("./code");
 const asyncPixels = util.promisify(getPixels);
+
+let nand2Tetris_config = {
+	invertBits: false,
+	builder: Nand_2_Tetris_Builder,
+	format: "asm"
+}
+
+let nandGame_config = {
+	invertBits: true,
+	builder: Nand_Game_Builder,
+	format: "txt"
+}
 
 async function main() {
 	// Get Image Meta Data
@@ -16,6 +28,12 @@ async function main() {
 	let filepath = path.join(__dirname, args[2]);
 	let { filename, extension } = getImageTypeAndName(filepath);
 	filename = args[3] || filename;
+
+
+	let config = {};
+	let platform = "nandgame"; // nandgame | nand2tetris
+	if (platform === "nandgame") config = nandGame_config;
+	if (platform === "nand2tetris") config = nand2Tetris_config;
 
 	// Get Image Data
 	let pixels = await asyncPixels(filepath);
@@ -28,13 +46,14 @@ async function main() {
 
 	// Process Image Data
 	let pixelsInWhiteAndBlack = getPixelValues(pixels.data);
-	let pixelRegisterValues = get16bitPixelValues(pixelsInWhiteAndBlack);
-	let addressPixelValueMap = new PixelMap(pixelRegisterValues);
+	let pixels16Bit = get16bitPixels(pixelsInWhiteAndBlack, config.invertBits);
+	let addressPixelValueMap = new PixelMap(pixels16Bit);
 
 	// Output pixels
-	let code = compile(addressPixelValueMap, filename);
-	fs.writeFileSync("output.txt", code);
-	console.log("Written your assembly picture to ./output.txt");
+	let builder = new config.builder();
+	let code = compile(builder, addressPixelValueMap, filename);
+	fs.writeFileSync(`${filename}.${config.format}`, code);
+	console.log(`Written your assembly picture to ./${filename}.${config.format}`);
 }
 let safeMain = wrapper(main, (e) => { console.log(e); });
 safeMain();
@@ -60,15 +79,15 @@ function getPixelValues(pixelData) {
 	return pixelsInWhiteAndBlack;
 }
 
-function get16bitPixelValues(pixels) {
+function get16bitPixels(pixels, invertBits = false) {
 	// returns array of pixels being bundled into packages of
 	// 16 pixels for writing into 16 bit registers
 	let values = [];
 	for (let i = 0; i < pixels.length; i += 16) {
 		let sum = pixels
 			.slice(i, i + 16)
-			.map((el, i) => el * Math.pow(2, 15 - i))
-			.reduce((a, b) => +a + +b);
+			.map((bit, place) => bit * Math.pow(2, invertBits ? 15 - place : place))
+			.reduce((a, b) => a + b);
 		values.push(sum);
 	}
 	return values;

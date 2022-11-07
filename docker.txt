@@ -1,8 +1,7 @@
 # Output docker to the screen
-# Load 32768 into D Register
-A=32767
+# Load 1 into D Register
+A=1
 D=A
-D=D+1
 # Set 0x426f to 17007
 A=17007
 *A=D
@@ -812,9 +811,11 @@ A=24048
 # Set 0x5e09 to 24073
 A=24073
 *A=D
-# Load 2047 into D Register
-A=2047
+# Load 65504 into D Register
+A=32767
 D=A
+A=32737
+D=D+A
 # Set 0x4271 to 17009
 A=17009
 *A=D
@@ -881,9 +882,11 @@ A=24045
 # Set 0x5e35 to 24117
 A=24117
 *A=D
-# Load 3 into D Register
-A=3
+# Load 49152 into D Register
+A=32767
 D=A
+A=16385
+D=D+A
 # Set 0x42f0 to 17136
 A=17136
 *A=D
@@ -1022,8 +1025,8 @@ A=24106
 # Set 0x5e4d to 24141
 A=24141
 *A=D
-# Load 1920 into D Register
-A=1920
+# Load 480 into D Register
+A=480
 D=A
 # Set 0x42f1 to 17137
 A=17137
@@ -1061,9 +1064,11 @@ A=18667
 # Set 0x4b4b to 19275
 A=19275
 *A=D
-# Load 18867 into D Register
-A=18867
+# Load 52626 into D Register
+A=32767
 D=A
+A=19859
+D=D+A
 # Set 0x4330 to 17200
 A=17200
 *A=D
@@ -1163,8 +1168,8 @@ A=19184
 # Set 0x4b10 to 19216
 A=19216
 *A=D
-# Load 1938 into D Register
-A=1938
+# Load 18912 into D Register
+A=18912
 D=A
 # Set 0x4331 to 17201
 A=17201
@@ -1271,11 +1276,9 @@ A=18449
 # Set 0x4831 to 18481
 A=18481
 *A=D
-# Load 49152 into D Register
-A=32767
+# Load 3 into D Register
+A=3
 D=A
-A=16385
-D=D+A
 # Set 0x454f to 17743
 A=17743
 *A=D
@@ -1357,9 +1360,11 @@ A=23763
 # Set 0x5d8b to 23947
 A=23947
 *A=D
-# Load 7 into D Register
-A=7
+# Load 57344 into D Register
+A=32767
 D=A
+A=24577
+D=D+A
 # Set 0x4570 to 17776
 A=17776
 *A=D
@@ -1549,8 +1554,8 @@ A=23849
 # Set 0x5d33 to 23859
 A=23859
 *A=D
-# Load 3072 into D Register
-A=3072
+# Load 48 into D Register
+A=48
 D=A
 # Set 0x4595 to 17813
 A=17813
@@ -1558,14 +1563,14 @@ A=17813
 # Set 0x4d2b to 19755
 A=19755
 *A=D
-# Load 7680 into D Register
-A=7680
+# Load 120 into D Register
+A=120
 D=A
 # Set 0x45b5 to 17845
 A=17845
 *A=D
-# Load 16128 into D Register
-A=16128
+# Load 252 into D Register
+A=252
 D=A
 # Set 0x45d5 to 17877
 A=17877
@@ -1573,8 +1578,8 @@ A=17877
 # Set 0x50b4 to 20660
 A=20660
 *A=D
-# Load 896 into D Register
-A=896
+# Load 448 into D Register
+A=448
 D=A
 # Set 0x45ee to 17902
 A=17902
@@ -1597,8 +1602,8 @@ A=19281
 # Set 0x4d37 to 19767
 A=19767
 *A=D
-# Load 32640 into D Register
-A=32640
+# Load 510 into D Register
+A=510
 D=A
 # Set 0x45f5 to 17909
 A=17909
@@ -1606,26 +1611,26 @@ A=17909
 # Set 0x5253 to 21075
 A=21075
 *A=D
-# Load 18439 into D Register
-A=18439
+# Load 57362 into D Register
+A=32767
 D=A
+A=24595
+D=D+A
 # Set 0x460d to 17933
 A=17933
 *A=D
 # Set 0x4610 to 17936
 A=17936
 *A=D
-# Load 914 into D Register
-A=914
+# Load 18880 into D Register
+A=18880
 D=A
 # Set 0x460e to 17934
 A=17934
 *A=D
-# Load 65472 into D Register
-A=32767
+# Load 1023 into D Register
+A=1023
 D=A
-A=32705
-D=D+A
 # Set 0x4615 to 17941
 A=17941
 *A=D
@@ -1671,9 +1676,11 @@ A=24047
 # Set 0x5e2c to 24108
 A=24108
 *A=D
-# Load 18871 into D Register
-A=18871
+# Load 60818 into D Register
+A=32767
 D=A
+A=28051
+D=D+A
 # Set 0x462d to 17965
 A=17965
 *A=D
@@ -1722,11 +1729,9 @@ A=18413
 # Set 0x480d to 18445
 A=18445
 *A=D
-# Load 46002 into D Register
-A=32767
+# Load 19917 into D Register
+A=19917
 D=A
-A=13235
-D=D+A
 # Set 0x462e to 17966
 A=17966
 *A=D
@@ -1843,9 +1848,11 @@ A=19244
 # Set 0x4b2f to 19247
 A=19247
 *A=D
-# Load 28087 into D Register
-A=28087
+# Load 60854 into D Register
+A=32767
 D=A
+A=28087
+D=D+A
 # Set 0x4630 to 17968
 A=17968
 *A=D
@@ -1894,17 +1901,16 @@ A=18416
 # Set 0x4810 to 18448
 A=18448
 *A=D
-# Load 62400 into D Register
-A=32767
+# Load 975 into D Register
+A=975
 D=A
-A=29633
-D=D+A
 # Set 0x4635 to 17973
 A=17973
 *A=D
-# Load 1 into D Register
-A=1
+# Load 32768 into D Register
+A=32767
 D=A
+D=D+1
 # Set 0x4636 to 17974
 A=17974
 *A=D
@@ -2040,33 +2046,29 @@ A=23958
 # Set 0x5db6 to 23990
 A=23990
 *A=D
-# Load 58336 into D Register
-A=32767
+# Load 1991 into D Register
+A=1991
 D=A
-A=25569
-D=D+A
 # Set 0x4655 to 18005
 A=18005
 *A=D
-# Load 49632 into D Register
-A=32767
+# Load 1923 into D Register
+A=1923
 D=A
-A=16865
-D=D+A
 # Set 0x4675 to 18037
 A=18037
 *A=D
-# Load 33264 into D Register
-A=32767
+# Load 3969 into D Register
+A=3969
 D=A
-A=497
-D=D+A
 # Set 0x4695 to 18069
 A=18069
 *A=D
-# Load 15 into D Register
-A=15
+# Load 61440 into D Register
+A=32767
 D=A
+A=28673
+D=D+A
 # Set 0x4696 to 18070
 A=18070
 *A=D
@@ -2154,8 +2156,8 @@ A=23891
 # Set 0x5e0a to 24074
 A=24074
 *A=D
-# Load 240 into D Register
-A=240
+# Load 3840 into D Register
+A=3840
 D=A
 # Set 0x46b5 to 18101
 A=18101
@@ -2187,9 +2189,11 @@ A=20170
 # Set 0x526b to 21099
 A=21099
 *A=D
-# Load 31 into D Register
-A=31
+# Load 63488 into D Register
+A=32767
 D=A
+A=30721
+D=D+A
 # Set 0x46b6 to 18102
 A=18102
 *A=D
@@ -2277,8 +2281,8 @@ A=23955
 # Set 0x5e33 to 24115
 A=24115
 *A=D
-# Load 62 into D Register
-A=62
+# Load 31744 into D Register
+A=31744
 D=A
 # Set 0x46d6 to 18134
 A=18134
@@ -2289,8 +2293,8 @@ A=19510
 # Set 0x4f75 to 20341
 A=20341
 *A=D
-# Load 120 into D Register
-A=120
+# Load 7680 into D Register
+A=7680
 D=A
 # Set 0x46f5 to 18165
 A=18165
@@ -2322,8 +2326,8 @@ A=20494
 # Set 0x524b to 21067
 A=21067
 *A=D
-# Load 60 into D Register
-A=60
+# Load 15360 into D Register
+A=15360
 D=A
 # Set 0x46f6 to 18166
 A=18166
@@ -2412,8 +2416,8 @@ A=19850
 # Set 0x522b to 21035
 A=21035
 *A=D
-# Load 248 into D Register
-A=248
+# Load 7936 into D Register
+A=7936
 D=A
 # Set 0x4736 to 18230
 A=18230
@@ -2430,8 +2434,8 @@ A=20074
 # Set 0x4e8a to 20106
 A=20106
 *A=D
-# Load 56 into D Register
-A=56
+# Load 7168 into D Register
+A=7168
 D=A
 # Set 0x4755 to 18261
 A=18261
@@ -2445,8 +2449,8 @@ A=18677
 # Set 0x4915 to 18709
 A=18709
 *A=D
-# Load 480 into D Register
-A=480
+# Load 1920 into D Register
+A=1920
 D=A
 # Set 0x4776 to 18294
 A=18294
@@ -2481,14 +2485,16 @@ A=18840
 # Set 0x4a35 to 18997
 A=18997
 *A=D
-# Load 18727 into D Register
-A=18727
+# Load 58514 into D Register
+A=32767
 D=A
+A=25747
+D=D+A
 # Set 0x482d to 18477
 A=18477
 *A=D
-# Load 9106 into D Register
-A=9106
+# Load 18884 into D Register
+A=18884
 D=A
 # Set 0x482e to 18478
 A=18478
@@ -2496,14 +2502,16 @@ A=18478
 # Set 0x490e to 18702
 A=18702
 *A=D
-# Load 19895 into D Register
-A=19895
+# Load 60850 into D Register
+A=32767
 D=A
+A=28083
+D=D+A
 # Set 0x4830 to 18480
 A=18480
 *A=D
-# Load 3840 into D Register
-A=3840
+# Load 240 into D Register
+A=240
 D=A
 # Set 0x4856 to 18518
 A=18518
@@ -2514,11 +2522,9 @@ A=18550
 # Set 0x4896 to 18582
 A=18582
 *A=D
-# Load 65408 into D Register
-A=32767
+# Load 511 into D Register
+A=511
 D=A
-A=32641
-D=D+A
 # Set 0x486b to 18539
 A=18539
 *A=D
@@ -2588,8 +2594,8 @@ A=23880
 # Set 0x5df4 to 24052
 A=24052
 *A=D
-# Load 992 into D Register
-A=992
+# Load 1984 into D Register
+A=1984
 D=A
 # Set 0x4897 to 18583
 A=18583
@@ -2609,19 +2615,15 @@ A=20362
 # Set 0x528b to 21131
 A=21131
 *A=D
-# Load 36608 into D Register
-A=32767
+# Load 241 into D Register
+A=241
 D=A
-A=3841
-D=D+A
 # Set 0x48b6 to 18614
 A=18614
 *A=D
-# Load 65280 into D Register
-A=32767
+# Load 255 into D Register
+A=255
 D=A
-A=32513
-D=D+A
 # Set 0x48d6 to 18646
 A=18646
 *A=D
@@ -2685,11 +2687,9 @@ A=23912
 # Set 0x5e0f to 24079
 A=24079
 *A=D
-# Load 65024 into D Register
-A=32767
+# Load 127 into D Register
+A=127
 D=A
-A=32257
-D=D+A
 # Set 0x48f6 to 18678
 A=18678
 *A=D
@@ -2762,9 +2762,11 @@ A=23944
 # Set 0x5e14 to 24084
 A=24084
 *A=D
-# Load 63 into D Register
-A=63
+# Load 64512 into D Register
+A=32767
 D=A
+A=31745
+D=D+A
 # Set 0x48f8 to 18680
 A=18680
 *A=D
@@ -2855,8 +2857,8 @@ A=24051
 # Set 0x5e13 to 24083
 A=24083
 *A=D
-# Load 10112 into D Register
-A=10112
+# Load 484 into D Register
+A=484
 D=A
 # Set 0x490b to 18699
 A=18699
@@ -2912,24 +2914,24 @@ A=19211
 # Set 0x4b2b to 19243
 A=19243
 *A=D
-# Load 16387 into D Register
-A=16387
+# Load 49154 into D Register
+A=32767
 D=A
+A=16387
+D=D+A
 # Set 0x4910 to 18704
 A=18704
 *A=D
-# Load 37762 into D Register
-A=32767
+# Load 16841 into D Register
+A=16841
 D=A
-A=4995
-D=D+A
 # Set 0x4911 to 18705
 A=18705
 *A=D
-# Load 37453 into D Register
+# Load 45641 into D Register
 A=32767
 D=A
-A=4686
+A=12874
 D=D+A
 # Set 0x4912 to 18706
 A=18706
@@ -2982,10 +2984,10 @@ A=19183
 # Set 0x4b0f to 19215
 A=19215
 *A=D
-# Load 64543 into D Register
+# Load 63551 into D Register
 A=32767
 D=A
-A=31776
+A=30784
 D=D+A
 # Set 0x4917 to 18711
 A=18711
@@ -2996,9 +2998,11 @@ A=22698
 # Set 0x5c54 to 23636
 A=23636
 *A=D
-# Load 255 into D Register
-A=255
+# Load 65280 into D Register
+A=32767
 D=A
+A=32513
+D=D+A
 # Set 0x4918 to 18712
 A=18712
 *A=D
@@ -3128,10 +3132,10 @@ A=24023
 # Set 0x5df7 to 24055
 A=24055
 *A=D
-# Load 46793 into D Register
+# Load 37741 into D Register
 A=32767
 D=A
-A=14026
+A=4974
 D=D+A
 # Set 0x492c to 18732
 A=18732
@@ -3181,9 +3185,11 @@ A=19180
 # Set 0x4b0c to 19212
 A=19212
 *A=D
-# Load 18723 into D Register
-A=18723
+# Load 50322 into D Register
+A=32767
 D=A
+A=17555
+D=D+A
 # Set 0x492d to 18733
 A=18733
 *A=D
@@ -3232,11 +3238,9 @@ A=19181
 # Set 0x4b0d to 19213
 A=19213
 *A=D
-# Load 45970 into D Register
-A=32767
+# Load 18893 into D Register
+A=18893
 D=A
-A=13203
-D=D+A
 # Set 0x492e to 18734
 A=18734
 *A=D
@@ -3333,10 +3337,10 @@ A=19214
 # Set 0x4b11 to 19217
 A=19217
 *A=D
-# Load 37741 into D Register
+# Load 46793 into D Register
 A=32767
 D=A
-A=4974
+A=14026
 D=D+A
 # Set 0x4932 to 18738
 A=18738
@@ -3386,8 +3390,8 @@ A=19186
 # Set 0x4b12 to 19218
 A=19218
 *A=D
-# Load 32256 into D Register
-A=32256
+# Load 126 into D Register
+A=126
 D=A
 # Set 0x4936 to 18742
 A=18742
@@ -3401,9 +3405,11 @@ A=20650
 # Set 0x530b to 21259
 A=21259
 *A=D
-# Load 511 into D Register
-A=511
+# Load 65408 into D Register
+A=32767
 D=A
+A=32641
+D=D+A
 # Set 0x4938 to 18744
 A=18744
 *A=D
@@ -3446,14 +3452,14 @@ A=23978
 # Set 0x5e0d to 24077
 A=24077
 *A=D
-# Load 1536 into D Register
-A=1536
+# Load 96 into D Register
+A=96
 D=A
 # Set 0x4956 to 18774
 A=18774
 *A=D
-# Load 2040 into D Register
-A=2040
+# Load 8160 into D Register
+A=8160
 D=A
 # Set 0x4958 to 18776
 A=18776
@@ -3470,8 +3476,8 @@ A=19799
 # Set 0x4eb5 to 20149
 A=20149
 *A=D
-# Load 124 into D Register
-A=124
+# Load 15872 into D Register
+A=15872
 D=A
 # Set 0x4a38 to 19000
 A=19000
@@ -3479,8 +3485,8 @@ A=19000
 # Set 0x502e to 20526
 A=20526
 *A=D
-# Load 1984 into D Register
-A=1984
+# Load 992 into D Register
+A=992
 D=A
 # Set 0x4a55 to 19029
 A=19029
@@ -3497,8 +3503,8 @@ A=20426
 # Set 0x52ab to 21163
 A=21163
 *A=D
-# Load 126 into D Register
-A=126
+# Load 32256 into D Register
+A=32256
 D=A
 # Set 0x4a58 to 19032
 A=19032
@@ -3512,8 +3518,8 @@ A=20309
 # Set 0x5e37 to 24119
 A=24119
 *A=D
-# Load 3968 into D Register
-A=3968
+# Load 496 into D Register
+A=496
 D=A
 # Set 0x4a75 to 19061
 A=19061
@@ -3533,8 +3539,8 @@ A=20522
 # Set 0x52cb to 21195
 A=21195
 *A=D
-# Load 8064 into D Register
-A=8064
+# Load 504 into D Register
+A=504
 D=A
 # Set 0x4a95 to 19093
 A=19093
@@ -3545,17 +3551,15 @@ A=20053
 # Set 0x50d4 to 20692
 A=20692
 *A=D
-# Load 8128 into D Register
-A=8128
+# Load 1016 into D Register
+A=1016
 D=A
 # Set 0x4ab5 to 19125
 A=19125
 *A=D
-# Load 57344 into D Register
-A=32767
+# Load 7 into D Register
+A=7
 D=A
-A=24577
-D=D+A
 # Set 0x4ab7 to 19127
 A=19127
 *A=D
@@ -3625,17 +3629,15 @@ A=23915
 # Set 0x5de8 to 24040
 A=24040
 *A=D
-# Load 4064 into D Register
-A=4064
+# Load 2032 into D Register
+A=2032
 D=A
 # Set 0x4ad5 to 19157
 A=19157
 *A=D
-# Load 61440 into D Register
-A=32767
+# Load 15 into D Register
+A=15
 D=A
-A=28673
-D=D+A
 # Set 0x4ad7 to 19159
 A=19159
 *A=D
@@ -3711,8 +3713,8 @@ A=23661
 # Set 0x5d4b to 23883
 A=23883
 *A=D
-# Load 1020 into D Register
-A=1020
+# Load 16320 into D Register
+A=16320
 D=A
 # Set 0x4af5 to 19189
 A=19189
@@ -3738,11 +3740,9 @@ A=23528
 # Set 0x5c08 to 23560
 A=23560
 *A=D
-# Load 64512 into D Register
-A=32767
+# Load 63 into D Register
+A=63
 D=A
-A=31745
-D=D+A
 # Set 0x4af7 to 19191
 A=19191
 *A=D
@@ -3998,43 +3998,47 @@ A=24111
 # Set 0x5e4c to 24140
 A=24140
 *A=D
-# Load 18691 into D Register
-A=18691
+# Load 49298 into D Register
+A=32767
 D=A
+A=16531
+D=D+A
 # Set 0x4b2d to 19245
 A=19245
 *A=D
-# Load 13202 into D Register
-A=13202
+# Load 18892 into D Register
+A=18892
 D=A
 # Set 0x4b2e to 19246
 A=19246
 *A=D
-# Load 18435 into D Register
-A=18435
+# Load 49170 into D Register
+A=32767
 D=A
+A=16403
+D=D+A
 # Set 0x4b30 to 19248
 A=19248
 *A=D
-# Load 37778 into D Register
-A=32767
+# Load 18889 into D Register
+A=18889
 D=A
-A=5011
-D=D+A
 # Set 0x4b31 to 19249
 A=19249
 *A=D
-# Load 37485 into D Register
+# Load 46665 into D Register
 A=32767
 D=A
-A=4718
+A=13898
 D=D+A
 # Set 0x4b32 to 19250
 A=19250
 *A=D
-# Load 127 into D Register
-A=127
+# Load 65024 into D Register
+A=32767
 D=A
+A=32257
+D=D+A
 # Set 0x4b35 to 19253
 A=19253
 *A=D
@@ -4098,8 +4102,8 @@ A=24144
 # Set 0x5e55 to 24149
 A=24149
 *A=D
-# Load 16368 into D Register
-A=16368
+# Load 4092 into D Register
+A=4092
 D=A
 # Set 0x4b37 to 19255
 A=19255
@@ -4110,11 +4114,9 @@ A=23016
 # Set 0x5cc8 to 23752
 A=23752
 *A=D
-# Load 65520 into D Register
-A=32767
+# Load 4095 into D Register
+A=4095
 D=A
-A=32753
-D=D+A
 # Set 0x4b56 to 19286
 A=19286
 *A=D
@@ -4163,9 +4165,11 @@ A=23988
 # Set 0x5e0c to 24076
 A=24076
 *A=D
-# Load 4095 into D Register
-A=4095
+# Load 65520 into D Register
+A=32767
 D=A
+A=32753
+D=D+A
 # Set 0x4b57 to 19287
 A=19287
 *A=D
@@ -4220,11 +4224,9 @@ A=24013
 # Set 0x5e30 to 24112
 A=24112
 *A=D
-# Load 65528 into D Register
-A=32767
+# Load 8191 into D Register
+A=8191
 D=A
-A=32761
-D=D+A
 # Set 0x4b6a to 19306
 A=19306
 *A=D
@@ -4258,9 +4260,11 @@ A=23951
 # Set 0x5d94 to 23956
 A=23956
 *A=D
-# Load 1023 into D Register
-A=1023
+# Load 65472 into D Register
+A=32767
 D=A
+A=32705
+D=D+A
 # Set 0x4b77 to 19319
 A=19319
 *A=D
@@ -4300,11 +4304,9 @@ A=23791
 # Set 0x5d8a to 23946
 A=23946
 *A=D
-# Load 65532 into D Register
-A=32767
+# Load 16383 into D Register
+A=16383
 D=A
-A=32765
-D=D+A
 # Set 0x4b8a to 19338
 A=19338
 *A=D
@@ -4338,9 +4340,10 @@ A=23924
 # Set 0x5dec to 24044
 A=24044
 *A=D
-# Load 32767 into D Register
+# Load 65534 into D Register
 A=32767
 D=A
+D=D+A
 # Set 0x4b94 to 19348
 A=19348
 *A=D
@@ -4368,8 +4371,8 @@ A=23949
 # Set 0x5df5 to 24053
 A=24053
 *A=D
-# Load 30 into D Register
-A=30
+# Load 30720 into D Register
+A=30720
 D=A
 # Set 0x4c56 to 19542
 A=19542
@@ -4380,38 +4383,38 @@ A=19753
 # Set 0x520b to 21003
 A=21003
 *A=D
-# Load 4096 into D Register
-A=4096
+# Load 8 into D Register
+A=8
 D=A
 # Set 0x4cf1 to 19697
 A=19697
 *A=D
-# Load 512 into D Register
-A=512
+# Load 64 into D Register
+A=64
 D=A
 # Set 0x4cf7 to 19703
 A=19703
 *A=D
-# Load 12 into D Register
-A=12
+# Load 12288 into D Register
+A=12288
 D=A
 # Set 0x4d09 to 19721
 A=19721
 *A=D
-# Load 14336 into D Register
-A=14336
+# Load 28 into D Register
+A=28
 D=A
 # Set 0x4d11 to 19729
 A=19729
 *A=D
-# Load 768 into D Register
-A=768
+# Load 192 into D Register
+A=192
 D=A
 # Set 0x4d17 to 19735
 A=19735
 *A=D
-# Load 31744 into D Register
-A=31744
+# Load 62 into D Register
+A=62
 D=A
 # Set 0x4d31 to 19761
 A=19761
@@ -4422,10 +4425,10 @@ A=20682
 # Set 0x510d to 20749
 A=20749
 *A=D
-# Load 57347 into D Register
+# Load 49159 into D Register
 A=32767
 D=A
-A=24580
+A=16392
 D=D+A
 # Set 0x4d35 to 19765
 A=19765
@@ -4436,8 +4439,8 @@ A=22738
 # Set 0x5df2 to 24050
 A=24050
 *A=D
-# Load 15872 into D Register
-A=15872
+# Load 124 into D Register
+A=124
 D=A
 # Set 0x4d4b to 19787
 A=19787
@@ -4445,11 +4448,9 @@ A=19787
 # Set 0x508a to 20618
 A=20618
 *A=D
-# Load 63488 into D Register
-A=32767
+# Load 31 into D Register
+A=31
 D=A
-A=30721
-D=D+A
 # Set 0x4d4e to 19790
 A=19790
 *A=D
@@ -4563,8 +4564,8 @@ D=D+A
 # Set 0x4d55 to 19797
 A=19797
 *A=D
-# Load 32704 into D Register
-A=32704
+# Load 1022 into D Register
+A=1022
 D=A
 # Set 0x4d6b to 19819
 A=19819
@@ -4572,10 +4573,10 @@ A=19819
 # Set 0x512d to 20781
 A=20781
 *A=D
-# Load 61503 into D Register
+# Load 64527 into D Register
 A=32767
 D=A
-A=28736
+A=31760
 D=D+A
 # Set 0x4d75 to 19829
 A=19829
@@ -4604,8 +4605,8 @@ A=23598
 # Set 0x5d49 to 23881
 A=23881
 *A=D
-# Load 4088 into D Register
-A=4088
+# Load 8176 into D Register
+A=8176
 D=A
 # Set 0x4d77 to 19831
 A=19831
@@ -4622,11 +4623,9 @@ A=23656
 # Set 0x5c88 to 23688
 A=23688
 *A=D
-# Load 65504 into D Register
-A=32767
+# Load 2047 into D Register
+A=2047
 D=A
-A=32737
-D=D+A
 # Set 0x4d8e to 19854
 A=19854
 *A=D
@@ -4669,17 +4668,19 @@ A=24015
 # Set 0x5dd4 to 24020
 A=24020
 *A=D
-# Load 61951 into D Register
+# Load 65423 into D Register
 A=32767
 D=A
-A=29184
+A=32656
 D=D+A
 # Set 0x4d95 to 19861
 A=19861
 *A=D
-# Load 8191 into D Register
-A=8191
+# Load 65528 into D Register
+A=32767
 D=A
+A=32761
+D=D+A
 # Set 0x4d97 to 19863
 A=19863
 *A=D
@@ -4716,18 +4717,15 @@ A=23855
 # Set 0x5e15 to 24085
 A=24085
 *A=D
-# Load 49212 into D Register
-A=32767
+# Load 15363 into D Register
+A=15363
 D=A
-A=16445
-D=D+A
 # Set 0x4daa to 19882
 A=19882
 *A=D
-# Load 65534 into D Register
+# Load 32767 into D Register
 A=32767
 D=A
-D=D+A
 # Set 0x4dae to 19886
 A=19886
 *A=D
@@ -4758,9 +4756,11 @@ A=23892
 # Set 0x5e29 to 24105
 A=24105
 *A=D
-# Load 16383 into D Register
-A=16383
+# Load 65532 into D Register
+A=32767
 D=A
+A=32765
+D=D+A
 # Set 0x4db7 to 19895
 A=19895
 *A=D
@@ -4785,8 +4785,8 @@ A=23981
 # Set 0x5e10 to 24080
 A=24080
 *A=D
-# Load 496 into D Register
-A=496
+# Load 3968 into D Register
+A=3968
 D=A
 # Set 0x4eea to 20202
 A=20202
@@ -4800,8 +4800,8 @@ A=20234
 # Set 0x4f2a to 20266
 A=20266
 *A=D
-# Load 504 into D Register
-A=504
+# Load 8064 into D Register
+A=8064
 D=A
 # Set 0x4f15 to 20245
 A=20245
@@ -4812,20 +4812,20 @@ A=20622
 # Set 0x50ae to 20654
 A=20654
 *A=D
-# Load 252 into D Register
-A=252
+# Load 16128 into D Register
+A=16128
 D=A
 # Set 0x4f35 to 20277
 A=20277
 *A=D
-# Load 112 into D Register
-A=112
+# Load 3584 into D Register
+A=3584
 D=A
 # Set 0x4fee to 20462
 A=20462
 *A=D
-# Load 7936 into D Register
-A=7936
+# Load 248 into D Register
+A=248
 D=A
 # Set 0x504a to 20554
 A=20554
@@ -4836,26 +4836,26 @@ A=20586
 # Set 0x52eb to 21227
 A=21227
 *A=D
-# Load 96 into D Register
-A=96
+# Load 1536 into D Register
+A=1536
 D=A
 # Set 0x50ce to 20686
 A=20686
 *A=D
-# Load 4032 into D Register
-A=4032
+# Load 1008 into D Register
+A=1008
 D=A
 # Set 0x50f4 to 20724
 A=20724
 *A=D
-# Load 2032 into D Register
-A=2032
+# Load 4064 into D Register
+A=4064
 D=A
 # Set 0x5114 to 20756
 A=20756
 *A=D
-# Load 1016 into D Register
-A=1016
+# Load 8128 into D Register
+A=8128
 D=A
 # Set 0x5134 to 20788
 A=20788
@@ -4872,8 +4872,8 @@ D=A
 # Set 0x514d to 20813
 A=20813
 *A=D
-# Load 508 into D Register
-A=508
+# Load 16256 into D Register
+A=16256
 D=A
 # Set 0x5154 to 20820
 A=20820
@@ -4881,22 +4881,22 @@ A=20820
 # Set 0x5ae8 to 23272
 A=23272
 *A=D
-# Load 65415 into D Register
+# Load 57855 into D Register
 A=32767
 D=A
-A=32648
+A=25088
 D=D+A
 # Set 0x516c to 20844
 A=20844
 *A=D
-# Load 254 into D Register
-A=254
+# Load 32512 into D Register
+A=32512
 D=A
 # Set 0x5174 to 20852
 A=20852
 *A=D
-# Load 8160 into D Register
-A=8160
+# Load 2040 into D Register
+A=2040
 D=A
 # Set 0x5273 to 21107
 A=21107
@@ -4913,8 +4913,8 @@ D=A
 # Set 0x5293 to 21139
 A=21139
 *A=D
-# Load 2044 into D Register
-A=2044
+# Load 16352 into D Register
+A=16352
 D=A
 # Set 0x52b3 to 21171
 A=21171
@@ -4934,8 +4934,8 @@ A=23592
 # Set 0x5c48 to 23624
 A=23624
 *A=D
-# Load 16376 into D Register
-A=16376
+# Load 8188 into D Register
+A=8188
 D=A
 # Set 0x5392 to 21394
 A=21394
@@ -4946,14 +4946,14 @@ A=22999
 # Set 0x5cea to 23786
 A=23786
 *A=D
-# Load 4094 into D Register
-A=4094
+# Load 32752 into D Register
+A=32752
 D=A
 # Set 0x53b2 to 21426
 A=21426
 *A=D
-# Load 510 into D Register
-A=510
+# Load 32640 into D Register
+A=32640
 D=A
 # Set 0x53cc to 21452
 A=21452
@@ -4979,18 +4979,18 @@ A=23432
 # Set 0x5ba8 to 23464
 A=23464
 *A=D
-# Load 64519 into D Register
+# Load 57407 into D Register
 A=32767
 D=A
-A=31752
+A=24640
 D=D+A
 # Set 0x588a to 22666
 A=22666
 *A=D
-# Load 32771 into D Register
+# Load 49153 into D Register
 A=32767
 D=A
-A=4
+A=16386
 D=D+A
 # Set 0x5892 to 22674
 A=22674
@@ -5029,18 +5029,18 @@ D=D+A
 # Set 0x58ca to 22730
 A=22730
 *A=D
-# Load 64767 into D Register
+# Load 65343 into D Register
 A=32767
 D=A
-A=32000
+A=32576
 D=D+A
 # Set 0x58ea to 22762
 A=22762
 *A=D
-# Load 64513 into D Register
+# Load 32831 into D Register
 A=32767
 D=A
-A=31746
+A=64
 D=D+A
 # Set 0x58f1 to 22769
 A=22769
@@ -5069,10 +5069,10 @@ A=23953
 # Set 0x5db1 to 23985
 A=23985
 *A=D
-# Load 61443 into D Register
+# Load 49167 into D Register
 A=32767
 D=A
-A=28676
+A=16400
 D=D+A
 # Set 0x58f2 to 22770
 A=22770
@@ -5080,18 +5080,18 @@ A=22770
 # Set 0x5dd2 to 24018
 A=24018
 *A=D
-# Load 49153 into D Register
+# Load 32771 into D Register
 A=32767
 D=A
-A=16386
+A=4
 D=D+A
 # Set 0x590b to 22795
 A=22795
 *A=D
-# Load 63491 into D Register
+# Load 49183 into D Register
 A=32767
 D=A
-A=30724
+A=16416
 D=D+A
 # Set 0x5912 to 22802
 A=22802
@@ -5099,18 +5099,18 @@ A=22802
 # Set 0x5db2 to 23986
 A=23986
 *A=D
-# Load 57345 into D Register
+# Load 32775 into D Register
 A=32767
 D=A
-A=24578
+A=8
 D=D+A
 # Set 0x592b to 22827
 A=22827
 *A=D
-# Load 64515 into D Register
+# Load 49215 into D Register
 A=32767
 D=A
-A=31748
+A=16448
 D=D+A
 # Set 0x5932 to 22834
 A=22834
@@ -5118,18 +5118,18 @@ A=22834
 # Set 0x5d92 to 23954
 A=23954
 *A=D
-# Load 61441 into D Register
+# Load 32783 into D Register
 A=32767
 D=A
-A=28674
+A=16
 D=D+A
 # Set 0x594b to 22859
 A=22859
 *A=D
-# Load 65027 into D Register
+# Load 49279 into D Register
 A=32767
 D=A
-A=32260
+A=16512
 D=D+A
 # Set 0x5952 to 22866
 A=22866
@@ -5137,18 +5137,18 @@ A=22866
 # Set 0x5d72 to 23922
 A=23922
 *A=D
-# Load 32783 into D Register
+# Load 61441 into D Register
 A=32767
 D=A
-A=16
+A=28674
 D=D+A
 # Set 0x5969 to 22889
 A=22889
 *A=D
-# Load 63489 into D Register
+# Load 32799 into D Register
 A=32767
 D=A
-A=30722
+A=32
 D=D+A
 # Set 0x596b to 22891
 A=22891
@@ -5156,10 +5156,10 @@ A=22891
 # Set 0x598b to 22923
 A=22923
 *A=D
-# Load 65283 into D Register
+# Load 49407 into D Register
 A=32767
 D=A
-A=32516
+A=16640
 D=D+A
 # Set 0x5972 to 22898
 A=22898
@@ -5167,16 +5167,16 @@ A=22898
 # Set 0x5d52 to 23890
 A=23890
 *A=D
-# Load 30720 into D Register
-A=30720
+# Load 30 into D Register
+A=30
 D=A
 # Set 0x5990 to 22928
 A=22928
 *A=D
-# Load 65411 into D Register
+# Load 49663 into D Register
 A=32767
 D=A
-A=32644
+A=16896
 D=D+A
 # Set 0x5992 to 22930
 A=22930
@@ -5184,10 +5184,10 @@ A=22930
 # Set 0x5d32 to 23858
 A=23858
 *A=D
-# Load 65475 into D Register
+# Load 50175 into D Register
 A=32767
 D=A
-A=32708
+A=17408
 D=D+A
 # Set 0x59b2 to 22962
 A=22962
@@ -5209,8 +5209,8 @@ A=23795
 # Set 0x5e32 to 24114
 A=24114
 *A=D
-# Load 32752 into D Register
-A=32752
+# Load 4094 into D Register
+A=4094
 D=A
 # Set 0x59b7 to 22967
 A=22967
@@ -5221,10 +5221,10 @@ A=22984
 # Set 0x5cca to 23754
 A=23754
 *A=D
-# Load 65025 into D Register
+# Load 32895 into D Register
 A=32767
 D=A
-A=32258
+A=128
 D=D+A
 # Set 0x59cb to 22987
 A=22987
@@ -5232,10 +5232,10 @@ A=22987
 # Set 0x59eb to 23019
 A=23019
 *A=D
-# Load 49159 into D Register
+# Load 57347 into D Register
 A=32767
 D=A
-A=16392
+A=24580
 D=D+A
 # Set 0x59ce to 22990
 A=22990
@@ -5243,10 +5243,10 @@ A=22990
 # Set 0x5bd4 to 23508
 A=23508
 *A=D
-# Load 65507 into D Register
+# Load 51199 into D Register
 A=32767
 D=A
-A=32740
+A=18432
 D=D+A
 # Set 0x59d2 to 22994
 A=22994
@@ -5254,10 +5254,10 @@ A=22994
 # Set 0x5cf2 to 23794
 A=23794
 *A=D
-# Load 49167 into D Register
+# Load 61443 into D Register
 A=32767
 D=A
-A=16400
+A=28676
 D=D+A
 # Set 0x59ee to 23022
 A=23022
@@ -5268,9 +5268,11 @@ A=23726
 # Set 0x5cce to 23758
 A=23758
 *A=D
-# Load 32755 into D Register
-A=32755
+# Load 53246 into D Register
+A=32767
 D=A
+A=20479
+D=D+A
 # Set 0x59f2 to 23026
 A=23026
 *A=D
@@ -5283,10 +5285,10 @@ A=23031
 # Set 0x5a08 to 23048
 A=23048
 *A=D
-# Load 65281 into D Register
+# Load 33023 into D Register
 A=32767
 D=A
-A=32514
+A=256
 D=D+A
 # Set 0x5a0b to 23051
 A=23051
@@ -5297,10 +5299,10 @@ A=23083
 # Set 0x5a4b to 23115
 A=23115
 *A=D
-# Load 57359 into D Register
+# Load 61447 into D Register
 A=32767
 D=A
-A=24592
+A=28680
 D=D+A
 # Set 0x5a0e to 23054
 A=23054
@@ -5308,16 +5310,16 @@ A=23054
 # Set 0x5bf4 to 23540
 A=23540
 *A=D
-# Load 4092 into D Register
-A=4092
+# Load 16368 into D Register
+A=16368
 D=A
 # Set 0x5a17 to 23063
 A=23063
 *A=D
-# Load 57375 into D Register
+# Load 63495 into D Register
 A=32767
 D=A
-A=24608
+A=30728
 D=D+A
 # Set 0x5a2e to 23086
 A=23086
@@ -5334,8 +5336,8 @@ A=23662
 # Set 0x5c8e to 23694
 A=23694
 *A=D
-# Load 1022 into D Register
-A=1022
+# Load 32704 into D Register
+A=32704
 D=A
 # Set 0x5a57 to 23127
 A=23127
@@ -5343,10 +5345,10 @@ A=23127
 # Set 0x5a77 to 23159
 A=23159
 *A=D
-# Load 65409 into D Register
+# Load 33279 into D Register
 A=32767
 D=A
-A=32642
+A=512
 D=D+A
 # Set 0x5a6b to 23147
 A=23147
@@ -5357,17 +5359,19 @@ A=23179
 # Set 0x5c2b to 23595
 A=23595
 *A=D
-# Load 61471 into D Register
+# Load 63503 into D Register
 A=32767
 D=A
-A=28704
+A=30736
 D=D+A
 # Set 0x5a6e to 23150
 A=23150
 *A=D
-# Load 32641 into D Register
-A=32641
+# Load 33278 into D Register
+A=32767
 D=A
+A=511
+D=D+A
 # Set 0x5aab to 23211
 A=23211
 *A=D
@@ -5383,16 +5387,18 @@ A=23531
 # Set 0x5c0b to 23563
 A=23563
 *A=D
-# Load 16257 into D Register
-A=16257
+# Load 33276 into D Register
+A=32767
 D=A
+A=509
+D=D+A
 # Set 0x5aeb to 23275
 A=23275
 *A=D
-# Load 63551 into D Register
+# Load 64543 into D Register
 A=32767
 D=A
-A=30784
+A=31776
 D=D+A
 # Set 0x5aee to 23278
 A=23278
@@ -5415,9 +5421,11 @@ A=23438
 # Set 0x5bae to 23470
 A=23470
 *A=D
-# Load 16321 into D Register
-A=16321
+# Load 33788 into D Register
+A=32767
 D=A
+A=1021
+D=D+A
 # Set 0x5b0b to 23307
 A=23307
 *A=D
@@ -5436,8 +5444,8 @@ A=23435
 # Set 0x5bab to 23467
 A=23467
 *A=D
-# Load 32760 into D Register
-A=32760
+# Load 8190 into D Register
+A=8190
 D=A
 # Set 0x5b55 to 23381
 A=23381
@@ -5448,16 +5456,16 @@ D=A
 # Set 0x5b75 to 23413
 A=23413
 *A=D
-# Load 8190 into D Register
-A=8190
+# Load 32760 into D Register
+A=32760
 D=A
 # Set 0x5b95 to 23445
 A=23445
 *A=D
-# Load 32775 into D Register
+# Load 57345 into D Register
 A=32767
 D=A
-A=8
+A=24578
 D=D+A
 # Set 0x5bb4 to 23476
 A=23476
@@ -5473,98 +5481,98 @@ D=D+A
 # Set 0x5c14 to 23572
 A=23572
 *A=D
-# Load 63503 into D Register
+# Load 61471 into D Register
 A=32767
 D=A
-A=30736
+A=28704
 D=D+A
 # Set 0x5c34 to 23604
 A=23604
 *A=D
-# Load 65311 into D Register
+# Load 63743 into D Register
 A=32767
 D=A
-A=32544
+A=30976
 D=D+A
 # Set 0x5c74 to 23668
 A=23668
 *A=D
-# Load 65471 into D Register
+# Load 65023 into D Register
 A=32767
 D=A
-A=32704
+A=32256
 D=D+A
 # Set 0x5c94 to 23700
 A=23700
 *A=D
-# Load 8176 into D Register
-A=8176
+# Load 4088 into D Register
+A=4088
 D=A
 # Set 0x5ca8 to 23720
 A=23720
 *A=D
-# Load 32736 into D Register
-A=32736
+# Load 2046 into D Register
+A=2046
 D=A
 # Set 0x5caa to 23722
 A=23722
 *A=D
-# Load 65523 into D Register
+# Load 53247 into D Register
 A=32767
 D=A
-A=32756
+A=20480
 D=D+A
 # Set 0x5cd2 to 23762
 A=23762
 *A=D
-# Load 8188 into D Register
-A=8188
+# Load 16376 into D Register
+A=16376
 D=A
 # Set 0x5d0a to 23818
 A=23818
 *A=D
-# Load 12288 into D Register
-A=12288
+# Load 12 into D Register
+A=12
 D=A
 # Set 0x5d10 to 23824
 A=23824
 *A=D
-# Load 28672 into D Register
-A=28672
+# Load 14 into D Register
+A=14
 D=A
 # Set 0x5d15 to 23829
 A=23829
 *A=D
-# Load 65473 into D Register
+# Load 33791 into D Register
 A=32767
 D=A
-A=32706
+A=1024
 D=D+A
 # Set 0x5d50 to 23888
 A=23888
 *A=D
-# Load 65505 into D Register
+# Load 34815 into D Register
 A=32767
 D=A
-A=32738
+A=2048
 D=D+A
 # Set 0x5d55 to 23893
 A=23893
 *A=D
-# Load 24576 into D Register
-A=24576
+# Load 6 into D Register
+A=6
 D=A
 # Set 0x5e51 to 24145
 A=24145
 *A=D
-# Load 14 into D Register
-A=14
+# Load 28672 into D Register
+A=28672
 D=A
 # Set 0x5e53 to 24147
 A=24147
 *A=D
-# Load 28 into D Register
-A=28
+# Load 14336 into D Register
+A=14336
 D=A
 # Set 0x5e57 to 24151
 A=24151
