@@ -2,25 +2,47 @@ const getPixels = require("get-pixels");
 const fs = require("fs");
 const util = require("util");
 const path = require("path");
+const rgbLigthness = require("./rgb_lightness");
 
 const asyncPixels = util.promisify(getPixels);
 
 !async function main() {
-	let pixels = await asyncPixels(path.join(__dirname, "./shylily.png"));
-	let pixelsInWhiteAndBlack = [];
-
-	for (let i = 0; i < pixels.data.length; i += 4) {
-		// let blackWhiteVal = pixels.data[i] === 255 ? 0 : 1;
-		let blackWhiteVal = pixels.data[i] === 255 ? 1 : 0;
-		pixelsInWhiteAndBlack.push(blackWhiteVal);
-	}
+	let pixels = await asyncPixels(path.join(__dirname, "./pics/g_wagon.png"));
+	let pixelsInWhiteAndBlack = getPixelValuesPNG(pixels.data);
 	let pixelRegisterValues = get16bitPixelValues(pixelsInWhiteAndBlack);
 	let addressPixelValueMap = createPixelValueMap(pixelRegisterValues);
 	let code = getCode(addressPixelValueMap);
 	fs.writeFileSync("output.txt", code);
 }();
 
+function getPixelValuesPNG(pixelData) {
+	// returns Array of integers
+	// with each entry representing one pixel on a screen
+	// 1 meaning the pixel being on, 0 the pixel being off
+	let pixelsInWhiteAndBlack = [];
+
+	for (let i = 0; i < pixelData.length; i += 4) {
+		let alpha = pixelData[i + 3] / 255;
+		let red = pixelData[i] / 255 * alpha;
+		let green = pixelData[i + 1] / 255 * alpha;
+		let blue = pixelData[i + 2] / 255 * alpha;
+
+		let lightness = rgbLigthness(red, green, blue);
+		// TODO: maybe find average lightness and use this as means to set boundaries
+		// let pixelValue = lightness > 20 && lightness < 60 ? 1 : 0;
+		let pixelValue = lightness > 50 ? 1 : 0;
+		pixelsInWhiteAndBlack.push(pixelValue);
+	}
+	return pixelsInWhiteAndBlack;
+}
+
 function createPixelValueMap(pixelRegisterValues) {
+	// returns map with key being multiple pixel values for one register
+	// and the keys array being all the registers the value will be written to
+	// e.g.:
+	// {
+	// 	"1203": [16386,30531],
+	// }
 	let map = {};
 	let startingAddress = 16384;
 	pixelRegisterValues.forEach((registerVal, i) => {
@@ -32,6 +54,8 @@ function createPixelValueMap(pixelRegisterValues) {
 }
 
 function get16bitPixelValues(pixels) {
+	// returns array of pixels being bundled into packages of
+	// 16 pixels for writing into 16 bit registers
 	let values = [];
 	for (let i = 0; i < pixels.length; i += 16) {
 		let sum = pixels
