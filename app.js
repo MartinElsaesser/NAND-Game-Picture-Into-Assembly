@@ -60,22 +60,6 @@ function getPixelValues(pixelData) {
 	return pixelsInWhiteAndBlack;
 }
 
-function createPixelValueMap(pixelRegisterValues) {
-	// returns map with key being multiple pixel values for one register
-	// and the keys array being all the registers the value will be written to
-	// e.g.:
-	// {
-	// 	"1203": [16386,30531],
-	// }
-	let map = new PixelMap();
-	let startingAddress = 16384;
-	pixelRegisterValues.forEach((pixels, i) => {
-		if (pixels === 0) return;
-		map.add(startingAddress + i, pixels);
-	});
-	return map;
-}
-
 function get16bitPixelValues(pixels) {
 	// returns array of pixels being bundled into packages of
 	// 16 pixels for writing into 16 bit registers
@@ -88,84 +72,4 @@ function get16bitPixelValues(pixels) {
 		values.push(sum);
 	}
 	return values;
-}
-
-class Code {
-	static FILE_DESCRIPTION(name) {
-		return `# Output ${name} to the screen\n`;
-	}
-	static SPLIT_NUMBER(number) {
-		// break Numbers bigger than 0x7fff/32767
-		// into smaller numbers, which can be loaded
-		// into the A register (number range is decreased because of op-code-bit)
-		// thus you can only input numbers up to 0x7fff
-		let currentValue = number;
-		let addUpToValue = [];
-		while (currentValue > 32767) {
-			currentValue -= 32767;
-			addUpToValue.push(32767);
-		}
-		addUpToValue.push(currentValue);
-		return addUpToValue;
-	}
-	static LOAD_D_DESCRIPTION(pixelValue) {
-		return `# Load ${pixelValue} into D Register\n`;
-	}
-	static LOAD_D_REGISTER(numbers) {
-		let loadDRegister = "";
-		numbers.forEach((num, i) => {
-			// optimizations:
-			if (i >= 1 && num === numbers[i - 1])
-				return loadDRegister += "D=D+A\n";
-			if (i >= 1 && num === 1)
-				return loadDRegister += "D=D+1\n";
-
-			loadDRegister += `A=0x${(num).toString(16)}\n`;
-			loadDRegister += i === 0 ? "D=A\n" : "D=D+A\n";
-		});
-		return loadDRegister;
-	}
-	static HEX_ADDRESS(num) {
-		return `0x${num.toString(16)}`;
-	}
-	static LOAD_ADDRESS_DESCRIPTION(hexAddress, register) {
-		return `# Set ${hexAddress} to ${register}\n`;
-	}
-	static LOAD_D_INTO_ADDRESS(hexAddress) {
-		return `A=${hexAddress}\n*A=D\n`;
-	}
-	static compile(registerPixelMap, imageName) {
-		let code = Code.FILE_DESCRIPTION(imageName);
-		for (let pixelValue in registerPixelMap) {
-			// load pixel Value into D register
-			let pixels = parseInt(pixelValue);
-			code += Code.LOAD_D_DESCRIPTION(pixels);
-			let numbersArr = Code.SPLIT_NUMBER(pixels);
-			code += Code.LOAD_D_REGISTER(numbersArr);
-
-			// save value of D register into ram registers
-			registerPixelMap[pixelValue].forEach(register => {
-				let hex_addr = Code.HEX_ADDRESS(register);
-				code += Code.LOAD_ADDRESS_DESCRIPTION(hex_addr, pixelValue);
-				code += Code.LOAD_D_INTO_ADDRESS(hex_addr);
-			})
-		}
-		return code;
-	}
-}
-
-
-
-function splitNumberIntoSmallerOnes(number) {
-	// break Numbers bigger than 0x7fff/32767
-	// into smaller numbers, which can be loaded
-	// into the A register (number range is decreased because of op-code-bit)
-	let currentValue = number;
-	let addUpToValue = [];
-	while (currentValue > 32767) {
-		currentValue -= 32767;
-		addUpToValue.push(32767);
-	}
-	addUpToValue.push(currentValue);
-	return addUpToValue;
 }
