@@ -6,7 +6,7 @@ const path = require("path");
 const PixelMap = require("./PixelMap");
 const rgbaLigthness = require("./rgba_lightness");
 const { wrapper, getImageTypeAndName } = require("./utils");
-const { compile, Nand_2_Tetris_Builder, Nand_Game_Builder } = require("./code");
+const { compile, Nand_2_Tetris_Builder, Nand_Game_Builder } = require("./compile");
 const asyncPixels = util.promisify(getPixels);
 
 let nand2Tetris_config = {
@@ -27,11 +27,18 @@ async function main() {
 	if (!args[2]) throw "Path not passed in";
 	let filepath = path.join(__dirname, args[2]);
 	let { filename, extension } = getImageTypeAndName(filepath);
-	filename = args[3] || filename;
+
+	for (let i = 3; i < args.length; i++) {
+		const arg = args[i];
+		if (arg === "-n" && args[i + 1] && !args[i + 1].startsWith("-")) {
+			filename = args[i + 1]
+			i++;
+		}
+	}
 
 
 	let config = {};
-	let platform = "nandgame"; // nandgame | nand2tetris
+	let platform = "nand2tetris"; // nandgame | nand2tetris
 	if (platform === "nandgame") config = nandGame_config;
 	if (platform === "nand2tetris") config = nand2Tetris_config;
 
@@ -72,7 +79,7 @@ function getPixelValues(pixelData) {
 
 		let lightness = rgbaLigthness(red, green, blue, alpha);
 		// TODO: maybe find average lightness and use this as means to set boundaries
-		let pixelValue = lightness > 60 ? 0 : 1;
+		let pixelValue = lightness > 40 ? 0 : 1;
 		// let pixelValue = lightness > 10 && lightness < 60 ? 1 : 0;
 		pixelsInWhiteAndBlack.push(pixelValue);
 	}

@@ -1,4 +1,4 @@
-// Output lily2 to the screen
+// Output Shy Lily to the screen
 // Load 57344 into D Register
 @32767
 D=A
