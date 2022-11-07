@@ -4,17 +4,31 @@ const util = require("util");
 const path = require("path");
 const rgbLigthness = require("./rgb_lightness");
 const { wrapper } = require("./utils");
+const compile = require("./code");
 const asyncPixels = util.promisify(getPixels);
 
 async function main() {
-	let filepath = path.join(__dirname, "./pics/car.png");
+	// Get Image Meta Data
+	let args = process.argv;
+	if (!args[2]) throw "Path not passed in";
+	let filepath = path.join(__dirname, args[2]);
 	let { filename, extension } = getImageTypeAndName(filepath);
+	filename = args[3] || filename;
+
+	// Process Image Data
 	let pixels = await asyncPixels(filepath);
+	let width = pixels.shape[0];
+	let height = pixels.shape[1];
+	if (width !== 512 || height !== 256)
+		throw `Size not right, the size of the picture is ${width}x${height}`;
 	let pixelsInWhiteAndBlack = getPixelValuesPNG(pixels.data);
 	let pixelRegisterValues = get16bitPixelValues(pixelsInWhiteAndBlack);
 	let addressPixelValueMap = createPixelValueMap(pixelRegisterValues);
-	let code = getCode(addressPixelValueMap, filename);
+
+	// Output pixels
+	let code = compile(addressPixelValueMap, filename);
 	fs.writeFileSync("output.txt", code);
+	console.log("Written your assembly picture to ./output.txt");
 }
 let safeMain = wrapper(main, (e) => { console.log(e); });
 safeMain();
@@ -29,6 +43,7 @@ function getImageTypeAndName(filepath) {
 	let [_, filename, extension] = matches;
 	extension = extension.toLowerCase();
 
+	// TODO: implement jpegs
 	// if (!["png", "jpeg"].includes(extension)) throw "Neither a png nor a jpeg file!"
 	if (!["png"].includes(extension)) throw "Not a png file!";
 
@@ -49,7 +64,7 @@ function getPixelValuesPNG(pixelData) {
 
 		let lightness = rgbLigthness(red, green, blue);
 		// TODO: maybe find average lightness and use this as means to set boundaries
-		// let pixelValue = lightness > 20 && lightness < 60 ? 1 : 0;
+		// let pixelValue = lightness > 60 ? 1 : 0;
 		let pixelValue = lightness > 50 ? 0 : 1;
 		pixelsInWhiteAndBlack.push(pixelValue);
 	}
@@ -87,32 +102,71 @@ function get16bitPixelValues(pixels) {
 	return values;
 }
 
-function getCode(registerPixelMap, imageName) {
-	let code = `# Output ${imageName} to the screen\n`;
-	for (let pixelValue in registerPixelMap) {
-		// load pixel Value into D register
-		code += `# Load ${pixelValue} into D\n`;
-		let splitNumbers = splitNumberIntoSmallerOnes(parseInt(pixelValue));
-		splitNumbers.forEach((num, i) => {
-			// optimizations:
-			if (i >= 1 && num === splitNumbers[i - 1])
-				return code += "D=D+A\n";
-			if (i >= 1 && num === 1)
-				return code += "D=D+1\n";
-
-			code += `A=0x${(num).toString(16)}\n`;
-			code += i === 0 ? "D=A\n" : "D=D+A\n";
-		});
-
-		// save value of D register into addresses
-		registerPixelMap[pixelValue].forEach(register => {
-			let hex_addr = `0x${register.toString(16)}`;
-			code += `# Set ${hex_addr} to ${pixelValue}\n`;
-			code += `A=${hex_addr}\n` + `*A=D\n`;
-		})
+class Code {
+	static FILE_DESCRIPTION(name) {
+		return `# Output ${name} to the screen\n`;
 	}
-	return code;
+	static SPLIT_NUMBER(number) {
+		// break Numbers bigger than 0x7fff/32767
+		// into smaller numbers, which can be loaded
+		// into the A register (number range is decreased because of op-code-bit)
+		// thus you can only input numbers up to 0x7fff
+		let currentValue = number;
+		let addUpToValue = [];
+		while (currentValue > 32767) {
+			currentValue -= 32767;
+			addUpToValue.push(32767);
+		}
+		addUpToValue.push(currentValue);
+		return addUpToValue;
+	}
+	static LOAD_D_DESCRIPTION(pixelValue) {
+		return `# Load ${pixelValue} into D Register\n`;
+	}
+	static LOAD_D_REGISTER(numbers) {
+		let loadDRegister = "";
+		numbers.forEach((num, i) => {
+			// optimizations:
+			if (i >= 1 && num === numbers[i - 1])
+				return loadDRegister += "D=D+A\n";
+			if (i >= 1 && num === 1)
+				return loadDRegister += "D=D+1\n";
+
+			loadDRegister += `A=0x${(num).toString(16)}\n`;
+			loadDRegister += i === 0 ? "D=A\n" : "D=D+A\n";
+		});
+		return loadDRegister;
+	}
+	static HEX_ADDRESS(num) {
+		return `0x${num.toString(16)}`;
+	}
+	static LOAD_ADDRESS_DESCRIPTION(hexAddress, register) {
+		return `# Set ${hexAddress} to ${register}\n`;
+	}
+	static LOAD_D_INTO_ADDRESS(hexAddress) {
+		return `A=${hexAddress}\n*A=D\n`;
+	}
+	static compile(registerPixelMap, imageName) {
+		let code = Code.FILE_DESCRIPTION(imageName);
+		for (let pixelValue in registerPixelMap) {
+			// load pixel Value into D register
+			let pixels = parseInt(pixelValue);
+			code += Code.LOAD_D_DESCRIPTION(pixels);
+			let numbersArr = Code.SPLIT_NUMBER(pixels);
+			code += Code.LOAD_D_REGISTER(numbersArr);
+
+			// save value of D register into ram registers
+			registerPixelMap[pixelValue].forEach(register => {
+				let hex_addr = Code.HEX_ADDRESS(register);
+				code += Code.LOAD_ADDRESS_DESCRIPTION(hex_addr, pixelValue);
+				code += Code.LOAD_D_INTO_ADDRESS(hex_addr);
+			})
+		}
+		return code;
+	}
 }
+
+
 
 function splitNumberIntoSmallerOnes(number) {
 	// break Numbers bigger than 0x7fff/32767
