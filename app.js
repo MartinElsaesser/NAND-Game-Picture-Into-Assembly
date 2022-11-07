@@ -3,17 +3,37 @@ const fs = require("fs");
 const util = require("util");
 const path = require("path");
 const rgbLigthness = require("./rgb_lightness");
-
+const { wrapper } = require("./utils");
 const asyncPixels = util.promisify(getPixels);
 
-!async function main() {
-	let pixels = await asyncPixels(path.join(__dirname, "./pics/g_wagon.png"));
+async function main() {
+	let filepath = path.join(__dirname, "./pics/car.png");
+	let { filename, extension } = getImageTypeAndName(filepath);
+	let pixels = await asyncPixels(filepath);
 	let pixelsInWhiteAndBlack = getPixelValuesPNG(pixels.data);
 	let pixelRegisterValues = get16bitPixelValues(pixelsInWhiteAndBlack);
 	let addressPixelValueMap = createPixelValueMap(pixelRegisterValues);
-	let code = getCode(addressPixelValueMap);
+	let code = getCode(addressPixelValueMap, filename);
 	fs.writeFileSync("output.txt", code);
-}();
+}
+let safeMain = wrapper(main, (e) => { console.log(e); });
+safeMain();
+
+function getImageTypeAndName(filepath) {
+	if (!fs.existsSync(filepath)) throw "File does not exist!";
+
+	let regex = /([^\\\/.]*)\.(\w*)$/;
+	let matches = filepath.match(regex);
+	if (!matches) throw "Not a valid file!";
+
+	let [_, filename, extension] = matches;
+	extension = extension.toLowerCase();
+
+	// if (!["png", "jpeg"].includes(extension)) throw "Neither a png nor a jpeg file!"
+	if (!["png"].includes(extension)) throw "Not a png file!";
+
+	return { filename, extension };
+}
 
 function getPixelValuesPNG(pixelData) {
 	// returns Array of integers
@@ -30,7 +50,7 @@ function getPixelValuesPNG(pixelData) {
 		let lightness = rgbLigthness(red, green, blue);
 		// TODO: maybe find average lightness and use this as means to set boundaries
 		// let pixelValue = lightness > 20 && lightness < 60 ? 1 : 0;
-		let pixelValue = lightness > 50 ? 1 : 0;
+		let pixelValue = lightness > 50 ? 0 : 1;
 		pixelsInWhiteAndBlack.push(pixelValue);
 	}
 	return pixelsInWhiteAndBlack;
@@ -67,8 +87,8 @@ function get16bitPixelValues(pixels) {
 	return values;
 }
 
-function getCode(registerPixelMap) {
-	let code = "";
+function getCode(registerPixelMap, imageName) {
+	let code = `# Output ${imageName} to the screen\n`;
 	for (let pixelValue in registerPixelMap) {
 		// load pixel Value into D register
 		code += `# Load ${pixelValue} into D\n`;
@@ -87,7 +107,7 @@ function getCode(registerPixelMap) {
 		// save value of D register into addresses
 		registerPixelMap[pixelValue].forEach(register => {
 			let hex_addr = `0x${register.toString(16)}`;
-			// code += `# Set ${hex_addr} to ${pixelValue}\n`;
+			code += `# Set ${hex_addr} to ${pixelValue}\n`;
 			code += `A=${hex_addr}\n` + `*A=D\n`;
 		})
 	}
