@@ -1,3 +1,24 @@
+class Config {
+	constructor(invertBits, builder, screenStartingAddress, biggestPossibleNum, format) {
+		this.invertBits = invertBits;
+		this.builder = builder;
+		this.screenStartingAddress = screenStartingAddress;
+		this.biggestPossibleNum = biggestPossibleNum;
+		this.format = format;
+	}
+}
+
+class Nand_2_Tetris_Config extends Config {
+	constructor() {
+		super(false, Nand_2_Tetris_Builder, 16384, 32767, "asm");
+	}
+}
+class Nand_Game_Config extends Config {
+	constructor() {
+		super(true, Nand_Game_Builder, 16384, 32767, "txt");
+	}
+}
+
 class Machine_Code_Builder {
 	code = "";
 	comment(string) {
@@ -14,51 +35,51 @@ class Machine_Code_Builder {
 	}
 }
 
-module.exports
-	.Nand_Game_Builder = class Nand_Game_Builder extends Machine_Code_Builder {
-		code = "";
-		comment(string) {
-			this.code += `# ${string}\n`;
-		}
-		D$D_plus_A() {
-			this.code += "D=D+A\n";
-		}
-		D$D_plus_1() {
-			this.code += "D=D+1\n";
-		}
-		D$A() {
-			this.code += "D=A\n";
-		}
-		M$D() {
-			this.code += "*A=D\n";
-		}
-		A$(hex_num) {
-			this.code += `A=${hex_num}\n`;
-		}
+class Nand_Game_Builder extends Machine_Code_Builder {
+	code = "";
+	comment(string) {
+		this.code += `# ${string}\n`;
 	}
-module.exports
-	.Nand_2_Tetris_Builder = class Nand_2_Tetris_Builder extends Machine_Code_Builder {
-		code = "";
-		comment(string) {
-			this.code += `// ${string}\n`;
-		}
-		D$D_plus_A() {
-			this.code += "D=D+A\n";
-		}
-		D$D_plus_1() {
-			this.code += "D=D+1\n";
-		}
-		D$A() {
-			this.code += "D=A\n";
-		}
-		M$D() {
-			this.code += "M=D\n";
-		}
-		A$(num) {
-			if (!isNumber(num)) throw "Only takes in numbers";
-			this.code += `@${num}\n`;
-		}
+	D$D_plus_A() {
+		this.code += "D=D+A\n";
 	}
+	D$D_plus_1() {
+		this.code += "D=D+1\n";
+	}
+	D$A() {
+		this.code += "D=A\n";
+	}
+	M$D() {
+		this.code += "*A=D\n";
+	}
+	A$(num) {
+		if (!isNumber(num)) throw "Only takes in numbers";
+		this.code += `A=${num}\n`;
+	}
+}
+
+class Nand_2_Tetris_Builder extends Machine_Code_Builder {
+	code = "";
+	comment(string) {
+		this.code += `// ${string}\n`;
+	}
+	D$D_plus_A() {
+		this.code += "D=D+A\n";
+	}
+	D$D_plus_1() {
+		this.code += "D=D+1\n";
+	}
+	D$A() {
+		this.code += "D=A\n";
+	}
+	M$D() {
+		this.code += "M=D\n";
+	}
+	A$(num) {
+		if (!isNumber(num)) throw "Only takes in numbers";
+		this.code += `@${num}\n`;
+	}
+}
 
 function spiltNumber(number, biggestPossibleNum) {
 	// break Numbers bigger than 0x7fff/32767
@@ -81,12 +102,7 @@ function isNumber(n) {
 	return !isNaN(parseFloat(n)) && !isNaN(n - 0);
 }
 
-
-function toHex(num) {
-	return `0x${num.toString(16)}`;
-}
-
-module.exports.compile = function compile(builder, regPixMap, imageName, biggestPossibleNum) {
+function compile(builder, regPixMap, imageName, biggestPossibleNum) {
 	// let builder = new Nand_2_Tetris_Builder();
 	if (!builder instanceof Machine_Code_Builder) throw "Pass in a valid builder";
 	builder.comment(`Output ${imageName} to the screen`);
@@ -118,8 +134,7 @@ module.exports.compile = function compile(builder, regPixMap, imageName, biggest
 
 		// save value of D register into ram registers
 		for (const register of regPixMap.getRegisters(pixels)) {
-			let hex_addr = toHex(register);
-			builder.comment(`Set ${hex_addr} to ${register}`);
+			builder.comment(`Set ${register} to ${pixels}`);
 			builder.A$(register);
 			builder.M$D();
 		}
@@ -130,3 +145,9 @@ module.exports.compile = function compile(builder, regPixMap, imageName, biggest
 
 	return builder.code;
 }
+
+module.exports = {
+	compile,
+	Nand_2_Tetris_Config,
+	Nand_Game_Config
+};

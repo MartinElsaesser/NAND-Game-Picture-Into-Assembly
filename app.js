@@ -6,24 +6,8 @@ const path = require("path");
 const PixelMap = require("./PixelMap");
 const rgbaLightness = require("./rgba_lightness");
 const { wrapper, getImageTypeAndName } = require("./utils");
-const { compile, Nand_2_Tetris_Builder, Nand_Game_Builder } = require("./compile");
+const { compile, Nand_Game_Config, Nand_2_Tetris_Config } = require("./compile");
 const asyncPixels = util.promisify(getPixels);
-
-let nand2Tetris_config = {
-	invertBits: false,
-	builder: Nand_2_Tetris_Builder,
-	screenStartingAddress: 16384,
-	biggestPossibleNum: 32767,
-	format: "asm"
-}
-
-let nandGame_config = {
-	invertBits: true,
-	builder: Nand_Game_Builder,
-	screenStartingAddress: 16384,
-	biggestPossibleNum: 32767,
-	format: "txt"
-}
 
 async function main() {
 	// Get Image Meta Data
@@ -41,10 +25,10 @@ async function main() {
 	}
 
 
-	let config = {};
+	let config
 	let platform = "nand2tetris"; // nandgame | nand2tetris
-	if (platform === "nandgame") config = nandGame_config;
-	if (platform === "nand2tetris") config = nand2Tetris_config;
+	if (platform === "nandgame") config = new Nand_Game_Config();
+	if (platform === "nand2tetris") config = new Nand_2_Tetris_Config();
 
 	// Get Image Data
 	let pixels = await asyncPixels(filepath);
@@ -81,6 +65,7 @@ function getPixelValues(pixelData, lowerBound, upperBound, invertPixels) {
 		let blue = pixelData[i + 2];
 		let alpha = pixelData[i + 3];
 
+		// TODO: transparency counts as black pixel, but should be white
 		let lightness = rgbaLightness(red, green, blue, alpha);
 		// TODO: maybe find average lightness and use this as means to set boundaries
 		let turnPixelOn = lightness >= lowerBound && lightness <= upperBound;
