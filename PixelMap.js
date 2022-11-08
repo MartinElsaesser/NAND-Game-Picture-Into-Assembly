@@ -1,8 +1,7 @@
 module.exports = class PixelMap {
 	pixels = [];
 	map = {};
-	constructor(pixelRegisterValues) {
-		let startingAddress = 16384;
+	constructor(pixelRegisterValues, startingAddress) {
 		pixelRegisterValues.forEach((pixels, i) => {
 			if (pixels === 0) return;
 			this._add(startingAddress + i, pixels);

@@ -55,30 +55,38 @@ module.exports
 			this.code += "M=D\n";
 		}
 		A$(num) {
+			if (!isNumber(num)) throw "Only takes in numbers";
 			this.code += `@${num}\n`;
 		}
 	}
 
-function spiltNumber(number) {
+function spiltNumber(number, biggestPossibleNum) {
 	// break Numbers bigger than 0x7fff/32767
 	// into smaller numbers, which can be loaded
 	// into the A register (number range is decreased because of op-code-bit)
 	// thus you can only input numbers up to 0x7fff
+	if (!(isNumber(number) && isNumber(biggestPossibleNum)))
+		throw "Only takes in numbers";
 	let currentValue = number;
 	let addUpToValue = [];
-	while (currentValue > 32767) {
-		currentValue -= 32767;
-		addUpToValue.push(32767);
+	while (currentValue > biggestPossibleNum) {
+		currentValue -= biggestPossibleNum;
+		addUpToValue.push(biggestPossibleNum);
 	}
 	addUpToValue.push(currentValue);
 	return addUpToValue;
 }
 
+function isNumber(n) {
+	return !isNaN(parseFloat(n)) && !isNaN(n - 0);
+}
+
+
 function toHex(num) {
 	return `0x${num.toString(16)}`;
 }
 
-module.exports.compile = function compile(builder, regPixMap, imageName) {
+module.exports.compile = function compile(builder, regPixMap, imageName, biggestPossibleNum) {
 	// let builder = new Nand_2_Tetris_Builder();
 	if (!builder instanceof Machine_Code_Builder) throw "Pass in a valid builder";
 	builder.comment(`Output ${imageName} to the screen`);
@@ -86,7 +94,7 @@ module.exports.compile = function compile(builder, regPixMap, imageName) {
 
 	for (const pixels of regPixMap.pixels) {
 		builder.comment(`Load ${pixels} into D Register`);
-		let numbersArr = spiltNumber(pixels);
+		let numbersArr = spiltNumber(pixels, biggestPossibleNum);
 
 
 		// load pixel Value into D register

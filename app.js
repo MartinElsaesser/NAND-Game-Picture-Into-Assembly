@@ -4,7 +4,7 @@ const util = require("util");
 const path = require("path");
 
 const PixelMap = require("./PixelMap");
-const rgbaLigthness = require("./rgba_lightness");
+const rgbaLightness = require("./rgba_lightness");
 const { wrapper, getImageTypeAndName } = require("./utils");
 const { compile, Nand_2_Tetris_Builder, Nand_Game_Builder } = require("./compile");
 const asyncPixels = util.promisify(getPixels);
@@ -12,12 +12,16 @@ const asyncPixels = util.promisify(getPixels);
 let nand2Tetris_config = {
 	invertBits: false,
 	builder: Nand_2_Tetris_Builder,
+	screenStartingAddress: 16384,
+	biggestPossibleNum: 32767,
 	format: "asm"
 }
 
 let nandGame_config = {
 	invertBits: true,
 	builder: Nand_Game_Builder,
+	screenStartingAddress: 16384,
+	biggestPossibleNum: 32767,
 	format: "txt"
 }
 
@@ -52,20 +56,20 @@ async function main() {
 		throw `Size not right, the size of the picture is ${width}x${height}`;
 
 	// Process Image Data
-	let pixelsInWhiteAndBlack = getPixelValues(pixels.data);
+	let pixelsInWhiteAndBlack = getPixelValues(pixels.data, 0, 50, false);
 	let pixels16Bit = get16bitPixels(pixelsInWhiteAndBlack, config.invertBits);
-	let addressPixelValueMap = new PixelMap(pixels16Bit);
+	let addressPixelValueMap = new PixelMap(pixels16Bit, config.screenStartingAddress);
 
 	// Output pixels
 	let builder = new config.builder();
-	let code = compile(builder, addressPixelValueMap, filename);
+	let code = compile(builder, addressPixelValueMap, filename, config.biggestPossibleNum);
 	fs.writeFileSync(`${filename}.${config.format}`, code);
 	console.log(`Written your assembly picture to ./${filename}.${config.format}`);
 }
 let safeMain = wrapper(main, (e) => { console.log(e); });
 safeMain();
 
-function getPixelValues(pixelData) {
+function getPixelValues(pixelData, lowerBound, upperBound, invertPixels) {
 	// returns Array of integers
 	// with each entry representing one pixel on a screen
 	// 1 meaning the pixel being on, 0 the pixel being off
@@ -77,10 +81,12 @@ function getPixelValues(pixelData) {
 		let blue = pixelData[i + 2];
 		let alpha = pixelData[i + 3];
 
-		let lightness = rgbaLigthness(red, green, blue, alpha);
+		let lightness = rgbaLightness(red, green, blue, alpha);
 		// TODO: maybe find average lightness and use this as means to set boundaries
-		let pixelValue = lightness > 40 ? 0 : 1;
-		// let pixelValue = lightness > 10 && lightness < 60 ? 1 : 0;
+		let turnPixelOn = lightness >= lowerBound && lightness <= upperBound;
+		let onPixel = invertPixels ? 0 : 1;
+		let offPixel = invertPixels ? 1 : 0;
+		let pixelValue = turnPixelOn ? onPixel : offPixel;
 		pixelsInWhiteAndBlack.push(pixelValue);
 	}
 	return pixelsInWhiteAndBlack;
