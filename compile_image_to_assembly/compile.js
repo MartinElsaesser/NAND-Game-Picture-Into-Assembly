@@ -107,11 +107,9 @@ function compile(builder, regPixMap, imageName, biggestPossibleNum) {
 	if (!builder instanceof Machine_Code_Builder) throw "Pass in a valid builder";
 	builder.comment(`Output ${imageName} to the screen`);
 
-
 	for (const pixels of regPixMap.pixels) {
 		builder.comment(`Load ${pixels} into D Register`);
 		let numbersArr = spiltNumber(pixels, biggestPossibleNum);
-
 
 		// load pixel Value into D register
 		for (let i = 0; i < numbersArr.length; i++) {
@@ -131,7 +129,6 @@ function compile(builder, regPixMap, imageName, biggestPossibleNum) {
 			else builder.D$D_plus_A();
 		}
 
-
 		// save value of D register into ram registers
 		for (const register of regPixMap.getRegisters(pixels)) {
 			builder.comment(`Set ${register} to ${pixels}`);
@@ -139,9 +136,7 @@ function compile(builder, regPixMap, imageName, biggestPossibleNum) {
 			builder.M$D();
 		}
 
-
 	}
-
 
 	return builder.code;
 }
