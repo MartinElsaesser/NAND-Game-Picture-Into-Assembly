@@ -9,6 +9,7 @@ function sRGBtoLin(colorChannel) {
 		return Math.pow(((colorChannel + 0.055) / 1.055), 2.4);
 	}
 }
+
 function YtoLstar(Y) {
 	// Send this function a luminance value between 0.0 and 1.0,
 	// and it returns L* which is "perceptual lightness"
@@ -19,11 +20,21 @@ function YtoLstar(Y) {
 		return Math.pow(Y, (1 / 3)) * 116 - 16;
 	}
 }
+
 module.exports = function (red, green, blue, alpha) {
 	alpha = alpha / 255;
-	red = red / 255 * alpha;
-	green = green / 255 * alpha;
-	blue = blue / 255 * alpha;
+	red = red / 255;
+	green = green / 255;
+	blue = blue / 255;
+
+	// alpha 1: opaque
+	// alpha 0: transparent
+
+	// convert rgba to rgb
+	// https://stackoverflow.com/questions/2049230/convert-rgba-color-to-rgb#answer-2049362
+	red = ((1 - alpha) * 1) + (alpha * red)
+	green = ((1 - alpha) * 1) + (alpha * green)
+	blue = ((1 - alpha) * 1) + (alpha * blue)
 
 	let luminance = (
 		0.2126 * sRGBtoLin(red)
@@ -32,3 +43,4 @@ module.exports = function (red, green, blue, alpha) {
 	);
 	return YtoLstar(luminance);
 }
+

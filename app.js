@@ -5,7 +5,15 @@ const { getImageTypeAndName, wrapper } = require("./utils");
 const { compile_image_to_assembly, Nand_2_Tetris_Config, Nand_Game_Config } = require("./compile_image_to_assembly");
 
 function printHelp() {
-	console.log("Help");
+	console.log("How to use:\n");
+	console.log("node app.js <filepath> -p <platform> (-n <name>)\n");
+	console.log("\t<filepath>: path to png, jpg or jpeg file");
+	console.log("\t<platform>: Either nandgame, or nand2tetris, to compile for respective platform");
+	console.log("\t<name>: Change name of Output file. For filename with spaces use '<name>'\n");
+	console.log("Examples:");
+	console.log("\tnode app.js ./images/car.png -p nand2tetris");
+	console.log("\tnode app.js ./images/car.png -p nandgame -n 'Fast car'");
+	console.log("\tnode app.js ./images/car.png -p nandgame -n Ferrari");
 }
 
 async function main() {
@@ -30,10 +38,9 @@ async function main() {
 	}
 
 	let config;
-	console.log(platform);
 	if (platform === "nandgame") config = new Nand_Game_Config();
 	else if (platform === "nand2tetris") config = new Nand_2_Tetris_Config();
-	else throw "Enter a valid platform";
+	else throw "Enter a valid platform (nandgame|nand2tetris)";
 
 	let code = await compile_image_to_assembly(config, filepath, filename);
 
@@ -41,5 +48,8 @@ async function main() {
 	console.log(`Written your assembly picture to ./${filename}.${config.format}`);
 }
 
-let safeMain = wrapper(main, (e) => { console.log(e); });
+let safeMain = wrapper(main, (e) => {
+	console.log(e);
+	console.log("Have a look at the help with: node app.js -h");
+});
 safeMain();

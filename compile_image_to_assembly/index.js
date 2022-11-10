@@ -18,7 +18,7 @@ async function compile_image_to_assembly(config, filepath, filename) {
 		throw `Size not right, the size of the picture is ${width}x${height}`;
 
 	// Process Image Data
-	let pixelsInWhiteAndBlack = getPixelValues(pixels.data, 0, 50, false);
+	let pixelsInWhiteAndBlack = getPixelValues(pixels.data, 0, 60, false);
 	let pixels16Bit = get16bitPixels(pixelsInWhiteAndBlack, config.invertBits);
 	let addressPixelValueMap = new PixelMap(pixels16Bit, config.screenStartingAddress);
 
@@ -39,7 +39,6 @@ function getPixelValues(pixelData, lowerBound, upperBound, invertPixels) {
 		let blue = pixelData[i + 2];
 		let alpha = pixelData[i + 3];
 
-		// TODO: transparency counts as black pixel, but should be white
 		let lightness = rgbaLightness(red, green, blue, alpha);
 		// TODO: maybe find average lightness and use this as means to set boundaries
 		let turnPixelOn = lightness >= lowerBound && lightness <= upperBound;
